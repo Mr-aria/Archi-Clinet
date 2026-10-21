@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-21T16:10:38.081Z",
-  "count": 207,
+  "updated": "2026-10-21T16:22:00.166Z",
+  "count": 208,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=vwolf.yasin0x1.ir&port=443&secret=ee3cd17201f214117c5e9406f27736c4e9636c6f7564666c6172652e636f6d",
+      "name": "ShadowWolfVpn",
+      "source": "ShadowWolfVpn",
+      "date": "2026-10-21T16:21:52.537Z"
+    },
     {
       "url": "https://t.me/proxy?server=mangoseason8.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "iRoProxy",
