@@ -4,8 +4,10 @@
     "mmd_adm": 28589,
     "free_vpn02": 5095,
     "freakconfig": 10212,
-    "outline_vpn": 11819
+    "outline_vpn": 11819,
+    "iut_ChatrBazaan": 0,
+    "ProxyMTProto": 52347
   },
   "totalCollected": 946,
-  "totalProxies": 88
+  "totalProxies": 198
 }
