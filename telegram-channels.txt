@@ -6,3 +6,4 @@ outline_vpn
 iut_ChatrBazaan
 ProxyMTProto
 khabari_18
+JozveDaneshgahi_ir
