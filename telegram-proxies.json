@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-21T16:00:53.859Z",
-  "count": 198,
+  "updated": "2026-10-21T16:04:14.727Z",
+  "count": 199,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=napoli.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "khabari_18",
+      "source": "khabari_18",
+      "date": "2026-10-21T16:03:54.916Z"
+    },
     {
       "url": "https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
