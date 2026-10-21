@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-21T15:06:48.789Z",
-  "count": 946,
+  "updated": "2026-10-21T16:21:55.729Z",
+  "count": 951,
   "configs": [
+    {
+      "url": "vless://065d23e5-7151-46b2-b010-76300cdf0997@104.253.74.186:2089?security=reality&encryption=none&pbk=EgU08aKdsWX7VkDnLhVjKfasViLjpBH_367vxFu5d1M&headerType=none&fp=chrome&type=tcp&sni=www.sony.com#%F0%9F%87%AB%F0%9F%87%B7%20Shadow%20%28WMvFrt%29%20%5Btcp%5D",
+      "name": "ShadowWolfVpn",
+      "source": "ShadowWolfVpn",
+      "date": "2026-10-21T16:21:52.537Z"
+    },
+    {
+      "url": "vless://065d23e5-7151-46b2-b010-76300cdf0997@104.253.74.186:2087?security=reality&type=tcp&headerType=&path=&host=&sni=play.google.com&fp=chrome&pbk=EgU08aKdsWX7VkDnLhVjKfasViLjpBH_367vxFu5d1M&sid=#%F0%9F%87%AB%F0%9F%87%B7%20Shadow%20%28WMvFrt%29%20%5Btcp%5D",
+      "name": "ShadowWolfVpn",
+      "source": "ShadowWolfVpn",
+      "date": "2026-10-21T16:21:52.537Z"
+    },
+    {
+      "url": "trojan://TECHNOSOFT@188.114.97.3:443?path=%2Ftr%2FXEJ850BuyvC6lzG8juvsqa%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=i5u108k29n0igpgt5cdoc6plht.benysmin82.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=I5U108k29n0IgpGt5Cdoc6plHT.benysMiN82.workErS.dEv#Technosoft",
+      "name": "ShadowWolfVpn",
+      "source": "ShadowWolfVpn",
+      "date": "2026-10-21T16:21:52.537Z"
+    },
+    {
+      "url": "vless://90c8673d-416b-4ea8-b75c-5cc2db2308b0@leoxdev.bond:200?security=reality&pqv=UNg17R_RxvmapT0A97IderX_-cVKp7OqX0DWy0u3CElE4R8JrgV3ntI2NqtBrGy5n0jhsJyZ9oClIYZ2ep7brFYliWZ2OP-Ac0bm7F1i6xdHRuu6xJjKK8lsxouY6fo2idkzPaAcQD-IsOqIrFKCdqUaZaks2rlGjeibjX-Se5kkSV_mvhmFWlP9yvVN_tYGJA63ERMoVZrYFrX-WAR_CcsiJdty73o6N0JtqLTXAFYP44YkH7X53fFKfX66IqvAjdbONxjvSRpteuPwTjt8FPj0yoT9EPQgvWs248nPRtdGrqACoBtwc17JjEFS6Y6xqHoXhGDCeiiF9yQSpbgavtLAkDxMQGNx0GWx7iSgsWaszeryA-U9qqaUAeuZUo3L_sDsxwnIa2hjjZ-SuVRIO_7CPKyvBkZ6Vxsh2Vl7iwJKeFwYzp-agVb5mRnIXNFT4YEUxgV2C8hnhcYTKoqmO15J4lxpIDexS6N7qQQbgS-2cg4LNJm6y_d9tn2GvcgaxNhbQGcnl_85XEE1BXEupp9nl3RdVqx2N6A1dOmcZlIJ3oNE-T0_krc6D0bw7aGbetpJjxWh2m904vp_Z_KhWmIpu3gelfVl3SggQhgOTdVL3r_F1jR1c9xhqM8e40uQ1EpFo0mtBhkJA16x2FmYtEwktTUuVrHyV3MVjAGHAQDONQFvJBBstFAXyADharycDaBfSTEV3Ng3aasMsURts6He0KoVhR2KNu2WtXU6zd61AHyZEWl_lcDuOiJ-EeIIqTwI4ChBWfi69D-mjDpYcWgseVcDmsJL0LbEVxrr8vbOKnHMvH1IHJk7wskjxHQ3OnQIWjDw3hrRa-s8zGk9QdsR-H26zP0oHfcKbt6HgTBGMohMiH-r8EU1K5d04KOhdtwOULlvDmWBcV_K7iocO5DXKnIGboF5L6QQirBHFWKb5rXnqIzJX4k8j7YRe78zzEMS1MqMO0ne3aNuIXv_6uollmek5247Oy4EdIMgMCzcytuZrXShilmAgGIDWp889XQ7iI5TqMIk7rxtA1y3oUqRDBDYRczPzhp6w2U54qsbGzROllr8C8lcYbV65AOgSgM2ACNxbMfuj7QDMsKVWhgtuJ5wCkyvKFiO7naACVINEFwMFSomm5sA6vJ7R4ehgBueI3lv4v3ATR417pFUk3TCk5ib1pmxmbv23Et8vwIOSdMHwDk0qooFIwzvqkfFIYeNk9Mbc9m3CtzhPOFs-rgoF9xNuY67YIaFTMo6zGpLKf1yK3F4-F0ZU-ksvMY3TOwHJGg3_1yplZUtGltZf7EELuhC_hwtmLKoEyUZ9Y-GhzFEFsgcaarGS6yBdA4PGU-H0GvElNmGtiGql5M_iPO2FR2eZGC_wsPPfzB8zk9LQhm62VGLyLz7CT5dcx9SHFVlAUhrh-86li6Dzho9aljilOcLDHRt5vFBfJqCPK6URMsJv3YVX-TRpz8RuO5ritH8jYfI9c9SvCezceuWJtE-XrliUMubMbypA2z-mlS5bvXTDM-Y9_k4ChLNav7Hvyc_K1nq3BZ36EiH6OW5s9ZKGqBCm2epFNAj-gwveOJzsSll-ELKTGC5kSiryv6SttDOnc14MFjHFVMIe1PXWIXpSnzffd3LdlFRsLL1Yb12rbjxMuhf9LzUvzLIIIPC1hzymzc8LQ5G44Cjc1MhHzsSr_Qj6-Z0OXGLmKCpVzUNoq6-lYzWhCIwV9Gj7RQPomfbhtQqPu9iR90udyUhPLNhfg_zezpw8rtCO2k8A7EiivjrL3ES76uMNqYM__AL2TTelRN0GLrSXPCwpTBKmdBYOFbWGS3PRcrMCLaHbvhu1nUVWJuj7JObzn8hMIofqZdFulrTzlYqYO7c_T5OUJH1pfgXwyLpE8-c3-AGU_IvKFmGurKAd78D6Px1gq1HwFGEkmFAerj42l3KDI09c_Txh4dWBN0ZamvMt_Z_SrL1oy9AvhsuEWXVgjegKRhK3YpDZnsbOex_gp6jmrTl6k4Lzk5h4SDm96yz5EQUPqJ9F0ngEJjXLL6JMzV2rOvdNhQFkZERmfkuoFHRNuPwRuiQBqJvnJ7WkNqfCREKOiCM9xG_bxIjWqpiOLwbVxv4udwG4qXfdEEklBGnumVOfoBVFJlyRa9Pqr-R0z3EahEX1BM9J0CqNIx1Sjig9t7V1g62AO5n1hFqw_Eny-JhrboW8UxP8RKSD8NjouSF6gtL0VvRt-eUYQOBbCX8MIO9Z365urMjGIP8dMEXkCqkaoRdPu9ONmZgT0XrF8O_06PMtZNRJc0ag2xziW94a4d3jPt_O4RGIqrGdsM09Sr6ayG-n6okUogI8Zf-yoM132gFffrtmREI5PceL-5YVu_UQhYONPjVMG89Vt6s6ZK6VkIr9OMwO1Tab7ZJgrmJN6P1KrfmBcusYMOMrU3qViuTsLg_DzPbFaU0y8e7naAIR2puulMirNxFn-4TzlyrOmSuCPiZncExmy_F4vGWd0Tzstr7AbC9L7iKEYn3EMfaeQZ9Etd3KWowikgqIdRSxoukH7UzPlyhcc-iqyyVL9FDP3waClpPrwjoyYrpqiyYgSUu-GEI25iA6FXxd75Eoiw&encryption=none&authority=leoxdev.bond%3A200&pbk=Zfo6SbX6AG5kMsyIFLALm9H_fxTp9V_QVRHTz-bOego&fp=chrome&spx=%2F22a4a732818e60e&type=grpc&serviceName=M&sni=play.google.com&sid=1717cca146#Ytvision",
+      "name": "ShadowWolfVpn",
+      "source": "ShadowWolfVpn",
+      "date": "2026-10-21T16:21:52.537Z"
+    },
+    {
+      "url": "vless://6bf6ea46-6be2-44d9-902f-c79cdc578dfb@46.225.11.46:209?security=reality&pqv=EjumRIwU22cztcd9sSTicV0dPboSZAvDgcIfiK4umJM_vdNi08ibDyFXjwVCs9UGo1IY3nhbLrgDo_UnWVnDye1Z9jP4LJJwcNd0PMG82ybOQEdWAFwwxUQi3J26xIHQ6fkYbNBNUm4QTw7qWnMYDZ3a_Buv-byoSyWCLWNqHKBJIyU-ppIwjpBIiQ_W2n-f_oUZf2PEl5vr8fgH6z8nlK6WckXhzuxWFKwYQOyd37LB85B9suoJnx3zImqbdnwpA0PXGBsajlwN1neFZHKUTc4lDRUsx3asfYXdt4WP8W98i_29ZYxxgw6VIpHZXooknVtNsXx8UMwBbRClCofiH6i1LTpWxnPndxCOKytMbelQRCRDfiUcFr-ZR72UxwGvURwg-qqfTdP1EVvOgu-iAhBeVJLtfHV4A1fiIySxqpRk8vYEmCPcXM4ouUqqBBrs17Q9JYvrK6MKeSwxYTOQ-JivrRExKWDsl7H-34uJO5demDUhH1vRBPt3geUUkbakOxCuMOSmSqUf70U2plmRuA5pGh4aHo-ZXzCeGMY4dnp9xaStdwfnVZm7DI5eSmPUjFP0qkwcAooH0bnj1pgN-tS1UJZY9j1gAi5NkZu6MBq8KDjBW9VDuP9ITiM4c43cYtine8fk6qEoCpfy4y-igXVOf16twE2l6GHeqpQ3SH1R5oM_nbvmqOb_gM2oZULps9W1S6C0q1fFM9b9C0wyQBqjflJ1FVLFmpq15AtApEH3Jfj4x5BIXme8_wK9joVEQ1u0MWHfEScu489j1V6c42YyI-WfWFxZXwYGY2RpIM8bhF0af88-7Bz65BpXA2inbthaPG3PZQt9ZImP93kwqI1Xqk67XMrQ6wysXeeObczQSNfMVP_RYycFavxRtoHxFH2n1jXmSaAaxIMH2lJWrUmAy5VYMWqs7D6p-ZbLfij_oSQm_nGeh-rehL_Trt1wXgZ9Lk_tbP8cOpAo4dY8BIPhIjgJMf746ZCFB9lK3_0gPfsKvn9DITPGGf13aDZxuQRYZG-DjG9jjKVI5RFwkTtY3Nd22zA3xOiDoCsF84YWItCbUm9mlrcKYinkSpAt5dEtZqTc5fPcY_C95n1hAUQME8nmPKYOGgxlseXvdwLqOOyiQuCIupQ36WlNGRZgc7ts6y0pFeyqSD6RNffG-Rx2qyo62CsxsTgbT--4GwnT9AthXCg-9rXQBTXE-FoCNmMXU8EnVFcwO1ip3HhdXbgLKUX00XK5YVj1vtjRIZuyDAaadE1dhyVBBZP-64WQ3Ee0092cfDqgfG0PvIcOYD-Ds423Poh0v8TgMTz2lDX02PudNVDJMUWvnkdU_GQs7ygeaF6UcgXywIuaJSzdx4TPgsAGGFBmbm_F3zP1ILfu602W2maU9GDXrKI49z02ScAzUgPsB8WVH9gLIJamYMT0Xp_h7Vx3_eZSUvE42fdqCZ7EswVf9O4dyWfcxkQjNbUBXDCqS6yyzaNzuW7ZZ6tv2f3mSWceZtyBdEPXq1sYgeFaCpKt994JCcO0k6gm-BqORdRTQEes_iZBVYBHNwB8H7_qaYDEsSM5mSFrjgtcVusPHT3Vhzo9L1GcbzNnTgZZ0rkrxaHrZ7yvEGxPydRWaQC8wgz5jw567lxMa1UkbQ3cRy1PZE7VrtIXQgytSZBvs_JzBdFyLKegZ0zTGgnfK9qemhUT341YQS8qvIQhWWivhkRt6klxiK4GtlAMmMm5wPEhJUW_O1ezrnhTZPA3Xv29jfcqE9AN54f_G0mmnnWqtyykkLK6uecZHAmhjJ6MuB2ntuQKQOAAUjOqeBht5q0KE6aK9ZRVSVfpWA4vqGNqtP0FgfEpwPIGA-aNtLy1XcdNzJMYjT3pvD3U1lcCS7NvAlKUms3orp-nZLBBHtDb9A2zUPzjc-zJyvOADnlcL7A94JYWv94Upl8Dp72jBfBxm1rnB2yjxxN4ZJPBnB5mS0hoG0SMsHDFjGHUyOq59D0ZCHsmAYqx1EG2cD1jQx3ApHwgnAzQN0W0A501pUKfWg2f1V3rf3-7r-s3nxcu6NnxcJc2q-s0OrGf5i2bO_dhHqrr30xDjp8DJc9w3sl5rMRG1o6N_q0Xpn6cIWhAEdOyiXEFqwOeb16psAvF23k4K1BG5Yf_uuj0vHFH0thu_NPbtktGdIrl1fggYUIRrDOpg502D4rThLytIxuUt5R3YQEXyAYZR739by1Wl0PGTjmECWYwmF92OVOz5gnn7dp8fsjj_2K_rdSI5zCWYwqUsDsQRm7PGA__Aq4_LJBRzUMwUXs7-LFftqqfih3Xy6rv3U0t7qMdVhGBjZ5gBNv2-_FmJrQ2n_JWcgGLSPofKVc7fq7nZG4kbrBcYgHG5uKrwY2_A0Uj8dMB6xLYkJzfgv2igY8lqbdNOl_s3jdTNJniGsmbYDRsilcyoyiWxrmnVJuIyzEmn4t2NyJyQVt-t7iJbztEFqmQfsbapMbaYqir-8Omboxx-MlUXL73rKoMPvH3jG-_YNH0z1JeYTa3Hd0GHqRJd_nA124EX-K4HFZYBqe1X4hstPkgiP2W6AC4YIAJ_xBipwGX4Q6Bb3Ilf8wxzqWoxa0iVPc&encryption=none&pbk=4Q5c7xpGQa7AH591KSZQzfU7gFkBxCwMSL9LkgSat3w&headerType=none&fp=chrome&spx=%2F1532a4f463cec06&type=tcp&sni=aparat.com&sid=33#Ytvision2",
+      "name": "ShadowWolfVpn",
+      "source": "ShadowWolfVpn",
+      "date": "2026-10-21T16:21:52.537Z"
+    },
     {
       "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.144.30.86:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chita.vkusnews.com#%F0%9F%87%B7%F0%9F%87%BA%40FreakConfig",
       "name": "freakconfig",
