@@ -16,3 +16,4 @@ whitedns
 v2ryNG01
 Linuxor
 proxy_badss
+YamYamProxy
