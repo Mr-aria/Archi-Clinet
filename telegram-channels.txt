@@ -19,3 +19,4 @@ proxy_badss
 YamYamProxy
 MTP_roto
 MineProxy
+MyPoroxy
