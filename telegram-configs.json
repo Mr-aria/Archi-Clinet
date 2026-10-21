@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-20T19:23:42.150Z",
-  "count": 831,
+  "updated": "2026-10-21T08:47:22.687Z",
+  "count": 832,
   "configs": [
+    {
+      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-10-21T08:47:16.370Z"
+    },
     {
       "url": "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#YFZ%20110%20%40Outline_Vpn",
       "name": "outline_vpn",
