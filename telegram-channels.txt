@@ -14,3 +14,4 @@ hamclasixii
 iRoProxy
 whitedns
 v2ryNG01
+Linuxor
