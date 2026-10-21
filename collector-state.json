@@ -1,5 +1,11 @@
 {
-  "lastSeen": {},
-  "totalCollected": 0,
-  "totalProxies": 0
+  "lastSeen": {
+    "PewezaTech": 25725,
+    "mmd_adm": 28589,
+    "free_vpn02": 5095,
+    "freakconfig": 10210,
+    "outline_vpn": 11819
+  },
+  "totalCollected": 942,
+  "totalProxies": 88
 }
