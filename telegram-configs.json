@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-22T13:45:41.837Z",
+  "updated": "2026-10-22T14:03:18.938Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T14:03:11.152Z"
+    },
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T14:03:11.152Z"
+    },
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T14:03:11.152Z"
+    },
+    {
+      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?&security=tls&fp=qq&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T14:03:11.152Z"
+    },
+    {
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T14:03:11.152Z"
+    },
+    {
+      "url": "trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T14:03:11.152Z"
+    },
+    {
+      "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?security=reality&encryption=none&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=in1.vkusnews.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T14:03:11.152Z"
+    },
+    {
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T14:03:11.152Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T14:03:11.152Z"
+    },
     {
       "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#",
       "name": "Farah_VPN",
@@ -29944,60 +29998,6 @@
     },
     {
       "url": "vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=grpc&serviceName=TunService&sni=download.nvidia.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.895Z"
-    },
-    {
-      "url": "vless://3f8af6ef-621d-42da-9266-c66530c1145c@20.174.184.199:49471?path=%2F&security=&encryption=none&host=amd.com&type=ws#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.895Z"
-    },
-    {
-      "url": "vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.253:10000?security=&encryption=none&headerType=none&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.895Z"
-    },
-    {
-      "url": "vless://411279b4-233f-4abe-950c-956b6ffc921b@87.76.154.18:16506?security=&encryption=none&headerType=none&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.895Z"
-    },
-    {
-      "url": "vless://4fddb011-51ce-487d-8e47-1c1c901cd3fc@91.132.162.218:443?security=reality&encryption=none&pbk=VnuqDFzedJka4uGk7uMHady2p48E_f-zqiZItFF2pEY&fp=firefox&type=grpc&sni=www.intel.com&sid=b536806a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.895Z"
-    },
-    {
-      "url": "vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@87.58.205.88:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=random&type=xhttp&sni=google.com&sid=72cd47c079c0a3df#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.895Z"
-    },
-    {
-      "url": "vless://43b70fc0-99cc-0004-acd0-88e98418953d@192.142.12.175:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.895Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.895Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqaVVUemZkUG83Zlc@70.39.178.204:42747#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.895Z"
-    },
-    {
-      "url": "vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=firefox&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.895Z"
