@@ -48,7 +48,7 @@
     "proxy_mtm": 33725,
     "CluvexStudio": 389,
     "whitedns": 2094,
-    "YamYamProxy": 16428,
+    "YamYamProxy": 16429,
     "sut_tw": 150529,
     "iampediii": 142,
     "PASARGAD_V2rayNG": 6,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 8325,
   "totalProxies": 835,
-  "runCount": 15
+  "runCount": 16
 }
