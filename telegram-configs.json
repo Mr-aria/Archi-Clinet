@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-22T19:30:41.491Z",
+  "updated": "2026-10-22T19:32:57.442Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://2373eb03-66b2-4f42-bb40-95db8b210877@199.232.20.113:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=www.firefox.com&mode=auto&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%220-0%22%7D&insecure=0&host=",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-22T19:32:53.514Z"
+    },
     {
       "url": "vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://0cfc32a8-38e2-43ab-b604-62db6301164c@176.65.140.210:58761?security=&encryption=mlkem768x25519plus.native.0rtt.1tRra7JiahYSDxX_pIp2PyFQFnzFKhKfTesX6cbEnRY&headerType=none&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.897Z"
-    },
-    {
-      "url": "vless://0cfc32a8-38e2-43ab-b604-62db6301164c@176.65.140.210:46498?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.io3RTZhXSF5fJ9-5K5Wo2Lq96guUQnPUVRxADrSnDWc&host=bobo.badrangteb.ir&type=ws#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.897Z"
