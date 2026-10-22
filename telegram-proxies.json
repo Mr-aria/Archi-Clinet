@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-22T17:45:44.481Z",
-  "count": 1046,
+  "updated": "2026-10-22T18:00:52.249Z",
+  "count": 1051,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ponyzo32.tidelark.cc&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e5706f6e797a6f33322e746964656c61726b2e6363",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-22T18:00:32.803Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=milo44.mosswren.vip&port=443&secret=eefd9a9e2ac2851ddc327fe5971e25a87d6d696c6f34342e6d6f73737772656e2e766970",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-22T18:00:32.803Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=delvari.ir.aysghfkzcxg.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-22T18:00:32.803Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=babak-khoramdin.ir.aysghfkzcxg.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-22T18:00:32.803Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=kaveh-ahangar.ir.aysghfkzcxg.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-22T18:00:32.803Z"
+    },
     {
       "url": "https://t.me/proxy?server=kenric.nine11.art&port=2053&secret=ddeb6373e58b2eb9324384b1b0d4c35c02",
       "name": "V2rayng_Fast",
