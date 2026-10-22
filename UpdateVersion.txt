@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.3.0",
-  "apkUrl": "...",
-  "changelog": "..."
+  "versionCode": 27,
+  "versionName": "2.3.0",
+  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.3.0-arm64.apk",
+  "changelog": "Mirror chain, offline cache, Jalali dates, new icons, parallel proxy ping"
 }
