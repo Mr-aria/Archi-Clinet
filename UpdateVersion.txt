@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "2.4.1",
+  "versionCode": 28,
+  "versionName": "2.4.0",
   "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.4.0-arm64.apk",
   "changelog": "- اضافه شدن ویجت هوم‌اسکرین : دکمه پاور برای قطع/وصل بدون باز کردن اپ
 - اضافه شدن کاشی تنظیمات سریع به نوتیفیکیشن بار گوشی(Quick Settings Tile)
