@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-22T13:03:52.345Z",
-  "count": 1038,
+  "updated": "2026-10-22T13:15:50.385Z",
+  "count": 1039,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=88.198.148.89&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-10-22T13:15:33.333Z"
+    },
     {
       "url": "https://t.me/proxy?server=85.133.236.147&port=2096&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q",
       "name": "mehrosaboran",
