@@ -1,14 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "2.3.0",
-  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.3.0-arm64.apk",
-  "changelog": "- اضافه شدن ویجت هوم‌اسکرین : دکمه پاور برای قطع/وصل بدون باز کردن اپ
-- اضافه شدن کاشی تنظیمات سریع به نوتیفیکیشن بار گوشی(Quick Settings Tile)
-- اضافه شدن ۴ روش میرور برای کارکردن در نت ملی (اولین نسخه آزمایشی)
-- اضافه شدن تب ذخیره شده ها و تب تولید کننده آرچی: وارد کردن کانفیگ از فایل .archicollector
-- فیکس ترجمه‌ها (انگلیسی/فارسی)
-- اضافه شدن پروکسی‌های تلگرام: لیست آخرین پروکسی های کانال های تلگرامی
-- کش آفلاین: اگه هیچ میروری جواب نداد از آخرین نسخه های ذخیره‌شده می‌توانید از طریق تنظیمات بارگزاری و استفاده کنید.
-- تغییرات UI برنامه
-- ۵ برابر شدن تعداد کانفیگ ها و منابع تحت رصد و حجم ذخیره در سرورها"
+  "versionCode": 28,
+  "versionName": "2.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.4.0-arm64.apk",
+  "changelog": "Update dialog in Persian, Chrome download, dark mode + Persian defaults"
 }
