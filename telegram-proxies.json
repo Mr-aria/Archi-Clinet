@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-22T18:00:52.249Z",
-  "count": 1051,
+  "updated": "2026-10-22T18:30:41.521Z",
+  "count": 1052,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=tg.getsurfvpn.com&port=443&secret=eedf44a4347c1eb8938c7e63340bd1ca4972656c61792e7375726676706e2e617070",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-22T18:30:32.389Z"
+    },
     {
       "url": "https://t.me/proxy?server=ponyzo32.tidelark.cc&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e5706f6e797a6f33322e746964656c61726b2e6363",
       "name": "ProxyMTProto",
