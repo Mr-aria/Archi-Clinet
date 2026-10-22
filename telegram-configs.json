@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-22T16:17:35.919Z",
+  "updated": "2026-10-22T16:33:39.061Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiIxNzIuNjcuMTY3Ljc4IiwicG9ydCI6Ijg0NDMiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRlc3RfbmFtZSI6IjE0NCIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T16:33:31.642Z"
+    },
+    {
+      "url": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@23.141.12.134:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T16:33:31.642Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T16:33:31.642Z"
+    },
+    {
+      "url": "vless://35b94b2c-1b46-4209-a04b-32ecf159b632@www.visa.com.sg:8880?encryption=none&fp=chrome&host=fragrant-tooth-2180.97-cbb.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T16:33:31.642Z"
+    },
+    {
+      "url": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T16:33:31.642Z"
+    },
+    {
+      "url": "trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T16:33:31.642Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCJhZGQiOiIxMTIuMTMyLjIxNS4xMDgiLCJwb3J0IjoiNTAwMDIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T16:33:31.642Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJSaWI5SlhBWW9xakdOMktXLnYuM2Rucy52aXAiLCJwb3J0IjoiNDQzIiwiaWQiOiI5YjMxNDkwZC0xOTBlLTRlZjEtYWYwYS03Y2NhYjNlN2MzYjUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6IlJpYjlKWEFZb3FqR04yS1cudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiUmliOUpYQVlvcWpHTjJLVy52LjNkbnMudmlwIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-22T16:33:31.642Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.90.187:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29950,54 +29998,6 @@
     },
     {
       "url": "ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA@154.53.63.33:80#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.896Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpybmtIRWVFc3BTMXU1VmZq@4.168.234.201:443#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.896Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@95.40.120.162:8319#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.896Z"
-    },
-    {
-      "url": "vless://83c18ff2-0565-4b53-89ad-57357fef153b@172.96.121.6:443?security=reality&encryption=none&pbk=bHGC7iI4Q50nxoYStP3TjBaRXih6O0bmuemexki0aXY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=29ff8963a9fe281c#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.896Z"
-    },
-    {
-      "url": "vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?security=reality&encryption=none&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=4014ce9b0d82ad9d#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.896Z"
-    },
-    {
-      "url": "vless://cdc86ade-9bc3-41eb-a7b9-879130378820@118.26.59.85:443?security=reality&encryption=none&pbk=-Ngz1wsLiTc5fP1MdkFMS2oor1jRoFLAYD8oOgybGFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=e6d2c443d8f7702a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.896Z"
-    },
-    {
-      "url": "vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@128.1.12.19:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.896Z"
-    },
-    {
-      "url": "vless://9e998501-eaae-4d7e-bbe5-6cecfaef8334@217.69.167.135:15392?mode=gun&security=reality&encryption=none&authority=JOIN_BEDE_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=O8yFUnhj9NOtJ2eUVQTwrGk8HrkHq94QAO090azV428&fp=chrome&spx=%2F&type=grpc&serviceName=grpc&sni=google.com&sid=6a326909#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.896Z"
-    },
-    {
-      "url": "vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.896Z"
