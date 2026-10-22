@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-22T18:45:41.502Z",
+  "updated": "2026-10-22T18:47:58.439Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.143.133:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-22T18:47:54.097Z"
+    },
     {
       "url": "ss://YWVzLTEyOC1nY206ZGIyY2YzZTIxYzgzNDgzYzkwODRiOWRiMWJkNDY5ZmI@87.107.114.105:900#",
       "name": "V2ray_official",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@13.231.190.140:8313#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.897Z"
-    },
-    {
-      "url": "vless://68b369cb-ee77-41e4-b514-cbaa6bbe7c19@192.204.45.220:47991?security=reality&encryption=none&pbk=RqYNfh-KZgzEYEeNE-Qpu4dscJMGfanILFdQomJu8DY&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=76b663f249db51ac#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.897Z"
