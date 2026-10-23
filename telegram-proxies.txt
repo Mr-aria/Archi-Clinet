@@ -1,3 +1,4 @@
+https://t.me/proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b
 tg://proxy?server=37.202.234.151&port=2083&secret=dd79e344818749bd7ac519130220c25d09
 tg://proxy?server=65.109.254.83&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=hd7du.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
