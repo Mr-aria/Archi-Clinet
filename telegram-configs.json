@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-23T00:00:34.654Z",
+  "updated": "2026-10-23T00:30:34.861Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://f7376394-cd54-11f1-bb6a-bff6d0326f6a@194.36.37.59:10004?path=/vpnjantit&security=none&encryption=none&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T00:30:31.165Z"
+    },
+    {
+      "url": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@173.242.63.235:8443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T00:30:31.165Z"
+    },
+    {
+      "url": "vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=%2Fvless&security=none&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T00:30:31.165Z"
+    },
+    {
+      "url": "vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&security=tls&sni=wsru1.wba-pn.ru&fp=random&type=ws&path=%2F&host=194.87.143.165#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T00:30:31.165Z"
+    },
+    {
+      "url": "vless://867588d0-2245-4d04-a89a-c8d7547244a7@45.151.102.148:8433?encryption=none&fp=edge&pbk=nWBtSYqMPtaWSA32mI5a79EoVolTModESoBb2tnvFik&security=reality&sid=6dd3d9f85c71&sni=sberbank.ru&spx=%2F&type=tcp#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T00:30:31.165Z"
+    },
+    {
+      "url": "vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T00:30:31.165Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiJ1azItMi45OTg5OTguYmVzdCIsImFpZCI6MCwiaG9zdCI6InNlcnZlcjMuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii93YWV0YXNpdW9mZ3Vpd2VyP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6InNlcnZlcjMuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
       "name": "Farah_VPN",
@@ -29962,42 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@94.249.187.46:1080#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPK3FMc29xVldCZFkyRDNseHRkNWtzQndrcDNRY2xRNmQrSUFSbFB0Rm93PQ@e2.cover20.ir:30874#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwMjBZNkFGRU4xcFM3TEpY@94.245.88.26:443#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://bd5bbbac-adc3-4b23-d3ac-8506694c0ef9@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&host=c12.com&fp=firefox&type=ws&sni=ssl.fastly.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.133:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=firefox&type=xhttp&sni=static.lotussec.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22224?security=&encryption=none&headerType=&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://1ebb0858-218a-4dee-8746-36a67bc64462@119.28.161.143:443?security=reality&encryption=none&pbk=pR7MPTAA4cZsW9AO-twMzuogiWGMKPiheTg70fcWWWs&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=0a427bc3#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.898Z"
