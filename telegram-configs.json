@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-23T10:30:34.600Z",
+  "updated": "2026-10-23T10:31:50.800Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T10:31:47.523Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEiLCJhZGQiOiJoYWEuZGFzaHVhaS5jeW91IiwicG9ydCI6IjQ1MDY2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjQ1MDQ4YzVjLTlhYWEtNGU0My1hOTkwLWJiODg3NjcyNjA5YSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJoYWEuZGFzaHVhaS5jeW91IiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T10:31:47.523Z"
+    },
     {
       "url": "vless://%58pnTeam-39@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
       "name": "mehrosaboran",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "ss://YWVzLTI1Ni1nY206YzczYmIxZWYtMjY3Ni00NDJkLTk5YzMtNzQ3M2EzNTFjMjM2@frnce2.thugiping.info:443#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://7918e6f6-df8f-4a20-9c1d-59dbd1f22770@nlhy2.richforever.ru:9443?mode=gun&security=reality&encryption=none&pbk=fKz8iMdY9dfMURdjdVcb9mYOJz2FlexJ3_v8mlM2RTE&fp=firefox&type=grpc&serviceName=grpc-service&sni=nlhy2.richforever.ru#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.899Z"
