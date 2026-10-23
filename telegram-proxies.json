@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-23T17:00:43.711Z",
-  "count": 1114,
+  "updated": "2026-10-23T17:17:42.259Z",
+  "count": 1116,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=65.21.222.229&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-23T17:17:35.502Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=65.21.227.200&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-23T17:17:35.502Z"
+    },
     {
       "url": "https://t.me/proxy?server=2.31.79.226&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "PewezaTech",
