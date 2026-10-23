@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-23T13:16:38.280Z",
-  "count": 1104,
+  "updated": "2026-10-23T13:46:46.332Z",
+  "count": 1105,
   "proxies": [
+    {
+      "url": "https://t.me/socks?server=127.0.0.1&port=10886",
+      "name": "whitedns",
+      "source": "whitedns",
+      "date": "2026-10-23T13:46:43.035Z"
+    },
     {
       "url": "https://t.me/proxy?server=46.225.179.160&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
