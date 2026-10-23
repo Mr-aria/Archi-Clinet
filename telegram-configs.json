@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-23T22:31:52.374Z",
+  "updated": "2026-10-23T23:01:58.127Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppa3UvR2ZydDlZZUVVVWxlWHIyUHRmM3V2czBoc3pDUjBKSFBxR1NqcytjPQ==@31.76.11.83:11750#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T23:01:54.988Z"
+    },
+    {
+      "url": "vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@104.18.0.181:2052?security=none&type=ws&path=%2Frain1226&host=eu02.123450908.xyz&packetEncoding=xudp#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T23:01:54.988Z"
+    },
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T23:01:54.988Z"
+    },
+    {
+      "url": "vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@198.202.146.51:443?security=reality&encryption=none&pbk=B5DMtKe8wjH_WeM8M8IEuKwPqJ6-Ku98JH_LifwehEY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=198.202.146.51.sslip.io&sid=6fe2994a0e208408#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T23:01:54.988Z"
+    },
     {
       "url": "vless://352ff568-f971-4613-bf48-92997a5d44ed@23.95.222.127:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=35cd899f8de04801&pbk=ribQDOlZ69PzvZ1EDF0EcmMvbq_T5RQrVRBSGUU2riU#",
       "name": "Farah_VPN",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://3a654d0b-a3ec-438b-9e14-942d15a6e27a@dns4.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://c3db7657-88ce-42a6-b998-1e0364b277ac@87.242.127.113:4510?security=reality&encryption=none&pbk=hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=9c99da.usecache.net&sid=2d0c188798bae174#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJnZXJhbGwtMS5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDljNjNiMmEtM2UzMy00NDEwLWFjMmEtZjRlZjZkOGE5MjU0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDQwNyIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJZEJzcEJjaHFwSW5PWkZL@20.164.209.198:443#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://64c05afc-ce81-4ba0-b697-afa04da1427e@198.23.169.170:443?security=reality&encryption=none&pbk=FOl1qibUWpTggolWp30DD7VQ9_xKHZPEPVQs0sQs3gI&host=download-porter.hoyoverse.com&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&sid=2128e27b#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.900Z"
