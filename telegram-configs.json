@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-23T06:30:33.676Z",
-  "count": 30,
+  "updated": "2026-10-23T06:45:35.986Z",
+  "count": 31,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.33.244:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-23T06:45:33.957Z"
+    },
     {
       "url": "vless://40af9131-d540-448a-bc56-5bba147a1dc3@27.50.49.154:2083?&security=tls&fp=chrome&sni=proxy-34l.pages.dev&type=ws&headerType=none&host=proxy-34l.pages.dev&path=%2F#",
       "name": "Farah_VPN",
