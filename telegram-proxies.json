@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-23T13:46:46.332Z",
-  "count": 1105,
+  "updated": "2026-10-23T16:48:24.904Z",
+  "count": 1107,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=nyka85.mosswren.vip&port=443&secret=eea02849a55daccdc7f7a05691b7ef7cd16e796b6138352e6d6f73737772656e2e766970",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-23T16:48:06.225Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=letosu66.tidelark.cc&port=443&secret=eecd7b5204a28b47f7cc34c673574336086c65746f737536362e746964656c61726b2e6363",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-23T16:48:06.225Z"
+    },
     {
       "url": "https://t.me/socks?server=127.0.0.1&port=10886",
       "name": "whitedns",
