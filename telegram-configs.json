@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-23T02:31:36.081Z",
+  "updated": "2026-10-23T03:00:37.680Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://58b06206-cd53-23d6-279a-0f0dd259cb0a@uiuxtestsdcv-development-r6dg9.lucity.app:443?allowInsecure=0&fp=chrome&host=uiuxtestsdcv-development-r6dg9.lucity.app&insecure=0&alpn=http/1.1&security=tls&type=ws&sni=uiuxtestsdcv-development-r6dg9.lucity.app&path=/ws/58b06206-cd53-23d6-279a-0f0dd259cb0a&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T03:00:33.489Z"
+    },
     {
       "url": "hysteria2://Telegram-vpnjey@77.110.96.201:36264/?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=se.vpnjey2.dpdns.org#%F0%9F%9B%B864@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://ae0dc695-4e12-400b-9db3-550b4e1d7c3b@a.irserver.online:1280?path=%2F&security=&encryption=none&host=play-apps-features.googleusercontent.com&type=ws#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://ae0dc695-4e12-400b-9db3-550b4e1d7c3b@b.irserver.online:1280?path=%2F&security=&encryption=none&type=ws#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.898Z"
