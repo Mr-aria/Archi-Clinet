@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-23T12:46:40.860Z",
-  "count": 1100,
+  "updated": "2026-10-23T13:00:45.554Z",
+  "count": 1101,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=167.235.218.199&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-10-23T13:00:32.536Z"
+    },
     {
       "url": "https://t.me/proxy?server=77.mishutkin.click&port=443&secret=eec8017bc0cd6ea4b51ca268fb7b3aba6237372e6d69736875746b696e2e636c69636b",
       "name": "ProxyMTProto",
