@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-23T02:30:36.171Z",
+  "updated": "2026-10-23T02:31:36.081Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "hysteria2://Telegram-vpnjey@77.110.96.201:36264/?insecure=1&obfs=salamander&obfs-password=Telegram%40vpnjey&sni=se.vpnjey2.dpdns.org#%F0%9F%9B%B864@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T02:31:31.426Z"
+    },
+    {
+      "url": "hysteria2://4c858cccff331e64c711a199a6cb256a@clash2.deep-links.com:443/?sni=clash2.deep-links.com#%F0%9F%9B%B862@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T02:31:31.426Z"
+    },
+    {
+      "url": "vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?encryption=none&path=%2Fusserver&security=none&type=ws#%F0%9F%9B%B863@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T02:31:31.426Z"
+    },
+    {
+      "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@165.99.222.161:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SC6AnZ_BlvDruiGFpDRno9b1V3wMmq9gjB-KEHHUlE4&security=reality&sni=in1.vkusnews.com&type=tcp#%F0%9F%9B%B870@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T02:31:31.426Z"
+    },
+    {
+      "url": "trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@139.180.146.200:8886?allowInsecure=1#%F0%9F%9B%B866@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T02:31:31.426Z"
+    },
     {
       "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?path=%2F&security=none&encryption=none&host=vms.lifetime28.workers.dev&type=ws#",
       "name": "Farah_VPN",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://ae0dc695-4e12-400b-9db3-550b4e1d7c3b@b.irserver.online:1280?path=%2F&security=&encryption=none&type=ws#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://d789dc6c-ae3c-44d0-9e47-7d6f8b3b8dcf@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=FastSvn.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://ae0dc695-4e12-400b-9db3-550b4e1d7c3b@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=lsjaoijji.global.ssl.fastly.neT&type=ws&sni=ssl.fastly.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://3400a61c-7326-4fa2-b006-7e1ba201eacb@82.163.7.27:9090?security=&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://a66588d6-8d52-49ad-a137-6547607ed7e3@aqua.athforce.ir:1585?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://59d75dc8-0de0-452d-bf3b-10a4b1925abc@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&host=fancii.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.898Z"
