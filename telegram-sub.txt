@@ -1,3 +1,6 @@
+vmess://eyJhZGQiOiJ1azItMi45OTg5OTguYmVzdCIsImFpZCI6MCwiaG9zdCI6InNlcnZlcjMuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii93YWV0YXNpdW9mZ3Vpd2VyP2VkPTI1NjAiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6InNlcnZlcjMuOTk2NjMzOC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#
+vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@mci.amir12.ir:2112?encryption=none&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&sid=125ba3&allowInsecure=1#
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.179:8080#
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.32.108:8880?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#
@@ -4995,6 +4998,3 @@ vless://bd5bbbac-adc3-4b23-d3ac-8506694c0ef9@k2.cloud--vpn.site:443?path=%2F&sec
 vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.133:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&fp=firefox&type=xhttp&sni=static.lotussec.com#
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22224?security=&encryption=none&headerType=&type=tcp#
 vless://1ebb0858-218a-4dee-8746-36a67bc64462@119.28.161.143:443?security=reality&encryption=none&pbk=pR7MPTAA4cZsW9AO-twMzuogiWGMKPiheTg70fcWWWs&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=0a427bc3#
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22223?security=&encryption=none&headerType=&type=tcp#
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22222?security=&encryption=none&headerType=none&type=tcp#
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.34.168:22222?security=&encryption=none&headerType=&type=tcp#
