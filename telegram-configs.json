@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-23T20:00:33.562Z",
+  "updated": "2026-10-23T20:01:44.291Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://218fd696-e3a2-4c33-b397-a5f13a82969e@216.227.161.95:7443?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=media3.abvphelp.cc&fp=firefox&sid=48d5cf47&pbk=uNqGvaJEIFTFQvAxsTDhetPxkIWzJuBtxXsK0yFMYzM#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T20:01:41.716Z"
+    },
+    {
+      "url": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=chrome&sid=457fab2ac885dbe0&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T20:01:41.716Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiJkb2ctdXMua3VubHVuMDFkbnMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk0NjRjYTQwLWRkNzUtMzc0Mi1hNjI4LWQ5MzFhOWY0MTNiMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjEwMDkiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T20:01:41.716Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOiIwIiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTYyNTgiLCJwcyI6Ilx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRlYSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T20:01:41.716Z"
+    },
     {
       "url": "vless://ad489e25-3492-4f70-846b-f5c040ab1981@aws.tv.sync-bridge.ir:443?mode=gun&security=reality&encryption=none&pbk=CMcDUshsDJ_MLtaLyJmvDOFmxiWVSMSt-3zEmQJRczY&fp=chrome&spx=%2Fde97860c0276453&type=grpc&sni=play.google.com&sid=6e99488c#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
       "name": "prrofile_purple",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://0e9f7d2a-2f92-475e-b484-e79568a8a1a2@167.82.101.251:80?path=%2F&security=&encryption=none&host=Mankiamtr.global.ssl.fastly.net&type=ws#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@176.98.176.86:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://40dcdb24-daa8-424c-9f56-91bfe3637b21@ir.soroush15.ir:8080?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=TpmOc5i2OQ9upAdrX-TtaiEeHxeNwIDN7TKHcbsd0y4&fp=chrome&spx=%2F6ce1cbf8af35c90&type=xhttp&sni=Zarebin.ir&sid=f9e395e293329b#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.206.152:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=addons.mozilla.org#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MnBQemcwVEVhTTd5YjF3TkZ1WmJwMUJBWkQ1T3JGeW9xR1ljOTBTMGVqTT06U0lYeFl6QkpQYlYyL0krTXRmeFc2TzFaV0hDNVpIL3FoRU1QVXJ4VzY5OD0@206.1.98.110:19681#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.899Z"
