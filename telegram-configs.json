@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-23T05:00:34.564Z",
+  "updated": "2026-10-23T05:30:39.962Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@131.255.6.88:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T05:30:35.986Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiIxMDQuMjEuMjMuODAiLCJhaWQiOjAsImhvc3QiOiJteS5sb3ZlaGsueHl6IiwiaWQiOiJmNWYwYmFiZS1hZWEyLTRmMDctYTFmYy0zYzk4MjAyNTNmNDkiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL0t1YWxhTHVtcHVyMSIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZVt3d3cudjJub2Rlcy5jb21dIFYyUmF5IFZtZXNzLU1ZLTE1OTkyODI3Iiwic25pIjoibXkubG92ZWhrLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://7ce19a97-8f8c-431a-a42e-f13f6cbe3d70@91.107.155.22:443?security=reality&encryption=none&pbk=TIkdjXzDQ5RmrSB4r8QoStVHhQTNHX2fwm8izRQ07C0&headerType=none&fp=chrome&spx=%2FRSzBKOJaWrH2OnT&type=tcp&flow=xtls-rprx-vision&sni=storage.googleapis.com&sid=b913c53c#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://4925d57f-1fd6-4cf3-9640-c4cad64d604f@piki.speediihub.ir:2053?security=reality&encryption=none&pbk=80gx4VJQMhIOfst4X6MdcBqDSubKt5rPD9dB9LBTgwg&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=7b9af11c1921713b#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.898Z"
