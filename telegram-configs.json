@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-23T11:31:34.159Z",
+  "updated": "2026-10-23T12:00:35.994Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://9c794bb7-54fe-4acd-844a-a26209af36c3@152.53.107.241:443?security=reality&fp=firefox&flow=xtls-rprx-vision&sid=7271129440ade8fa&encryption=none&headerType=none&sni=news.moscowvibe.fyi&type=tcp&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T12:00:34.187Z"
+    },
     {
       "url": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=ios&type=tcp&allowInsecure=0&sni=de9.dedushka.top#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.40.32.140:41705?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#%40filembad",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://596bea4f-a61b-4ad9-86a1-717066a67192@185.254.98.181:9443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=static.vkimages.io&sid=2f49bccf11150ef2#%40filembad",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.899Z"
