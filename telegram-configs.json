@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-23T12:30:42.299Z",
+  "updated": "2026-10-23T12:45:35.100Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.60.172:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-23T12:45:33.392Z"
+    },
     {
       "url": "vless://9c794bb7-54fe-4acd-844a-a26209af36c3@152.53.107.241:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=news.moscowvibe.fyi&sid=7271129440ade8fa#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
       "name": "MARAMBASHI",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://ab788ec0-aabd-45e7-a7f1-1a22330908a9@199.232.78.159:443?path=%2F&security=tls&encryption=none&host=swedwneeji.global.ssl.fastly.net.&type=ws&sni=contriol.fastly.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://ab788ec0-aabd-45e7-a7f1-1a22330908a9@199.232.78.159:443?mode=auto&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%2C%2B%22xmux%22%3A%2B%7B%22cMaxLifetimeMs%22%3A%2B0%2C%2B%22cMaxReuseTimes%22%3A%2B%2264-128%22%2C%2B%22maxConcurrency%22%3A%2B%2216-32%22%2C%2B%22maxConnections%22%3A%2B0%2C%2B%22hKeepAlivePeriod%22%3A%2B0%2C%2B%22hMaxRequestTimes%22%3A%2B%22800-900%22%7D%7D&host=frenchboijji.global.ssl.fastly.net&type=xhttp&sni=control.fastly.com#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.899Z"
