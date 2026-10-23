@@ -1,3 +1,7 @@
+trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#
+trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.156.101:21263?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#
+vless://eaf76557-2219-4799-8171-d7020adfefd0@103.133.1.160:80?&type=ws&headerType=none&host=soft-shadow-1e33.xicav73335.workers.dev&path=%2Fws#
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#
 ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#
 trojan://humanity@45.87.41.18:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
@@ -4994,7 +4998,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.134.201:22223?security=&encry
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.25.88.21:14239?path=%2Fpages%3Fed%3D2560&security=tls&encryption=none&host=cdn8848.776676.xyz&fp=chrome&type=ws&sni=cdn8848.776676.xyz#
 vless://4b9c5562-3307-498d-a13d-6ccedf2f6e40@179.254.73.167:443?mode=gun&security=tls&alpn=http%2F1.1&encryption=none&authority=bit.mxhammet.ru&fp=chrome&type=grpc&serviceName=Ghost&sni=bit.mxhammet.ru#
 vless://bbc6ee2f-a5ed-4db2-9791-8c19c5cbcdfa@brz.speckflow.ir:18388?security=reality&encryption=mlkem768x25519plus.native.0rtt.VX3wj3iQMY_Dek9SJAlIR0wOMI0zPVc2xed1drSseQo&pbk=5VA5NMW-Pyktb4P_coQkxPuq4gQbI3MQ5ecyxxXfunM&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=007af7522aca0bdd#
-vless://5fc7563b-552d-417f-9409-08ef92284599@192.248.182.183:39244?security=&encryption=none&headerType=none&type=tcp#
-vless://1e4668ca-6526-84ac-2a53-28bbc209da13@130.49.77.5:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&fp=chrome&type=grpc&serviceName=TunService&sni=www.philips.com#
-vless://5f00ca4e-3f26-473e-ad1c-414112abb0a3@95.179.169.44:53224?security=&encryption=none&headerType=none&type=tcp#
-vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?security=&encryption=none&headerType=none&type=tcp#
