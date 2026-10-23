@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-23T00:30:34.861Z",
+  "updated": "2026-10-23T01:00:34.975Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T01:00:31.256Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T01:00:31.256Z"
+    },
+    {
+      "url": "trojan://humanity@45.87.41.18:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T01:00:31.256Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiJ1czUtMS45OTg5OTguYmVzdCIsImFpZCI6MCwiaG9zdCI6InNlcnZlcjQuOTk2NjMzOC54eXoiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsIm5ldCI6IndzIiwicGF0aCI6Ii9hbmRyb2lyZmRzcmVvaWdodHJqaD9lZD0yNTYwIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiJzZXJ2ZXI0Ljk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T01:00:31.256Z"
+    },
+    {
+      "url": "trojan://humanity@161.35.192.122:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T01:00:31.256Z"
+    },
     {
       "url": "vless://f7376394-cd54-11f1-bb6a-bff6d0326f6a@194.36.37.59:10004?path=/vpnjantit&security=none&encryption=none&type=ws#",
       "name": "Farah_VPN",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://e4887910-bcfc-48f8-8cd4-abb592e181af@95.179.169.44:53224?security=&encryption=none&headerType=none&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://7a5b8a98-7342-4bc0-9586-c6f6d9faea7e@95.179.243.225:443?security=reality&encryption=none&pbk=NUZo5tzBqPtKtKiOqI1QD9vIi4ApAFgHpOVM73kjPnU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Figma.com&sid=c34b2da45a7dc973#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "vless://14b48651-3738-4926-bc09-4c04e87ff80b@179.61.138.5:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&host=static.lotussec.com&type=xhttp&sni=static.lotussec.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "trojan://FUJQbkpwBm@188.130.207.178:53?security=none&seed=12MxV9tMHs&headerType=dns&type=kcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@139.28.240.68:1080#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@94.249.187.46:1080#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.898Z"
