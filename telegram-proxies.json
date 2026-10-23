@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-22T20:32:07.803Z",
-  "count": 1060,
+  "updated": "2026-10-23T05:16:34.607Z",
+  "count": 1061,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=135.181.74.178&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-23T05:16:27.962Z"
+    },
     {
       "url": "https://t.me/proxy?server=kenric.nine11.art&port=2053&secret=dd68b6be449c28e63fa08ce0811b3c6504",
       "name": "V2rayng_Fast",
