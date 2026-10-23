@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-23T19:31:51.349Z",
+  "updated": "2026-10-23T20:00:33.562Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://ad489e25-3492-4f70-846b-f5c040ab1981@aws.tv.sync-bridge.ir:443?mode=gun&security=reality&encryption=none&pbk=CMcDUshsDJ_MLtaLyJmvDOFmxiWVSMSt-3zEmQJRczY&fp=chrome&spx=%2Fde97860c0276453&type=grpc&sni=play.google.com&sid=6e99488c#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-10-23T20:00:32.251Z"
+    },
+    {
+      "url": "trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-10-23T20:00:32.251Z"
+    },
+    {
+      "url": "vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.160:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-10-23T20:00:32.251Z"
+    },
+    {
+      "url": "trojan://mitivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-10-23T20:00:32.251Z"
+    },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
       "name": "Farah_VPN",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MnBQemcwVEVhTTd5YjF3TkZ1WmJwMUJBWkQ1T3JGeW9xR1ljOTBTMGVqTT06U0lYeFl6QkpQYlYyL0krTXRmeFc2TzFaV0hDNVpIL3FoRU1QVXJ4VzY5OD0@206.1.98.110:19681#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@support.cloudflare.com:2095?path=%2F&security=&encryption=none&host=llm-api.sofurry.dpdns.org&type=ws#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@13.143.166.112:443?security=reality&encryption=none&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=unpkg.com&sid=408c85938839e89f#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@2.26.11.234:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@193.56.135.233:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcde#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.899Z"
