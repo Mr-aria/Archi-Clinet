@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-23T16:48:24.904Z",
-  "count": 1107,
+  "updated": "2026-10-23T17:00:43.711Z",
+  "count": 1114,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=2.31.79.226&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-10-23T17:00:30.472Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=www.lwww.ir.&port=8443&secret=3WMho4GHSV36xZoDAiDCXY4AAq5W5G55ZWt0YW5ldC5jb21mYXJheqF2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-10-23T17:00:30.472Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=Gue.id.6b.2l.du.x8.fi.l.www78-62-184-9.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-10-23T17:00:30.472Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=Cu.mp.6h.sp.4d.mip.ts5.f2h.gk.w.13-905-33-84.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-10-23T17:00:30.472Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=foc.pf.og.mro.7f.j7.spb.f.lwww.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-10-23T17:00:30.472Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=2.29.118.180&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-10-23T17:00:30.472Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=91.98.12.172&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-10-23T17:00:30.472Z"
+    },
     {
       "url": "https://t.me/proxy?server=nyka85.mosswren.vip&port=443&secret=eea02849a55daccdc7f7a05691b7ef7cd16e796b6138352e6d6f73737772656e2e766970",
       "name": "ProxyMTProto",
