@@ -1,7 +1,91 @@
 {
-  "updated": "2026-10-23T09:46:31.196Z",
-  "count": 1065,
+  "updated": "2026-10-23T09:58:59.125Z",
+  "count": 1079,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=stone.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=ember.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=78.47.170.192&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=158.160.132.207&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=velvet.lite64.xyz&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=de.video4k.top&port=443&secret=eeb331ec56c313f56fac5eec9a7f52cfe664652e766964656f346b2e746f70",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=ultra.lite64.click&port=443&secret=eeb68b66e59328f050485be0f96193ef26756c7472612e6c69746536342e636c69636b",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=zephyr.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=crystal.velvetoak.work&port=443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=antisepalous.congelifraction.pyorrhea.compinoy.com&port=443&secret=eeb98484001dd5095be005bb1738d3ea57647a656e2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=178.154.214.35&port=443&secret=ee3f72634c46d320aaa30d8bb2682e9b497975672d6c696e6b2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=185.132.53.114&port=443&secret=9e4737bf060e6a0fa06935665f4cb89c",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=188.40.167.64&port=443&secret=ee5ed3b193b12da9b9b7e5042810190600",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=188.40.167.64&port=443&secret=5ed3b193b12da9b9b7e5042810190600",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-23T09:58:57.233Z"
+    },
     {
       "url": "https://t.me/proxy?server=cdnwave.org&port=443&secret=ee5eedcb160ad8ac83ff7a1516474692d8706574726f766963682e7275",
       "name": "ProxyMTProto",
