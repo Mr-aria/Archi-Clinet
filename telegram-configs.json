@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-23T21:15:31.508Z",
+  "updated": "2026-10-23T21:32:26.446Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=23d0950d60bc0d5b&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
+    {
+      "url": "vless://52919204-4ed9-42c8-97a0-0f01d007f898@154.40.55.185:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.oracle.com&fp=chrome&flow=xtls-rprx-vision&sid=7f&pbk=XY0OTrgnRWxHbqBC8u4qFWvZakjNZY83AAnL_lwHu1M#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
+    {
+      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&sid=835391010667297d&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
+    {
+      "url": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
+    {
+      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
+    {
+      "url": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@147.45.60.160:8444?security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
+    {
+      "url": "vless://96ee55ac-d534-4502-878a-468c7896360b@208.67.106.154:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=c9677d3b7dea&pbk=_0fpFqEEuCso3B8K7AAcMjctwG_xfCxO2PdKzGd_-hg#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
+    {
+      "url": "vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=cd6065902eea7a02&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
+    {
+      "url": "vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?security=reality&encryption=none&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=296f27de82dad7ff#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
+    {
+      "url": "vless://4b09d40d-e36a-47c3-baa4-e6bf551b3183@31.59.217.164:443?security=reality&type=tcp&packetEncoding=none&sni=www.adobe.com&fp=chrome&flow=xtls-rprx-vision&sid=1625a2a79d01328f&pbk=kOkILS7UXUQDNPLYn4SQ65kMIWKXNOttV5Kddw4ZqTo#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T21:32:22.619Z"
+    },
     {
       "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.877774.xyz:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&hos",
       "name": "V2rayng_Fast",
@@ -29938,66 +29998,6 @@
     },
     {
       "url": "vless://886da26c-683d-429f-8a0a-b5d8fef7ecf4@gerall-2.povrak.ir:36393?mode=auto&path=%2F&security=reality&pqv=tPLwd-S_HhSmI045sLh1ok9Uf-JLCKXNMGRb9URNLsRc6ZYwymwT-iOPVw113E_CAFPk6dXdgZhxT6YQOQl_gVQQsU1Al8tBSTi65mpgCzML4QWdiK-zFK85KA96Gji2Qm3pP-ZPun3hL4yoCFKbqgbYuhMovOGcQnRIf5I0YLOBbs5qgrdBjgvtfWfbZ1Dww_4bBks3TLXRXYBF_vrTHfI9Kiqg0mCHSb2dOYU6nXnjVODB7lMU7tV6FWqnSZrVuumCDTLwmr_Dz1D5qgo_lhXf3dOFavh7A01OYBND_MTTxYcjCznhgnLHTCxeuduPJdU0fk_sgTNk57yr-D-mYyvVjSj_mvKl3TNsv_mHfaN9gme7RGkGCpeXKqoayGt8OfKvWvVpuebwwZAoh9rG6oKfGJjSVBDUIxTjs0z2gJauupBKtRzsaysdP38_db3NqM_gZQvjD7nX9UtXQCZVzJuUo_uP8yGAwVouBrmaxJwbYKZPwnVp0UOp0-85k9R2JCla-KHMz5TbY0YSS498mrtihuWiAw63M7P5TAfWxiNJWc384tnJhyQBQV-3WaUuDMiVUELOkpYqfmRjFJidYJNZsHwLO2z6opCi3TbMDlIHyxmq6I1sAlXdS0e_n10iBezLGDfWOy9Ha0YZ9e-5TiIIAk65fobAQtJLXXnX3mfldNpXNg0lgIic2wbsYd0lhEM19QhGzImUd4VNkMfjJj3icqvkp8HEAXzaj38g7K9Y4hS-KjBghW0xdRrr890bpI2vzLKb6z4AhkhSD9wAhIhmooMqEMtDyio1NlW0oVAs_2I5cBGXcp6NnM5EOA0_GplhfsQGtm8zbMyJk-kp8v9kcYNyw9wJT2g1Q7WIpvpkq5XIkrP7XoyxNB1cfpVqpp60ZIom2bqo3HyRe5_uqEvfkVn5yiXqjeytVn7tl5bJ_x6K4xh5wNQ62YARH3pyi4G1s0hJWal71M-tE2uUqDr9mtB1iEGU1E6QE_qqGKHHNQwvwyk8FGDsCPXtJDWo2AQhLoaA7EwjDcmIxte1fMiIzXsswry3XCzsU65JvKULrWmwgoMEBSAIj4MS8Dxb2IJjUnRgDFrPdPjQVPONpc-_3pkIZx_LEXoi_fAA9iB7gX3V-TE3kx06IuRWQAofpcbc48LBDXPntB_28hvu8SHRsdfynwAl_Bb_J0blvCahZ2fGbU5J1Sq1_BCP6HaSwNssu5VqxM1Vke4fnVjeQUb8qpnXpSoMLnBO5DN9u7JZ4P5afu-yvMOP0_rGQl2kY80NhubOk_LtL5diGQzHFBr50cYuymiKzQ9J0uE7oEDdQw8QZOoY1Ez7lrD88EYvyOINuioImBYEzRfk9c_jevRnCnuRUPABL34b-h056xIrfRuvYirrGIAObSaKigEenDrPn2RX5MShSVowzi8FLYNUz4NDR6BVH1jLmy2DMw2uPBmfaznHUZh5XCP6p7QmJv9j68ZUWJf0riC2THwgxI-zHvwj7dhaitOqbc4F3RsHYa5WCnGeTz2lY1IRG40Lh2DUe0WNQTD6WZ-IlK8CMhOfWXYb8oMvJV74wdGSmjqyWhZRcdDYkH4cn-EVnaCclIlgEhoh_k6aKnQQ16Hnpfqh_Ic4z7wRzYqWqqWLfPRVOBS7O_yDs7wlkTNnMAvnk3k7hYC7klAPwfvAyfXQkkTguayWs6JE9NjXsHLOBlfDGsAAf5OZTOWv76gNRFFQPFmmcmkre5e2fZ3nXqzTuNw-BdxdXgYgtbM9CsPSVD4wkqDREBUvuEBKs6zNhy3HwfubpGhwzGHkXVqdQJRvp8gi_VldsaEZE4QmNk5zref5ukuVclqd4iJGLntDpz-1NRQ_uEf1MLSVZr_f6LhLZHpPsXDjg_ngkqUq4qsyz7w2h_T_oZuJEpr8JQk--ItYw3qU-PexF_0x3dB3HkIAVcYbFA0u4n7vkipo1KWFj0lI9EEa2u3tF2Vx1AqIMZ-jntAvpsMU4LPiSxxj0Eq_wH08L_h9UNTUH5euy0GuYtecNCmUcmPSu9CAVH_lEMusABG5holrC_T_61krBhW3wH7Grz7cFhU2eLAKe81zt8Hsp6VvbAveXoUpDRGA18zAy01xXD_AW8fCVuvZjiKrutasB1djGi8kBuyCe7qW8qT-Qhu1OfIR8S1M-jZwEGT0NyBch2CqfNceh082hYkhfhHe1a7oWdv-ZtIhgaBn5In30Sx77MkbfQ-nb-RU4ueSyJLwYtSQfdxL7h8f24UqZhOQ3nBltJxXOG6cwzCFjGoEdx-B29ZipL4-zC-Thu5hb7PwvFkjf8aG8C_L36N_f1lPzfyjyoqwXCYlc-7amgUZEwCp3zZNKoRf4wCbCN8oPaUTsnDiMrwDXSnzjl3hf0DMuobIQyfJupj_yUQdUqjl0g57PLcSJgimXhPonHeCeQTaoghga1mHLpeiNqz0JA1ItdN1ArhMD09Uw8QntnyQgZkh3-PxF_x65ev3P61bcr_ZHZOtFwFTICp1OKc3258nX_z5vBYxLYBwDaIkZjPeqvJglygDqLamaTKQds7iXMIr7tYSprjqV40ODL6P-HfLoH4Dbn8bibDTOp2uSdU&encryption=none&pbk=Gg7pyN2jbRUntSFM_lPGN6vALgaxGxQBiMtn78IXe1s&host=speedtest.net&fp=chrome&type=xhttp&sni=speedtest.net&sid=af25420695d47225#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://886da26c-683d-429f-8a0a-b5d8fef7ecf4@fin-2.povrak.ir:47014?security=&encryption=mlkem768x25519plus.native.0rtt.B75bzTX56-NF1rezj896CdCUvLQIzHbOHnikVSdw5Rk&headerType=none&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://886da26c-683d-429f-8a0a-b5d8fef7ecf4@fer-2.povrak.ir:64829?security=&encryption=mlkem768x25519plus.native.0rtt.ZkyRFBJZD5Zs_qfh68X3BnzvcIy4WzgGybvRcquCqXQ&headerType=none&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJlY29ub21pYy5pcC1zdGF0aWMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhlYWRkNDNkLTM4OGMtNDQzNi1hOWQ3LWM2YTFjNWZkOWRkYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTA2NSIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJlY29ub21pYy5pcC1zdGF0aWMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhlYWRkNDNkLTM4OGMtNDQzNi1hOWQ3LWM2YTFjNWZkOWRkYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwOSIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJlY29ub21pYy5pcC1zdGF0aWMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhlYWRkNDNkLTM4OGMtNDQzNi1hOWQ3LWM2YTFjNWZkOWRkYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAyNCIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJlY29ub21pYy5pcC1zdGF0aWMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhlYWRkNDNkLTM4OGMtNDQzNi1hOWQ3LWM2YTFjNWZkOWRkYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAxMiIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJlY29ub21pYy5pcC1zdGF0aWMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhlYWRkNDNkLTM4OGMtNDQzNi1hOWQ3LWM2YTFjNWZkOWRkYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAxNyIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJnZXJhbGwtMi5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjFhYzZhMTMtNjRjOC00NmY2LThkMTgtNTA2ODA0NjFhZDc3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDQwNyIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJmaW4tMi5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjFhYzZhMTMtNjRjOC00NmY2LThkMTgtNTA2ODA0NjFhZDc3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NjI2OCIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJlY29ub21pYy5pcC1zdGF0aWMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjhlYWRkNDNkLTM4OGMtNDQzNi1hOWQ3LWM2YTFjNWZkOWRkYiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzMiIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.900Z"
