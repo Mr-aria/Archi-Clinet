@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "2.5.0",
-  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.5.0-arm64.apk",
-  "changelog": "- میرور نوع ۱ — DNS تحریم‌شکن: رفع‌نام هاست‌های میرور با DNS ایرانی (شکن/الکترو/403) وقتی ISP جواب DNS را خراب می‌کند (تاگل در تنظیمات)\n- میرور نوع ۲ — اسنپشات داخلی: آخرین کانفیگ‌ها و پروکسی‌ها داخل خود اپ ذخیره شده؛ حتی با قطعی کامل اینترنت هم کانفیگ داری\n- میرور نوع ۳ — تست میرورها: صفحه جدید برای تست لحظه‌ای همه میرورها با نمایش سرعت پاسخ\n- زنجیره میرور قبلی (گیت‌هاب → jsDelivr → Statically → هاست ایران) همچنان فعال است"
+  "versionCode": 28,
+  "versionName": "2.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.4.0-arm64.apk",
+  "changelog": "-"
 }
