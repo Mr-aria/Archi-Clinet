@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-23T12:46:36.360Z",
+  "updated": "2026-10-23T13:00:37.479Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://77479eaf-c35e-4088-ae47-a2beb88a7272@uk.2ul.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=C-e3vasFC42zQmJblol4foZozTe6j1c7TJMGqjvRm2U&sid=77479eaf&type=tcp&headerType=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T13:00:35.238Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.33.244:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%AA%40FreakConfig",
       "name": "freakconfig",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://4f466863-b6c5-4fdc-955e-7a601c18d89a@217.26.30.125:7443?mode=gun&security=reality&encryption=none&pbk=EuRD8QK-uL3uQqnQ_IC2Ybj7v8feXRxCiEaXYjhHx3c&fp=random&type=grpc&sni=yahoo.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.899Z"
-    },
-    {
-      "url": "vless://8ff3db5a-5f41-4f25-a8a4-7fbf00f1c319@ee.edgemedia.lol:7443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.899Z"
