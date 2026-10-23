@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-23T04:00:39.264Z",
+  "updated": "2026-10-23T04:30:34.767Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?security=reality&sni=www.cloudflare.com&fp=firefox&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&sid=cd7e85995ae2afc9&type=tcp&packetEncoding=xudp&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T04:30:31.882Z"
+    },
+    {
+      "url": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@147.78.0.186:8443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-23T04:30:31.882Z"
+    },
     {
       "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:80?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "trojan://MITIVPN@199.232.78.101:443?path=%40mehrosaboran&security=tls&alpn=http%2F1.1&host=mitivpn---ss--s---mitivpn-11s.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "trojan://MITIVPN@199.232.78.160:443?path=%40mehrosabora%20&security=tls&alpn=http%2F1.1&host=mitivpn---ss--s---mitivpn-55s.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.898Z"
-    },
-    {
-      "url": "trojan://MITIVPN@199.232.78.101:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&host=mitivpn---ss--s---mitivpn-11s.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.898Z"
