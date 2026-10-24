@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-24T09:30:37.903Z",
-  "count": 1134,
+  "updated": "2026-10-24T12:30:33.553Z",
+  "count": 1135,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-24T12:30:30.035Z"
+    },
     {
       "url": "https://t.me/proxy?server=pishi.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
