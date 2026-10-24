@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-24T06:30:35.016Z",
-  "count": 1124,
+  "updated": "2026-10-24T07:02:12.970Z",
+  "count": 1125,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdC",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-10-24T07:01:41.262Z"
+    },
     {
       "url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b726564666c61672e79617a616562616c73796164656c617470726f78792e766970",
       "name": "ProxyMTProto",
