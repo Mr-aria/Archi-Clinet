@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24T16:16:44.490Z",
+  "updated": "2026-10-24T17:00:35.244Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.118.128:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-24T17:00:34.230Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.145.141:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-24T17:00:34.230Z"
+    },
     {
       "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.147.48.28:443?path=%2F%3FTELEGRAM----ICV2RAY----%3Fed%3D512&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=snip.edgeoneai.cc.cd&fp=unsafe&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#@ICV2RAY",
       "name": "icv2ray",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?security=reality&encryption=none&pbk=xXMV-UbVMpP75hZoXS_QSaj_DK1O58mrPIrreudQ71o&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-ss-64.ecom-ai-search.com&sid=294cd0660fde9027#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.901Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22223?security=&encryption=none&headerType=&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.901Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&host=%2F%3FTELEGRAM--BYA--CHANEL---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM---%40V2ray_AM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.901Z"
