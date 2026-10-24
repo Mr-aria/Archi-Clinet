@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-24T12:31:38.964Z",
+  "updated": "2026-10-24T12:46:34.853Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.240.84:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-24T12:46:32.455Z"
+    },
     {
       "url": "vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&sid=38d72071&type=tcp&headerType=none#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://1c794e75-bcd4-4a65-9f69-ed0a10f33d60@144.31.101.196:33891?security=reality&encryption=none&pbk=HXXIkFRPeRpluXJ7SOoUGf9EOq4Lw-oJpvg1W0UPbEw&headerType=none&fp=chrome&spx=%2Fhealth&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=5bd7b68ca4c04443#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.900Z"
