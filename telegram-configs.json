@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24T10:46:38.277Z",
+  "updated": "2026-10-24T11:00:36.603Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://%58pnTeam-43@199.232.78.170:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-10-24T11:00:35.168Z"
+    },
+    {
+      "url": "vless://%58pnTeam-44@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-10-24T11:00:35.168Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.192.72:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://2acc3742-c568-11f1-9902-a337233c6cda@fr5.wizard.select:443?security=reality&encryption=none&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&headerType=none&fp=firefox&spx=%2F8k3TDsPnYUrkk2v&type=tcp&flow=xtls-rprx-vision&sni=fr5.wizard.select&sid=984f#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://e2ec5d3e-034a-4bf6-9779-476ab11be368@4.185.65.116:443?security=reality&encryption=none&pbk=uwCuaFoMJyLGncdCiHE8nj6DwzmEpR4Vfu5eAcOIHRg&headerType=&fp=chrome&spx=%2F04aa20476d1f614&type=tcp&sni=dl.l.google.com&sid=eeb3335685f670#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://cebcaf04-c567-11f1-9902-a337233c6cda@de5.wizard.select:443?security=reality&encryption=none&pbk=KIawAxTmmnz2tLnTg26djq1f20QSgBzy9y2mp9HCiFA&headerType=none&fp=qq&spx=%2FNZgdns7FnUvDZwJ&type=tcp&flow=xtls-rprx-vision&sni=de5.wizard.select&sid=c4a866#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.900Z"
