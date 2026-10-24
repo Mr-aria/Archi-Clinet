@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-24T06:45:34.438Z",
+  "updated": "2026-10-24T06:46:32.359Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.99.223:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-24T06:46:30.637Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.44.179:22223?encryption=none&security=none&type=tcp#%F0%9F%90%991@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://fdc6732e-d68a-4432-b577-031ec7f38f60@9ba43a8ee99cc162.tunde.w-ert.org:450?security=reality&encryption=none&pbk=woId47r1U8pEuDwHoC026bJHVWha2RHjufq1Kw3QoRU&headerType=none&fp=chrome&type=tcp&sni=www.aparat.com&sid=ca4134a0ed2592b6#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://6c21cf57-a9a9-4075-ad9f-631152bd911e@maple.hubnori.ink:443?security=reality&encryption=none&pbk=IBbBWAFM5_ZvoudwNh_09i461W0SLjLxHeRo1TMWMHY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=maple.hubnori.ink&sid=d574a560c675152e#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.900Z"
