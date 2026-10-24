@@ -1,14 +1,14 @@
 {
   "lastSeen": {
     "PewezaTech": 25757,
-    "mmd_adm": 28600,
+    "mmd_adm": 28601,
     "free_vpn02": 5110,
     "freakconfig": 10265,
     "outline_vpn": 11827,
     "iut_ChatrBazaan": 0,
     "ProxyMTProto": 52437,
     "khabari_18": 76800,
-    "JozveDaneshgahi_ir": 12757,
+    "JozveDaneshgahi_ir": 12758,
     "MatinSenPaii": 5683,
     "pewezavpn": 25757,
     "ShadowWolfVpn": 219,
@@ -27,7 +27,7 @@
     "TestDummyChannel": 3,
     "hamclasixii": 81189,
     "Linuxor": 5801,
-    "MineProxy": 55374,
+    "MineProxy": 55375,
     "imArasTey": 199,
     "appxa": 15054,
     "V2ray_official": 10016,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 9328,
   "totalProxies": 930,
-  "runCount": 381
+  "runCount": 382
 }
