@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-24T16:31:37.927Z",
-  "count": 1141,
+  "updated": "2026-10-24T17:31:40.392Z",
+  "count": 1142,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=cloud-sync-mx.online&port=443&secret=ee395b5c5d20a594c5656b17f198621c05636c6f75642d73796e632d6d782e6f6e6c696e65",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-24T17:31:34.752Z"
+    },
     {
       "url": "https://t.me/proxy?server=cdnpulse.org&port=443&secret=ee14f36dd188bffec614c6c664ac37d71a686f66662e7275",
       "name": "ProxyMTProto",
