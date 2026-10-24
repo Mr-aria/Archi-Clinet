@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24T14:30:41.474Z",
-  "count": 1136,
+  "updated": "2026-10-24T15:30:34.448Z",
+  "count": 1138,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-24T15:30:29.530Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=dashi.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-24T15:30:29.530Z"
+    },
     {
       "url": "https://t.me/proxy?server=on.mishutkin.click&port=443&secret=eebc740653e2e1fd5972b4a92e5a0dd7826f6e2e6d69736875746b696e2e636c69636b",
       "name": "ProxyMTProto",
