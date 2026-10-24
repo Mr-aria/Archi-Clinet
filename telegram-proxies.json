@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24T07:02:12.970Z",
-  "count": 1125,
+  "updated": "2026-10-24T08:00:32.290Z",
+  "count": 1127,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir-ir.radio-zvez.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-24T08:00:29.810Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=ir-ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-24T08:00:29.810Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir-ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdC",
       "name": "MTP_roto",
