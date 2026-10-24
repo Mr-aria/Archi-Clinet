@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-24T09:15:35.078Z",
-  "count": 1133,
+  "updated": "2026-10-24T09:30:37.903Z",
+  "count": 1134,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=pishi.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-24T09:30:31.605Z"
+    },
     {
       "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=5b0a98d9fa4771fad9402dc3dedbdd9a",
       "name": "V2rayng_Fast",
