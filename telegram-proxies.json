@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-24T15:30:34.448Z",
-  "count": 1138,
+  "updated": "2026-10-24T16:01:38.657Z",
+  "count": 1139,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-24T16:01:33.521Z"
+    },
     {
       "url": "https://t.me/proxy?server=haji.estabonita.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
