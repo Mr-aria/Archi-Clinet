@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-24T17:31:40.392Z",
-  "count": 1142,
+  "updated": "2026-10-24T19:30:34.741Z",
+  "count": 1143,
   "proxies": [
+    {
+      "url": "tg://proxy?server=www.yesyesno.ir.&port=8443&secret=dd1701186abd0ea60123192e26434f91a5",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-10-24T19:30:31.920Z"
+    },
     {
       "url": "https://t.me/proxy?server=cloud-sync-mx.online&port=443&secret=ee395b5c5d20a594c5656b17f198621c05636c6f75642d73796e632d6d782e6f6e6c696e65",
       "name": "ProxyMTProto",
