@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24T18:46:38.984Z",
+  "updated": "2026-10-24T19:00:33.834Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://06dbe829-7f11-4b64-9443-ae3a959f48d5@lxybfcdlgj.falqiro.ir:2096?path=%2F&security=tls&encryption=none&insecure=0&host=Tun.pasarguardspeed.ir&type=ws&allowInsecure=0&sni=Tun.pasarguardspeed.ir#telegram%20%40mtmvpn",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-10-24T19:00:33.458Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.130.80:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-24T19:00:32.543Z"
+    },
     {
       "url": "vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@103.91.147.208:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=gb.ozon.ru&type=tcp#%F0%9F%90%9991@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.901Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.901Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.901Z"
