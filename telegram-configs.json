@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-24T19:15:42.438Z",
+  "updated": "2026-10-24T19:46:34.274Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-10-24T19:46:31.757Z"
+    },
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-10-24T19:46:31.757Z"
+    },
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?security=reality&encryption=none&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bilibili-vn.biliimg.com&sid=a46bb5972cf50671#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-10-24T19:46:31.757Z"
+    },
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-10-24T19:46:31.757Z"
+    },
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=www.apple.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-10-24T19:46:31.757Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjFhOTo6MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYTk2NmQyMC03YjlkLTQ4Y2MtYmEyYy04ZDM4MTYxYjZkM2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5nP2VkI1RlbGVncmFtLS0tUExBTkJfTkVULS0tUExBTkJfTkVULS0tUExBTkJfTkVULS0tUExBTkJfTkVUIiwicG9ydCI6IjE4OTAxIiwicHMiOiLwn5qAQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-10-24T19:46:31.757Z"
+    },
     {
       "url": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40V2ray_Alpha%F0%9F%92%AD%203",
       "name": "V2ray_Alpha",
@@ -29962,42 +29998,6 @@
     },
     {
       "url": "vless://f2900749-7cff-42b7-9566-dfb03840d374@land.zavqeron.ir:2053?path=%2Ffi-cdn&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=land.zavqeron.ir&fp=chrome&type=ws&allowInsecure=0&sni=zavqeron.ir#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.104Z"
-    },
-    {
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.104Z"
-    },
-    {
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.104Z"
-    },
-    {
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM%40TOOTFFARANGI&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.104Z"
-    },
-    {
-      "url": "vless://8c561eb2-f643-49ce-b5b6-81690ec268c0@xnforo.ir:2087?mode=auto&path=%2FFiShChIpS&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&insecure=0&host=fish.kaftarkakolbesarwifi.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=fish.kaftarkakolbesarwifi.ir#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.104Z"
-    },
-    {
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&security=reality&encryption=none&authority=%2Ft.me%2FV2rayBaaz&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&fp=firefox&type=grpc&serviceName=hub.v1.RelayService&sni=md1.univesalsrv.com&sid=221ba6174224ca5b#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.104Z"
-    },
-    {
-      "url": "vless://238e492b-bc20-4380-92b6-135d39112ca4@200.165.235.78:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.104Z"
