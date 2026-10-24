@@ -1,3 +1,4 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.192.72:22222?encryption=none&security=none&type=tcp#(S103
 trojan://Telegram_healer_config@188.114.97.3:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&path=/tr/ox5zBiRQjs2Rscy0XwxXY2ZzE%3Fed%3D2560&security=tls&sni=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&type=ws#
 ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@50.7.41.118:17001#
@@ -4997,4 +4998,3 @@ vless://b118fc0a-c535-11f1-9902-a337233c6cda@178.214.110.4:443?security=reality&
 vless://2acc3742-c568-11f1-9902-a337233c6cda@fr5.wizard.select:443?security=reality&encryption=none&pbk=uqLRHVERHP974FJk39ltiV8pkcGAWYKJfOJ1nMALahU&headerType=none&fp=firefox&spx=%2F8k3TDsPnYUrkk2v&type=tcp&flow=xtls-rprx-vision&sni=fr5.wizard.select&sid=984f#
 vless://e2ec5d3e-034a-4bf6-9779-476ab11be368@4.185.65.116:443?security=reality&encryption=none&pbk=uwCuaFoMJyLGncdCiHE8nj6DwzmEpR4Vfu5eAcOIHRg&headerType=&fp=chrome&spx=%2F04aa20476d1f614&type=tcp&sni=dl.l.google.com&sid=eeb3335685f670#
 vless://cebcaf04-c567-11f1-9902-a337233c6cda@de5.wizard.select:443?security=reality&encryption=none&pbk=KIawAxTmmnz2tLnTg26djq1f20QSgBzy9y2mp9HCiFA&headerType=none&fp=qq&spx=%2FNZgdns7FnUvDZwJ&type=tcp&flow=xtls-rprx-vision&sni=de5.wizard.select&sid=c4a866#
-vless://7474b6d6-d6d1-42d6-a0b1-a591a01ffedc@46.225.2.249:41400?security=&encryption=none&headerType=none&type=tcp#
