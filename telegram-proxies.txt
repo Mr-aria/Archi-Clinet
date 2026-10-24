@@ -1,3 +1,4 @@
+https://t.me/proxy?server=pishi.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=age.nine11.art&port=443&secret=5b0a98d9fa4771fad9402dc3dedbdd9a
 https://t.me/proxy?server=age.nine11.art&port=443&secret=86dbc3a5c345151b18f2843d8291c683
 https://t.me/proxy?server=age.nine11.art&port=443&secret=fb9fe229a2bd3786e268ced74f586c61
