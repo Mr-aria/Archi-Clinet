@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-24T08:16:35.664Z",
-  "count": 1128,
+  "updated": "2026-10-24T09:15:35.078Z",
+  "count": 1133,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=5b0a98d9fa4771fad9402dc3dedbdd9a",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-24T09:15:34.047Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=86dbc3a5c345151b18f2843d8291c683",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-24T09:15:34.047Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=fb9fe229a2bd3786e268ced74f586c61",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-24T09:15:34.047Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=a0a26f6a93d9220e5fdb9856b6842c4d",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-24T09:15:34.047Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=73af35f704f999f9a8e41cb6e511c7c0",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-24T09:15:34.047Z"
+    },
     {
       "url": "https://t.me/proxy?server=worldmaster.varomax.co.uk.&port=5500&secret=eeRigzNJvXrFGRMCIMJdEA",
       "name": "MyPoroxy",
