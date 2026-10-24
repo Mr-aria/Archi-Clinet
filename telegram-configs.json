@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-24T21:01:39.077Z",
+  "updated": "2026-10-24T21:16:40.604Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.164:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=abuse.ozon.ru#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.771Z"
+    },
+    {
+      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.142:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gb.ozon.ru#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.771Z"
+    },
+    {
+      "url": "vless://5504eaa8-1395-402f-8e0e-75ecd762e627@188.114.98.0:443?path=%2Fsaosaosao&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delays%22%3A%5B%220%22%5D%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22maxSplit%22%3A%220%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%2C%7B%22settings%22%3A%7B%22delays%22%3A%5B%221%22%5D%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22maxSplit%22%3A%2211%22%2C%22packets%22%3A%221-1%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&insecure=0&host=nat9.outsidemyheart.space&fp=unsafe&type=ws&allowInsecure=0&sni=nat9.outsidemyheart.space#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.771Z"
+    },
+    {
+      "url": "vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv2.himoy.space:443?security=reality&encryption=none&pbk=AoPku9i0xSD2cCzJdPcUSSft8c_RkIZbsbP888VO938&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lv2.himoy.space&sid=287b3d62899669d7#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.770Z"
+    },
+    {
+      "url": "trojan://humanity@212.183.88.136:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.770Z"
+    },
+    {
+      "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@83.168.69.15:56229?security=reality&encryption=none&pbk=PQLbmvCHSAwuq_Ka1W-6gQxQA_vIjItozo3Jbqkg9Xk&fp=chrome&type=grpc&sni=github.com&sid=a411cc#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.770Z"
+    },
+    {
+      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.152:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=abuse.ozon.ru#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.770Z"
+    },
+    {
+      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.770Z"
+    },
+    {
+      "url": "vless://1ef7d97f-3aa5-0001-8521-84cf4794bf7a@92.53.119.212:40849?security=reality&encryption=none&pbk=jkVcZ_b3iWs2FcSjC8Mb1NoRuwPgCH9HpeOOYAXBSU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru-hub10.lovely.my#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.770Z"
+    },
+    {
+      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.147:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=abuse.ozon.ru#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-24T21:16:38.770Z"
+    },
     {
       "url": "vless://cd07%61%650d-f31d-4209-%610%614-d9d9cfcc%611%61d@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_%61z_ch%61nn%65l_N%55F%69L%54ER_8%69.glob%61l.ssl.f%61stly.n%65t.&type=ws&allowInsecure=0&sni=firefox.com#%40mehrosaboran",
       "name": "mehrosaboran",
@@ -29938,66 +29998,6 @@
     },
     {
       "url": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.104.143:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#%40iran_v2ray1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://1a524663-4a74-4aad-b530-8618a540d857@23.137.249.110:20365?security=none&encryption=none&headerType=none&type=tcp#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://721bacfe-ff09-4e63-a735-686015bc1351@nl-xh02.tcp-reset-club.net:8443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&type=xhttp&sni=s3.netavex.com&sid=e0#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://4c37df21-0a34-41bf-8bc7-78efd823c03b@shiny-salad-e491.479.workers.dev:8880?path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&encryption=none&type=ws#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://ff6d2dda-7b90-404e-9951-34b3124bfdfa@91.196.32.216:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=storage.yandexcloud.net&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.157.10.250:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&sid=6aa2d2e950441a9a#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@88.216.220.88:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://e99814a8-5cbe-49cd-9db4-da6471acc16c@46.8.224.224:51651?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D&pbk=3h0smoyWxXpTUfXGQtjSw4fiqCIchNte0Pv8ArhVfys&fp=chrome&spx=%2F74a81f703fc0999&type=xhttp&sni=youtubekids.com&sid=1b62faf51fb60f29#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://c425d205-a65d-483b-8d3d-75acf3d58e2f@qawsed741-production.up.railway.app:443?path=%2Fws%2Fc425d205-a65d-483b-8d3d-75acf3d58e2f&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=qawsed741-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=qawsed741-production.up.railway.app#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://588152b9-2452-4495-be14-4b44eae3aa1f@3cfb1b7e160a0559.de-1.globalmymusic.com:443?security=reality&encryption=mlkem768x25519plus.random.0rtt.100-111-1111.75-0-111.50-0-3333.ujGwPjrSYI7GdKHFCqCefmLjOscWkoX4m_3s_1yZrEo&pbk=lsDSttIgw1roTVhNzcliywH74lXtRShbmMOoxUjQtkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=malaco.nl&sid=b684d13617792bb2#%40Iran_v2ray1",
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.105Z"
