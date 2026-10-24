@@ -1,3 +1,6 @@
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbUc0NXJmYmt0OERBUGZQ@20.123.12.228:443#%F0%9F%87%AE%F0%9F%87%AA%40FreakConfig
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.152:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.ozon.ru&type=tcp#%F0%9F%90%9961@oneclickvpnkeys
 hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@2.26.48.112:2053/?sni=noway.luxes.network#%F0%9F%90%9962@oneclickvpnkeys
 vless://78559873-84ef-4cab-a0b2-46d4cd20de4a@179.255.190.43:8443?encryption=none&fp=firefox&path=%2Fassets&security=tls&sni=itly.yandex-api.store&type=ws#%F0%9F%90%9964@oneclickvpnkeys
@@ -4995,6 +4998,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22223?security=&encr
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22224?security=&encryption=none&headerType=&type=tcp#
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.147.45:22222?security=&encryption=none&headerType=&type=tcp#
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.147.45:22223?security=&encryption=none&headerType=&type=tcp#
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22223?security=&encryption=none&headerType=&type=tcp#
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22222?security=&encryption=none&headerType=&type=tcp#
-vless://3ee10440-225e-4cbc-83ed-3c80b90bcb07@188.114.98.0:2053?path=%2Fmovies%2F12345&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0TIaNxGWIbxIoNec1tr6yDGALPkxDwwKGufh98_tKAw&host=ovh-gr1.mahkhorshidi.ir&fp=chrome&type=ws&sni=ovh-gr1.mahkhorshidi.ir#
