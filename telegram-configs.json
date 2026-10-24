@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-24T19:00:33.834Z",
+  "updated": "2026-10-24T19:15:42.438Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%40V2ray_Alpha%F0%9F%92%AD%203",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-24T19:15:40.648Z"
+    },
+    {
+      "url": "vless://2f5cfa10-43e5-4912-800d-557308a26a29@45.95.96.198:443?security=reality&encryption=none&pbk=8RfEuI1RxxW1dqq2nbt6ssKwx7UdmgKW1nKL9OuilGs&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yw0ein72.cloudydigital.net&sid=0492eabdb9#%40V2ray_Alpha%F0%9F%92%AD%205",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-24T19:15:40.648Z"
+    },
+    {
+      "url": "vless://7ce594b9-918b-441d-922c-230341838abd@72.56.88.181:443?security=reality&encryption=none&pbk=EkBRN12aZMx4Q_FCOcxB9KuzMkgLSBswmkDycnaTZWM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl2.xshoponline.ru&sid=1a917cfae106f7dd#%40V2ray_Alpha%F0%9F%92%AD%207",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-24T19:15:40.648Z"
+    },
+    {
+      "url": "vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#%40V2ray_Alpha%F0%9F%92%AD%209",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-24T19:15:40.648Z"
+    },
+    {
+      "url": "trojan://humanity@108.162.194.134:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40V2ray_Alpha%F0%9F%92%AD%2011",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-24T19:15:40.648Z"
+    },
+    {
+      "url": "vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?mode=gun&security=reality&encryption=none&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#%40V2ray_Alpha%F0%9F%92%AD%2012",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-24T19:15:40.648Z"
+    },
     {
       "url": "vless://06dbe829-7f11-4b64-9443-ae3a959f48d5@lxybfcdlgj.falqiro.ir:2096?path=%2F&security=tls&encryption=none&insecure=0&host=Tun.pasarguardspeed.ir&type=ws&allowInsecure=0&sni=Tun.pasarguardspeed.ir#telegram%20%40mtmvpn",
       "name": "proxy_mtm",
@@ -29965,42 +30001,6 @@
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.104Z"
-    },
-    {
-      "url": "trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.104Z"
-    },
-    {
-      "url": "vless://238e492b-bc20-4380-92b6-135d39112ca4@185.154.193.137:443?security=reality&encryption=none&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api8.eaglors.com&sid=52ccb3687fe0b7ec#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.104Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.901Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.901Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.901Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.901Z"
     }
   ]
 }
