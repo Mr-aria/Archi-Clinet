@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24T10:01:34.339Z",
+  "updated": "2026-10-24T10:31:36.372Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://Telegram_healer_config@188.114.97.3:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&path=/tr/ox5zBiRQjs2Rscy0XwxXY2ZzE%3Fed%3D2560&security=tls&sni=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-24T10:31:34.050Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-24T10:31:34.050Z"
+    },
     {
       "url": "ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@50.7.41.118:17001#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://7474b6d6-d6d1-42d6-a0b1-a591a01ffedc@46.225.2.249:41400?security=&encryption=none&headerType=none&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://e2ec5d3e-034a-4bf6-9779-476ab11be368@4.185.65.116:443?security=reality&encryption=none&pbk=uwCuaFoMJyLGncdCiHE8nj6DwzmEpR4Vfu5eAcOIHRg&headerType=none&fp=chrome&spx=%2F04aa20476d1f614&type=tcp&sni=dl.l.google.com&sid=eeb3335685f670#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T12:32:40.900Z"
-    },
-    {
-      "url": "vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@13.143.166.18:443?security=reality&encryption=none&pbk=0F1gTB2erb0KWXeMUp06kbj887WVHYd3lt-i8OSHBCI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=84fe6d42d253f1b1#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T12:32:40.900Z"
