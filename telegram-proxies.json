@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-23T19:30:34.312Z",
-  "count": 1121,
+  "updated": "2026-10-24T06:00:31.833Z",
+  "count": 1122,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=male58.mosswren.vip&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6d616c6535382e6d6f73737772656e2e766970",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-24T06:00:30.238Z"
+    },
     {
       "url": "https://t.me/proxy?server=Ariobarzanes.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
