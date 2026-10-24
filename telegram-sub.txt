@@ -1,3 +1,5 @@
+trojan://Telegram_healer_config@188.114.97.3:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&path=/tr/ox5zBiRQjs2Rscy0XwxXY2ZzE%3Fed%3D2560&security=tls&sni=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&type=ws#
+ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#
 ss://YWVzLTI1Ni1nY206STZvOU5uaWFsWUxNRWpWdDI4UkY0ZHBqbXI5d012Tkw=@50.7.41.118:17001#
 vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&security=reality&sid=52c723e0fad49689&sni=www.nvidia.com&type=tcp#%F0%9F%90%9931@oneclickvpnkeys
 hysteria2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?sni=promo.betust.net#%F0%9F%90%9932@oneclickvpnkeys
@@ -4996,5 +4998,3 @@ vless://2acc3742-c568-11f1-9902-a337233c6cda@fr5.wizard.select:443?security=real
 vless://e2ec5d3e-034a-4bf6-9779-476ab11be368@4.185.65.116:443?security=reality&encryption=none&pbk=uwCuaFoMJyLGncdCiHE8nj6DwzmEpR4Vfu5eAcOIHRg&headerType=&fp=chrome&spx=%2F04aa20476d1f614&type=tcp&sni=dl.l.google.com&sid=eeb3335685f670#
 vless://cebcaf04-c567-11f1-9902-a337233c6cda@de5.wizard.select:443?security=reality&encryption=none&pbk=KIawAxTmmnz2tLnTg26djq1f20QSgBzy9y2mp9HCiFA&headerType=none&fp=qq&spx=%2FNZgdns7FnUvDZwJ&type=tcp&flow=xtls-rprx-vision&sni=de5.wizard.select&sid=c4a866#
 vless://7474b6d6-d6d1-42d6-a0b1-a591a01ffedc@46.225.2.249:41400?security=&encryption=none&headerType=none&type=tcp#
-vless://e2ec5d3e-034a-4bf6-9779-476ab11be368@4.185.65.116:443?security=reality&encryption=none&pbk=uwCuaFoMJyLGncdCiHE8nj6DwzmEpR4Vfu5eAcOIHRg&headerType=none&fp=chrome&spx=%2F04aa20476d1f614&type=tcp&sni=dl.l.google.com&sid=eeb3335685f670#
-vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@13.143.166.18:443?security=reality&encryption=none&pbk=0F1gTB2erb0KWXeMUp06kbj887WVHYd3lt-i8OSHBCI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=84fe6d42d253f1b1#
