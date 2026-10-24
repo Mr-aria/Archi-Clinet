@@ -1,6 +1,6 @@
-{
-  "versionCode": 28,
-  "versionName": "2.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.4.0-arm64.apk",
-  "changelog": "-"
-}
+2.6.0
+تاریخ: 2026-10-24
+تغییرات:
+- دکمه «دریافت از ربات بله» در تب ذخیره‌شده‌ها (کار روی نت ملی)
+- ایمپورت مستقیم فایل .archicollector از share-sheet (از ربات بله)
+- ربات بله: ارسال آخرین کانفیگ‌ها و پروکسی‌ها به‌صورت فایل
