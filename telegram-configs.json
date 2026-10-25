@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-24T21:16:40.604Z",
+  "updated": "2026-10-25T00:45:41.113Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/cart/docs/www/proxyip=108.160.132.132fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T00:45:38.227Z"
+    },
     {
       "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.164:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=abuse.ozon.ru#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://9f44d517-29f2-4c6d-cc06-a1268f13da58@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#%40iran_v2ray1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.105Z"
-    },
-    {
-      "url": "vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@162.35.104.143:443?security=reality&encryption=none&pbk=pX9uknHGLC9I26TT5kq4bIAljtX2AGWLK23EMgn6xFo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sheetpeek.com&sid=84be686ea1d16478#%40iran_v2ray1%20%F0%9F%8C%9F",
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.105Z"
