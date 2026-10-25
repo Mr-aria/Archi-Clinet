@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-25T19:16:33.391Z",
-  "count": 1166,
+  "updated": "2026-10-25T19:46:44.076Z",
+  "count": 1167,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=65.109.147.34&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "MineProxy",
+      "source": "MineProxy",
+      "date": "2026-10-25T19:46:35.531Z"
+    },
     {
       "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=c2306cc18b50682b28b0575117ec215a",
       "name": "V2rayng_Fast",
