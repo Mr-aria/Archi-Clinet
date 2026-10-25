@@ -33,7 +33,7 @@
     "V2ray_official": 10019,
     "IRAN_V2RAY1": 11352,
     "Hope_Net": 94300,
-    "V2rayng_Fast": 26650,
+    "V2rayng_Fast": 26651,
     "icv2ray": 8785,
     "oneclickvpnkeys": 27406,
     "iRoProxy": 58113,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 9579,
   "totalProxies": 952,
-  "runCount": 585
+  "runCount": 586
 }
