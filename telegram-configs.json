@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-25T10:00:37.073Z",
+  "updated": "2026-10-25T10:01:35.322Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&encryption=none&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.lamer.com.sg&sid=28f5c1f8f98a#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-10-25T10:01:30.306Z"
+    },
     {
       "url": "vless://ea96f2f2-7320-4f51-87d8-f7f60f57a19e@31.14.116.90:2087?mode=auto&path=%2Fapi-ai-token&security=reality&encryption=mlkem768x25519plus.native.0rtt.UCefWu4YoF-jHuKn0MBMphL7jG0WW_L_nuVCGPRpPUM&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=3NIri8KMT7DE0dh_I2cXdZMKAVo6MIdvktMHmUHl1nk&fp=chrome&spx=%2F109c1496f72350a&type=xhttp&sni=play.google.com&sid=0a#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Proxy_mtm",
       "name": "proxy_mtm",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://126fdbae-bb34-5882-a40c-fb60c5ea4afb@149.202.57.89:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAwMCIsInBzIjoiQElSQU5fVjJSQVkxIPCfjJ8iLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.108Z"
