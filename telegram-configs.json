@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-25T10:15:31.767Z",
+  "updated": "2026-10-25T10:46:40.029Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-10-25T10:46:36.689Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjFhOTo6MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzYTk2NmQyMC03YjlkLTQ4Y2MtYmEyYy04ZDM4MTYxYjZkM2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTktbmV3cGFjL2ZhbnFpYW5nIiwicG9ydCI6IjE4OTAxIiwicHMiOiLimqFAVjJyYXlfb2ZmaWNpYWwiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-10-25T10:46:36.689Z"
+    },
     {
       "url": "vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@pl3.himoy.space:443?security=reality&encryption=none&pbk=Smu2KKOBtbIEX1mL4t6_-aRTM-bAnjxTuMtWI_hwdBo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl3.himoy.space&sid=9f986e5d07683c45#Tel-%40ProxyMtAlpha%F0%9F%9A%9A%204",
       "name": "V2ray_Alpha",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vmess://eyJhZGQiOiJmaW4tMy5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDVkNWM4NDQtZDk5ZS00MWQyLWE1YjktNzAxYWRmNTk3NDk4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NjI2OCIsInBzIjoiQElSQU5fVjJSQVkxIPCfjJ8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "vless://033f2049-ce15-45bc-a638-4c6318ee45df@sakura.proxy.rlwy.net:27219?path=%2F&security=none&encryption=none&type=ws#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206anIrVDJSUzBzQ0hCbUM0dTZhWTZWZz09@172.86.108.79:30832#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.108Z"
