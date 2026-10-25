@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-25T10:46:40.029Z",
+  "updated": "2026-10-25T11:00:34.234Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.83.199:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-25T11:00:32.635Z"
+    },
     {
       "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#",
       "name": "V2ray_official",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://f9ba429b-75c8-4b23-a625-b34b4a9a0830@dns4.m3hrzd.ir:8055?security=reality&encryption=none&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=race.egistration.ir&sid=967a1145531e3868#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJmaW4tMy5wb3ZyYWsuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDVkNWM4NDQtZDk5ZS00MWQyLWE1YjktNzAxYWRmNTk3NDk4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NjI2OCIsInBzIjoiQElSQU5fVjJSQVkxIPCfjJ8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.108Z"
