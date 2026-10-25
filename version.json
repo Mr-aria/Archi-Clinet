@@ -1,0 +1,6 @@
+{
+  "versionCode": 32,
+  "versionName": "2.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.8.0-arm64.apk",
+  "changelog": "خواندن ساب‌های اصلی و اطلاعات آپدیت از لایت‌بیس (اینترنت ملی) + درست شدن چک آپدیت با version.json"
+}
