@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-25T09:15:35.014Z",
+  "updated": "2026-10-25T09:45:33.320Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T09:45:32.133Z"
+    },
+    {
+      "url": "vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=chrome&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T09:45:32.133Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@location8.cpanel-host10.ir:56134#Tel%40MARAMBASHI%20%F0%9F%A9%B5",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T09:45:31.698Z"
+    },
+    {
+      "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@201.51.8.163:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=atk.vkusnews.com#Tel%40MARAMBASHI%20%F0%9F%A9%B5",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T09:45:31.698Z"
+    },
+    {
+      "url": "vless://3644635c-f8c4-449c-a665-fce1897a7bf3@66.90.115.124:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#Tel%40MARAMBASHI%20%F0%9F%A9%B5",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T09:45:31.698Z"
+    },
+    {
+      "url": "vless://7ce594b9-918b-441d-922c-230341838abd@72.56.88.181:443?security=reality&encryption=none&pbk=EkBRN12aZMx4Q_FCOcxB9KuzMkgLSBswmkDycnaTZWM&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl2.xshoponline.ru&sid=1a917cfae106f7dd#Tel%40MARAMBASHI%20%F0%9F%A9%B5",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T09:45:31.698Z"
+    },
+    {
+      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru#Tel%40MARAMBASHI%20%F0%9F%A9%B5",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T09:45:31.698Z"
+    },
     {
       "url": "vless://7ce594b9-918b-441d-922c-230341838abd@72.56.88.181:443?security=reality&encryption=none&pbk=EkBRN12aZMx4Q_FCOcxB9KuzMkgLSBswmkDycnaTZWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl2.xshoponline.ru&sid=1a917cfae106f7dd#",
       "name": "Farah_VPN",
@@ -29959,48 +30001,6 @@
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.107Z"
-    },
-    {
-      "url": "vless://d2519b5e-495e-462e-9703-bbf68011d2f3@fzjo.fbbv.electrocitymarket.ru:443?mode=stream-up&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=xhttp&allowInsecure=0&sni=fzjo.fbbv.electrocitymarket.ru#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.107Z"
-    },
-    {
-      "url": "vless://f774f037-6320-42e3-a97b-6d4a1f018dd5@2.28.142.170:443?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.Y0-j5e-CpehUKzhEeat1dTYevroKyHV4g9HML3ujmlQ&pbk=IqFTx4k5VQydmffvavaOHDXBtdgDxX26A6NtsVvDfhw&host=germanytest.tulnaro.ir&type=xhttp&sni=germanytest.tulnaro.ir&sid=d485c3d5248d6b51#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.107Z"
-    },
-    {
-      "url": "vless://5e3f974b-06fc-4555-907a-6681391b7c17@private.netraidly.ru:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.107Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFFobUJMSnpoS28ySkhS@20.234.96.89:443#%40iran_v2ray1",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.106Z"
-    },
-    {
-      "url": "vless://e3226beb-dac0-41cb-b0f2-39779f8c9def@de20.bexait.ir:2434?security=reality&encryption=none&pbk=yzCvRpbQ-cRePaJAuQkw42_xEf-R860gFsQwoPki2E0&headerType=none&fp=chrome&type=tcp&sni=icloud.com&sid=9de041877612a718#%40iran_v2ray1",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.106Z"
-    },
-    {
-      "url": "vless://e3226beb-dac0-41cb-b0f2-39779f8c9def@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=yaSharClass.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40iran_v2ray1",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.106Z"
-    },
-    {
-      "url": "vless://47f79fc1-0646-40e8-8a58-73e85d183d5a@64.188.126.56:43000?security=reality&encryption=none&pbk=jjbMUO41S9JE7ou_zbbDStzSYLzJVN_0O-j0f6b380E&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=64.188.126.56&sid=bf4e20af99d3042d#%40iran_v2ray1",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.106Z"
     }
   ]
 }
