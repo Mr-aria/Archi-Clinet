@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "2.8.0",
-  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.8.0-arm64.apk",
-  "changelog": "خواندن ساب‌های اصلی و اطلاعات آپدیت از لایت‌بیس (اینترنت ملی) + درست شدن چک آپدیت با version.json"
+  "versionCode": 33,
+  "versionName": "2.8.1",
+  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.8.1-arm64.apk",
+  "changelog": "حذف دکمه تست میرورها + گزینه «استفاده از میرورها» (وقتی گیت‌هاب وصل نیست، به میرورها وصل شو یا نه)"
 }
