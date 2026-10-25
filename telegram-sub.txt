@@ -1,3 +1,4 @@
+trojan://Telegram_healer_config@104.21.70.21:443?sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&alpn=http/1.1&type=ws&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&path=/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560#
 vless://d342d11e-d224-4463-b982-532309285094@143.198.76.78:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#
 vless://530baed3-3c7f-4b73-b8ce-5dba0d8fddfb@mira.sheikhiedu.ir:8080?&fp=chrome&sni=mira.sheikhiedu.ir&type=ws&headerType=none&host=mira.sheikhiedu.ir&path=%2Fcfd#
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TGRvdk9jaFhmNFRIakRNSzJHZjBuZDJ0Y25sVDI4R3hkekgrcjg4NUNCST06bnJHNjhJZkFzeXJUNUlTTDVOOFQwbEMrUjNZRVFxWC9hRlN6dFZRR0FkVT0@31.57.185.124:47767#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AA
@@ -4997,4 +4998,3 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@219.76.13.183:443?path=%2F&security
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.168.43.27:54063?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=zdyd.kpcloud.eu.org#@Hope_Net-join-us-on-Telegram
 vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c#@Hope_Net-join-us-on-Telegram
 trojan://361f238c-ed2a-418d-8c1d-45d6f0e8abe2@hk3.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?allowInsecure=1&sni=hk3.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen#@Hope_Net-join-us-on-Telegram
-vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.155.146:80?type=ws&host=kr1.175852.xyz&path=/abcde#@Hope_Net-join-us-on-Telegram
