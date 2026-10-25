@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-25T11:15:35.857Z",
+  "updated": "2026-10-25T11:45:34.012Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://69da3674-4941-468b-96f0-c17cf5b0a047@179.255.176.28:8443?&security=tls&fp=firefox&sni=fra.yandex-api.store&type=ws&headerType=none&path=%2Fassets#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T11:45:32.805Z"
+    },
+    {
+      "url": "vless://10c3b62f-59da-55cb-b24f-2072ecb4348c@69.46.46.223:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=service-453728-7467c1-production.up.railway.app&type=ws&headerType=none&host=service-453728-7467c1-production.up.railway.app&path=%2Fws%2FDefault#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T11:45:32.805Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiJkb2ctanAua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDE2IiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.91.248.127:8443?mode=gun&security=reality&encryption=none&pbk=75SvxhvlOLct7K2eSg4-a1o6Z6N3JMTqp3wIQmLSqTA&fp=chrome&type=grpc&serviceName=grpc-api-v2&sni=node.nodebrcsp.ru&sid=8c609726e0233f08#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "vless://fc12fb20-4380-11ec-8c97-d707e267af0b@hk03.ccdn3.work:795?security=reality&encryption=none&pbk=y_DoQCjABoe8YBWpEbBTTQJp8d62WJc_-vNUzKgwtS8&host=i1.hdslb.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i1.hdslb.com&sid=fec557fa67449ccc#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.108Z"
