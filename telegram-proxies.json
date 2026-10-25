@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-25T19:46:44.076Z",
-  "count": 1167,
+  "updated": "2026-10-25T20:45:35.897Z",
+  "count": 1169,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir-ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-10-25T20:45:29.786Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=159.69.185.55&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-10-25T20:45:29.650Z"
+    },
     {
       "url": "https://t.me/proxy?server=65.109.147.34&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
       "name": "MineProxy",
