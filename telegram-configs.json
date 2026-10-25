@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-25T17:00:33.331Z",
+  "updated": "2026-10-25T17:15:39.492Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://a441c530-8c8b-4ef9-8d98-0571ad49c433@85.9.209.229:8880?security=reality&encryption=none&pbk=7ftU0SggASCqf9TsUminHpucXB1LEQ1dPrcYFV7Dny4&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=www.forvo.com#Tel%40MARAMBASHI%20%20%F0%9F%87%B8%F0%9F%87%AC",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T17:15:35.697Z"
+    },
+    {
+      "url": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?security=reality&encryption=none&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a25d0f#Tel%40MARAMBASHI%20%20%F0%9F%87%B8%F0%9F%87%AC",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T17:15:35.697Z"
+    },
+    {
+      "url": "vless://57c87188-1056-4bd5-92f8-c7ca1fd19147@193.160.140.117:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Tel%40MARAMBASHI%20%20%F0%9F%87%B8%F0%9F%87%AC",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T17:15:35.697Z"
+    },
+    {
+      "url": "vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@167.104.223.215:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb2.murainternet.network&sid=fc36b4a584871aa5#Tel%40MARAMBASHI%20%20%F0%9F%87%B8%F0%9F%87%AC",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T17:15:35.697Z"
+    },
+    {
+      "url": "vless://5545d204-13f5-4e3e-af5c-4ded2b945743@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=albaniaoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AC",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T17:15:35.697Z"
+    },
+    {
+      "url": "vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@188.114.97.6:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AC",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-25T17:15:35.697Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.101.244:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29965,42 +30001,6 @@
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.102.65:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.470Z"
-    },
-    {
-      "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.95.253:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.470Z"
-    },
-    {
-      "url": "vless://01c6ab80-7b8d-456e-ad8b-9540538ebd09@162.159.153.2:8443?security=tls&sni=telegram-falcunargo-finl.falcunar.asso.eu.org&type=ws&host=telegram-falcunargo-finl.falcunar.asso.eu.org&fp=chrome#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.470Z"
-    },
-    {
-      "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.117.125:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.470Z"
-    },
-    {
-      "url": "vless://d56bbcc0-58b2-452a-ad38-f3157410d267@195.96.135.199:22004?security=none&type=tcp#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.470Z"
-    },
-    {
-      "url": "vless://7d96f544-c496-41cf-dd61-337f0aff062a@104.17.111.103:80?type=ws&host=kr1.175852.xyz&path=/abcde#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.470Z"
     }
   ]
 }
