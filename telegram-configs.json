@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-25T07:00:35.658Z",
+  "updated": "2026-10-25T07:15:38.577Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://9ba53795-4356-40ab-8067-76ec2ae2a3d8@santehdv.site:443?&security=tls&fp=edge&alpn=http%2F1.1&sni=santehdv.site&type=ws&headerType=none&host=santehdv.site&path=%2Fmedia%2Fstream%2FE2QlYgrvniT_#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T07:15:36.272Z"
+    },
+    {
+      "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-nl-1.nztpro.com&fp=firefox&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&sid=25f4a40b9fdd9780&type=tcp&headerType=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T07:15:36.272Z"
+    },
+    {
+      "url": "vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&encryption=none&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=e6#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T07:15:36.272Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.99.248:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://4b3df39e-94a1-4e7e-957a-d3f9befc6b87@91.107.185.32:80?mode=stream-up&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.106Z"
-    },
-    {
-      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.106Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.106Z"
-    },
-    {
-      "url": "vless://9eb6abc0-8423-4ff6-efb3-7603ddfb9636@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.106Z"
