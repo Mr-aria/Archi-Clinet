@@ -1,3 +1,5 @@
+vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chro
 trojan://Telegram_healer_config@104.21.70.21:443?sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&alpn=http/1.1&type=ws&host=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&path=/tr/J6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560#
 vless://d342d11e-d224-4463-b982-532309285094@143.198.76.78:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#
@@ -4996,5 +4998,3 @@ vmess://eyJhZGQiOiAiMTA0LjE3LjE5Ny4zMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.89:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xind.ylks.link#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@219.76.13.183:443?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.168.43.27:54063?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=zdyd.kpcloud.eu.org#@Hope_Net-join-us-on-Telegram
-vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c#@Hope_Net-join-us-on-Telegram
