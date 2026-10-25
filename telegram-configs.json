@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-25T21:16:44.436Z",
+  "updated": "2026-10-25T23:45:35.404Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T23:45:33.637Z"
+    },
+    {
+      "url": "trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T23:45:33.637Z"
+    },
     {
       "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chro",
       "name": "V2rayng_Fast",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@219.76.13.183:443?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@104.168.43.27:54063?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=zdyd.kpcloud.eu.org#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://26a1e667-19e3-4817-bec9-80122da80675@5.42.82.167:443?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=JfjZapoZVCvAfLcULqEVuYH57CFQmGOnckAXHlOHcVo&sid=ce30532c#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
