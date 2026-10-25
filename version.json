@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "2.8.1",
-  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.8.1-arm64.apk",
-  "changelog": "حذف دکمه تست میرورها + گزینه «استفاده از میرورها» (وقتی گیت‌هاب وصل نیست، به میرورها وصل شو یا نه)"
+  "versionCode": 34,
+  "versionName": "2.8.2",
+  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.8.2-arm64.apk",
+  "changelog": "سطح api.github.com به زنجیره میرور اضافه شد (بعد از گیت‌هاب مستقیم، قبل از jsDelivr)؛ فقط وقتی «استفاده از میرورها» روشن است"
 }
