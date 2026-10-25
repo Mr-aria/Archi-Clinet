@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-25T20:45:35.897Z",
-  "count": 1169,
+  "updated": "2026-10-25T23:00:37.511Z",
+  "count": 1170,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=www.gigimystore.ir.&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-10-25T23:00:32.099Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir-ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "MTP_roto",
