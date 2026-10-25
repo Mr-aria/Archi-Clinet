@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-24T20:01:40.778Z",
-  "count": 1146,
+  "updated": "2026-10-25T05:01:39.977Z",
+  "count": 1148,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=Rakhsh.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-25T05:01:34.448Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=Pooriyaye-vali.ir.igakwvwa.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-25T05:01:34.448Z"
+    },
     {
       "url": "https://t.me/proxy?server=Sorena.ir.igakwvwa.info&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
