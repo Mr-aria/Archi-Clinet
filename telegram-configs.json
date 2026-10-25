@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-25T13:00:35.698Z",
+  "updated": "2026-10-25T13:15:32.438Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@150.241.72.161:443?sni=b6i5po18lw.hat.onl&type=grpc&serviceName=live.gpuwxc84nl.chunk-4022.m4s&fp=firefox&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-25T13:15:31.081Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.119.246:22222?encryption=none&security=none&type=tcp#(S104",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?security=reality&encryption=none&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=46455ff0#%40IRAN_V2RAY1",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40IRAN_V2RAY1",
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.108Z"
