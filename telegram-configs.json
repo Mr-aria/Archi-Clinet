@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-25T09:46:32.493Z",
+  "updated": "2026-10-25T10:00:37.073Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://ea96f2f2-7320-4f51-87d8-f7f60f57a19e@31.14.116.90:2087?mode=auto&path=%2Fapi-ai-token&security=reality&encryption=mlkem768x25519plus.native.0rtt.UCefWu4YoF-jHuKn0MBMphL7jG0WW_L_nuVCGPRpPUM&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=3NIri8KMT7DE0dh_I2cXdZMKAVo6MIdvktMHmUHl1nk&fp=chrome&spx=%2F109c1496f72350a&type=xhttp&sni=play.google.com&sid=0a#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Proxy_mtm",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-10-25T10:00:36.512Z"
+    },
+    {
+      "url": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Proxy_mtm",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-10-25T10:00:36.512Z"
+    },
+    {
+      "url": "vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%36%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Proxy_mtm",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-10-25T10:00:36.512Z"
+    },
+    {
+      "url": "vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm&security=tls&encryption=none&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%37%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Proxy_mtm",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-10-25T10:00:36.512Z"
+    },
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3FTelegram---proxy_mtm---proxy_mtm---proxy_mtm---proxy_mtm&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20Proxy_mtm",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-10-25T10:00:36.512Z"
+    },
     {
       "url": "vless://653137c6-474e-4a3d-9a20-5a5afb3d4a4f@5.175.205.190:27774?encryption=none&security=none&type=tcp#%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB31@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29971,36 +30001,6 @@
       "name": "IRAN_V2RAY1",
       "source": "IRAN_V2RAY1",
       "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.108Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiI5MS4xMDcuMTYyLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjAyMzI2MDdjLTUxMDAtNGExMC1hMzg3LTMzYTZhNDJiMWYyMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoiQElSQU5fVjJSQVkxIPCfjJ8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.107Z"
-    },
-    {
-      "url": "vless://0f4081e7-612b-425f-8def-eebf144aedba@149.86.227.200:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=waypoint.connectserverix.com&sid=9e15546f267baa64#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.107Z"
-    },
-    {
-      "url": "vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@94.228.160.245:443?security=reality&encryption=none&pbk=BPV8HJ-kqcYDM4o7BDXDv3M9VAMWStDfXkkXmyPICWQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-03-10.zetnik.site&sid=88e13e67db3f1a32#%40IRAN_V2RAY1%20%F0%9F%8C%9F",
-      "name": "IRAN_V2RAY1",
-      "source": "IRAN_V2RAY1",
-      "date": "2026-10-22T12:32:49.107Z"
     }
   ]
 }
