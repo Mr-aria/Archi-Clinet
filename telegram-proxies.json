@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-25T06:31:44.662Z",
-  "count": 1150,
+  "updated": "2026-10-25T09:15:38.805Z",
+  "count": 1152,
   "proxies": [
+    {
+      "url": "tg://proxy?server=5.78.77.99&port=443&secret=ee00000000000000000000000000000000616e6e6173682e636f6d",
+      "name": "free_netplus",
+      "source": "free_netplus",
+      "date": "2026-10-25T09:15:32.649Z"
+    },
+    {
+      "url": "tg://proxy?server=5.78.77",
+      "name": "free_netplus",
+      "source": "free_netplus",
+      "date": "2026-10-25T09:15:32.649Z"
+    },
     {
       "url": "https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e726564666c61672e79617a616562616c73796164656c617470726f78792e766970",
       "name": "ProxyMTProto",
