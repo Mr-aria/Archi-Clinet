@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-25T17:00:39.025Z",
-  "count": 1161,
+  "updated": "2026-10-25T19:16:33.391Z",
+  "count": 1166,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=c2306cc18b50682b28b0575117ec215a",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-25T19:16:32.177Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=08a7adadd1d7317bc0c5a187e95c1e75",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-25T19:16:32.177Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=4f3c828aa2cc2e9897c71478a7f9104e",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-25T19:16:32.177Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=16c70301d213d59dcb522f3c7e17045f",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-25T19:16:32.177Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=age.nine11.art&port=443&secret=2a881c60852b7dd618a1910d57861ff6",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-25T19:16:32.177Z"
+    },
     {
       "url": "https://t.me/proxy?server=aparat.com.filimo.com.namava.ir.telewebion.com.ghoostbusters.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "proxy_mtm",
