@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-26T14:00:37.741Z",
-  "count": 1183,
+  "updated": "2026-10-26T14:15:41.568Z",
+  "count": 1184,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-10-26T14:15:30.445Z"
+    },
     {
       "url": "https://t.me/proxy?server=sakura.proxy.rlwy.net&port=48088&secret=ee45251916cf33397f4488907a716de7cd7777772e636c6f7564666c6172652e636f6d",
       "name": "BlueKnight_Net",
