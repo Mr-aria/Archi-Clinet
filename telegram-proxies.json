@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-26T11:00:41.511Z",
-  "count": 1179,
+  "updated": "2026-10-26T11:45:38.767Z",
+  "count": 1181,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=cdn1.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-10-26T11:45:31.710Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=cdn1.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-10-26T11:45:31.710Z"
+    },
     {
       "url": "https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw",
       "name": "MyPoroxy",
