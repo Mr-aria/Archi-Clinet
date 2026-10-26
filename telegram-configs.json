@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-25T23:45:35.404Z",
+  "updated": "2026-10-26T00:15:31.414Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://7b102311-43fd-4e8f-877e-8090623c101d@103.102.228.113:443?sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/TelegramU0001F1E8U0001F1F3",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T00:15:30.327Z"
+    },
     {
       "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.090227.xyz:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@219.76.13.183:443?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
