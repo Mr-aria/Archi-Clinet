@@ -1,4 +1,5 @@
-vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@167.82.64.64:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
+vless://9e3132b8-b595-444a-833a-2de44789f9d7@103.71.22.234:8443?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chrome&security=tls#
+vless://5ec50dc8-fba8-42ad-b427-e51193bc5c2a@146.75.57.238:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=looaloooibamoooijji.global.ssl.fastly.net.&path=%2F#
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.199.59:22222?encryption=none&security=none&type=tcp#(S101
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?encryption=none&type=tcp&security=tls&headerType=none&sni=186.190.211.188&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnV1hoUmJHb0k1M2FTUlY4ZnY5YWxNd3I@216.128.153.186:443#
@@ -4997,4 +4998,3 @@ trojan://euEUAqUnKhIX@18.226.163.196:15349?allowInsecure=0&sni=appsvs.shop#@Hope
 vmess://eyJhZGQiOiAic2ctZnVsbC5wcml2YXRlaXAubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImVjYjkwZDZlLTFiYmYtNDJlYy1hNzQyLTgyMmZhZDY5MzZkYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUkFDRVZQTiIsICJwb3J0IjogIjQ0MyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0ifQ==
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.53:9090#@Hope_Net
 vless://Tel_VPNCUSTOMIZE@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram
-vless://b8b1cad2-af20-4e44-9347-49af03908474@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#@Hope_Net-join-us-on-Telegram
