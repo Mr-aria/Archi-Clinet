@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-26T00:15:31.414Z",
+  "updated": "2026-10-26T00:45:32.397Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.107.155.76:2053?&security=tls&fp=chrome&sni=cdn8848.776676.xyz&type=ws&headerType=none&host=cdn8848.776676.xyz&path=%2Ftv%2Fmember%2Fauth%3Fed%3D2560#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T00:45:31.227Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T00:45:31.227Z"
+    },
     {
       "url": "vless://7b102311-43fd-4e8f-877e-8090623c101d@103.102.228.113:443?sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/TelegramU0001F1E8U0001F1F3",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vmess://eyJhZGQiOiAiMTA0LjE3LjE5Ny4zMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogInF1aWV0LW1vb24tMTMyYS54ZXRhZzQyNzE0LndvcmtlcnMuZGV2IiwgImlkIjogIjQ0MWRhMzQyLWNlOTAtNDQxZS1iZmY5LWQyY2ViNTVlNjhjYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaXZpZGVvcy5zYnMvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJxdWlldC1tb29uLTEzMmEueGV0YWc0MjcxNC53b3JrZXJzLmRldiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSJ9",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@192.200.160.89:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=xind.ylks.link#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.222:2087?path=%2F&security=tls&encryption=none&type=ws&sni=a.ssll.gay#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
