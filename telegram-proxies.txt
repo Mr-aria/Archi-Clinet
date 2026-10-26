@@ -1,3 +1,4 @@
+https://t.me/proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=ramane52.mosswren.vip&port=443&secret=eeae5ab45be1bccbba85eec21085b2fd2072616d616e6535322e6d6f73737772656e2e766970
 https://t.me/proxy?server=ir-ir.xeonxu.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=redflag.yazaebalsyadelatproxy.vip&port=443&secret=eecd7b5204a28b47f7cc34c67357433608726564666c61672e79617a616562616c73796164656c617470726f78792e766970
