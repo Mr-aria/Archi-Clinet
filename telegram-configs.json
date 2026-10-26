@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-26T04:15:32.731Z",
+  "updated": "2026-10-26T04:45:33.909Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://a08b9c24-3252-4f7f-afa9-4a37040950fd@193.160.208.137:443?encryption=none&security=reality&sni=api.hexagonicfield.com&fp=random&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=a1b2c3d4e5f6a7b8&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T04:45:32.576Z"
+    },
+    {
+      "url": "vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&type=tcp&headerType=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T04:45:32.576Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T04:45:32.576Z"
+    },
     {
       "url": "vless://7aec627e-a258-4ded-9fd9-fbd7c024f950@151.242.85.236:443?security=reality&type=tcp&packetEncoding=xudp&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&sid=9b6fa4047c24629f&pbk=gUu1n11Ef_GEoatNQzJJucvIjGTt4qxOWdxMzjoHwDM#",
       "name": "Farah_VPN",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.251.240.229:34237?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "trojan://telegram-id-directvpn@52.210.148.199:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@188.244.122.58:443?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.20:2082?path=%2F&security=none&encryption=none&host=h13.%E4%BA%BA%E6%B0%91%E7%9A%84%E9%A2%86%E8%A2%96.com.&type=ws#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
