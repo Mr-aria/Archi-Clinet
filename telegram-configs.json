@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-26T02:45:37.709Z",
+  "updated": "2026-10-26T03:45:36.606Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T03:45:34.468Z"
+    },
+    {
+      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8880?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T03:45:34.468Z"
+    },
     {
       "url": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=au2.pad-sservice.lat&type=ws&headerType=none&host=au2.pad-service.com&path=%2FA11U#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://8810010d-dacf-4cad-a54a-89e5aceda0f2@193.233.80.34:8443?security=reality&sni=discordapp.com&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS40Mi40OSIsICJwb3J0IjogIjIwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMS4xNDU3MjMwLnh5eiIsICJ0bHMiOiAiIn0=",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS41OS44OSIsICJwb3J0IjogIjIwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTQuZnJlZWdyYWRlbHkueHl6IiwgInRscyI6ICIifQ==",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
