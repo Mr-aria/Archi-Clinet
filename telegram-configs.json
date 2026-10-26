@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-26T12:15:35.201Z",
+  "updated": "2026-10-26T12:47:00.081Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-26T12:46:57.611Z"
+    },
+    {
+      "url": "vless://a756c39b-da0c-4195-94fd-f2a35e37622a@103.91.147.203:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-26T12:46:57.611Z"
+    },
+    {
+      "url": "trojan://humanity@109.234.211.232:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-26T12:46:57.611Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiI0NS4xNDQuNDguMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZDhmNDViYmItZTg0ZC00YWQ1LWFhNjMtOTcwZjEzNDViMTY0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1NzA3MiIsInBzIjoiSUNWMlJBWUAgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-26T12:46:57.611Z"
+    },
+    {
+      "url": "vless://9ea8b000-58ce-4f71-b108-989dd4f248f1@13.143.180.50:443?mode=auto&path=%2Fubuntu&security=reality&encryption=none&pbk=fwQbdsfHEnx2pzokCnyN698SUq5fkQKngnsyPGjmeDg&fp=firefox&type=xhttp&sni=mirror.timeweb.ru#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-26T12:46:57.611Z"
+    },
     {
       "url": "vless://8d42d29a-ed53-4684-a9ff-6b33826149de@95.130.84.36:8443?&security=tls&fp=unsafe&sni=aio.eth0.dpdns.org&type=ws&headerType=none&host=aio.eth0.dpdns.org&path=%2Faioproxybot%2F94.23.144.99-2053#",
       "name": "Farah_VPN",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.221.227:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://ad4492d1-6858-4841-bd50-1dff56dedcb7@172.232.250.227:443?security=tls&flow=xtls-rprx-vision&sni=id-full.privateip.net&type=tcp&path=%2f&allowInsecure=1#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://c065bc89-d569-4455-a4f5-8f9b3a5dddb3@188.121.118.55:443?security=tls&sni=vIrGiNiAvPn-uS.pAgEs.dEv&type=ws&host=ViRgInIaVpN-US.PaGeS.DeV&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://3188381b-e94b-49c3-b60f-43e2e473ecc2@172.66.213.38:2087?security=tls&sni=g4.ferdowsi.shop&type=grpc&serviceName=Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA-Telegram%3A%40Cephalon_ALA&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://c4000cda-6237-4702-ac6a-024444978b8e@23.227.39.222:2083?security=tls&sni=BPB-JUly.PaGeS.dEv&type=ws&host=bPb-July.Pages.dEV&path=%2Fy0xrkaaBOQCyQR8T%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://00e199ed-477f-492c-aecd-e01ac2342008@104.21.232.99:80?security=none&type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev%3Fed%3D2048#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
