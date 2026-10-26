@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-26T10:45:33.142Z",
+  "updated": "2026-10-26T11:00:37.674Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.160.174:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-26T11:00:36.123Z"
+    },
     {
       "url": "trojan://mitivpn@199.232.78.160:443?path=%2F%3FDailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com&insecure=0&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&host=mitivpn-mitivpn.ac.ir&alpn=http%2F1.1#%40nofiltering2",
       "name": "nofiltering2",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.65:443?security=tls&sni=kkb.ylks.link&type=ws&path=%2Fblue#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.155.119:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
