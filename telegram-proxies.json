@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-26T08:01:32.796Z",
-  "count": 1175,
+  "updated": "2026-10-26T10:01:41.620Z",
+  "count": 1178,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=persian.gulf.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-26T10:01:30.956Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=Caspian-sea.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-26T10:01:30.956Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=Strait-of-Hormuz.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-26T10:01:30.955Z"
+    },
     {
       "url": "https://t.me/proxy?server=194.120.230.37&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
       "name": "ProxyMTProto",
