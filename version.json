@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "2.8.3",
-  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.8.3-arm64.apk",
-  "changelog": "توضیح میرورها شد «تلاش برای فعالیت در بستر اینترنت ملی»؛ ۳ لینک میرور فقط وقتی گزینه روشن است دیده می‌شوند؛ گزینه جدید تعداد کانفیگ دریافتی در هر ورود"
+  "versionCode": 36,
+  "versionName": "2.8.4",
+  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.8.4-arm64.apk",
+  "changelog": "بهبود کار در اینترنت ملی و ساده‌تر شدن تنظیمات میرور"
 }
