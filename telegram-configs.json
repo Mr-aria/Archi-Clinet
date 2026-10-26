@@ -1,12 +1,18 @@
 {
-  "updated": "2026-10-26T16:01:50.834Z",
+  "updated": "2026-10-26T16:15:32.426Z",
   "count": 5000,
   "configs": [
     {
-      "url": "vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@167.82.64.64:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-26T16:01:45.663Z"
+      "url": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@103.71.22.234:8443?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T16:15:31.244Z"
+    },
+    {
+      "url": "vless://5ec50dc8-fba8-42ad-b427-e51193bc5c2a@146.75.57.238:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=looaloooibamoooijji.global.ssl.fastly.net.&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T16:15:31.244Z"
     },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.199.59:22222?encryption=none&security=none&type=tcp#(S101",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://Tel_VPNCUSTOMIZE@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://b8b1cad2-af20-4e44-9347-49af03908474@uk-full.privateip.net:443?type=tcp&encryption=none&security=tls&path=/&flow=xtls-rprx-vision#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
