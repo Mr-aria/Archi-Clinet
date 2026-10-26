@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-26T15:31:33.068Z",
-  "count": 1187,
+  "updated": "2026-10-26T17:31:47.993Z",
+  "count": 1189,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=t5.nevcodeframe.com&port=443&secret=ee4e7e658f96af22ada977fa3e2e472e6274352e6e6576636f64656672616d652e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-26T17:31:38.625Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=t6.nevcodeframe.com&port=443&secret=ee0e4d933242164450da8a7e6b469b629774362e6e6576636f64656672616d652e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-26T17:31:38.625Z"
+    },
     {
       "url": "https://t.me/proxy?server=tg1-ru5.chadvpn.shop&port=853&secret=ee01298cb2ddd631b1f5f7de3dce151c8b7467312d7275352e6368616476706e2e73686f70",
       "name": "ProxyMTProto",
