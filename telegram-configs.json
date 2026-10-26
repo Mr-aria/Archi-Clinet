@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-26T18:46:34.234Z",
+  "updated": "2026-10-26T19:00:34.711Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.159.213:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-26T19:00:33.529Z"
+    },
     {
       "url": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.41.69:8443?path=%2FAU6W&security=tls&encryption=none&insecure=0&host=au6.pad-sservice.lat&fp=firefox&type=ws&allowInsecure=0&sni=au6.pad-sservice.lat#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://f6f0196d-4484-4a17-9553-0c4b646cde7c@185.146.173.95:2095?path=/&security=none&encryption=none&host=V2ray-_-_-_-_-_-ShhProxy.TelegramChannelJoinBede.com.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://5cfcdf55-0802-42c3-812a-a8c3e04b64a1@zedmodeon-zedmodeon-zedmodeon-zedmodeon-zedmodeon.kanal-asli-zedmodeon.shop:1004?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
