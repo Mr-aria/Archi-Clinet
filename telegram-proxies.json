@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-26T12:45:36.425Z",
-  "count": 1182,
+  "updated": "2026-10-26T14:00:37.741Z",
+  "count": 1183,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=sakura.proxy.rlwy.net&port=48088&secret=ee45251916cf33397f4488907a716de7cd7777772e636c6f7564666c6172652e636f6d",
+      "name": "BlueKnight_Net",
+      "source": "BlueKnight_Net",
+      "date": "2026-10-26T14:00:34.477Z"
+    },
     {
       "url": "https://t.me/proxy?server=46.224.67.119&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
       "name": "v2ryNG01",
