@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-26T09:00:33.400Z",
+  "updated": "2026-10-26T09:15:35.327Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@198.211.123.90:443?security=tls&type=ws&path=%2Ffp%3Dunsafe&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T09:15:33.671Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.170.161.150:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.118.176:80?security=none&type=ws&host=us3.rtacg.com&path=/#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.236.80.110:2096?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
