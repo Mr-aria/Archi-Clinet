@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-26T10:01:41.620Z",
-  "count": 1178,
+  "updated": "2026-10-26T11:00:41.511Z",
+  "count": 1179,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=philadelphia.hezarto.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-10-26T11:00:34.231Z"
+    },
     {
       "url": "https://t.me/proxy?server=persian.gulf.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
