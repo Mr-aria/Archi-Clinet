@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-26T05:15:33.935Z",
+  "updated": "2026-10-26T05:45:33.952Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://4f34bc04-479c-49ba-91a8-6bb9ed15031c@177.3.208.65:443?security=tls&type=ws&path=%2Fvless-tr&packetEncoding=xudp&sni=tgmansion.site&fp=firefox#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T05:45:32.424Z"
+    },
+    {
+      "url": "vless://51d039b4-6232-43fa-9161-46748776317c@199.232.78.159:443?encryption=none&type=ws&security=tls&host=pannn1.global.ssl.fastly.net&sni=google.com&pinSHA256=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T05:45:32.424Z"
+    },
+    {
+      "url": "vless://76b6a658-ce80-4500-b24d-404c94639ac6@67.159.49.36:2091?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=08a4b1f473932632&pbk=1N6AW5YuEwBoYcZK5KuugDzBHsa0NKZMT8QI-EmyL0k#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T05:45:32.424Z"
+    },
+    {
+      "url": "vless://64c05afc-ce81-4ba0-b697-afa04da1427e@195.72.166.251:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.lloydsbankinggroup.com&fp=firefox&flow=xtls-rprx-vision&sid=25349b36802f&pbk=RKDT6fVgcZS8Qfzhv5rbeHRIflA3UTKD_HNLJyOoUwk#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T05:45:32.424Z"
+    },
     {
       "url": "vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?sni=45-149-147-213.sslip.io&alpn=h2&type=grpc&serviceName=kobedin-server1-vless&fp=chrome&security=tls#",
       "name": "Farah_VPN",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS4yMS43MSIsICJwb3J0IjogIjIwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTQuZnJlZWdyYWRlbHkueHl6IiwgInRscyI6ICIifQ==",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "trojan://telegram-id-privatevpns@13.39.90.68:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "vless://63875285-ee2d-4736-a52c-610a27c4f949@185.146.173.37:80?type=ws&path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&host=1.v.v.V-_-_-V2ray-_-_-V.v.v.mv.speedtest.net.www.Zula.ir.check-host.net.3.cakesfoodapp.COM.&security=none#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqWndXanpBdWpVemJNakdpNGI3RzNv@172.232.43.39:80#@Hope_Net",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.471Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@194.156.231.126:809#@Hope_Net",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.471Z"
