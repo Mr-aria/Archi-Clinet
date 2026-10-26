@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-26T21:15:32.309Z",
+  "updated": "2026-10-26T21:45:33.868Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ==@140.82.56.38:8388#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-26T21:45:32.845Z"
+    },
     {
       "url": "vless://846cedee-2a52-4a62-a0b9-11850ead6a8b@46.8.43.125:443?security=reality&type=tcp&packetEncoding=xudp&sni=kz-central.v8x2b.lol&fp=firefox&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://6c55ee30-f23e-42f4-bbcc-a19f04c63ae4@zula.ir:8080?security=&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&host=unlimiteddev-vpn.unlimiteddev.Community.&encryption=none#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "trojan://telegram-id-privatevpns@52.16.73.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
