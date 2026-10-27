@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-27T09:01:38.566Z",
+  "updated": "2026-10-27T09:15:32.518Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://270c3fa5-0293-4d68-875c-6cdc3bdc5b84@v2.drsachi.com:443?encryption=none&security=&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T09:15:31.135Z"
+    },
     {
       "url": "trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
       "name": "freakconfig",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://c416be20-32b3-467f-83c2-735e04d639f7@eagle.Hafezdivan.Online.:80?path=/Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net/?ed=2048&security=none&encryption=none&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://cfb6d9ad-7a14-4061-b159-8902fd73bb57@188.114.98.223:2095?Telegram=@V2RayTz,@V2RayTz&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&type=ws#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
