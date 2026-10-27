@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-27T08:45:40.119Z",
-  "count": 1194,
+  "updated": "2026-10-27T10:00:46.175Z",
+  "count": 1195,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=65.21.143.240&port=25804&secret=eeb7ea01e7e9aefc7c7d1a7b2b8c965c8d7777772e636c6f7564666c6172652e636f6d",
+      "name": "BlueKnight_Net",
+      "source": "BlueKnight_Net",
+      "date": "2026-10-27T10:00:37.303Z"
+    },
     {
       "url": "https://t.me/proxy?server=62.60.176.132&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
       "name": "free_netplus",
