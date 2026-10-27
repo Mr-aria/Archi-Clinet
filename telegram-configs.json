@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-27T04:45:35.492Z",
+  "updated": "2026-10-27T05:15:36.411Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?sni=softice.net&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T05:15:34.137Z"
+    },
+    {
+      "url": "vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?&security=reality&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67&fp=chrome&sni=ph-nl-s3784.cybercat.network&type=tcp&headerType=none&host=ph-nl-s3784.cybercat.network&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T05:15:34.137Z"
+    },
+    {
+      "url": "vless://c6b1b2d0-ed5e-48ce-99e6-112ff330030d@177.7.51.29:8443?security=reality&encryption=none&pbk=laG5BxoSbdRozpauATNFBPPTwhuDuu0JFl_SCP2ZQlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=14fbf992#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T05:15:34.137Z"
+    },
+    {
+      "url": "vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?alpn=h2,http/1.1&encryption=none&fp=chrome&security=tls&sni=swz.proxyplankton.ru&type=tcp#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T05:15:34.137Z"
+    },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#",
       "name": "Farah_VPN",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vmess://eyJ2IjogIjIiLCAiYWRkIjogImNmY2RuMy5zYW5mZW5jZG45LmNvbSIsICJwb3J0IjogIjIwNTIiLCAiaWQiOiAiM2M1MDQ2YjQtMWE5Yy00MjdjLThhNTUtZTM1NTg0NmE5ZTRhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJrdmpxcWtuempwNi55b2ZuaGtmYy54eXoiLCAicGF0aCI6ICIvdmlkZW8vWm85OFBZZkUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIn0=",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiAiNDUuODkuNTIuMTE0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInZrdmQxMjcubXljZG4ubWUiLCAiaWQiOiAiODZhMGMxN2QtMTg3MS00MGUzLWRiNjUtMmI5YmYxYTc2NTBlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTM3MDEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0ifQ==",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://bd2914ed-69b1-4533-a7f0-929527541c35@172.67.66.177:80?path=Mmdv2rayng-V2rayngmmd-telegram-mmd_v2rayng?ed=80&security=none&encryption=none&host=dl5.heykakenakhshanemvaberanakhshanemkhadijeomanigakobraoaminfatema.com&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?path=/iXNpb8TL5D4uHOQC?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=hey.bacheBiapAIN.iR&fp=randomized&type=ws&sni=heY.bACHeBiapAiN.Ir#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://43704528-f3cc-4696-faa2-2779f2460cc1@185.219.84.207:2096?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=Kcn7dLh3iQeiMuJdQwaLoWsQb67El0cfPPKztdKSYHA&sid=d154163159#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
