@@ -1,7 +1,7 @@
 {
   "lastSeen": {
     "PewezaTech": 25781,
-    "mmd_adm": 28646,
+    "mmd_adm": 28647,
     "free_vpn02": 5120,
     "freakconfig": 10327,
     "outline_vpn": 11835,
@@ -25,11 +25,11 @@
     "nofiltering2": 6220,
     "shh_proxy": 10984,
     "TestDummyChannel": 3,
-    "hamclasixii": 81346,
+    "hamclasixii": 81347,
     "Linuxor": 5827,
     "MineProxy": 55408,
     "imArasTey": 199,
-    "appxa": 15100,
+    "appxa": 15101,
     "V2ray_official": 10023,
     "IRAN_V2RAY1": 11360,
     "Hope_Net": 94300,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 10044,
   "totalProxies": 1028,
-  "runCount": 981
+  "runCount": 982
 }
