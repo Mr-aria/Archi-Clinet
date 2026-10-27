@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-27T06:31:38.364Z",
-  "count": 1193,
+  "updated": "2026-10-27T08:45:40.119Z",
+  "count": 1194,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=62.60.176.132&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+      "name": "free_netplus",
+      "source": "free_netplus",
+      "date": "2026-10-27T08:45:33.525Z"
+    },
     {
       "url": "https://t.me/proxy?server=tozo31.tidelark.cc&port=443&secret=ee9267d78681726d5ff1bf826b750ba4ba746f7a6f33312e746964656c61726b2e6363",
       "name": "ProxyMTProto",
