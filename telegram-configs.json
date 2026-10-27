@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-27T17:00:31.308Z",
+  "updated": "2026-10-27T17:45:34.387Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8080#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-27T17:45:31.855Z"
+    },
+    {
+      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-27T17:45:31.855Z"
+    },
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-27T17:45:31.855Z"
+    },
+    {
+      "url": "vless://ee82f319-ab92-425d-8e04-28a29f33f670@193.160.141.81:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-27T17:45:31.855Z"
+    },
+    {
+      "url": "vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.70.206:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-27T17:45:31.855Z"
+    },
+    {
+      "url": "vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-27T17:45:31.855Z"
+    },
+    {
+      "url": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-27T17:45:31.855Z"
+    },
+    {
+      "url": "vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?security=reality&encryption=none&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=50#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-27T17:45:31.855Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.84.84:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29953,54 +30001,6 @@
       "name": "V2rayng_Fast",
       "source": "V2rayng_Fast",
       "date": "2026-10-22T12:33:05.960Z"
-    },
-    {
-      "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?security=reality&encryption=none&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=est.nztvpn.com&sid=0da7e14db353e7d0#%40V2rayng_Fast%20%F0%9F%92%9F",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.960Z"
-    },
-    {
-      "url": "vless://1c794e75-bcd4-4a65-9f69-ed0a10f33d60@144.31.101.196:33891?security=reality&encryption=none&pbk=HXXIkFRPeRpluXJ7SOoUGf9EOq4Lw-oJpvg1W0UPbEw&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=%2Fhealth&type=tcp&flow=xtls-rprx-vision&sni=browser.yandex.com&sid=5bd7b68ca4c04443#%40V2rayng_Fast%20%F0%9F%92%9F",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.960Z"
-    },
-    {
-      "url": "vless://f9cb2991-ad4a-4a54-aeb3-55d56ac02a8e@87.58.204.60:443?security=reality&encryption=none&pbk=AAvrrzO1XLLOAnqmubC8o3twiHyZDPtKEmafSFmcQz8&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=fin01.deflink.net&sid=d76c985ea35d6f80#%40V2rayng_Fast%20%F0%9F%92%9F",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.960Z"
-    },
-    {
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ@95.38.68.148:2089#%40V2rayng_Fast%20%F0%9F%87%A6%F0%9F%87%B2",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.960Z"
-    },
-    {
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.135.234:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40V2rayng_Fast%20%F0%9F%87%A6%F0%9F%87%B2",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.960Z"
-    },
-    {
-      "url": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@188.114.97.6:443?path=%2Fws%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=a.cwvps.eu.org&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#%40V2rayng_Fast%20%F0%9F%87%A6%F0%9F%87%B2",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.960Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40V2rayng_Fast%20%F0%9F%87%A6%F0%9F%87%B2",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.960Z"
-    },
-    {
-      "url": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0#%40V2rayng_Fast%20%F0%9F%92%9B",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.959Z"
     }
   ]
 }
