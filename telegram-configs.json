@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-27T22:45:31.896Z",
+  "updated": "2026-10-27T23:15:31.761Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T23:15:30.536Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiIzMS43Ni4xMS44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZDhmNTdiZC0xMmI1LTQxYWQtYTgwNi02NTAxNzUzYzI2NGMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MjIyNjYsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJuYW1lIjoiREUgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIHwgQFJheWRpa2FseCB8IDBGRjMzMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=xhttp&sni=www.hp.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.445Z"
-    },
-    {
-      "url": "vless://686bc8b6-0e9e-47c2-a158-57a0bcfd8ed8@93.114.98.245:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=jrhebaef771c.dop55.com#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.445Z"
