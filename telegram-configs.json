@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-27T16:30:39.453Z",
+  "updated": "2026-10-27T16:45:36.276Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@52.78.45.69:8443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T16:45:34.281Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.215.117:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@89.125.13.202:443?security=reality&encryption=none&pbk=g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=d3-ee1.cloud-cdn.xyz&sid=ad6e08b22389abd2#%40V2rayng_Fast%20%F0%9F%92%9B",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.959Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---TOOTFARANGI&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40V2rayng_Fast%20",
       "name": "V2rayng_Fast",
       "source": "V2rayng_Fast",
       "date": "2026-10-22T12:33:05.959Z"
