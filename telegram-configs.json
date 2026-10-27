@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-27T09:46:42.691Z",
+  "updated": "2026-10-27T10:00:39.989Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.217.238:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-27T10:00:38.524Z"
+    },
     {
       "url": "vless://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@147.45.47.188:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%F0%9F%90%9231@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://6f82c4ba-8e5d-4e18-976d-aac0a22a4ed9@2.189.59.6:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=@V2RAXX-TEL@V2RAXX-TEL--@V2RAXX-TEL--@V2RAXX-TEL&sni=v2raxx-all.amalfatm.ir.#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://6f8f844a-28f7-4244-b291-8fedede90176@104.16.4.103:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&host=join-to.vmessorg.Community.&encryption=none#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
