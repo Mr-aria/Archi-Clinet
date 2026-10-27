@@ -1,7 +1,97 @@
 {
-  "updated": "2026-10-27T09:45:32.311Z",
+  "updated": "2026-10-27T09:46:42.691Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@147.45.47.188:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%F0%9F%90%9231@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24044/?insecure=1&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&sni=vpn.local#%F0%9F%90%9232@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "vless://c136a12c-4260-48a7-a1e6-fbda83a11045@free.sahanwickramasinghe.me:8443?encryption=none&fp=chrome&host=free.sahanwickramasinghe.me&path=%2F&security=tls&sni=free.sahanwickramasinghe.me&type=ws#%F0%9F%90%9233@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "vless://c136a12c-4260-48a7-a1e6-fbda83a11045@51.75.67.209:8443?encryption=none&host=free.sahanwickramasinghe.me&path=%2F&security=tls&sni=free.sahanwickramasinghe.me&type=ws#%F0%9F%90%9234@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "vless://6c688f63-fad4-45d8-a6a1-1e978ed26b8b@49.13.39.86:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=static.75.209.109.65.clients.your-server.de&type=tcp#%F0%9F%90%9235@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "vless://59c3c1c7-62d0-4707-9d67-5ff9c008591c@37.120.222.70:8082?encryption=none&fp=chrome&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&type=ws#%F0%9F%90%9236@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn.ac.ir&path=%2F%3FDailyConfigs--DailyConfigs--DailyConfigs%3Fed%3D2048&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=community.fastly.steamstatic.com&type=ws#%F0%9F%90%9237@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "trojan://mitivpn@151.101.36.244:443?allowInsecure=1&alpn=http%2F1.1&fp=ios&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&sni=ns2.firefox.com&type=ws#%F0%9F%90%9238@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "vless://45ceaca9-30f4-4035-85b7-8f83493911d8@188.164.248.246:443?encryption=none&fp=chrome&host=tamoai.ccwu.cc&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&security=tls&sni=tamoai.ccwu.cc&type=ws#%F0%9F%90%9239@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "trojan://mitivpn@151.101.36.244:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn.ac.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=ns2.firefox.com&type=ws#%F0%9F%90%9240@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "trojan://mitivpn@199.232.9.244:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn.ac.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=ns1.firefox.com&type=ws#%F0%9F%90%9241@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "vless://4a02614f-c461-4675-9017-bb5a757c8edd@31.59.179.110:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pJpaRasoceUeRDJTXEZNnKT3yW5IocPXudB_B7_rBR0&security=reality&sid=4fa44664f6a566d3&sni=grr.milas.click&type=tcp#%F0%9F%90%9242@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.199:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#%F0%9F%90%9243@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "vless://fcdb24e3-5e66-4c45-b89e-ac9441f4dcda@free.sahanwickramasinghe.me:80?encryption=none&host=free.sahanwickramasinghe.me&path=%2F&security=none&type=ws#%F0%9F%90%9244@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
+    {
+      "url": "vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=softice.net&type=tcp#%F0%9F%90%9245@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T09:46:41.253Z"
+    },
     {
       "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com#",
       "name": "Farah_VPN",
@@ -29908,96 +29998,6 @@
     },
     {
       "url": "vless://6f8f844a-28f7-4244-b291-8fedede90176@104.16.4.103:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&host=join-to.vmessorg.Community.&encryption=none#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#@Hope_Net",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@167.68.11.146:443?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.116:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=jpd.ylks01.eu.org#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiAiMTcyLjY3LjEzMC4xNDAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiczFjLnYyLnYwMDFzc3MueHl6IiwgImlkIjogIjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjA4MiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIn0=",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8880?path=/&security=none&encryption=none&host=JvRqBlAk11.iUbCiNsCkKsDnOi1.NeT&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@23.106.32.171:443?security=tls&headerType=none&type=tcp&sni=scarily.golfland.club#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://telegram-id-ArV2ray@185.146.173.158:80?Telegram=@V2RayTz,@V2RayTz&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=none&encryption=none&host=8.v.v.V-_-_-V2ray-_-_-V.v.v.v.www.speedtest.net.z.Zula.ir.cloudflare.com.bahrane.IR.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://cfb6d9ad-7a14-4061-b159-8902fd73bb56@185.146.173.43:2095?Telegram=@V2RayTz,@V2RayTz&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:2052?path=/&security=none&encryption=none&host=JvRqBlAk10.iUbCiNsCkKsDnOi1.NeT&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://channel_VPNCUSTOMIZE@zula.ir:8080?path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://c7af5083-b86c-4edd-8a97-01ddaba17a4f@176.96.137.139:2083?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=21Wy4raA5577OR54aGehA9q8wuFLV38XCbUr39e0SV0&sid=c3949bd4#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://cfb6d9ad-7a14-4061-b159-8902fd73bb58@104.17.148.22:2095?Telegram=@V2RayTz,@V2RayTz&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://cfb6d9ad-7a14-4061-b159-8902fd73bb57@104.17.147.22:2095?Telegram=@V2RayTz,@V2RayTz&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.64.133.252:443?path=JOIN-FILTERK0SH/?ed=2048&security=tls&encryption=none&host=mmdv2.pages.dev&type=ws&sni=mmdv2.pages.dev#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@63.141.128.169:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=zdyd.kpcloud.eu.org#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
