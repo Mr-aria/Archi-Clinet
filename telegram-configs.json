@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-27T07:00:37.773Z",
+  "updated": "2026-10-27T07:15:36.570Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@216.23.122.125:443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T07:15:34.467Z"
+    },
+    {
+      "url": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@104.252.111.38:8443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T07:15:34.467Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.243.89:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://bcffb76a-c1f6-4c03-a761-7cd8d3bc35c9@109.120.133.41:443?mode=gun&security=reality&encryption=none&authority=&pbk=j-0JPDGrNcRx_1Vts1EQw3b_TtJqYTsrScZDWIhAsk4&fp=chrome&type=grpc&serviceName=@set_v2ray&sni=discord.com&sid=7222b64f#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://a5469633-b780-4e13-815b-fa72582f8c4e@79.175.133.135:41754?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://a285ca60-a9ec-4470-9914-2edabb6a3449@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
