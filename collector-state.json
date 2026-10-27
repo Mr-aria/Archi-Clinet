@@ -41,11 +41,11 @@
     "MyPoroxy": 46798,
     "BlueKnight_Net": 1644,
     "SRCVPN": 7603,
-    "ZibaNabz": 24710,
+    "ZibaNabz": 24711,
     "PrivateVPNs": 26354,
     "configV2rayForFree": 8041,
     "iranvpnet": 709,
-    "proxy_mtm": 33760,
+    "proxy_mtm": 33762,
     "CluvexStudio": 394,
     "whitedns": 2176,
     "YamYamProxy": 16478,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 9972,
   "totalProxies": 989,
-  "runCount": 930
+  "runCount": 931
 }
