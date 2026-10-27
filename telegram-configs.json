@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-27T10:15:42.667Z",
+  "updated": "2026-10-27T10:16:36.987Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=washingphonicseatable.solsticedigest.me&fp=firefox&security=reality&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&sid=c13c9bd7bd45847d#%F0%9F%87%B7%F0%9F%87%BA27%40exclavevpn",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-27T10:16:35.622Z"
+    },
     {
       "url": "vless://6af3f2a8-6b20-4b01-95c6-43c5ce1d2c3f@dgiehywg.sanprime.ir:310?path=%2F&security=tls&encryption=none&insecure=0&host=tun.berfexa.ir&fp=chrome&type=ws&allowInsecure=0&sni=tun.berfexa.ir#%40V2ray_Alpha%F0%9F%8D%94%204",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS41MS4yMzIiLCAicG9ydCI6ICIyMDg2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJpcDAwNS5kdGt1NDcueHl6IiwgInRscyI6ICIifQ==",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://cfb6d9ad-7a14-4061-b159-8902fd73bb56@104.17.148.22:2095?Telegram=@V2RayTz,@V2RayTz&path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.&type=ws#@Hope_Net-join-us-on-Telegram",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
