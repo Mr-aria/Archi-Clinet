@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-27T10:16:36.987Z",
+  "updated": "2026-10-27T10:45:33.031Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://901cb432-3807-404a-9bb8-987814b000ca@213.152.165.203:2092?security=reality&encryption=none&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=716b7eba38125f3a#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T10:45:31.870Z"
+    },
+    {
+      "url": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.googleapis.com&sid=974f7f8f#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T10:45:31.870Z"
+    },
+    {
+      "url": "trojan://mitivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%E2%80%94%40&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T10:45:31.870Z"
+    },
     {
       "url": "vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=washingphonicseatable.solsticedigest.me&fp=firefox&security=reality&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&sid=c13c9bd7bd45847d#%F0%9F%87%B7%F0%9F%87%BA27%40exclavevpn",
       "name": "oneclickvpnkeys",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.150:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=zdyd.kpcloud.eu.org#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://a3cbe9f1-6299-4777-b757-010418e97495@104.19.55.14:8080?path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed=8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://--V2RAXX@104.17.83.58:8080?Telegram=@V2RayTz,@V2RayTz&path=@V2RAXX-@V2RAXX?ed=2048&security=none&encryption=none&host=xn--047h.v2raxx6.shop.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjEwNC4xOS41MS4yMzIiLCAicG9ydCI6ICIyMDg2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIyOWVlYmI2MC1iMjdiLTRhOWQtYmJhNS05NDc3NjNkOTIwNWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAiaG9zdCI6ICJpcDAwNS5kdGt1NDcueHl6IiwgInRscyI6ICIifQ==",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
