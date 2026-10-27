@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-27T07:46:49.352Z",
+  "updated": "2026-10-27T08:15:35.059Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d68be168-fda7-4e8c-8638-33a82d2202ca@193.223.104.106:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T08:15:33.669Z"
+    },
+    {
+      "url": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.107:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node-slo02.rkitman.ru&sid=88d9dc52ef39c8bd#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-27T08:15:33.669Z"
+    },
     {
       "url": "vless://f439e4fe-139b-4882-ad8b-a16176d09c88@94.183.197.40:443?encryption=none&fp=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=de2.cdn77.icu&type=tcp#%F0%9F%90%921@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.218.109:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://efc3a5bd-2dfd-4942-af6c-5a03302e2731@185.146.173.58:8080?path=/servernet&security=none&encryption=none&host=sxc22.servernet.fun.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiAiMTcyLjY0LjMyLjE1NCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyYTMyNjNlMi04OTFjLTQ0NDYtYjQ3NC1hOGM2M2FjYjZlMjUiLCAibmV0IjogImdycGMiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMDg3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJkZDIxMTQ2eWdmZFNOQTkxOTEyODEyODBrZG0yMmthczIxMjNBYXdkc2QxMjM0YmIxNTUxMzgxOTQxNTgubGlhbmxpbmdhbWVzLm5ldCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiZ3VuIiwgInYiOiAiMiIsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSJ9",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
