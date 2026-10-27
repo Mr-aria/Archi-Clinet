@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-27T11:45:32.145Z",
+  "updated": "2026-10-27T12:01:57.363Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://%58pnTeam-55@199.232.78.170:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-10-27T12:01:55.066Z"
+    },
+    {
+      "url": "vless://%58pnTeam-56@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-10-27T12:01:55.066Z"
+    },
     {
       "url": "vless://26b35808-f1e1-4b97-8c69-46796f058d8b@172.67.174.249:443?path=%2FeyJqdW5rIjoicG9pMkt4TDY2TVNtRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&insecure=0&host=ezaccess-project-9138d4.5f6on.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ezaccess-project-9138d4.5f6on.workers.dev#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://8fba3304-bb4e-418e-868f-b27b33109135@104.21.65.133:80?path=/SvnTeamV2ray?ed=2048&security=none&encryption=none&host=xn--3-ep9a49z.xn--jhq403ertg.CoM.&type=ws#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiAiMi4xODkuNTkuMiIsICJhaWQiOiAiMCIsICJhbHBuIjogImh0dHAvMS4xIiwgImZwIjogInJhbmRvbSIsICJob3N0IjogImdlcm1hbnktbGlua3dzLnBhZ2VzLmRldiIsICJpZCI6ICI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1RlbGVncmFtL1hWMnJheSIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAicGFnZXMuZGV2IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIkBIb3BlX05ldC1qb2luLXVzLW9uLVRlbGVncmFtIn0=",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWG1TY1d5SGZyejh2ZndBdmQ3ZEo3@52.169.37.198:5351#@Hope_Net",
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.472Z"
