@@ -1,3 +1,4 @@
+vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@167.82.64.64:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig
 vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@188.114.98.0:443?security=tls&type=ws&path=%2Fpai50288&host=ccs2g.pai50288.uk&packetEncoding=xudp&alpn=http%2F1.1&sni=ccs2g.pai50288.uk&fp=unsafe&encryption=none#
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8080?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@94.154.128.132:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#
@@ -4997,4 +4998,3 @@ vless://10716279-b1ee-41d8-b63e-87782088305b@104.16.216.241:443?path=/iXNpb8TL5D
 vless://43704528-f3cc-4696-faa2-2779f2460cc1@185.219.84.207:2096?security=reality&flow=xtls-rprx-vision&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=Kcn7dLh3iQeiMuJdQwaLoWsQb67El0cfPPKztdKSYHA&sid=d154163159#@Hope_Net-join-us-on-Telegram
 vless://cfb6d9ad-7a14-4061-b159-8902fd73bb51@185.146.173.38:2095?path=/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024&security=none&encryption=none&host=DigiV2ray---_-_---DIGIq.radioTehran.org.&type=ws#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@3.219.67.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@3.77.17.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
