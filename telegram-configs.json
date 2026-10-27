@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-27T13:46:41.586Z",
+  "updated": "2026-10-27T14:15:33.277Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#%40V2ray_Alpha%F0%9F%8C%BB%2013",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-27T14:15:32.011Z"
+    },
+    {
+      "url": "trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=edge&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40V2ray_Alpha%F0%9F%8C%BB%2012",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-27T14:15:32.011Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiJ0dXJrbmV3Lm5ldC1mbG93YS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd2dDEuY29tIiwiaWQiOiJjZDk2NDc5ZS05YzM5LTRhN2YtYmEwYy04MDZhODNhZjE5Y2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5X0FscGhh8J+MuyAxMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-27T14:15:32.011Z"
+    },
+    {
+      "url": "vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.70.206:8443?path=%2F&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#%40V2ray_Alpha%F0%9F%8C%BB%203",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-27T14:15:32.011Z"
+    },
+    {
+      "url": "vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.71.206:8443?path=%2F&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#%40V2ray_Alpha%F0%9F%8C%BB%202",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-27T14:15:32.011Z"
+    },
     {
       "url": "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@ICV2RAY",
       "name": "icv2ray",
@@ -29971,36 +30001,6 @@
       "name": "Hope_Net",
       "source": "Hope_Net",
       "date": "2026-10-22T12:32:57.473Z"
-    },
-    {
-      "url": "vless://e30fb7b9-33f8-412a-95ca-04ad56dbe42c@45.67.32.147:22441?security=reality&sni=jino.ru&type=http&path=/getout&fp=chrome&pbk=ka7Beu3x7VjM_UqCT07d98enNKfkEbwXqZtFlr40_Q0&sid=fff248e8#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://48198295-b7ba-4b5c-8d85-085d55a6c869@168.138.165.1:45680?path=%2F&security=tls&encryption=none&type=ws&sni=xind.ylks.link#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YkFWRFFyWUZqczhKbUNIbWtSQ29V@92.243.27.51:9802#@Hope_Net",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#@Hope_Net-join-us-on-Telegram",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#@Hope_Net",
-      "name": "Hope_Net",
-      "source": "Hope_Net",
-      "date": "2026-10-22T12:32:57.472Z"
     }
   ]
 }
