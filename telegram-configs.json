@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-27T16:45:36.276Z",
+  "updated": "2026-10-27T17:00:31.308Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.84.84:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-27T17:00:30.472Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.198.0:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-27T17:00:30.472Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@52.78.45.69:8443#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://55ccbeb5-0bf4-4e4d-afcb-23c038e73e00@131.123.13.93:443?security=reality&encryption=none&pbk=rj3rvl7AGOd0NOPrX6h2c1auXGnCBJTPMDeT86AMvBA&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=1mcfn.67resserv67.info&sid=29455a3a790acbd0#%40V2rayng_Fast%20%F0%9F%92%9B",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.959Z"
-    },
-    {
-      "url": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.109.35:443?security=reality&encryption=none&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d3-de1.cloud-cdn.xyz&sid=494afdc75f8c2fa8#%40V2rayng_Fast%20%F0%9F%92%9B",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-22T12:33:05.959Z"
-    },
-    {
-      "url": "vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@89.125.13.202:443?security=reality&encryption=none&pbk=g36Z7YIqJMJP-uv3DBr72X5jvfjyW1qIAxa8TkWmpmQ&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=d3-ee1.cloud-cdn.xyz&sid=ad6e08b22389abd2#%40V2rayng_Fast%20%F0%9F%92%9B",
       "name": "V2rayng_Fast",
       "source": "V2rayng_Fast",
       "date": "2026-10-22T12:33:05.959Z"
