@@ -1,3 +1,5 @@
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@216.23.122.125:443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@104.252.111.38:8443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.243.89:22222?encryption=none&security=none&type=tcp#(S101
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.125.127:22222?encryption=none&security=none&type=tcp#(S101
 vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?security=reality&encryption=none&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=washingphonicseatable.solsticedigest.me&sid=c13c9bd7bd45847d#
@@ -4996,5 +4998,3 @@ vless://5641108f-ff31-4fae-97ff-90285cf4dae5@188.114.98.224:8080?security=&type=
 vless://43c09824-e7fb-4b23-ae1e-8d26e6004de0@185.146.173.69:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=chrome&type=grpc&serviceName=Telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&sni=MOJ.Bklink.IR#@Hope_Net-join-us-on-Telegram
 vless://d663fecc-1f02-4e9e-8157-c33cdb30da23@190.93.244.166:80?path=/&security=none&encryption=none&host=sUB.veBoBE2961.WoRKeRs.dev&type=ws#@Hope_Net-join-us-on-Telegram
 vless://bcffb76a-c1f6-4c03-a761-7cd8d3bc35c9@109.120.133.41:443?mode=gun&security=reality&encryption=none&authority=&pbk=j-0JPDGrNcRx_1Vts1EQw3b_TtJqYTsrScZDWIhAsk4&fp=chrome&type=grpc&serviceName=@set_v2ray&sni=discord.com&sid=7222b64f#@Hope_Net-join-us-on-Telegram
-vless://a5469633-b780-4e13-815b-fa72582f8c4e@79.175.133.135:41754?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Hope_Net-join-us-on-Telegram
-vless://a285ca60-a9ec-4470-9914-2edabb6a3449@2.189.59.2:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=Channel:@UnlimitedDev&sni=mci.unlimiteddev-vpn.Com.#@Hope_Net-join-us-on-Telegram
