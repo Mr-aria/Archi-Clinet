@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-28T17:00:35.449Z",
+  "updated": "2026-10-28T17:45:42.399Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDQxIiwicHMiOiJcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-28T17:45:38.325Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206TldFMFkySTVaalpsWXpkbE5qZ3lNems0WkdaaU5UUTFOemN5TVRGaQ@amsterdam108.npvnot.com:995#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-28T17:45:37.274Z"
+    },
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@104.18.35.15:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-28T17:45:37.274Z"
+    },
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-28T17:45:37.274Z"
+    },
+    {
+      "url": "vless://ab60c23b-a7bd-4790-b555-4dc792566632@bigshagy.zqpm.ir:5780?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-28T17:45:37.274Z"
+    },
+    {
+      "url": "vless://b4a1200a-9765-4649-94f2-c26e0a37dffb@193.160.141.138:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-28T17:45:37.274Z"
+    },
+    {
+      "url": "vless://e0216964-ffa1-4d39-82c4-0e40879a470d@199.195.193.91:443?security=reality&encryption=none&pbk=gCcUt0o6KZqq3QMrHAwUEUGlyB2H8ZEwXM9WczAHkmU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=germ.nullo.pro&sid=b29399464c72312d#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-10-28T17:45:37.274Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.19.247:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29956,48 +29998,6 @@
     },
     {
       "url": "vless://237f3738-b70a-4146-89a8-10e914387c1d@159.194.243.175:8443?mode=auto&path=%2Fvideoapi&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=Q9-Fzdk-ww9qRMYjTvPwQXlbTfdsmEviG0ZXsPxXSxg&fp=chrome&spx=%2F68c37f731fe3745&type=xhttp&sni=www.anisabrand.ru&sid=51228b5e10828f7f#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://237f3738-b70a-4146-89a8-10e914387c1d@159.194.243.175:8443?mode=auto&path=%2Fvideoapi&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=Q9-Fzdk-ww9qRMYjTvPwQXlbTfdsmEviG0ZXsPxXSxg&fp=firefox&spx=%2F68c37f731fe3745&type=xhttp&sni=www.anisabrand.ru&sid=51228b5e10828f7f#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwacdi.cvewfjg.shop:443?security=reality&encryption=none&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7a76f3c4b9dd#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://26524cce-d514-4014-a426-365fb266a14d@167.99.214.36:443?path=%2Fdanfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=firefox&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://26524cce-d514-4014-a426-365fb266a14d@178.62.38.224:443?path=%2Fdanfeng-pw8lj2-nzliwt-h23l-978coeve&security=tls&encryption=none&insecure=0&host=qcswhj2.edge-cache.danfeng4.xyz&fp=firefox&type=ws&allowInsecure=0&sni=qcswhj2.edge-cache.danfeng4.xyz#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://7017a1ca-7a31-463d-832e-5a7261a3dd62@162.19.230.250:443?security=reality&encryption=none&pbk=i1OqphFMJNL_xwV5zES4icJTPBHtSgieOt3FYns9zB0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amazon.com&sid=2b#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://e4a02db3-b0ef-4573-ab82-82be94cd6c5f@rfr.fars-remen.ir:443?security=&encryption=mlkem768x25519plus.native.0rtt.LQnRVsDhfdgLrbL5EeSyS1P6JRDWLYLkddE7vyHgj20&host=dynu.com&headerType=http&type=tcp#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://7791aa10-f3bb-4933-a3e7-a627e5e761f4@87.120.106.214:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=djpb2hzoaa71.dx4x.com#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.446Z"
