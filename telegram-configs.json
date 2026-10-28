@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-28T19:45:31.969Z",
+  "updated": "2026-10-28T20:00:39.807Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.65.148:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-28T20:00:37.902Z"
+    },
     {
       "url": "vless://a7e9fc98-25a2-4801-961c-7a6ed9d69328@f1.greewebservices.ir:443?mode=auto&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Cheerfully-frozen-mongoose-beryl.global.ssl.fastly.net&fp=random&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#YFZ%20192%20%40Outline_Vpn",
       "name": "outline_vpn",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=6ba85179e30d4fc2#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
