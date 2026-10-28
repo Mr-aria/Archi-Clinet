@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-28T21:15:36.245Z",
+  "updated": "2026-10-28T21:45:36.446Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.unlockyourfuturefindyourperfectcareer.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-28T21:45:34.166Z"
+    },
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-28T21:45:34.166Z"
+    },
     {
       "url": "vless://99fa1d27-b252-4cba-b04d-50c3d0873700@hk013.zestapp778.com:59746?type=tcp&security=tls&fp=chrome&sni=hk013.zestapp778.com#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://b2b9a63b-89d3-4470-a881-21ea75592206@91.107.179.208:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.4fkrvdcwCv6fZyCPiw5Fo2oYSz0rF3FlGQQH6qIuxWs&pbk=gi6O8fxiBAeZGmQZLwNWXi1egXouslovp_a6hsBgvws&host=google.com&headerType=http&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=fe9f4e8a8e2a78#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://5f11c240-89df-494c-9c81-8b619023bb58@789156.xyz:443?path=%2F%3Fed%3D2048fp%3Drandomized&security=tls&encryption=none&insecure=0&host=789156.xyz&type=ws&allowInsecure=0&sni=789156.xyz#%F0%9F%87%A8%F0%9F%87%A6189369%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://24a14df3-1399-430a-9492-ea64390014d2@31.56.227.199:48962?encryption=none&security=reality&sni=www.sony.fi&fp=chrome&pbk=5cBHUh3DzpgntcIz040hv_2zWOI34a3WC-_jcOqEiCE&sid=26&spx=%2F99e56590e28706a&type=xhttp&path=%2F&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A15%2C%22hMaxRequestTimes%22%3A%22100-300%22%2C%22hMaxReusableSecs%22%3A%22600-1200%22%2C%22maxConcurrency%22%3A%22%22%2C%22maxConnections%22%3A%224%22%7D%7D#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
