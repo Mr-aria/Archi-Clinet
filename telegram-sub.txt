@@ -1,3 +1,4 @@
+vless://d4353076-3ec7-47dc-88b0-f21eb59fbfb8@193.160.140.159:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%40V2ray_Alpha%F0%9F%AB%9A%202
 vless://e2e6f62b-3913-4413-a877-995675637374@de-ads.th3team.ir:443?pcs=4241775bf20878b791485f4ca6128ff4a84f6c36e7cd02167e976363d36e809e&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=blog.ir#@ICV2RAY
 vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.123:443?mode=auto&security=reality&encryption=none&pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&type=xhttp&sni=savesafe.top&sid=def9b800fb6a3ddb#@ICV2RAY
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@83.136.209.31:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fra.viralforge.ru&sid=a1b2c3d4b5#@ICV2RAY
@@ -4997,4 +4998,3 @@ vless://d90edb53-e7fd-40a0-a747-61964c605abc@199.232.78.159:443?path=%2F&securit
 vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=pokerrr.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ICV2RAY
 vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=looazjboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ICV2RAY
 vless://ebeb7358-9fc0-4222-a0e5-d8bc274a8856@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=swissjji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=ssl.fastly.com#@ICV2RAY
-vless://b1813cbd-831f-4cb3-baf8-5bc0cc8298bc@83.168.107.220:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#@ICV2RAY
