@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-28T13:30:32.417Z",
+  "updated": "2026-10-28T13:45:49.847Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d8c14c5c-a80a-4f6f-a5fb-52071849c443@104.21.70.21:443?alpn=http/1.1&ed=2560&encryption=none&fp=unsafe&host=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&path=/eyJqdW5rIjoiZTFWRGJFS0NUd2F2NkRmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&sni=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-28T13:45:46.680Z"
+    },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%94%B0%20MTMVPN",
       "name": "proxy_mtm",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://c0f08edc-395b-4163-92aa-87772605e331@152.53.106.47:443?security=reality&encryption=none&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=&fp=random&spx=%2FEL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.446Z"
