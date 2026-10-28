@@ -9,7 +9,7 @@
     "ProxyMTProto": 52566,
     "khabari_18": 77240,
     "JozveDaneshgahi_ir": 12851,
-    "MatinSenPaii": 5719,
+    "MatinSenPaii": 5720,
     "pewezavpn": 25781,
     "ShadowWolfVpn": 219,
     "neotenet": 724,
@@ -36,12 +36,12 @@
     "V2rayng_Fast": 26678,
     "icv2ray": 8801,
     "oneclickvpnkeys": 27469,
-    "iRoProxy": 58137,
+    "iRoProxy": 58138,
     "proxy_badss": 26552,
     "MyPoroxy": 46819,
-    "BlueKnight_Net": 1652,
+    "BlueKnight_Net": 1654,
     "SRCVPN": 7605,
-    "ZibaNabz": 24716,
+    "ZibaNabz": 24717,
     "PrivateVPNs": 26374,
     "configV2rayForFree": 8043,
     "iranvpnet": 709,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 10336,
   "totalProxies": 1034,
-  "runCount": 1166
+  "runCount": 1167
 }
