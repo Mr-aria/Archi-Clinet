@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-28T18:16:43.598Z",
+  "updated": "2026-10-28T18:45:32.437Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=chrome&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#%40V2ray_Alpha%F0%9F%A5%83%209",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-28T18:45:31.225Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSm85Z1RlczduSTNBbHhp@20.164.216.117:443#%40V2ray_Alpha%F0%9F%A5%83%2010",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-28T18:45:31.225Z"
+    },
+    {
+      "url": "vless://6c713691-3ca2-002b-ad25-113d1bed6b03@140.225.199.136:8443?mode=gun&security=reality&encryption=none&pbk=86EUYgrS7mazQ-GsiMnStyHSx9AlG8B_-KgXluNdWXI&fp=chrome&type=grpc&serviceName=google.storage.v2.Storage&sni=strm.yandex.net&sid=d3ab13e9c496c399#%40V2ray_Alpha%F0%9F%A5%83%2012",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-10-28T18:45:31.225Z"
+    },
+    {
+      "url": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@154.26.188.52:443?security=reality&encryption=none&pbk=Njwb7fCl8PXKOs3owDB-gjzbmEyEewlL6JlMKwMTUQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=b46b142b#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-28T18:45:31.090Z"
+    },
     {
       "url": "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=mother-earth.fyi&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@ICV2RAY",
       "name": "icv2ray",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://ae0d0211-b7dc-461d-9d41-1eb224876f30@31.76.113.150:443?security=reality&encryption=none&pbk=nilJ07r1KZ0-KhmRNYeICXGhM9HeG9uxnRaqjYz3fWg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=static.responsiblecare.uk&sid=d38eea587f1a4f68#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://6db7ea14-ed33-4591-a9b1-f1e91b1c0ff5@ru-test.omuservice.tech:8443?security=reality&encryption=none&pbk=yyH7Fyfh1ULPH4L5mFVtqPf_rB1IY6jwDgOuIRY7-wA&headerType=&type=tcp&flow=xtls-rprx-vision&sni=ozone.nl&sid=9409a3561ba49f30#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=pl3.moritech.net#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://84a3061b-3573-4a3c-a631-f26c31209268@fl-05.vacvps.com:443?security=reality&encryption=none&pbk=f4ZWSdDLpQQwC4scaTsLbRDmizkYqHjMyn7WceWPEDQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fl-05.vacvps.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "vless://13341149-f2f1-9ba2-31ae-f64a1206ad57@victoryprovpn-production-1ae4.up.railway.app:443?path=%2Fws%2F13341149-f2f1-9ba2-31ae-f64a1206ad57&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=victoryprovpn-production-1ae4.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=victoryprovpn-production-1ae4.up.railway.app#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.446Z"
