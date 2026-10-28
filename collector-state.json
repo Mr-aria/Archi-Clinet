@@ -40,7 +40,7 @@
     "proxy_badss": 26498,
     "MyPoroxy": 46811,
     "BlueKnight_Net": 1648,
-    "SRCVPN": 7603,
+    "SRCVPN": 7604,
     "ZibaNabz": 24715,
     "PrivateVPNs": 26367,
     "configV2rayForFree": 8043,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 10214,
   "totalProxies": 1031,
-  "runCount": 1098
+  "runCount": 1099
 }
