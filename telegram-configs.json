@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-28T16:30:36.982Z",
+  "updated": "2026-10-28T17:00:35.449Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.19.247:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-28T17:00:33.955Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.8.63.248:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-28T17:00:33.955Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.146.67:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://7791aa10-f3bb-4933-a3e7-a627e5e761f4@87.120.106.214:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=djpb2hzoaa71.dx4x.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoT1Jzb0M0U1RCRDV3eUdyc3MwVk53@tun2.musichubmel.ir:8882#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.446Z"
-    },
-    {
-      "url": "hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@222.167.245.240:28015?security=tls&insecure=0&sni=api-test-udp-traffic.kaneki.cfd#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.446Z"
