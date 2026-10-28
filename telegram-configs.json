@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-28T06:45:35.344Z",
+  "updated": "2026-10-28T07:00:36.139Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.205.217:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-28T07:00:34.067Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.65.99:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-28T07:00:34.067Z"
+    },
     {
       "url": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@83.147.18.75:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@bolgarka.drop0chka.work:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=bolgarka.drop0chka.work&sid=ff776ff77be48b88#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.445Z"
-    },
-    {
-      "url": "trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.445Z"
-    },
-    {
-      "url": "vless://442581ff-646e-4e99-af3e-a9d9a636a44b@freeman.curtvip.ir:20410?security=reality&encryption=none&pbk=BErODvy5h6Cjw5zWfX_CZ5ODH9p1XbZwU-ZEHyVXEGI&headerType=none&fp=chrome&type=tcp&sni=secureconnect-pa.mtls.clients6.google.com&sid=e2ce3e050232978c#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.445Z"
