@@ -25,8 +25,8 @@
     "nofiltering2": 6220,
     "shh_proxy": 10984,
     "TestDummyChannel": 3,
-    "hamclasixii": 81399,
-    "Linuxor": 5840,
+    "hamclasixii": 81400,
+    "Linuxor": 5842,
     "MineProxy": 55421,
     "imArasTey": 202,
     "appxa": 15124,
@@ -34,7 +34,7 @@
     "IRAN_V2RAY1": 11362,
     "Hope_Net": 94300,
     "V2rayng_Fast": 26684,
-    "icv2ray": 8803,
+    "icv2ray": 8804,
     "oneclickvpnkeys": 27473,
     "iRoProxy": 58139,
     "proxy_badss": 26572,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 10382,
   "totalProxies": 1043,
-  "runCount": 1205
+  "runCount": 1206
 }
