@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-29T11:45:38.573Z",
+  "updated": "2026-10-29T12:15:35.599Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?sni=th001.zestapp778.com&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T12:15:34.180Z"
+    },
+    {
+      "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?&security=reality&flow=xtls-rprx-vision&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&sid=e6d589857d1cec5e&fp=firefox&sni=fr.golangwikito.cfd&type=tcp&headerType=none&host=fr.golangwikito.cfd&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T12:15:34.180Z"
+    },
     {
       "url": "vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@n04.jinggai.online:8443?&security=tls&fp=chrome&sni=n04.jinggai.online&type=ws&headerType=none&host=n04.jinggai.online&path=%2Fnvl-n04-ws%2Fe0577fe8fd7c8823#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://497f5381-3533-4c6a-939c-66eb3a7de108@cdn.topingr.ir:443?path=%2Fgropcdn&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.topingr.ir#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=chrome&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://05d7a479-a099-40cf-aecf-41aa934767b0@nl5.hap-plus.ru:8443?path=%2Fapi%2Fv1%2Fevents&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl5.hap-plus.ru&fp=firefox&type=ws&allowInsecure=0&sni=nl5.hap-plus.ru#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.448Z"
