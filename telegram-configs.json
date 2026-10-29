@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-29T10:15:39.327Z",
+  "updated": "2026-10-29T10:45:34.128Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://humanity@212.227.144.37:8443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T10:45:32.589Z"
+    },
     {
       "url": "vless://fd65fd49-beaf-4dbf-b689-bcc53595bd89@tulip.amydoodles.com:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2Fsetare&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22300-500%22%2C%22hMaxReusableSecs%22%3A%22300-480%22%7D%7D&insecure=0&host=kiitalboard.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40Shh_Proxy-New%C2%B9",
       "name": "shh_proxy",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://ca612329-d894-46ec-a2d4-849df1193f25@superjinx93-production.up.railway.app:443?encryption=none&security=tls&fp=chrome&alpn=http%2F1.1&type=ws&host=superjinx93-production.up.railway.app&path=%2Fjx-ozzlu9lrx2p9gx%3Fed%3D2560#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.22:443?security=reality&encryption=none&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&host=%2F%3FICV2RAY--ICV2RAY--MARAMBASHI--ICV2RAY--ICV2RAY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7a76f3c4b9dd#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
