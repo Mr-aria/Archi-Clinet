@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-29T05:45:36.546Z",
+  "updated": "2026-10-29T06:16:43.889Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?sni=learn.iloverussia2026.com#%F0%9F%A4%962@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@31.77.129.151:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&security=reality&sid=2c9a2790ad5900b2&sni=ge-s-1.pythonmakemigreat.wiki&type=tcp#%F0%9F%A4%963@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "hysteria2://vpnjey@179.61.138.145:36264/?obfs=salamander&obfs-password=Telegram%40vpnjey&sni=de2.jey.cc.cd#%F0%9F%A4%964@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?sni=www.iloverussia2026.com#%F0%9F%A4%965@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?sni=courses.iloverussia2026.com#%F0%9F%A4%966@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?sni=resources.iloverussia2026.com#%F0%9F%A4%967@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%F0%9F%A4%969@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "vless://85656e50-ee8d-4266-8b48-b99833c090dd@216.24.57.1:2095?encryption=none&host=pSh7BcY-RkLdPzN.BfUgSt.hAe38WqNdKlS-.mZtRpA.YwKe62vFrXqJdN-hPtLyC-SkWzFd.mAnIyAdG7sHaRd.iR&path=%2F&security=none&type=httpupgrade#%F0%9F%A4%9610@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?sni=blog.iloverussia2026.com#%F0%9F%A4%9611@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "vless://4c9f78a0-5ff8-485d-b783-e8672d566dc3@31.56.18.67:443?encryption=none&fp=firefox&host=dege.underground.company&mode=auto&path=%2Fassets%2Fbee16464f73f1e99a41f0215%2F&security=tls&sni=dege.underground.company&type=xhttp#%F0%9F%A4%9612@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "vless://c6362720-0931-4b91-b187-d8ecf3149734@168.222.43.53:10002?encryption=none&security=none&type=tcp#%F0%9F%A4%9613@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "hysteria2://d62s7ghfehm742us@derfderf.ru:12824/#%F0%9F%A4%9614@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
+    {
+      "url": "vless://4c9f78a0-5ff8-485d-b783-e8672d566dc3@201.8.87.14:443?encryption=none&fp=firefox&host=seso.underground.company&mode=auto&path=%2Fassets%2F738191ca2d4d1eb831d3324c%2F&security=tls&sni=seso.underground.company&type=xhttp#%F0%9F%A4%9615@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-29T06:16:42.015Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiJkb2ctanAua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDE0IiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
       "name": "Farah_VPN",
@@ -29920,84 +29998,6 @@
     },
     {
       "url": "vless://11a1238e-348b-47c7-ac36-47ed50dd911c@frn8.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=f88610dd#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@fast.jkerm.com:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=italyji.global.ssl.fastly.net.&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.20.113:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=loosboijji.global.ssl.fastly.net.&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.20.113:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=yakoozanman.global.ssl.fastly.neT.&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.9.254:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=pokerrr.global.ssl.fastly.net&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.9.254:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=finliijji.global.ssl.fastly.net&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.9.254:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=norwayji.global.ssl.fastly.net.&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.20.113:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=swissjji.global.ssl.fastly.net.&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=canadajji.global.ssl.fastly.net.&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.11.52:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=finlandsb.global.ssl.fastly.net.&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://0301ab90-e36e-8b04-f845-ef9e70a8650e@nl.netlixa.ir:443?encryption=none&security=none&type=tcp&headerType=http&host=pley.google.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3f89518a-e78f-4d31-a1c5-1725b4cfb70d@50.7.216.173:443?encryption=none&security=tls&sni=3f89518a.ferrin.uk&fp=safari&alpn=h2&type=xhttp&host=api.ferrin.uk&path=%2Fnl&mode=stream-one&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%2C%22hMaxReusableSecs%22%3A%221140-1260%22%7D%7D#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3134d744-0fa0-48a5-ac8d-3ffee2d76814@199.232.11.52:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=swedwneeji.global.ssl.fastly.net.&path=%2F#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://a739237f-b79e-46a2-bb82-4f3667d9570c@sub.skyshopnet.ir:443?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.ylWaNV7JiVE1OUF1VfMPRL_6Wakrx28Q2J1JLJL0ujU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hpqn8r_F_YEnWuzRgNtRM5uHgUkrIzx99VEwzJH-PTI&host=panel.skyshopnet.ir&fp=chrome&spx=%2Fd42073e345f0bcc&type=xhttp&sni=www.sony-africa.com&sid=478c35fe20793152#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
