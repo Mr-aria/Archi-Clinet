@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-29T19:00:40.869Z",
+  "updated": "2026-10-29T19:15:36.617Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiJyaGhpZXJrd3JmNmZoczJoLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJyaGhpZXJrd3JmNmZoczJoLnYuM2Rucy52aXAiLCJpZCI6Ijc4YjNmMTQ5LWYwMzctNDY1ZC1iMmZiLTExYWRiNmY3M2ZmOCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwic25pIjoicmhoaWVya3dyZjZmaHMyaC52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T19:15:34.944Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.220.159:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://2c5f2d6e-d683-49f7-a12b-a95460b90a92@no-lim2.nomush.ir:443?mode=packet-up&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2Fnolimitx&security=tls&encryption=none&insecure=0&host=nolimiraniserv1.global.ssl.fastly.net&fp=qq&type=xhttp&allowInsecure=0&sni=speedtest.net#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@31.56.186.115:443?security=reality&encryption=none&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&headerType=&type=tcp&flow=xtls-rprx-vision&sni=fi-s-1.pythonmakemigreat.wiki&sid=78f97d82e16aaad6#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.448Z"
