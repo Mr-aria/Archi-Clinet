@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-29T02:45:36.425Z",
+  "updated": "2026-10-29T03:15:35.533Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.180:443?security=reality&encryption=none&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&fp=chrome&type=grpc&serviceName=0adb9638509b&sni=36a466g.fi1.h1clayd.click&sid=b3c9d0c6bdd114a6#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T03:15:33.606Z"
+    },
     {
       "url": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=rusbid.de&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@91.107.165.46:8080?security=reality&encryption=none&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&headerType=none&fp=firefox&type=tcp&sni=www.actionvfx.com&sid=73693dea6faae051#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://dfe8ea9e-fd77-48e6-86ee-7bc1019de1e7@185.236.20.142:6443?security=reality&encryption=none&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&headerType=none&fp=firefox&type=tcp&sni=ok.ru&sid=9c56af76#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
