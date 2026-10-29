@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-29T10:45:34.128Z",
+  "updated": "2026-10-29T11:00:32.219Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.161.70:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-29T11:00:31.141Z"
+    },
     {
       "url": "trojan://humanity@212.227.144.37:8443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://2e99b303-f750-4782-954c-0aae539e71f8@5.160.110.225:8443?encryption=mlkem768x25519plus.native.0rtt.ckQiT2oWFrbh7Vrmw9T6KuaeGeRqdMxCw-R1EhK1KSY&security=none&type=tcp&headerType=none#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://ca612329-d894-46ec-a2d4-849df1193f25@superjinx93-production.up.railway.app:443?encryption=none&security=tls&fp=chrome&alpn=http%2F1.1&type=ws&host=superjinx93-production.up.railway.app&path=%2Fjx-ozzlu9lrx2p9gx%3Fed%3D2560#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
