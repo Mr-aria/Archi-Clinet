@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-29T00:45:33.937Z",
+  "updated": "2026-10-29T01:15:35.481Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?allowInsecure=1#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T01:15:33.488Z"
+    },
     {
       "url": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?sni=us007.zestapp778.com&fp=chrome&security=tls#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://fc3bc967-cae4-40f8-4d5c-4d25fd73088a@faultpass-newpanel-production.up.railway.app:443?path=%2Fws%2Ffc3bc967-cae4-40f8-4d5c-4d25fd73088a&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=faultpass-newpanel-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=faultpass-newpanel-production.up.railway.app#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://20d51411-b4c2-4485-a80b-8f322da808b8@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
