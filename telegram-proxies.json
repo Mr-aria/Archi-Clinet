@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-29T20:01:46.018Z",
-  "count": 1313,
+  "updated": "2026-10-29T20:15:39.685Z",
+  "count": 1314,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.mohearn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-10-29T20:15:31.765Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.strawberrybarn.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
