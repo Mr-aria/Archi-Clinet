@@ -37,7 +37,7 @@
     "icv2ray": 8806,
     "oneclickvpnkeys": 27487,
     "iRoProxy": 58148,
-    "proxy_badss": 26667,
+    "proxy_badss": 26671,
     "MyPoroxy": 46837,
     "BlueKnight_Net": 1660,
     "SRCVPN": 7605,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 10610,
   "totalProxies": 1103,
-  "runCount": 1394
+  "runCount": 1395
 }
