@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-29T17:45:37.500Z",
+  "updated": "2026-10-29T18:45:34.224Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@45.152.192.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sid=61e21f9aa67aa1bf&sni=8a11e6a89110.j.cloudfront.hls.ttvnw.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&type=tcp#%40nofiltering2%20%60",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-10-29T18:45:33.495Z"
+    },
+    {
+      "url": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?insecure=0&host=hw3.divarkhaghazi.com.&security=tls&path=%2F&sni=hw3.divarkhaghazi.com&type=ws&allowInsecure=0&encryption=none#%40nofiltering2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-10-29T18:45:33.495Z"
+    },
+    {
+      "url": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?security=tls&path=%2F&encryption=none&insecure=0&type=ws&sni=hw6.divarkhaghazi.com.&allowInsecure=0&host=hw6.divarkhaghazi.com.#%40nofiltering2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-10-29T18:45:33.495Z"
+    },
+    {
+      "url": "vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@45.152.192.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sid=61e21f9aa67aa1bf&sn…",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-10-29T18:45:33.495Z"
+    },
+    {
+      "url": "trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230?security=tls&sni=www.alibaba.com&type=ws&path=/&Host=www.alibaba.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T18:45:32.707Z"
+    },
+    {
+      "url": "vless://d8c14c5c-a80a-4f6f-a5fb-52071849c443@104.21.70.21:443?alpn=http/1.1&ed=2560&encryption=none&fp=unsafe&host=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&path=/eyJqdW5rIjoiZTFWRGJFS0NUd2F2NkRmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&sni=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T18:45:32.707Z"
+    },
     {
       "url": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#",
       "name": "Farah_VPN",
@@ -29962,42 +29998,6 @@
     },
     {
       "url": "vless://616c7b3b-41f4-4038-88c6-d6fedd0ae4a7@144.31.171.200:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl-5.ardesnode.ru&fp=random&pbk=PKlt_5ASsz137EvA9SKSadtjEv1k_U7VRtoelKCgADs&sid=9ea74b83f4993ca9&type=tcp&headerType=none#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://c96f941e-dd8a-006e-89d5-740b79202ed0@185.22.153.40:8443?encryption=none&security=reality&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&spx=%2Fc6e79208ab92a6b&type=tcp&headerType=none#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://c96f941e-dd8a-00aa-89d5-740b79202ed0@31.76.65.196:8443?encryption=none&security=reality&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&spx=%2Fc6e79208ab92a6b&type=tcp&headerType=none#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://b020c472-934e-4d99-e8f8-3851c001683a@ansooyefilter-telegram.arshia-nova.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mr_anonoijji.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=speedtest.net#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.448Z"
