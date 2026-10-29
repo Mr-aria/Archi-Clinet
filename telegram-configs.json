@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-29T04:45:35.079Z",
+  "updated": "2026-10-29T05:01:45.918Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-10-29T05:01:41.011Z"
+    },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@198.211.123.90:443?&security=tls&fp=unsafe&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@pl2.originmesh.online:443?security=reality&encryption=none&pbk=0V7SmsnnIasJwWkSpr4YgXTurHW-GMcjrwMa1TAVAyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=originmesh.online&sid=afee962d#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://3f7d3628-cfc1-4cb4-b769-b6ee67019863@fasted.netbazshop.ir:2053?mode=stream-up&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cafeariel.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=dasshboard.netbazshop.ir#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
