@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-29T05:01:45.918Z",
+  "updated": "2026-10-29T05:45:36.546Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiJkb2ctanAua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDE0IiwicHMiOiJcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T05:45:34.873Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiJkb2ctdHcua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDM0IiwicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmYyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T05:45:34.873Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
       "name": "freakconfig",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://a739237f-b79e-46a2-bb82-4f3667d9570c@sub.skyshopnet.ir:443?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.ylWaNV7JiVE1OUF1VfMPRL_6Wakrx28Q2J1JLJL0ujU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hpqn8r_F_YEnWuzRgNtRM5uHgUkrIzx99VEwzJH-PTI&host=panel.skyshopnet.ir&fp=chrome&spx=%2Fd42073e345f0bcc&type=xhttp&sni=www.sony-africa.com&sid=478c35fe20793152#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://ce148dac-7c43-456f-b1eb-e55885e58cf5@45.131.182.201:19771?security=reality&encryption=none&pbk=KR1BiF2E9rjtUF0LoV6A1BwijD3dLKbWe8wlkNMQ7Gk&headerType=&fp=chrome&spx=%2Fde372256a1b9db7&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=60f03ba16a#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "vless://a3c2ed66-2a7c-4a39-96df-b70fbfde750f@pl2.originmesh.online:443?security=reality&encryption=none&pbk=0V7SmsnnIasJwWkSpr4YgXTurHW-GMcjrwMa1TAVAyw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=originmesh.online&sid=afee962d#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
