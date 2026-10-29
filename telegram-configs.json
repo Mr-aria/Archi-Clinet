@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-29T20:30:33.449Z",
+  "updated": "2026-10-29T20:45:36.278Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T20:45:34.427Z"
+    },
+    {
+      "url": "vless://d312d7fb-f1b0-4a92-adef-771d9bf24a87@creator.morteza1388m1122.ir:8443?sni=CREATOR.morteza1388m1122.ir&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T20:45:34.427Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T20:45:34.427Z"
+    },
+    {
+      "url": "vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@193.233.252.100:443?sni=swe.qik-fin.uk&type=grpc&serviceName=assets&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T20:45:34.427Z"
+    },
+    {
+      "url": "vless://76ef5ab3-7075-4e23-b445-f3b1bd05d431@rus.play-cat.uk:443?sni=rus.play-cat.uk&type=grpc&serviceName=assets&fp=ios&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T20:45:34.427Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.195.9:22222?encryption=none&security=none&type=tcp#(S104",
       "name": "PrivateVPNs",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2083?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=141.98.7.193#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@185.192.22.159:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://0a322246-8c1a-47cd-9865-cccebbb2e5c1@31.76.64.248:443?security=reality&encryption=none&pbk=9OV_GN4lgwY_4llPfYCGev-PPXLMj-hfYnveKF4tjws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=blog.api.www.cloudflare.com&sid=f8#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://e9e60f73-1618-491c-a85b-477bdc959ae6@141.98.7.193:2087?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=141.98.7.193#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://1e391858-428b-4051-988f-905ad0c3b451@45.88.12.152:2083?encryption=none&security=tls&sni=crt.molniya.sbs&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.448Z"
-    },
-    {
-      "url": "vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@game-survival.surverssss.pro:8443?encryption=none&security=reality&sni=game-survival.surverssss.pro&pbk=h-lXoMXS7rllNOzX6BL8NdhZMPFxEG6GEha-LmzpY2A&type=grpc&authority=&serviceName=grpc&mode=gun#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.448Z"
