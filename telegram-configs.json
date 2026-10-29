@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-29T09:17:20.994Z",
+  "updated": "2026-10-29T09:30:34.864Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.117.210:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-29T09:30:33.373Z"
+    },
     {
       "url": "trojan://Pass-Client-1@171.22.119.74:8446?allowInsecure=1&serviceName=grpc-video-call&type=grpc#%F0%9F%A4%9631@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://97a3e651-a1c1-4b52-b870-132d6042682a@fonf.mc6.fo.ir.ns6.mc.ln.6h.yalandunya.co.uk:8443?security=reality&encryption=none&pbk=QXVlPsDjEwaAzlg7A2EBKETX5UrX-BdhogrEnvE-8BI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=ce6e0ab02e290952#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.447Z"
-    },
-    {
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206S0doZm1PRW9tQjhNWVdPRnVJRnhhVTZ3ZlNBWURGekJLRTlzZzN2TWxsOD06SE5VWjFORzFzTkxxRWU2djdYQVkzOUpMUEJUQTJ2QUI5UEd2UzlWWkdFQT0@wm3wwnnl3592.dop72.com:29582#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.447Z"
