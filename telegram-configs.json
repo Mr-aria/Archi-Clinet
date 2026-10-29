@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-29T21:45:37.807Z",
+  "updated": "2026-10-29T22:15:32.034Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&ech=AF%2F%2BDQBbAAAgACCtCCV2%2BT2TCcNWgmmXvltmj5tzoKlieBzbAPbBAF0eIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAx3Lmdlb2dhbWUuaXIAAA%3D%3D&type=tcp&allowInsecure=0&sni=w.geogame.ir#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T22:15:30.725Z"
+    },
+    {
+      "url": "vless://056405e8-de9f-4d0d-8145-956f13cc34da@77.42.12.225:443?encryption=none&security=reality&sni=8fc752g.fi3.h1clayd.click&fp=firefox&pbk=GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18&sid=09d0a94a1c6fc9d5&type=grpc&authority=&serviceName=f345a414c040&mode=gun#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T22:15:30.725Z"
+    },
+    {
+      "url": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg003.zestapp778.com:443?security=tls&type=tcp&packetEncoding=xudp&sni=sg003.zestapp778.com&fp=chrome#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T22:15:30.725Z"
+    },
+    {
+      "url": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@us007.zestapp778.com:18580?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us007.zestapp778.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T22:15:30.725Z"
+    },
+    {
+      "url": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?security=reality&type=tcp&packetEncoding=xudp&sni=twitch.tv&fp=firefox&flow=xtls-rprx-vision&sid=16036bbef04d0509&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-29T22:15:30.725Z"
+    },
     {
       "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com#",
       "name": "Farah_VPN",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
-    },
-    {
-      "url": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de10.dedushka.top:443?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de10.dedushka.top#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
-    },
-    {
-      "url": "trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
-    },
-    {
-      "url": "vless://3b1fa839-2cb9-4511-9711-08800450aea3@tickets.betust.net:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiIxNjguMTEzLjIxNS42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyODFhY2NhLWYyMWQtNDc1Yy1iZjA0LWVjY2JlZTdmOGRmMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy13cyIsInBjcyI6IiIsInBvcnQiOiIzMzczNiIsInBzIjoiSUNWMlJBWUAgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
-    },
-    {
-      "url": "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTELEGRAM---ICV2RAY---------&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.449Z"
