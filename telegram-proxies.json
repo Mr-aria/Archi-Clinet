@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-28T22:01:46.269Z",
-  "count": 1250,
+  "updated": "2026-10-29T06:31:39.024Z",
+  "count": 1251,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=rivisu64.tidelark.cc&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b72697669737536342e746964656c61726b2e6363",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-29T06:31:34.082Z"
+    },
     {
       "url": "https://t.me/proxy?server=filmvideo.poefauscw.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "mehrosaboran",
