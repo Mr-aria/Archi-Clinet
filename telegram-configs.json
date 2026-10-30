@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-30T15:46:41.527Z",
+  "updated": "2026-10-30T16:00:37.843Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.164.49:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-30T16:00:35.982Z"
+    },
     {
       "url": "trojan://humanity@45.128.76.242:443?alpn=http%2F1.1&fp=firefox&host=www.trusteeforward.com&path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&sni=www.trusteeforward.com&type=ws#%F0%9F%91%BE62@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.84:2053?alpn=h2%2C%2B%2Bhttp%2F1.1&encryption=none&fp=firefox&host=summerculture.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp#%F0%9F%8D%824@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://2c634977-584e-4e1f-b501-1b70c77a6743@dismissaltree.net:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2264-128%22%7D%7D&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&type=xhttp#%F0%9F%8D%825@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.825Z"
