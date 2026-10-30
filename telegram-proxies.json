@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-30T19:02:05.584Z",
-  "count": 1344,
+  "updated": "2026-10-30T23:46:47.715Z",
+  "count": 1345,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.halaawoon.co.uk&port=4435&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "MineProxy",
+      "source": "MineProxy",
+      "date": "2026-10-30T23:46:44.984Z"
+    },
     {
       "url": "https://t.me/proxy?server=zero.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
