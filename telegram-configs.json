@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-30T15:15:35.847Z",
+  "updated": "2026-10-30T15:16:38.200Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@94.249.148.20:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=de-3.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14#%20@V2rayng_Fast",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-30T15:16:36.215Z"
+    },
+    {
+      "url": "vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=b.fi-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14#%20@V2rayng_Fast",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-30T15:16:36.215Z"
+    },
+    {
+      "url": "vless://8be3e9b2-54e6-490c-ad5f-5a372765ffae@de.soft10.ir:8080?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=staticview.microsoft.com&pbk=Au0lpWqAPpK0aNuc3Uwcsf7fB1B2w2LXzdC1CVKb1ik&sid=a8235bf7eb8fca#%20@V2rayng_Fast",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-30T15:16:36.215Z"
+    },
+    {
+      "url": "vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&type=tcp&host=telegram-leviko_v2ray&security=reality&fp=ios&sni=sg2-8sb.6121999.dpdns.org&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#%20@V2rayng_Fast",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-10-30T15:16:36.215Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiIyMTIuODAuOC4xODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWVkNzkzMDUtNWU0YS00OTc3LTkyZmItMDE0ZGI4YjBhNjJmIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
       "name": "Farah_VPN",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://31cfd50c-cc13-470d-826c-351ce9f81cb5@57.129.138.142:8880?encryption=mlkem768x25519plus.native.0rtt.JfNBPz0m2uCp_6xUfKujyff2m7RneA04mdyArprLvxU&security=none&type=tcp#%F0%9F%8D%8235@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://126fdbae-bb34-5882-a40c-fb60c5ea4afb@149.202.57.89:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com&type=tcp#%F0%9F%8D%8236@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://9e739716-99c0-53e0-96c6-d0fde1a16b1d@79.143.92.57:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=&mode=auto&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=8IZiiBEPszvgBeDmpdO2hpSi4K9_dm_fzNCrNxOprRY&security=reality&sid=c86d3b1b&sni=gitlab.io&type=xhttp#%F0%9F%8D%8237@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.133:2087?alpn=http%2F1.1&encryption=none&host=fert6.localip.ir&path=%2Fhokm&security=tls&sni=fert6.localip.ir&type=ws#%F0%9F%8D%8238@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.48:2087?alpn=http%2F1.1&encryption=none&host=ops4asfseretuiyk.localip.ir&path=%2Fhokm&security=tls&sni=ops4asfseretuiyk.localip.ir&type=ws#%F0%9F%8D%8239@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.825Z"
