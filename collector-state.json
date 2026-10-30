@@ -7,7 +7,7 @@
     "outline_vpn": 11842,
     "iut_ChatrBazaan": 0,
     "ProxyMTProto": 52625,
-    "khabari_18": 77454,
+    "khabari_18": 77459,
     "JozveDaneshgahi_ir": 12900,
     "MatinSenPaii": 5735,
     "pewezavpn": 25785,
@@ -17,9 +17,9 @@
     "MTP_roto": 49839,
     "iProxy": 0,
     "ProxyNamava": 114,
-    "MARAMBASHI": 41543,
-    "free_netplus": 20332,
-    "Farah_VPN": 394655,
+    "MARAMBASHI": 41544,
+    "free_netplus": 20342,
+    "Farah_VPN": 394656,
     "V2ray_Alpha": 9977,
     "iTV2RAY": 3146,
     "nofiltering2": 6224,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 10780,
   "totalProxies": 1118,
-  "runCount": 1532
+  "runCount": 1533
 }
