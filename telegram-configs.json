@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-30T06:16:45.186Z",
+  "updated": "2026-10-30T06:45:30.782Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJ0dW4ueGVsbml2by5pciIsInBvcnQiOiIzMzYyNSIsInR5cGUiOiJub25lIiwiaWQiOiJmNjU0NzQ2Ni1hNDRhLTQxZTctOWI3MS00NzNjNWJmMDU3MjMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoidHVuLnhlbG5pdm8uaXIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T06:45:29.939Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@3.35.214.122:8443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T06:45:29.939Z"
+    },
+    {
+      "url": "vless://e9378202-c7db-4204-a41c-ce981fa927d4@cdn2.ir53.indevs.in:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=cdn2.ir53.indevs.in&type=ws&headerType=none&host=cdn2.ir53.indevs.in&path=%2Fvarzesh3.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T06:45:29.939Z"
+    },
     {
       "url": "vless://7c730089-1791-4828-89b2-86e7e1663063@de.privatevip.ir:443?encryption=none&host=play.google.com&path=%2F&security=none&type=ws#%F0%9F%91%BE2@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=safari&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
-    },
-    {
-      "url": "trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=android&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@104.18.43.174:443?path=%2F&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@104.18.41.190:443?path=%252Fcart%252Fdocs%252Fwww%252Fproxyip%253D108.160.132.132&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-22T12:33:14.449Z"
