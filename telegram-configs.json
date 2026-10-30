@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-30T14:16:57.257Z",
+  "updated": "2026-10-30T14:31:37.753Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiJDWkUyT3NEN1FKSDd0N2V6LnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IkNaRTJPc0Q3UUpIN3Q3ZXoudi4zZG5zLnZpcCIsImlkIjoiMTg1MjI5ZDQwMWMzNGZjOTg4MTI3ZGIxNDMyNGM5OGIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ep8J+HqkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJDWkUyT3NEN1FKSDd0N2V6LnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-10-30T14:31:31.196Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiI4QTVPRkZBMmlyT0dBYjNBLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjhBNU9GRkEyaXJPR0FiM0Eudi4zZG5zLnZpcCIsImlkIjoiMTg1MjI5ZDQwMWMzNGZjOTg4MTI3ZGIxNDMyNGM5OGIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ep8J+HqkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiI4QTVPRkZBMmlyT0dBYjNBLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-10-30T14:31:31.196Z"
+    },
+    {
+      "url": "vless://9a1acad0-081d-4a40-9541-f544865225bb@94.249.189.87:43000?security=reality&encryption=none&pbk=FX23FdMBb-cdr29rzlCrh4tAWgqwhjaV3zXm3kW3fX0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=561eb502#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-10-30T14:31:31.196Z"
+    },
     {
       "url": "trojan://humanity@104.20.55.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#@ICV2RAY",
       "name": "icv2ray",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@ops4asfseretuiyk.localip.ir:2087?alpn=http%2F1.1&encryption=none&path=%2Fhokm&security=tls&sni=ops4asfseretuiyk.localip.ir&type=ws#%F0%9F%8D%8241@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e5c0d@94.103.168.219:2087?alpn=http%2F1.1&encryption=none&host=ops5788tugfuy.localip.ir&path=%2Fhokm&security=tls&sni=ops5788tugfuy.localip.ir&type=ws#%F0%9F%8D%8242@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "trojan://humanity@188.42.145.180:443?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&fp=edge&host=www.volumeroot.com&path=%2Fassignment&sni=www.volumeroot.com&type=ws#%F0%9F%8D%8243@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@107.189.26.160:443?encryption=none&fp=chrome&host=ccc.010304.xyz&path=%2Ffp&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%8D%8244@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.825Z"
