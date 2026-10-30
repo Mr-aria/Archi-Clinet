@@ -22,5 +22,9 @@
   {
     "name": "white",
     "url": "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt"
+  },
+  {
+    "name": "Blue Knight",
+    "url": "https://raw.githubusercontent.com/BlueKnightNet/blueknight_net-sub-link/refs/heads/blue-knight-net/BlueKnight.txt"
   }
 ]
