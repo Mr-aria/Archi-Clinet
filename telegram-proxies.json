@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-30T17:31:39.236Z",
-  "count": 1343,
+  "updated": "2026-10-30T19:02:05.584Z",
+  "count": 1344,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=zero.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-30T19:01:54.402Z"
+    },
     {
       "url": "https://t.me/proxy?server=nyne45.foxglade.xyz&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6e796e6534352e666f78676c6164652e78797a",
       "name": "ProxyMTProto",
