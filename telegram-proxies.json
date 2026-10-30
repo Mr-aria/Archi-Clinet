@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-30T12:46:35.713Z",
-  "count": 1339,
+  "updated": "2026-10-30T13:15:35.513Z",
+  "count": 1340,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=178.105.9.164&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-10-30T13:15:31.534Z"
+    },
     {
       "url": "https://t.me/proxy?server=isna.ir.asriran.com.varzesh3.com.yalandonyi.ir&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "IRAN_V2RAY1",
