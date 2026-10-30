@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-30T19:31:54.529Z",
+  "updated": "2026-10-30T19:45:32.970Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?type=tcp&security=reality&fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&sid=50ad5564&sni=wordpress.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T19:45:31.682Z"
+    },
+    {
+      "url": "vless://930d11dc-0c6f-9e1a-4d57-b8473c715465@173.249.208.27:443?security=tls&type=ws&path=%2Fws%2F930d11dc-0c6f-9e1a-4d57-b8473c715465&host=ahbpanel-4134.shiprr.dev&packetEncoding=xudp&sni=ahbpanel-4134.shiprr.dev&fp=chrome&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T19:45:31.682Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxODguMjEyLjk3LjQwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjczZWNjNWQzLTIzNmUtNGRiZS04MDlhLTQ5NDg0Mjc3YTEwZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNTc2ODIiLCJwcyI6Ilx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T19:45:31.682Z"
+    },
     {
       "url": "vless://780%61%612f6-1%6102-4f%612-bcd0-f%617d469bdff7@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_%61z_ch%61nn%65l_N%55F%69L%54ER_8%69.glob%61l.ssl.f%61stly.n%65t.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
       "name": "mehrosaboran",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "hysteria2://082f5694-9019-4110-b67b-8125dbb9bab8@189.74.114.2:54183/?sni=outh.yandex-cloud.org#%F0%9F%9B%A9%EF%B8%8F15@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.826Z"
-    },
-    {
-      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&security=reality&sid=835391010667297d&sni=www.samsung.com&type=tcp#%F0%9F%9B%A9%EF%B8%8F14@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.826Z"
-    },
-    {
-      "url": "hysteria2://e625f8ef-f935-4c7d-a259-0f154b6842fd@177.3.209.226:443/?sni=hy-se.bypassme.online#%F0%9F%9B%A9%EF%B8%8F31@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.826Z"
-    },
-    {
-      "url": "vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&security=reality&sid=1d86d17709852910&sni=www.apple.com&type=tcp#%F0%9F%9B%A9%EF%B8%8F32@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.826Z"
