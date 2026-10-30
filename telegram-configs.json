@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-30T12:15:37.959Z",
+  "updated": "2026-10-30T12:45:32.783Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&sni=finlandlanzarotte.live#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T12:45:31.513Z"
+    },
     {
       "url": "vless://4a140c2f-5b0c-4524-950c-026de74fcf69@5.149.249.94:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=firefox&type=grpc&serviceName=neurex&sni=nlb.kosmosapp.net&sid=27350908de933e09#%40V2ray_Alpha%F0%9F%90%94%206",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://6338c01a-310e-42c3-bf4f-2a20e161054b@185.220.223.24:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ds-U8G06uZvV9qFhAeO16dwS9Nkcw_coYr_4puEUGFg&security=reality&sid=3c6afdc4124d0560&sni=lv.aiage.work&type=tcp#%F0%9F%AB%912@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vmess://672cdade-bb05-4c86-b578-e5d09b79524a@23.165.200.150:52080?encryption=auto&headerType=http&path=%2FQQqun-737805443&security=none&type=tcp#%F0%9F%AB%914@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.825Z"
