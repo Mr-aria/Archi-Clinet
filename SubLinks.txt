@@ -26,5 +26,13 @@
   {
     "name": "Blue Knight",
     "url": "https://raw.githubusercontent.com/BlueKnightNet/blueknight_net-sub-link/refs/heads/blue-knight-net/BlueKnight.txt"
+  },
+  {
+    "name": "uciran",
+    "url": "https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/Uciranir.txt"
+  },
+  {
+    "name": "uciran2",
+    "url": "https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/Uciran.txt"
   }
 ]
