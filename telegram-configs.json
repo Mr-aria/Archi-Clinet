@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-30T09:46:37.265Z",
+  "updated": "2026-10-30T10:15:32.060Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d4001352-dc64-48b8-b786-5860b284ad3d@de.poncheki.xyz:2083?encryption=none&type=grpc&serviceName=tjwvrf1q9d0n&mode=gun&security=reality&sni=vk.com&fp=firefox&pbk=NWNI1krUm5rhcIRnP3KVvatf9hNKu_H-93bPUdw4cxw&sid=0ad9fd399087e404#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T10:15:30.840Z"
+    },
+    {
+      "url": "vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@s12.bsh-net.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&sid=51079f144d661484&sni=s12.bsh-net.ru#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T10:15:30.840Z"
+    },
+    {
+      "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com&fp=chrome#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T10:15:30.840Z"
+    },
     {
       "url": "trojan://Tg3RnK7Xp8B1@45.32.157.84:443?allowInsecure=1&fp=chrome&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#%F0%9F%91%BE31@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29983,24 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://318c935d-c195-41d3-99ad-9bbcfdab3386@64.188.70.56:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=de2.balancer.vbuste-bot.com&type=tcp#%F0%9F%AB%9115@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://63b1aea9-30b4-3dd0-2819-0b4e04390cb6@83.136.253.129:443?security=reality&encryption=none&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=amp-api-search-edge.apps.apple.com&sid=35938c4e546cd459#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
-    },
-    {
-      "url": "vless://66dc1927-8528-4f1e-bb74-5a9c7aa8ea8c@188.225.25.96:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=node-fra04.rkitman.ru&sid=88d9dc52ef39c8bd#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-22T12:33:14.449Z"
     }
   ]
 }
