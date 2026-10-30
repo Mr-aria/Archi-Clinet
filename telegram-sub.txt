@@ -1,3 +1,5 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.194.187:22222?encryption=none&security=none&type=tcp#(S101
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.190.147:22222?encryption=none&security=none&type=tcp#(S101
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJ0dW4ueGVsbml2by5pciIsInBvcnQiOiIzMzYyNSIsInR5cGUiOiJub25lIiwiaWQiOiJmNjU0NzQ2Ni1hNDRhLTQxZTctOWI3MS00NzNjNWJmMDU3MjMiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoidHVuLnhlbG5pdm8uaXIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@3.35.214.122:8443#
 vless://e9378202-c7db-4204-a41c-ce981fa927d4@cdn2.ir53.indevs.in:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=cdn2.ir53.indevs.in&type=ws&headerType=none&host=cdn2.ir53.indevs.in&path=%2Fvarzesh3.com#
@@ -4996,5 +4998,3 @@ vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchr
 trojan://3QRCm9YzuvrnPG7sb64xZg@superjinx-production-3aac.up.railway.app:443?path=%2Fcdn%2F82b3976f-b7c9-462d-80dd-6ee426d5a410%2Ft%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=superjinx-production-3aac.up.railway.app&fp=edge&type=ws&allowInsecure=0&sni=superjinx-production-3aac.up.railway.app#@ICV2RAY
 vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@sino.bestsellers1.site:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=sino.bestsellers1.site#@ICV2RAY
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=android&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=safari&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=safari&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY
