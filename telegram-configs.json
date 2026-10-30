@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-30T18:46:38.080Z",
+  "updated": "2026-10-30T19:00:34.700Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.13.152:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-30T19:00:33.212Z"
+    },
     {
       "url": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?security=tls&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://f580778d-8e05-4d88-8724-802eccf4ceff@meowgenicslab.net:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=F7enjoJVna8sj4M9KPqNkN1ATXeflVNx9SHnn4lpAkY&security=reality&sid=5f37b7c5e2cc31a3&sni=meowgenicslab.net&type=tcp#%F0%9F%AA%8063@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.85:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22host%22%3A%22%22%2C%22path%22%3A%22%22%2C%22mode%22%3A%22%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Afalse%2C%22xPaddingKey%22%3A%22%22%2C%22xPaddingHeader%22%3A%22%22%2C%22xPaddingPlacement%22%3A%22%22%2C%22xPaddingMethod%22%3A%22%22%2C%22uplinkHTTPMethod%22%3A%22%22%2C%22sessionIDPlacement%22%3A%22%22%2C%22sessionIDKey%22%3A%22%22%2C%22sessionIDTable%22%3A%22%22%2C%22sessionIDLength%22%3A%220%22%2C%22seqPlacement%22%3A%22%22%2C%22seqKey%22%3A%22%22%2C%22uplinkDataPlacement%22%3A%22%22%2C%22uplinkDataKey%22%3A%22%22%2C%22uplinkChunkSize%22%3A%220%22%2C%22noGRPCHeader%22%3Afalse%2C%22noSSEHeader%22%3Afalse%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22scMaxBufferedPosts%22%3A0%2C%22scStreamUpServerSecs%22%3A%220%22%2C%22serverMaxHeaderBytes%22%3A0%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A%220%22%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hMaxRequestTimes%22%3A%220%22%2C%22hMaxReusableSecs%22%3A%220%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&fp=firefox&host=fitindoor.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=fitindoor.net&type=xhttp#%F0%9F%AA%8064@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.825Z"
