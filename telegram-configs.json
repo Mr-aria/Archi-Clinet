@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-30T21:15:34.179Z",
+  "updated": "2026-10-30T21:45:33.636Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@143.198.76.78:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T21:45:32.271Z"
+    },
+    {
+      "url": "vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.220:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=69984b9e02545831&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T21:45:32.271Z"
+    },
+    {
+      "url": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reality&type=tcp&packetEncoding=xudp&sni=play.googleapis.com&fp=chrome&sid=974f7f8f&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-30T21:45:32.271Z"
+    },
     {
       "url": "vless://975fc322-6e38-434b-a53c-d39fed49b9a9@47.251.108.158:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=896f52ba2cfca903&pbk=SmgYcFIvvFXW3xh4gvGhIJuQsaZvWkAylcjB6TEddEs&encryption=none#",
       "name": "Farah_VPN",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://019fbe0f-2d9f-4b89-9f81-e1e36129892a@77.110.105.122:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&security=reality&sid=226509f017e4c36d&sni=co-es.speedtec.ru&type=tcp#%F0%9F%9B%A9%EF%B8%8F3@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.826Z"
-    },
-    {
-      "url": "vless://95a608b6-bff1-4e10-bb61-0a39f221bb7d@78.159.246.85:2053?encryption=none&fp=firefox&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=fitindoor.net&type=xhttp#%F0%9F%9B%A9%EF%B8%8F4@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.826Z"
-    },
-    {
-      "url": "vmess://632cfa69-ae00-49d1-81e0-554979d1e9fa@31.76.11.83:22366?encryption=auto&security=none&type=tcp#%F0%9F%9B%A9%EF%B8%8F5@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.826Z"
-    },
-    {
-      "url": "trojan://cMCQxnflDO@31.76.10.180:36508?security=none#%F0%9F%9B%A9%EF%B8%8F6@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.826Z"
