@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-30T10:46:43.058Z",
+  "updated": "2026-10-30T11:00:35.930Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.76.90:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-30T11:00:34.450Z"
+    },
     {
       "url": "vless://c6628db6-025d-40e8-b79d-033f4372a6b7@189.74.106.73:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api.setevoypriliv.cc&allowInsecure=1&fp=firefox&security=reality&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A9%F0%9F%87%AA%2030%40exclavevpn",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://303e1419-66cb-4fcf-bde2-88b26c0e9f67@213.182.201.138:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%F0%9F%AB%9110@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.825Z"
-    },
-    {
-      "url": "hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443/?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=t.me#%F0%9F%AB%9111@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.825Z"
