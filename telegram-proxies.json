@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-31T04:31:53.662Z",
-  "count": 1347,
+  "updated": "2026-10-31T06:30:32.240Z",
+  "count": 1352,
   "proxies": [
+    {
+      "url": "tg://proxy?server=178.105.201.236&port=8&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-10-31T06:30:30.873Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=link.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-10-31T06:30:30.873Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-10-31T06:30:30.873Z"
+    },
+    {
+      "url": "tg://proxy?server=167.235.255.18&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-10-31T06:30:30.873Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=repo.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-10-31T06:30:30.873Z"
+    },
     {
       "url": "https://t.me/proxy?server=loga85.tidelark.cc&port=443&secret=ee899032aa75159cc1d735f15e7a0e3a6e6c6f676138352e746964656c61726b2e6363",
       "name": "ProxyMTProto",
