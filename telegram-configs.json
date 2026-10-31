@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-31T16:15:34.674Z",
+  "updated": "2026-10-31T16:16:38.346Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=wsru1.wba-pn.ru#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
+    {
+      "url": "vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?path=%2F&security=tls&encryption=none&insecure=0&host=wsru1.wba-pn.ru&fp=firefox&type=ws&allowInsecure=0&sni=wsru1.wba-pn.ru#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
+    {
+      "url": "vless://b60cab55-e7a1-413d-a297-ddd7bad3fb62@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=bbcab8fa80a3#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
+    {
+      "url": "vless://88281d02-b387-4fe3-918e-26ed331e6d08@81.17.154.97:443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&allowInsecure=0&sni=is-tw-relay.cdn.cachefleet.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
+    {
+      "url": "vless://e3425eb4-e9be-4568-8740-529a031c9315@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=snaanjaai.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
+    {
+      "url": "vless://781b51e8-b4bd-4ae1-9e2e-e18fa3c4a28d@hiweb.my.id:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=hiweb.my.id#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
+    {
+      "url": "vless://bdebb0d0-1ac7-4d3a-8f18-99171d74affd@yan11.aliboba.shop:443?mode=packet-up&path=%2Fapi%2Fapi_v2%2Fmediaupload_process&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%22128-256%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hMaxRequestTimes%22%3A%221200-2400%22%2C%22hMaxReusableSecs%22%3A%22900-1800%22%7D%2C%22seqKey%22%3A%22segment%22%2C%22noSSEHeader%22%3Afalse%2C%22xPaddingKey%22%3A%22cacheVersion%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22media_session%22%2C%22uplinkDataKey%22%3A%22data%22%2C%22xPaddingBytes%22%3A%2264-320%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22xPaddingHeader%22%3A%22Referer%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDLength%22%3A%2222-30%22%2C%22uplinkChunkSize%22%3A%224096-6144%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22scMaxBufferedPosts%22%3A512%2C%22scMaxEachPostBytes%22%3A%2220480-24576%22%2C%22sessionIDPlacement%22%3A%22query%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22scMinPostsIntervalMs%22%3A%222-3%22%2C%22serverMaxHeaderBytes%22%3A262144%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=yan11.aliboba.shop#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
+    {
+      "url": "vless://bdebb0d0-1ac7-4d3a-8f18-99171d74affd@yan10.aliboba.shop:443?mode=packet-up&path=%2Fapi%2Fapi_v2%2Fmediaupload_process&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%22128-256%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hMaxRequestTimes%22%3A%221200-2400%22%2C%22hMaxReusableSecs%22%3A%22900-1800%22%7D%2C%22seqKey%22%3A%22segment%22%2C%22noSSEHeader%22%3Afalse%2C%22xPaddingKey%22%3A%22cacheVersion%22%2C%22seqPlacement%22%3A%22query%22%2C%22sessionIDKey%22%3A%22media_session%22%2C%22uplinkDataKey%22%3A%22data%22%2C%22xPaddingBytes%22%3A%2264-320%22%2C%22sessionIDTable%22%3A%22Base62%22%2C%22xPaddingHeader%22%3A%22Referer%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDLength%22%3A%2222-30%22%2C%22uplinkChunkSize%22%3A%224096-6144%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22scMaxBufferedPosts%22%3A512%2C%22scMaxEachPostBytes%22%3A%2220480-24576%22%2C%22sessionIDPlacement%22%3A%22query%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22scMinPostsIntervalMs%22%3A%222-3%22%2C%22serverMaxHeaderBytes%22%3A262144%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=yan10.aliboba.shop#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
+    {
+      "url": "vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
+    {
+      "url": "vless://666ff032-2cd9-4713-a34c-29d7a67a99af@sub.skyshopnet.ir:2082?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.ylWaNV7JiVE1OUF1VfMPRL_6Wakrx28Q2J1JLJL0ujU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hpqn8r_F_YEnWuzRgNtRM5uHgUkrIzx99VEwzJH-PTI&host=panel.skyshopnet.ir&fp=chrome&spx=%2Feb6c215faf322ce&type=xhttp&sni=www.sony.com.hk&sid=9e47e3#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T16:16:36.781Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYyNzIiLCJwcyI6Ilx1ZDgzY1x1ZGZmM1x1ZmUwZiBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZmYzXHVmZTBmIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
       "name": "Farah_VPN",
@@ -29938,66 +29998,6 @@
     },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.38.194:22224?encryption=none&security=none&type=tcp#%F0%9F%8C%8D5@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.83.65:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%8D6@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "hysteria2://acc89593-8200-4701-817b-c4d9727ea5a7@189.74.114.6:54183/?sni=outh.yandex-cloud.org#%F0%9F%8C%8D7@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://acc89593-8200-4701-817b-c4d9727ea5a7@189.74.106.71:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoypriliv.cc&type=tcp#%F0%9F%8C%8D8@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "hysteria2://acc89593-8200-4701-817b-c4d9727ea5a7@189.74.114.41:54183/?sni=outh.yandex-cloud.org#%F0%9F%8C%8D9@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.35.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&security=reality&sid=a1037b25dcef6aa7&sni=sw.golangwikito.cfd&type=tcp#%F0%9F%8C%8D10@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://acc89593-8200-4701-817b-c4d9727ea5a7@189.74.106.42:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoypriliv.cc&type=tcp#%F0%9F%8C%8D11@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "hysteria2://acc89593-8200-4701-817b-c4d9727ea5a7@189.74.106.166:54183/?sni=outh.yandex-cloud.org#%F0%9F%8C%8D12@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://eccc053a-7196-47cb-a4b5-f4b8bfd743d9@146.75.59.186:443?encryption=none&host=copy_az_channel_NUFiLTER_3i.global.ssl.fastly.net.&path=%2F&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&sni=firefox.com&type=ws#%F0%9F%8C%8D13@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://a3304281-9ecc-4fed-a6ba-e77e07928877@85.93.10.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=kings.applepie-recipe.ru&type=tcp#%F0%9F%8C%8D14@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@94.103.168.133:2087?encryption=none&fp=firefox&path=%2Fhokm&security=tls&sni=fert6.localip.ir&type=ws#%F0%9F%8C%8D15@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.827Z"
