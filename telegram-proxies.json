@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-31T18:16:47.763Z",
-  "count": 1391,
+  "updated": "2026-10-31T19:01:49.480Z",
+  "count": 1392,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=91.107.166.216&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-31T19:01:38.541Z"
+    },
     {
       "url": "https://t.me/proxy?server=tundra.fernlark.xyz&port=443&secret=ee1c0302da542b3dbfa43927dfa654feaf74756e6472612e6665726e6c61726b2e78797a",
       "name": "oneclickvpnkeys",
