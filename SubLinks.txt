@@ -34,5 +34,9 @@
   {
     "name": "uciran2",
     "url": "https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/Uciran.txt"
+  },
+  {
+    "name": "testblue",
+    "url": "https://floral-grass-aa1e.dianawpewpek1.workers.dev/sub/vfzhu29h5xc38h7b"
   }
 ]
