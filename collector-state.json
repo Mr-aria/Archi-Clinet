@@ -6,7 +6,7 @@
     "freakconfig": 10396,
     "outline_vpn": 11845,
     "iut_ChatrBazaan": 0,
-    "ProxyMTProto": 52670,
+    "ProxyMTProto": 52671,
     "khabari_18": 77566,
     "JozveDaneshgahi_ir": 12930,
     "MatinSenPaii": 5743,
@@ -48,8 +48,8 @@
     "proxy_mtm": 33784,
     "CluvexStudio": 398,
     "whitedns": 2213,
-    "YamYamProxy": 16519,
-    "sut_tw": 151511,
+    "YamYamProxy": 16520,
+    "sut_tw": 151512,
     "iampediii": 160,
     "PASARGAD_V2rayNG": 6,
     "Awlix_ir": 3756,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 11052,
   "totalProxies": 1187,
-  "runCount": 1779
+  "runCount": 1780
 }
