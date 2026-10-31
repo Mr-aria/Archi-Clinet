@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-31T08:30:33.644Z",
+  "updated": "2026-10-31T09:00:30.863Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.102.210:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-10-31T09:00:30.002Z"
+    },
     {
       "url": "vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@88.216.70.92:443?security=reality&encryption=none&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-modx-prime.storagedirectguide.com#Telegram%20%40mtmvpn%20%E2%99%A8%EF%B8%8F%20",
       "name": "proxy_mtm",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://4f35274e-006f-43e7-87be-c8cba4882b0c@132.243.65.82:443?encryption=none&fp=&host=132.243.65.82&mode=auto&path=%2F&pbk=UZKrOusu0M0i3gnqDanh2yXXkTibNEjj41Hsvah2XlI&security=reality&sni=player.vimeo.com&type=xhttp#%E2%9B%B237@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://5d0c6f95-7e53-45eb-ba93-89c90331954a@13.143.162.138:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D16XKCyXDstbMKxA1qHzgL6AfOcwbQBFF9XKdNoVL04&security=reality&sid=00000000&sni=st7-23.vk.com&type=tcp#%E2%9B%B238@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.827Z"
