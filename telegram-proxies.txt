@@ -1,3 +1,4 @@
+https://t.me/proxy?server=edge-pl.vetka.rest&port=443&secret=eeb6e1ab49f971ecdd9d3a2220a6784c687777772e626f6f6b696e672e636f6d
 https://t.me/proxy?server=ABOUT.Roo3beh.blog&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=new.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=old.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
