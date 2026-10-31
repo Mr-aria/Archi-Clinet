@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-31T03:45:35.692Z",
+  "updated": "2026-10-31T04:45:34.309Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://5t6i121em5lkmsmk@en001.zestapp778.com:29813?allowInsecure=1&sni=en001.zestapp778.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-31T04:45:32.970Z"
+    },
     {
       "url": "vless://780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7@146.75.57.238:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&path=%2F#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vmess://0cf6d970-3f1d-4aae-a989-92a8f76ae3db@172.64.229.21:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&host=vmess.lbw666.dpdns.org&path=%2Fws&security=tls&sni=vmess.lbw666.dpdns.org&type=ws#%F0%9F%AB%9170@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.826Z"
-    },
-    {
-      "url": "vless://082f5694-9019-4110-b67b-8125dbb9bab8@152.232.57.10:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.videobereg.cc&type=tcp#%F0%9F%AB%9171@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.826Z"
