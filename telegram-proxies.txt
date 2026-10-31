@@ -1,3 +1,5 @@
+https://t.me/proxy?server=logato78.tidelark.cc&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b6c6f6761746f37382e746964656c61726b2e6363
+https://t.me/proxy?server=nypo94.mosswren.vip&port=443&secret=ee24c8636b7e946779a023ee708370719b6e79706f39342e6d6f73737772656e2e766970
 tg://proxy?server=178.105.201.236&port=8&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
 https://t.me/proxy?server=link.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=love.roseprox.xyz&port=2096&secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e646967696b616c612e636f6d
