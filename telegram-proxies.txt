@@ -1,3 +1,4 @@
+https://t.me/proxy?server=91.107.166.216&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=tundra.fernlark.xyz&port=443&secret=ee1c0302da542b3dbfa43927dfa654feaf74756e6472612e6665726e6c61726b2e78797a
 https://t.me/proxy?server=willow.saltfern.xyz&port=443&secret=ee1c0302da542b3dbfa43927dfa654feaf77696c6c6f772e73616c746665726e2e78797a
 https://t.me/proxy?server=violet.foxglade.xyz&port=443&secret=eeb7008fec0a543bd06ecf04d350c23a8a76696f6c65742e666f78676c6164652e78797a
