@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-31T06:30:32.240Z",
-  "count": 1352,
+  "updated": "2026-10-31T06:31:53.966Z",
+  "count": 1354,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=logato78.tidelark.cc&port=443&secret=eeb0a621aecd97816306c197d21a8bf47b6c6f6761746f37382e746964656c61726b2e6363",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-31T06:31:49.802Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=nypo94.mosswren.vip&port=443&secret=ee24c8636b7e946779a023ee708370719b6e79706f39342e6d6f73737772656e2e766970",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-31T06:31:49.801Z"
+    },
     {
       "url": "tg://proxy?server=178.105.201.236&port=8&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q",
       "name": "pewezavpn",
