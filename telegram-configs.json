@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-31T10:16:47.216Z",
+  "updated": "2026-10-31T10:45:42.119Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTI1Ni1nY206bEYzblJqSDU4a29LVGUtX1Z0QUJiZw@51.75.118.5:20222#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-31T10:45:39.935Z"
+    },
     {
       "url": "vless://20d04f6e-797b-4814-b60a-3882be3b101b@free.sahanwickramasinghe.com:2096?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=microsoft.com&path=%2F&security=tls&sni=microsoft.com&type=ws#%F0%9F%8E%8331@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?encryption=none&host=13.140.56.100&path=%2Fvless&security=none&type=ws#%F0%9F%8C%8D96@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?encryption=none&host=zoom.us&path=%2Fusserver&security=none&type=ws#%F0%9F%8C%8D97@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.827Z"
