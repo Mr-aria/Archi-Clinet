@@ -1,3 +1,4 @@
+ss://YWVzLTI1Ni1nY206bEYzblJqSDU4a29LVGUtX1Z0QUJiZw@51.75.118.5:20222#
 vless://20d04f6e-797b-4814-b60a-3882be3b101b@free.sahanwickramasinghe.com:2096?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=microsoft.com&path=%2F&security=tls&sni=microsoft.com&type=ws#%F0%9F%8E%8331@oneclickvpnkeys
 vless://e73df646-1f62-41bf-8c50-653497d603d0@SC-TheNetherlands2.09vpn.com:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%F0%9F%8E%8332@oneclickvpnkeys
 vless://90c08c98-7ec8-4fab-da36-cf140d18c708@91.107.191.188:8443?alpn=h2&encryption=none&fp=chrome&host=host.taghvimtime.ir&mode=auto&path=%2FMeh%3Fdi&security=tls&sni=host.taghvimtime.ir&type=xhttp#%F0%9F%8E%8333@oneclickvpnkeys
@@ -4997,4 +4998,3 @@ vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none
 vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&security=reality&sni=gateway.icloud.com&type=tcp#%F0%9F%8C%8D94@oneclickvpnkeys
 vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#%F0%9F%8C%8D95@oneclickvpnkeys
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?encryption=none&host=13.140.56.100&path=%2Fvless&security=none&type=ws#%F0%9F%8C%8D96@oneclickvpnkeys
-vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?encryption=none&host=zoom.us&path=%2Fusserver&security=none&type=ws#%F0%9F%8C%8D97@oneclickvpnkeys
