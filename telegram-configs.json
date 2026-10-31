@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-31T18:45:33.240Z",
+  "updated": "2026-10-31T18:46:43.592Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@195.63.146.10:443/?sni=video.blog-forme.ru#%F0%9F%8E%8391@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-31T18:46:41.481Z"
+    },
+    {
+      "url": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?encryption=none&fp=firefox&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed&security=tls&sni=n.bitpulse.me&type=ws#%F0%9F%8E%8392@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-31T18:46:41.481Z"
+    },
+    {
+      "url": "hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444/?insecure=1&sni=pl2.nexfile.net#%F0%9F%8E%8393@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-31T18:46:41.481Z"
+    },
+    {
+      "url": "hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.106:4444/?sni=pl2.nexfile.net#%F0%9F%8E%8394@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-31T18:46:41.481Z"
+    },
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#%F0%9F%8E%8395@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-31T18:46:41.481Z"
+    },
+    {
+      "url": "hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443/?insecure=1&sni=3.76.221.4#%F0%9F%8E%8396@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-31T18:46:41.481Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%8E%8397@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-31T18:46:41.481Z"
+    },
+    {
+      "url": "trojan://humanity@195.181.244.216:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8E%8398@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-31T18:46:41.481Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?allowInsecure=1&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%8E%83100@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-10-31T18:46:41.481Z"
+    },
     {
       "url": "vless://13bf9403-22d1-4221-939b-f6606c423139@138.16.140.168:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steamcommunity.com&fp=edge&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&sid=5c56a4cfea5866c0#",
       "name": "Farah_VPN",
@@ -29944,60 +29998,6 @@
     },
     {
       "url": "vless://92f990cf-c974-4b82-9062-8a0db43fb71a@151.243.176.211:443?encryption=none&fp=&mode=auto&path=%2Fapi%2Fv1%2Fupdates&pbk=kwDaVjBaLcvtr3PA-HzSpsYAeS1EtT9LF7w0tSeNbmU&security=reality&sid=c2379adb2b237e50&sni=www.rutube.ru&type=xhttp#%F0%9F%8D%8E12@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@94.103.168.52:2087?encryption=none&fp=firefox&host=fert1qswdfegrthy.localip.ir&path=%2Fhokm&security=tls&sni=fert1qswdfegrthy.localip.ir&type=ws#%F0%9F%8D%8E13@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vmess://1281acca-f21d-475c-bf04-eccbee7f8df2@168.113.215.6:33736?encryption=auto&host=nl-2a972c8052.shamanapp.online&path=%2Fvmess-ws&security=none&type=ws#%F0%9F%8D%8E14@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@89.169.53.176:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=YIyohkkCU5kw6J5iZYZkhILyDwlfftFPDTkbITlrAUw&security=reality&sid=df3aff719526dc5a&sni=gateway.icloud.com&type=tcp#%F0%9F%8D%8E31@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://c39f95b5-64b5-4f7a-a93d-fa9e9cf24de8@157.228.155.184:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uYU7UXkfNB-BEfjyrCUtRcN2JfFdlFWfMHCeX7bz4Qc&security=reality&sid=e022bfea&sni=addons.mozilla.org&type=tcp#%F0%9F%8D%8E32@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://22136b20-6365-4ae6-b21a-799a00ab1346@89.124.100.104:8080?encryption=none&fp=&pbk=t_z1GMEv2FYr0Bo57WBuKRRlkyOMj40025j-OcWCtkU&security=reality&sid=75&sni=graphs.4cdn.de&type=tcp#%F0%9F%8D%8E33@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&host=SC-TheNetherlands2.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%F0%9F%8D%8E35@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "trojan://mitivpn@199.232.78.160:443?alpn=http%2F1.1&fp=chrome&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=firefox.com&type=ws#%F0%9F%8D%8E36@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8D%8E39@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "hysteria2://529f1911-04d5-4427-94b9-c851fd459a27@nl-hy-test.tcp-reset-club.net:443/?sni=tcp-reset-club.net#%F0%9F%8D%8E40@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.827Z"
