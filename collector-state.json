@@ -2,7 +2,7 @@
   "lastSeen": {
     "PewezaTech": 25793,
     "mmd_adm": 28714,
-    "free_vpn02": 5132,
+    "free_vpn02": 5133,
     "freakconfig": 10388,
     "outline_vpn": 11844,
     "iut_ChatrBazaan": 0,
@@ -36,9 +36,9 @@
     "V2rayng_Fast": 26709,
     "icv2ray": 8814,
     "oneclickvpnkeys": 27510,
-    "iRoProxy": 58163,
-    "proxy_badss": 26840,
-    "MyPoroxy": 46860,
+    "iRoProxy": 58164,
+    "proxy_badss": 26843,
+    "MyPoroxy": 46861,
     "BlueKnight_Net": 1674,
     "SRCVPN": 7610,
     "ZibaNabz": 24731,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 10985,
   "totalProxies": 1156,
-  "runCount": 1726
+  "runCount": 1727
 }
