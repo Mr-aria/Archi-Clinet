@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-31T09:15:35.746Z",
+  "updated": "2026-10-31T09:45:43.484Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://8f763a7f-4cda-4db1-90e3-9aeae0860dc0@business.lesotorg-kirov.ru:443?&security=tls&fp=android&sni=business.lesotorg-kirov.ru&type=ws&headerType=none&host=business.lesotorg-kirov.ru&path=%2Fchws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-10-31T09:45:39.151Z"
+    },
     {
       "url": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&type=tcp&packetEncoding=xudp&sni=play.googleapis.com&fp=chrome&sid=974f7f8f&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://381f7080-8f2c-49db-8321-dae85bee2115@9.247.34.134:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=q4jQTGI_WMzs_JD6zTjB9VBclYla6TEvRHiHmqbXx0w&security=reality&sid=7233902763f97bd1&sni=www.rutube.ru&type=tcp#%E2%9B%B234@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&security=tls&sni=lucasjow.us.ci&type=ws#%E2%9B%B235@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.827Z"
