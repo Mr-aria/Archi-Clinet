@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-31T12:45:39.665Z",
-  "count": 1375,
+  "updated": "2026-10-31T14:31:44.996Z",
+  "count": 1376,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=edge-pl.vetka.rest&port=443&secret=eeb6e1ab49f971ecdd9d3a2220a6784c687777772e626f6f6b696e672e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-10-31T14:31:39.305Z"
+    },
     {
       "url": "https://t.me/proxy?server=ABOUT.Roo3beh.blog&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "MTP_roto",
