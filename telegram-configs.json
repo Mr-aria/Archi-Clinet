@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-31T18:15:32.578Z",
+  "updated": "2026-10-31T18:16:41.989Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://57197967-f14a-4b5b-8b75-a0c6d19db048@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=1&host=azadi-gk-nasim.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=cdn.akamai.steamstatic.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T18:16:39.832Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T18:16:39.832Z"
+    },
+    {
+      "url": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T18:16:39.832Z"
+    },
+    {
+      "url": "vless://c55cfa40-55f7-4715-aab3-764219b88517@01-ir.nimhubnet.ir:1001?security=reality&encryption=mlkem768x25519plus.native.0rtt.3IGhcIYDxMlgfOc-Zz667EBP9OhYiyx_v-dm_G48gDI&pbk=WhhDDr5dbpu-MKir-ituefFelzPYJ3aI_XUnAPItZnk&host=cafeariel.ir&headerType=none&fp=chrome&type=tcp&sni=myket.ir&sid=9f87d005b13ec024#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T18:16:39.832Z"
+    },
+    {
+      "url": "vless://666ff032-2cd9-4713-a34c-29d7a67a99af@sub.skyshopnet.ir:2086?mode=auto&path=%2Fsky&security=reality&encryption=mlkem768x25519plus.native.0rtt.LkWPSIfsDWtJMYMInME1hyNGJ4fA6qT9qPshjgYrT3c&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hWQNka_B_4CBdrU608qJ0ukLPsxVoR9pCBnmy35EGX0&host=panel.skyshopnet.ir&fp=chrome&spx=%2F4186a887c11fe9b&type=xhttp&sni=support.amd.com&sid=e0d0303a#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-10-31T18:16:39.832Z"
+    },
     {
       "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com#",
       "name": "Farah_VPN",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "trojan://humanity@165.215.250.14:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8D%8E43@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@79.132.141.248:8443?encryption=none&fp=&pbk=rp_TkuctK207nrtJP6AYTvsWWkHToQLtRLOSYP3zpg0&security=reality&sid=ac6bf30f3e&sni=npdev.uk&type=tcp#%F0%9F%8D%8E45@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vmess://1281acca-f21d-475c-bf04-eccbee7f8df2@168.113.215.6:33736?encryption=auto&path=%2Fvmess-ws&security=none&type=ws#%F0%9F%8D%8E61@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&security=reality&sid=1d86d17709852910&sni=www.apple.com&type=tcp#%F0%9F%8D%8E62@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "trojan://humanity@141.193.213.172:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8D%8E63@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.827Z"
-    },
-    {
-      "url": "hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%8D%8E64@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.827Z"
