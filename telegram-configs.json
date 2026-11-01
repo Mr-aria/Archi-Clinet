@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-01T15:16:39.840Z",
+  "updated": "2026-11-01T16:30:37.098Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.41.130.65:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-01T16:30:35.099Z"
+    },
     {
       "url": "vless://23283bcf-a1ae-415d-9f15-3b30defeee1e@79.141.164.81:443?encryption=none&fp=&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=nla.kosmosapp.net&type=grpc#%E2%9A%A161@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.166.199:22222?encryption=none&security=none&type=tcp#(S104",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-22T12:47:28.804Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.104.48:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
       "source": "PrivateVPNs",
       "date": "2026-10-22T12:47:28.804Z"
