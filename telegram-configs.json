@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-01T01:45:35.053Z",
+  "updated": "2026-11-01T02:15:33.746Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://b15f187e-9b34-437c-8243-8651a8ada76c@188.114.96.25:443?path=%2Fstream%2FDEVCOP%2F8651a8ada76c%2Floc-0&security=tls&encryption=none&insecure=0&host=tepar-k4j9.jounet.workers.dev&type=ws&allowInsecure=0&sni=tepar-k4j9.jounet.workers.dev#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T02:15:31.996Z"
+    },
+    {
+      "url": "vless://96ebc166-565c-474f-9712-7990b55c368a@67.209.184.133:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=chrome&pbk=Tp015Ga5LodBwKs4z7Wz4hTvqeh8-4q1EQPZqvZfWR0&sid=ad09494d431b2b92&type=tcp&headerType=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T02:15:31.996Z"
+    },
+    {
+      "url": "vless://6b566898-8416-4ac3-8b8f-66db059c462b@78.17.53.142:8443?security=reality&encryption=none&pbk=drwJd-KiNSQHhp1yHQBknycbzWEzR2K9_R9ZdfPra3U&headerType=none&fp=chrome&type=tcp&sni=www.ru.nl#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T02:15:31.996Z"
+    },
     {
       "url": "vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@hw14.roghanmo.com:465?&security=tls&fp=chrome&alpn=http%2F1.1&sni=hw14.roghanmo.com.&type=ws&headerType=none&host=hw14.roghanmo.com&path=%2F#",
       "name": "Farah_VPN",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.22:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&security=reality&sid=7a76f3c4b9dd&sni=www.cloudflare.com&type=tcp#%F0%9F%9B%9563@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
-    },
-    {
-      "url": "trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1#%F0%9F%9B%9564@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
-    },
-    {
-      "url": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?allowInsecure=1#%F0%9F%9B%9565@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@31.57.190.15:443?encryption=none&host=ccc.010304.xyz&path=%2Ffp%3Dchromefp%3Dchrome&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%9B%9566@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.828Z"
