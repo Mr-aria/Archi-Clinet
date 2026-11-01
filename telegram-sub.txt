@@ -1,3 +1,5 @@
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#
+vmess://eyJhZGQiOiJ3am9maHNxdGV1ZXl3eGVxLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImE5ZjRkZThiLTY4ZjEtNDRiNi1iNmEyLTFkYjYwOTQwNTAzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@156.38.157.171:8443?encryption=none&type=ws&security=tls&sni=vlso5.1d.mom&fp=firefox&path=/&host=vlso5.1d.mom#
 trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?sni=t.me/FuckTheWall#
 vless://2099158e-9d5d-4f10-918c-678f485647fa@213.182.201.96:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%E2%9A%A11@oneclickvpnkeys
@@ -4996,5 +4998,3 @@ vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&
 vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&flow=xtls-rprx-vision&fp=&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&security=reality&sid=4b&sni=icloud.com&type=tcp#%E2%9B%B297@oneclickvpnkeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.134.224.162:22222?encryption=none&security=none&type=tcp#%F0%9F%9B%951@oneclickvpnkeys
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.187.221:22223?encryption=none&security=none&type=tcp#%F0%9F%9B%952@oneclickvpnkeys
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%F0%9F%9B%954@oneclickvpnkeys
-vless://0dab10de-af72-483b-b5d8-7f30cab4d35c@177.1.194.5:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2Y2dj8zlCB5qJHxS_AjcFdPEpQY5F5x9VpKN-z8caBo&security=reality&sid=3fca1964759edc55&sni=de.ascl.dev&type=tcp#%F0%9F%9B%955@oneclickvpnkeys
