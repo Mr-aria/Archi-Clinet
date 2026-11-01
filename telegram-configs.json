@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-01T11:00:39.320Z",
+  "updated": "2026-11-01T11:15:35.163Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%40V2ray_Alpha%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB%205",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-01T11:15:33.941Z"
+    },
+    {
+      "url": "vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.11:2083?&security=tls&fp=firefox&alpn=http%2F1.1&sni=speedtestmark.com&type=ws&headerType=none&path=%2Fvless-ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T11:15:33.662Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.0.239:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29989,18 +30001,6 @@
       "name": "PrivateVPNs",
       "source": "PrivateVPNs",
       "date": "2026-10-22T12:47:28.804Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.186.150:22222?encryption=none&security=none&type=tcp#(S104",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-22T12:47:28.804Z"
-    },
-    {
-      "url": "trojan://7002R3Gxo1@45.130.125.2:443?type=ws&security=tls&path=%2Fda&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sa.farxmode.ir&sni=sa.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
     }
   ]
 }
