@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-01T11:01:52.801Z",
-  "count": 1453,
+  "updated": "2026-11-01T13:15:40.970Z",
+  "count": 1454,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=167.233.233.253&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-01T13:15:31.563Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.dinocol.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
