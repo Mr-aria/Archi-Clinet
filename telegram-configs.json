@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-01T20:16:51.406Z",
+  "updated": "2026-11-01T20:30:35.470Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.145.255:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-01T20:30:34.076Z"
+    },
     {
       "url": "vless://6da2c981-8c77-4340-bda3-93399b7aea26@178.17.52.236:2083?mode=auto&path=%2Fv2%2Fsync%2F6e9367&security=reality&encryption=none&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&fp=chrome&type=xhttp&sni=maps.blog-forme.ru&sid=3258252d44113e23#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree",
-      "name": "configV2rayForFree",
-      "source": "configV2rayForFree",
-      "date": "2026-10-22T12:47:37.412Z"
-    },
-    {
-      "url": "vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.70:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree",
       "name": "configV2rayForFree",
       "source": "configV2rayForFree",
       "date": "2026-10-22T12:47:37.412Z"
