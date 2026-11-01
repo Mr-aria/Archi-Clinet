@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-01T03:15:33.992Z",
+  "updated": "2026-11-01T04:45:36.873Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiJtZGsubWRtZWtqbGwuYmVzdCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWRrLm1kbWVramxsLmJlc3QiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI4MCIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoibWRrLm1kbWVramxsLmJlc3QiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T04:45:34.174Z"
+    },
     {
       "url": "trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?security=tls&sni=43.167.186.78#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "trojan://happybirthdaydaniel@179.254.115.148:25267?allowInsecure=1#%F0%9F%9B%9561@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
-    },
-    {
-      "url": "vless://b4ce2452-5f71-4137-8cf9-0467ca5b07b0@dns5.m3hrzd.ir:8055?encryption=none&flow=xtls-rprx-vision&fp=&pbk=4ExW95eL_lG7-vBq744NvIrYYm9tQyl33xf5mqNvEho&security=reality&sid=967a1145531e3868&sni=race.egistration.ir&type=tcp#%F0%9F%9B%9562@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.828Z"
