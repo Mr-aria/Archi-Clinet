@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-01T07:46:46.841Z",
-  "count": 1452,
+  "updated": "2026-11-01T11:01:52.801Z",
+  "count": 1453,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.dinocol.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-01T11:01:49.531Z"
+    },
     {
       "url": "https://t.me/proxy?server=ryx.pc6.6s.kfu.c6.npd.wl.lpg.xy.b.ferijon.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "IRAN_V2RAY1",
