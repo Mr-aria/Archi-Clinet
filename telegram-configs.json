@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-01T05:15:33.774Z",
+  "updated": "2026-11-01T05:31:53.499Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://humanity@104.25.108.234:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-01T05:31:48.812Z"
+    },
     {
       "url": "trojan://humanity@185.230.44.62:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@hoert1rert.localip.ir:2087?alpn=http%2F1.1&encryption=none&host=hoert1rert.localip.ir&path=%2Fhokm&security=tls&sni=hoert1rert.localip.ir&type=ws#%F0%9F%9B%9542@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
-    },
-    {
-      "url": "vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@46.225.46.136:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=hoert1rert.localip.ir&path=%2Fhokm&security=tls&sni=hoert1rert.localip.ir&type=ws#%F0%9F%9B%9543@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.828Z"
