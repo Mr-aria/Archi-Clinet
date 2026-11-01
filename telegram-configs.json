@@ -1,7 +1,97 @@
 {
-  "updated": "2026-11-01T10:15:34.655Z",
+  "updated": "2026-11-01T10:16:49.421Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://36fb6650-8a50-42b5-9f66-06538806f32c@193.148.253.194:25362?encryption=none&fp=&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp#%E2%9A%A131@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@23.81.36.148:1222?encryption=none&fp=&pbk=zpLKK8HuwXJDH9D0O3t5Z_tO3ajkj7VRtXdr6UGy1zE&security=reality&sid=a25d0f&sni=play.google.com&type=tcp#%E2%9A%A132@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://26524cce-d514-4014-a426-365fb266a14d@162.19.254.104:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=firefox&host=t5pmr.mail-node.gfw.kdns.fr&path=%2Fdanfeng&security=tls&sni=t5pmr.mail-node.gfw.kdns.fr&type=ws#%E2%9A%A133@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.30:8880?encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#%E2%9A%A134@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://36fb6650-8a50-42b5-9f66-06538806f32c@79.182.39.75:25362?encryption=none&fp=&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp#%E2%9A%A135@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://d2ff6e0c-7e78-455c-a824-082e162172d3@179.61.251.244:7443?encryption=none&fp=chrome&host=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&type=ws#%E2%9A%A136@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@167.82.64.120:443?alpn=http%2F1.1&fp=chrome&host=mitivpn--mitivpn-mitivpn.ac.ir&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=community.fastly.steamstatic.com&type=ws#%E2%9A%A137@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@91.107.180.176:465?encryption=none&fp=firefox&host=hw7.divarkhaghazi.com.&security=tls&sni=hw7.divarkhaghazi.com&type=ws#%E2%9A%A138@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.206.97:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=q3NQdiGg60myQYG6FekGE5g_a3q4g3WrD6eGayOWVwY&security=reality&sid=a2fcac&sni=remote.propaint.cl&type=tcp#%E2%9A%A139@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@91.107.180.176:465?encryption=none&fp=firefox&host=hw7.divarkhaghazi.com.&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=hw7.divarkhaghazi.com.&type=ws#%E2%9A%A140@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://3dbf58d7-53fc-4fad-8779-1c867e024fd0@185.125.103.62:8082?encryption=none&fp=firefox&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&type=ws#%E2%9A%A141@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@91.107.180.176:465?encryption=none&fp=firefox&host=hw7.divarkhaghazi.com.&path=%2F%3FTelegramV2ray_confiig&security=tls&sni=hw7.divarkhaghazi.com.&type=ws#%E2%9A%A142@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://72af1965-ec91-4376-82b1-75be51885506@185.125.103.62:8082?encryption=none&fp=firefox&host=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&type=ws#%E2%9A%A143@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://b135a1e0-ebdb-4d46-b3fa-bd1e78580244@57.129.52.47:52014?encryption=none&fp=firefox&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#%E2%9A%A144@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
+    {
+      "url": "vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@91.107.180.176:465?encryption=none&fp=firefox&host=hw7.divarkhaghazi.com.&path=%2F%3FTelegram%E2%80%94V2ray_confiig&security=tls&sni=hw7.divarkhaghazi.com.&type=ws#%E2%9A%A145@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-01T10:16:47.608Z"
+    },
     {
       "url": "vless://a6be8b6d-3033-4a99-b9bd-75e2ab12cfd0@31.76.91.238:443?security=reality&encryption=none&pbk=OnFi4-dm6Pf7o5CboFwfhbIA539vVtsd7ZYlPnWJVxo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=japan.selfsteal.com&sid=f336420d3cd15950#",
       "name": "Farah_VPN",
@@ -29908,96 +29998,6 @@
     },
     {
       "url": "trojan://P6oS8vzFbu@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sb.farxmode.ir&sni=sb.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://CHhHZoXQCp@45.130.125.2:443?type=ws&security=tls&path=%2Fda&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=se.farxmode.ir&sni=se.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://kZSruDyvxP@45.130.125.2:443?type=ws&security=tls&path=%2Fda&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sk.farxmode.ir&sni=sk.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://jZKsbuRpEB@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sl.farxmode.ir&sni=sl.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://v2TkL6FH3h@45.130.125.2:443?type=ws&security=tls&path=%2Fda&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sm.farxmode.ir&sni=sm.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://zBfIAxaXtz@45.130.125.2:443?type=ws&security=tls&path=%2Fdb&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sn.farxmode.ir&sni=sn.farxmode.ir&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://1N2o5bPwwA@151.101.34.144:443?type=xhttp&security=tls&path=%2Fda&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://zBfIAxaXtz@151.101.34.144:443?type=xhttp&security=tls&path=%2Fdb&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=edgezvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&security=tls&path=%2Fda&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&security=tls&path=%2Fdb&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=edgezvx.global.ssl.fastly.net&mode=packet-up&sni=global.fastly.com&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "vless://92f3873f-78a4-4f08-adb2-825ca7f34a9a@199.232.206.245:443?type=xhttp&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=tls&path=%2Fda&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "vless://92f3873f-78a4-4f08-adb2-825ca7f34a9a@151.101.56.7:443?type=xhttp&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=tls&path=%2Fda&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "vless://4d2b9de1-8be0-4434-9900-91eccb8422fa@199.232.206.245:443?type=xhttp&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=tls&path=%2F&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "vless://4d2b9de1-8be0-4434-9900-91eccb8422fa@151.101.56.7:443?type=xhttp&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=tls&path=%2F&host=networkzvx.global.ssl.fastly.net&mode=packet-up&sni=ssl.fastly.com&alpn=h2%2Chttp%2F1.1&fp=firefox&insecure=0&allowInsecure=0#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "vless://b79948e1-a34a-480d-8eb7-260f809e1b6a@104.17.108.1:443?type=xhttp&security=tls&path=%2Fapi%2Fv2%2Ffeed&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=aa.farxmode.ir&mode=packet-up&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=aa.farxmode.ir&alpn=h2%2Chttp%2F1.1&fp=random#",
       "name": "SRCVPN",
       "source": "SRCVPN",
       "date": "2026-10-22T12:47:12.840Z"
