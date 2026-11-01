@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-01T17:15:37.530Z",
+  "updated": "2026-11-01T18:01:50.891Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:443#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-01T18:01:43.681Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-01T18:01:43.680Z"
+    },
     {
       "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?security=reality&type=tcp&packetEncoding=xudp&sni=fr.golangwikito.cfd&fp=firefox&flow=xtls-rprx-vision&sid=e6d589857d1cec5e&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.172.161:22222?encryption=none&security=none&type=tcp#(S104",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-22T12:47:28.804Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.101.15:22222?encryption=none&security=none&type=tcp#(S101",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-22T12:47:28.804Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.98.176:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
       "source": "PrivateVPNs",
       "date": "2026-10-22T12:47:28.804Z"
