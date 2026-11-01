@@ -1,3 +1,5 @@
+https://t.me/proxy?server=mami99.birchquay.xyz&port=443&secret=ee920a4026fcc79354d87c30db9280e5786d616d6939392e6269726368717561792e78797a
+https://t.me/proxy?server=raga77.tidalbirch.sbs&port=443&secret=eefd9a9e2ac2851ddc327fe5971e25a87d7261676137372e746964616c62697263682e736273
 https://t.me/proxy?server=91.107.166.216&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=tundra.fernlark.xyz&port=443&secret=ee1c0302da542b3dbfa43927dfa654feaf74756e6472612e6665726e6c61726b2e78797a
 https://t.me/proxy?server=willow.saltfern.xyz&port=443&secret=ee1c0302da542b3dbfa43927dfa654feaf77696c6c6f772e73616c746665726e2e78797a
