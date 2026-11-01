@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-01T09:45:31.805Z",
+  "updated": "2026-11-01T10:15:34.655Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://a6be8b6d-3033-4a99-b9bd-75e2ab12cfd0@31.76.91.238:443?security=reality&encryption=none&pbk=OnFi4-dm6Pf7o5CboFwfhbIA539vVtsd7ZYlPnWJVxo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=japan.selfsteal.com&sid=f336420d3cd15950#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T10:15:33.012Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1NTM4NiIsInBzIjoiXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjJcdWQ4M2NcdWRkZmUiLCJzbmkiOiJhei0xLmxpbmthYS54eXoiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T10:15:33.012Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1MzQzNyIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzbmkiOiJhei0xLmxpbmthYS54eXoiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T10:15:33.012Z"
+    },
     {
       "url": "trojan://humanity@172.64.152.23:443?path=%2Fassignment&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&security=tls#%40nofiltering2",
       "name": "nofiltering2",
@@ -29983,24 +30001,6 @@
       "name": "SRCVPN",
       "source": "SRCVPN",
       "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "vless://b79948e1-a34a-480d-8eb7-260f809e1b6a@45.130.125.162:443?type=xhttp&security=tls&path=%2Fapi%2Fv2%2Ffeed&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=aa.farxmode.ir&mode=packet-up&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F122.0.0.0+Safari%2F537.36%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=aa.farxmode.ir&alpn=h2%2Chttp%2F1.1&fp=random#",
-      "name": "SRCVPN",
-      "source": "SRCVPN",
-      "date": "2026-10-22T12:47:12.840Z"
-    },
-    {
-      "url": "vless://66a27f60-3583-4d86-ab48-0f24d23bc8ca@u48030.d5.nordtile.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22scMaxEachPostBytes%22%3A%2232768%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&fp=chrome&host=u48030.d5.nordtile.ru&mode=packet-up&path=%2Fapi%2Fv1%2F0g8mt5ei%2Fsync%2F&security=tls&sni=u48030.d5.nordtile.ru&type=xhttp#%E2%9B%B263@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
-    },
-    {
-      "url": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sni=www.samsung.com&type=tcp#%E2%9B%B264@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
     }
   ]
 }
