@@ -1,3 +1,6 @@
+trojan://humanity@185.230.44.62:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#
+vless://a5212bcb-ab85-459a-bec6-9f259eeeebfa@135.106.153.131:443?&security=reality&pbk=OIWmjOL9lOxVRm-ejEvQf_G-Km-5Rw3L-w5d8rhVzQw&sid=69b1363a7dfd97d3&fp=firefox&sni=rug.tems.bet&type=tcp&headerType=none&host=rug.tems.bet&path=%2F#
+vless://b15f187e-9b34-437c-8243-8651a8ada76c@172.67.110.179:443?path=%2Fstream%2FDEVCOP%2F8651a8ada76c%2Floc-1&security=tls&encryption=none&insecure=0&host=tepar-k4j9.jounet.workers.dev&type=ws&allowInsecure=0&sni=tepar-k4j9.jounet.workers.dev#
 vmess://eyJhZGQiOiJtZGsubWRtZWtqbGwuYmVzdCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWRrLm1kbWVramxsLmJlc3QiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI4MCIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoibWRrLm1kbWVramxsLmJlc3QiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 trojan://9646699a-18b0-4ebc-9f53-453cc1c8e637@43.167.186.78:8443?security=tls&sni=43.167.186.78#
 vless://b15f187e-9b34-437c-8243-8651a8ada76c@188.114.96.25:443?path=%2Fstream%2FDEVCOP%2F8651a8ada76c%2Floc-0&security=tls&encryption=none&insecure=0&host=tepar-k4j9.jounet.workers.dev&type=ws&allowInsecure=0&sni=tepar-k4j9.jounet.workers.dev#
@@ -4995,6 +4998,3 @@ vless://c5912e82-b056-5a88-b38b-065df637fe0c@199.232.78.170:443?alpn=http%2F1.1&
 vless://36592d47-b9f5-4e8f-949e-45ac05472aab@91.107.188.129:2083?encryption=none&fp=firefox&security=tls&sni=site.check-looks.space&type=ws#%F0%9F%9B%9541@oneclickvpnkeys
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@hoert1rert.localip.ir:2087?alpn=http%2F1.1&encryption=none&host=hoert1rert.localip.ir&path=%2Fhokm&security=tls&sni=hoert1rert.localip.ir&type=ws#%F0%9F%9B%9542@oneclickvpnkeys
 vless://a5db5ab5-8d28-49c0-ad55-0ad4724e4c0d@46.225.46.136:2087?alpn=http%2F1.1&encryption=none&fp=chrome&host=hoert1rert.localip.ir&path=%2Fhokm&security=tls&sni=hoert1rert.localip.ir&type=ws#%F0%9F%9B%9543@oneclickvpnkeys
-vless://507f392c-874d-4c5d-9102-bee13a686188@2.27.26.142:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&security=reality&sid=90f9d05bf95cb335&sni=aq-1.global-cdn.org&type=tcp#%F0%9F%9B%9544@oneclickvpnkeys
-vless://912f0789-aea5-5739-aadf-f00b7cf141db@199.232.78.160:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=Appxdn.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%9B%9545@oneclickvpnkeys
-trojan://happybirthdaydaniel@179.254.115.148:25267?allowInsecure=1#%F0%9F%9B%9561@oneclickvpnkeys
