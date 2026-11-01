@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-01T07:45:33.588Z",
+  "updated": "2026-11-01T08:15:34.916Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://73bcd72f-9545-4cb8-8daf-7d004501880d@104.26.12.227:2096?encryption=none&fp=chrome&host=shanxp.dpdns.org&path=/&security=tls&sni=shanxp.dpdns.org&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T08:15:33.338Z"
+    },
     {
       "url": "vless://vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%40V2ray_Alpha%F0%9F%8C%A9%EF%B8%8F%2012",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://66a27f60-3583-4d86-ab48-0f24d23bc8ca@3miq56.d5.nordtile.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22packet-up%22%2C%22scMaxEachPostBytes%22%3A%2232768%22%2C%22uplinkDataPlacement%22%3A%22header%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&fp=chrome&host=3miq56.d5.nordtile.ru&mode=packet-up&path=%2Fapi%2Fv1%2F0g8mt5ei%2Fsync%2F&security=tls&sni=3miq56.d5.nordtile.ru&type=xhttp#%E2%9B%B270@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
-    },
-    {
-      "url": "vmess://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#%E2%9B%B272@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.828Z"
