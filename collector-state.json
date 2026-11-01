@@ -14,12 +14,12 @@
     "ShadowWolfVpn": 219,
     "neotenet": 778,
     "v2ryNG01": 21874,
-    "MTP_roto": 49873,
+    "MTP_roto": 49874,
     "iProxy": 0,
-    "ProxyNamava": 120,
-    "MARAMBASHI": 41581,
-    "free_netplus": 20794,
-    "Farah_VPN": 395066,
+    "ProxyNamava": 121,
+    "MARAMBASHI": 41582,
+    "free_netplus": 20802,
+    "Farah_VPN": 395067,
     "V2ray_Alpha": 9990,
     "iTV2RAY": 3146,
     "nofiltering2": 6226,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 11255,
   "totalProxies": 1250,
-  "runCount": 1948
+  "runCount": 1949
 }
