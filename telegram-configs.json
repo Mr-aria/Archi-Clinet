@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-01T05:46:36.130Z",
+  "updated": "2026-11-01T06:15:34.354Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@156.38.157.171:8443?encryption=none&type=ws&security=tls&sni=vlso5.1d.mom&fp=firefox&path=/&host=vlso5.1d.mom#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T06:15:32.377Z"
+    },
+    {
+      "url": "trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?sni=t.me/FuckTheWall#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-01T06:15:32.377Z"
+    },
     {
       "url": "vless://2099158e-9d5d-4f10-918c-678f485647fa@213.182.201.96:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%E2%9A%A11@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://0dab10de-af72-483b-b5d8-7f30cab4d35c@177.1.194.5:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=2Y2dj8zlCB5qJHxS_AjcFdPEpQY5F5x9VpKN-z8caBo&security=reality&sid=3fca1964759edc55&sni=de.ascl.dev&type=tcp#%F0%9F%9B%955@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%9B%956@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T12:33:22.828Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#%F0%9F%9B%957@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-22T12:33:22.828Z"
