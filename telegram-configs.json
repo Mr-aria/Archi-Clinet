@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T01:15:38.913Z",
+  "updated": "2026-11-02T02:15:40.003Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://50414e45-4c5f-5a45-5553-15038a30cbef@31.12.75.64:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F15038a30cbef%2Floc-0&host=oizs5zecux0s.pouriayy1.workers.dev&packetEncoding=xudp&sni=oizs5zecux0s.pouriayy1.workers.dev&fp=unsafe&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T02:15:37.397Z"
+    },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJuNS5tb2JpemEuaXIiLCJwb3J0IjoiMjA5NSIsImlkIjoiYmNhOGMxNTktZGYwNS00YmI2LTliNzUtOTJhYWJjMmJlNDVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiZGFzaC5tb2JpemEuaXIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.247.104:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabb#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://5cd8e5fe-7595-4387-95f9-79b0f18eb125@213.108.23.184:443?security=reality&encryption=none&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.fi.forge-relay.com&sid=a1b2c3d4#MTMVPN",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
