@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T09:15:32.367Z",
+  "updated": "2026-11-02T09:30:34.309Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.204.51:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-02T09:30:33.106Z"
+    },
     {
       "url": "vless://85c1becc-fcd2-47ca-b8e7-6d0d30f3cd13@79.141.164.81:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=firefox&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#%40V2ray_Alpha%F0%9F%AB%A0%206",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a2f4a97f-7765-4cc9-8a59-df25f542e3a6@91.107.150.196:443?mode=auto&path=%2Ffarasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=%2F&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#Telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://e8bba56a-7423-43b2-bc61-85fdbf24a6f3@node2-production-a87b.up.railway.app:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=node2-production-a87b.up.railway.app&type=ws&allowInsecure=0#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
