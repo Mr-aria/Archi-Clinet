@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-02T11:46:35.537Z",
+  "updated": "2026-11-02T12:15:32.349Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://4a140c2f-5b0c-4524-950c-026de74fcf69@5.149.249.94:443?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=nlb.kosmosapp.net&fp=firefox&sid=27350908de933e09&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T12:15:31.034Z"
+    },
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@cf.130519.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T12:15:31.034Z"
+    },
     {
       "url": "vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?security=reality&encryption=none&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=52c723e0fad49689#%40V2rayng_Fast%20",
       "name": "V2rayng_Fast",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://8a90efdc-615d-4bc8-ab74-1ad9456b4996@nl-ggbot.matcloud.ir:8080?mode=auto&path=%2Fnl&security=tls&encryption=none&extra=%7B%22downloadSettings%22%3A%7B%22address%22%3A%22nl2-ggbot.matcloud.ir%22%2C%22port%22%3A8080%2C%22network%22%3A%22xhttp%22%2C%22security%22%3A%22tls%22%2C%22tlsSettings%22%3A%7B%22serverName%22%3A%22nl2-ggbot.matcloud.ir%22%7D%2C%22xhttpSettings%22%3A%7B%22mode%22%3A%22auto%22%2C%22path%22%3A%22%2Fnl%22%2C%22host%22%3A%22amp-api-edge.apps.apple.com%22%7D%7D%7D&insecure=0&host=amp-api-edge.apps.apple.com&type=xhttp&allowInsecure=0&sni=nl-ggbot.matcloud.ir#Telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://203d434a-2a92-45df-8973-ca80434ecf73@163.245.43.50:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=content.v1.Feed&allowInsecure=0&sni=se-twitch.global-cdn.org#Telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://a21d693d-f866-4c12-94dd-5b30d4e5c40b@cdn4.wildiran.com:443?path=%2F219fd9877b1d&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=https%3A%2F%2F8.8.8.8%2Fdns-query&type=ws&allowInsecure=0#Telegram%20%40mtmvpn",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.645Z"
