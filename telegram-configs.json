@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-02T19:00:31.243Z",
+  "updated": "2026-11-02T19:30:35.180Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#%F0%9F%87%AC%F0%9F%87%A701%20%7C%20%E2%9A%A1Telegram%20%3D%20t.me%2Fex_proxies",
+      "name": "Hope_Net",
+      "source": "Hope_Net",
+      "date": "2026-11-02T19:30:33.410Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC06%20%7C%20%E2%9A%A1Telegram%20%3D%20t.me%2Fex_proxies",
+      "name": "Hope_Net",
+      "source": "Hope_Net",
+      "date": "2026-11-02T19:30:33.410Z"
+    },
     {
       "url": "vless://eb488cb0-633c-4d38-86e5-61d9d679ab4e@xray2-direct-mci1-fs-ce.freesocks.work:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&security=reality&sni=dl.google.com&type=tcp#%E2%8F%B391@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://d6e9c6aa-c9e4-424a-9984-edd742ab1732@ugb.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=ios&type=tcp&sni=dynu.com&sid=aefc7f3722#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://c4394e27-baeb-422d-8905-a93f8e01126f@cdn.alihapp.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn.alihapp.com&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.alihapp.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://d6e9c6aa-c9e4-424a-9984-edd742ab1732@trn26.moon-night.ir:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=aefc7f3722#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.645Z"
