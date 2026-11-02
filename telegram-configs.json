@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T10:46:41.976Z",
+  "updated": "2026-11-02T11:00:35.685Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.109.69:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-02T11:00:34.141Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://371fa59f-e622-4776-af66-7f72c84f2dce@151.101.1.194:443?mode=auto&path=%2F&security=tls&alpn=http%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000-1000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=5678iue43jrhyu36f3.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=5678iue43jrhyu36f3.global.ssl.fastly.net#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://371fa59f-e622-4776-af66-7f72c84f2dce@awyzanqll7kfs94ni7jxph1mddr5czvc.tulfexa.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=02bc0ad45ea31451#Telegram%20Proxy_mtm%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
