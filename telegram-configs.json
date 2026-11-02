@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T11:16:34.431Z",
+  "updated": "2026-11-02T11:45:40.875Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTI1Ni1nY206RkdQTXFtYWdWbkM1eU5HQg@104.36.66.73:15501#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T11:45:38.052Z"
+    },
     {
       "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?allowInsecure=1&fp=chrome#%E2%8F%B332@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d8b18d95-ca86-4742-a44f-6141e075a752@31.77.152.31:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=e.backup.iplane.top&sid=ac31827454d7f693#Telegram%20%40mtmvpn%2011",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://df2086c8-c706-4fe2-af07-cc5eff272a8d@uusd66.th3store.ir:8443?pcs=e72e299ce0de671a915f1c2b6e883aab33a0f1df449a6c23c9ac4d4853149302%2C97658de8c68dfa98ace1e5028a63d54a1aae911b3e21471076c6850cd08cbab4%2C0fc0901cca2bae9e9fdbb02d50d02f1094f7b36672086991b9e897626dc485f0%2Cee5f7abd6981bb0255632cd8f49283451b4b18844d12040b44ee00f07b8fe2c6&path=%2Fhjhjsahsa6sa6sa&security=tls&alpn=http%2F1.1&encryption=mlkem768x25519plus.native.0rtt._vqT3AXi6jT9_Ai7-osIAH85kwBJo_l54ziE2JKqSDk&insecure=0&host=uusd66.th3store.ir&fp=chrome&type=ws&allowInsecure=0&sni=jjsajajsjjajsjjasjajsjajsjsaj.com#Telegram%20%40mtmvpn%2012",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
