@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-02T14:01:41.629Z",
+  "updated": "2026-11-02T14:45:32.140Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:8080?security=none&type=ws&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T14:45:31.005Z"
+    },
+    {
+      "url": "vless://97532b08-357e-4140-a6f0-8e07f2ed3327@103.177.249.40:2083?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T14:45:31.005Z"
+    },
     {
       "url": "vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ams2.shtil.io#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
       "name": "freakconfig",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vmess://eyJhZGQiOiIxMDkuMjQ4LjE2Mi4xMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjhkOTQ2MTgtZDhlMi00ZTg5LTk1MDgtOTljODAwZWU0Yzk1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI4MDgwIiwicHMiOiJUZWxlZ3JhbSBAbXRtdnBuICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://a6ce17dd-b5a7-4a83-a60f-bd0f772216e7@po.tajpiex.ir:2083?alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=xhttp&sni=po.tajpiex.ir&mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=po.tajpiex.ir&allowInsecure=0#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ@185.103.110.68:18283#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.645Z"
