@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T16:15:34.290Z",
-  "count": 1507,
+  "updated": "2026-11-02T22:47:07.042Z",
+  "count": 1508,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ghalb.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "khabari_18",
+      "source": "khabari_18",
+      "date": "2026-11-02T22:46:52.111Z"
+    },
     {
       "url": "https://t.me/proxy?server=167.233.115.113&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
