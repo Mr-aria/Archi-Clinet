@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-01T21:15:37.653Z",
+  "updated": "2026-11-02T00:15:34.337Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@144.31.140.125:8443?security=reality&type=tcp&packetEncoding=xudp&sni=twitch.tv&fp=firefox&flow=xtls-rprx-vision&sid=168c15efac9df5fd&pbk=wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T00:15:32.851Z"
+    },
+    {
+      "url": "vless://70756c73-0000-4000-8000-650000000000@47.251.95.178:443?security=tls&type=ws&path=%2Fpulse&host=parsa-panel-u48we.wotic15356.workers.dev&packetEncoding=xudp&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T00:15:32.851Z"
+    },
+    {
+      "url": "vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?security=reality&type=tcp&packetEncoding=xudp&sni=udemy.com&fp=ios&flow=xtls-rprx-vision&sid=e90360ec7cc61b20&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T00:15:32.851Z"
+    },
     {
       "url": "vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@77.220.213.244:8444?security=tls&type=ws&path=%2Fapi%2Fv1%2Fdevices%2Fd63ac7ea89%2Ftelemetry&host=nl11.meshbeat.online&packetEncoding=xudp&sni=nl11.meshbeat.online&fp=firefox#",
       "name": "Farah_VPN",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImlyYW52cG5ldCIsDQogICJhZGQiOiAiaXIyMC5zZWViLnNob3AiLA0KICAicG9ydCI6ICIyMDk2IiwNCiAgImlkIjogIjEyMDA5ZTU3LTZmZDgtNDZ…",
-      "name": "iranvpnet",
-      "source": "iranvpnet",
-      "date": "2026-10-22T12:47:46.130Z"
-    },
-    {
-      "url": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImlyYW52cG5ldCIsDQogICJhZGQiOiAiaXIyMC5zZWViLnNob3AiLA0KICAicG9ydCI6ICIyMDk2IiwNCiAgImlkIjogIjEyMDA5Z…",
-      "name": "iranvpnet",
-      "source": "iranvpnet",
-      "date": "2026-10-22T12:47:46.130Z"
-    },
-    {
-      "url": "vmess://eyJpZCI6IjEyMDA5ZTU3LTZmZDgtNDZkNi05NGFmLTUzOTUxNGE3ZTdjNyIsImZwIjoiIiwiYWRkIjoibWNpLm1vcmRhZC5zaG9wIiwibmV0Ijoid3MiLCJwcyI6ImlyYW52cG5ldCIsInNuaSI6InM1Njc4NTQzLnNoYXJnaC5zaG9wIiwicGF0aCI6IlwvIiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsInR5cGUiOiIiLCJob3N0IjoiczEuc2hhcmdoLnNob3AiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwidiI6IjIiLCJwb3J0IjoiMjA5NiJ9",
-      "name": "iranvpnet",
-      "source": "iranvpnet",
-      "date": "2026-10-22T12:47:46.130Z"
-    },
-    {
-      "url": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==",
       "name": "iranvpnet",
       "source": "iranvpnet",
       "date": "2026-10-22T12:47:46.130Z"
