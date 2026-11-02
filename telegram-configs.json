@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T00:15:34.337Z",
+  "updated": "2026-11-02T00:45:32.435Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://c166ca49-4af0-416d-8411-2100f7bde9fe@66.154.101.36:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&sid=5590a9bae52e0586&pbk=t_aj99mkcVXDY_7xI9RhWyEY3khupiGiDsGKEJ7EajM&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T00:45:31.229Z"
+    },
     {
       "url": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@144.31.140.125:8443?security=reality&type=tcp&packetEncoding=xudp&sni=twitch.tv&fp=firefox&flow=xtls-rprx-vision&sid=168c15efac9df5fd&pbk=wgyw3OxZw4HEzedNdY_eHdcVkrtT7GEeZSHfzcZ8iDo#",
       "name": "Farah_VPN",
@@ -29995,12 +30001,6 @@
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImlyYW52cG5ldCIsDQogICJhZGQiOiAiaXIyMC5zZWViLnNob3AiLA0KICAicG9ydCI6ICIyMDk2IiwNCiAgImlkIjogIjEyMDA5ZTU3LTZmZDgtNDZ…",
-      "name": "iranvpnet",
-      "source": "iranvpnet",
-      "date": "2026-10-22T12:47:46.130Z"
     }
   ]
 }
