@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T15:15:32.771Z",
+  "updated": "2026-11-02T15:46:29.336Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?security=tls&type=ws&path=%2Ffp%3Dchrome&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=unsafe&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T15:46:26.814Z"
+    },
     {
       "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---bored_vpn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://b3775ef9-979c-4aec-b576-3a73aa323798@de.realfast.click:443?security=reality&encryption=none&pbk=x-xLSUDGxwcHdJud7sJlNWPDpQcRBAa8zGBjBLqRbFc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=de.realfast.click&sid=48dd07dc65590f05#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.645Z"
