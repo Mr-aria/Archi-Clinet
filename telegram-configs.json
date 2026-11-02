@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-02T13:45:34.890Z",
+  "updated": "2026-11-02T14:01:41.629Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ams2.shtil.io#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-02T14:01:35.229Z"
+    },
+    {
+      "url": "vless://a356fa77-7199-417a-80dd-0c0925789161@91.107.244.35:465?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=hw5.roghanmo.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-02T14:01:35.229Z"
+    },
     {
       "url": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#%40V2ray_Alpha%F0%9F%9A%8A%2012",
       "name": "V2ray_Alpha",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ@185.103.110.68:18283#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://XpnTeam-70@199.232.78.160:443?path=%2F%3F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://1ef3cfdd-a0b7-4584-87b4-2b217d8a4581@64.188.115.219:443?security=reality&encryption=none&pbk=2tjr1gP8eecWi9xlKFB1SmPKOzRgDt40NBQcxhjaKCA&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.swift.com&sid=270b5417f8ecb723#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.645Z"
