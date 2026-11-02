@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-02T10:31:34.783Z",
-  "count": 1498,
+  "updated": "2026-11-02T13:00:38.488Z",
+  "count": 1501,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=iamnegan.setado.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-02T13:00:32.593Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=mashti.setado.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-02T13:00:32.593Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=791.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-02T13:00:32.593Z"
+    },
     {
       "url": "https://t.me/proxy?server=top.proxynet.tech&port=443&secret=ee59d1ef95ab03cfeaebb18b0a529ad5e6746f702e70726f78796e65742e74656368",
       "name": "ProxyMTProto",
