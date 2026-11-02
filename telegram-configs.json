@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-02T09:30:34.309Z",
+  "updated": "2026-11-02T10:45:31.679Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d4001352-dc64-48b8-b786-5860b284ad3d@176.222.52.72:443?security=reality&type=tcp&packetEncoding=xudp&sni=steamcommunity.com&fp=chrome&flow=xtls-rprx-vision&sid=5c56a4cfea5866c0&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T10:45:30.486Z"
+    },
+    {
+      "url": "trojan://Telegram_healer_config@188.114.96.3:443?alpn=http/1.1&fp=chrome&host=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev&path=/tr/3F3fUAGJks9doKvjt8AREH4QR%3Fed%3D2560&security=tls&sni=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T10:45:30.486Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.204.51:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://b3b04464-5e5c-4a9d-acd7-3e931579fca0@185.143.232.245:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tun2.mobilesubasa.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://a2f4a97f-7765-4cc9-8a59-df25f542e3a6@91.107.150.196:443?mode=auto&path=%2Ffarasati1&security=reality&encryption=none&pbk=as04WkYoj-P4vEjJFXB3LeA_Rkt7Ud4pV2oTZ3bZwQg&fp=chrome&spx=%2F&type=xhttp&sni=www.wikipedia.org&sid=1c213fd68e13#Telegram%20%40mtmvpn",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
