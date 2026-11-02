@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T10:15:37.512Z",
-  "count": 1497,
+  "updated": "2026-11-02T10:31:34.783Z",
+  "count": 1498,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=top.proxynet.tech&port=443&secret=ee59d1ef95ab03cfeaebb18b0a529ad5e6746f702e70726f78796e65742e74656368",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-02T10:31:30.529Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.gung-ho.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "MTP_roto",
