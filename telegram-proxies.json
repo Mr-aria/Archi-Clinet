@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T10:01:33.535Z",
-  "count": 1496,
+  "updated": "2026-11-02T10:15:37.512Z",
+  "count": 1497,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.gung-ho.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-02T10:15:32.874Z"
+    },
     {
       "url": "https://t.me/proxy?server=Kingdom-persia.ir.hey-gardash.info.&port=1080&secret=79e344818749bd7ac519130220c25d09",
       "name": "ProxyMTProto",
