@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-02T10:45:31.679Z",
+  "updated": "2026-11-02T10:46:41.976Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns22.m3hrzd.ir:8044#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-02T10:46:40.184Z"
+    },
+    {
+      "url": "vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?security=reality&encryption=none&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=17fa3af0924c88b3#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-02T10:46:40.184Z"
+    },
+    {
+      "url": "vless://68cf8d29-5aa0-44b3-88a9-f1a576b6e84c@server.slavkiti.monster:443?security=reality&encryption=none&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=73a9e631a09b#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-02T10:46:40.183Z"
+    },
+    {
+      "url": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-02T10:46:40.183Z"
+    },
+    {
+      "url": "vless://3bb97d46-789b-4229-88f6-9beb222a4137@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-02T10:46:40.183Z"
+    },
     {
       "url": "vless://d4001352-dc64-48b8-b786-5860b284ad3d@176.222.52.72:443?security=reality&type=tcp&packetEncoding=xudp&sni=steamcommunity.com&fp=chrome&flow=xtls-rprx-vision&sid=5c56a4cfea5866c0&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&encryption=none#",
       "name": "Farah_VPN",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://371fa59f-e622-4776-af66-7f72c84f2dce@awyzanqll7kfs94ni7jxph1mddr5czvc.tulfexa.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=02bc0ad45ea31451#Telegram%20Proxy_mtm%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://371fa59f-e622-4776-af66-7f72c84f2dce@whvdqyt42pbmp4uf69z00li7uj8vwt8u.fate-rehan.ir:443?security=reality&encryption=none&pbk=bdtDRp63jl4nMZRPN2wNlKJ6Yt77SF1uSrfkQ8NBKks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=02bc0ad45ea31451#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://63aaea7f-2847-4f41-afab-0836b1cf79d9@me1.movieseryalirani.ir:443?security=reality&encryption=none&pbk=CxRZ7oJWwR7okmOoqEEbVYCSfTaBlNA6ycf_UniyeEk&headerType=none&fp=firefox&type=tcp&sni=matrix-client.matrix.org&sid=8d814a#Telegram%20Proxy_mtm%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJhbWlyLmFtaXJwb3J0LmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhbWlyLmFtaXJwb3J0LmlyIiwiaWQiOiJhMmJiYTg1OC1lOGMyLTQzOGUtOWRhNS01MjY4N2EwYWEyMDEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicGNzIjoiIiwicG9ydCI6Ijg4ODAiLCJwcyI6IlRlbGVncmFtIFByb3h5X210bSAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiI1LjQ1Ljk3LjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmYmZiNy03MjFhLTQ5YTktYjlmNS1mYjU1ZDkyNTkyYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxMDgwMyIsInBzIjoiVGVsZWdyYW0gUHJveHlfbXRtICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://b3b04464-5e5c-4a9d-acd7-3e931579fca0@185.143.232.245:2087?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=tun2.mobilesubasa.com#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
