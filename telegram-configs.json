@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-02T17:46:46.064Z",
+  "updated": "2026-11-02T18:16:44.886Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@185.126.93.226:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed%23&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#%40V2ray_Alpha%F0%9F%AB%8E%206",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-02T18:16:42.860Z"
+    },
+    {
+      "url": "vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@72.56.52.248:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=lv.dexlen.cc#%40V2ray_Alpha%F0%9F%AB%8E%205",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-02T18:16:42.860Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppcl9pUGluZw@46.8.69.253:443#YFZ%20241%20%40Outline_Vpn",
       "name": "outline_vpn",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://c4394e27-baeb-422d-8905-a93f8e01126f@cdn6.alihapp.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn6.alihapp.com&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn6.alihapp.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.17.189.78:443?path=%2Fws&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=a.cwvps.eu.org&fp=unsafe&type=ws&allowInsecure=0&sni=a.cwvps.eu.org#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?path=%2Ftyxyws&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.645Z"
