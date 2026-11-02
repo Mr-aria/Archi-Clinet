@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-02T08:16:47.479Z",
+  "updated": "2026-11-02T08:45:33.476Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://5t6i121em5lkmsmk@en001.zestapp778.com:29813?security=tls&sni=en001.zestapp778.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T08:45:32.114Z"
+    },
+    {
+      "url": "trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?allowInsecure=1&sni=us001.zestapp778.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T08:45:32.114Z"
+    },
     {
       "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.9:443?fp=chrome&sni=resources.indyourperfectremotetechjobfromthecomfortofhome.com#%E2%8F%B32@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "trojan://humanity@188.114.97.7:443?path=%2Fassignment%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "trojan://humanity@render.com:443?path=%2Fassignment%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "trojan://fvXi1ZyhJ9TMbgZSdc3g9g@xhop-production.up.railway.app:443?path=%2Fxray-trojan&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=xhop-production.up.railway.app#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
