@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-02T04:15:35.516Z",
+  "updated": "2026-11-02T05:15:32.242Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://07680ffb-0666-4836-b6ad-ec0de62bc38f@app-mi-26.spbstudentlife.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=assets-mi-26.spbstudentlife.com&fp=randomized&flow=xtls-rprx-vision&sid=a7856800c2deb7b2&pbk=cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T05:15:31.222Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiIxMDkuNzAuNzQuMTEzIiwicG9ydCI6IjMwNTUzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjE4MDZmMmNmLWJhODktNGM1My05OTBmLTgxYWE3ZDg5Y2Y3OCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T05:15:31.222Z"
+    },
+    {
+      "url": "vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@91.185.83.44:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=nguyxejonb.rucdncomp.pro&type=ws&headerType=none&host=nguyxejonb.rucdncomp.pro&path=%2Fservice%2Ftelemetry%2F0294da469190%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-02T05:15:31.222Z"
+    },
     {
       "url": "vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@nl-modx-prime.storagedirectguide.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl-modx-prime.storagedirectguide.com&fp=firefox&flow=xtls-rprx-vision&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&encryption=none#",
       "name": "Farah_VPN",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://a80131f7-df04-49c2-9740-9a3d0639ef7b@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=7wwwspeedtestnet.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://9e9fd625-e4d7-4944-ae7e-4145342fa5db@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://e96896d8-72d1-496f-8d28-b3fa0de4a562@94.237.40.197:443?security=reality&encryption=none&pbk=RYfzci_ctBzEbBah0jwygnWrGer9_LQfjOgmh9VizQE&headerType=none&fp=chrome&spx=%2F05bd2aba76ceb96&type=tcp&sni=bazitory.com&sid=f9#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://e1fd322b-6d55-49ee-b96a-f3335c0c9ac1@fs.koomeh.net:443?mode=auto&path=%2Frmnwv&security=tls&encryption=none&insecure=0&host=Amiiiiiiir00jgv897.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#MTMVPN",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
