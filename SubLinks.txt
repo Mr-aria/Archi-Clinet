@@ -36,7 +36,7 @@
     "url": "https://raw.githubusercontent.com/UCIRANX/Vpn/refs/heads/main/Uciran.txt"
   },
   {
-    "name": "testblue",
-    "url": "https://floral-grass-aa1e.dianawpewpek1.workers.dev/sub/vfzhu29h5xc38h7b"
+    "name": "Zerofee",
+    "url": "https://zerofee.ok-exor.ir/sub/djMsMzYzMDQyLDE3OTM2Mzg4OTY.ntRH0ckcf7Nub1LLqYJhhSgwZrKPuXQdW64-axaaOcs"
   }
 ]
