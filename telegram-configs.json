@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-02T06:45:31.145Z",
+  "updated": "2026-11-02T07:00:31.526Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.107.88:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-02T07:00:30.391Z"
+    },
     {
       "url": "vless://2424febb-43cb-488d-bdd1-401e923c8e48@3h-kazakhstan1.09vpn.com:8443?security=tls&type=ws&path=%2Fvless%2F&packetEncoding=xudp&sni=3h-kazakhstan1.09vpn.com&fp=chrome#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://e96896d8-72d1-496f-8d28-b3fa0de4a562@94.237.40.197:443?security=reality&encryption=none&pbk=RYfzci_ctBzEbBah0jwygnWrGer9_LQfjOgmh9VizQE&host=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&headerType=none&fp=chrome&spx=%2F05bd2aba76ceb96&type=tcp&sni=bazitory.com&sid=f9#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.644Z"
-    },
-    {
-      "url": "vless://39d233a9-ad91-4c4f-adb8-b7ba62f898f6@145.79.177.173:443?security=reality&encryption=none&pbk=rjvdkand0MASxYT-CMY4SGphSqlzc4YoTcp3t4qZcVU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=0123456789abcdef#MTMVPN%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.644Z"
