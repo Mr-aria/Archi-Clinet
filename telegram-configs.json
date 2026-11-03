@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-03T11:16:39.051Z",
+  "updated": "2026-11-03T11:30:36.558Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-03T11:30:35.588Z"
+    },
+    {
+      "url": "vless://3bb97d46-789b-4229-88f6-9beb222a4137@yoy-api.bachidze.com:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-03T11:30:35.588Z"
+    },
+    {
+      "url": "vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.39:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-03T11:30:35.588Z"
+    },
+    {
+      "url": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=firefox&type=tcp&sni=play.googleapis.com&sid=974f7f8f#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-03T11:30:35.588Z"
+    },
+    {
+      "url": "vless://3bb97d46-789b-4229-88f6-9beb222a4137@88.216.223.100:443?security=reality&encryption=none&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smart.bachidze.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-03T11:30:35.588Z"
+    },
+    {
+      "url": "vless://b5d044c5-1e70-49bb-a650-08b1de516691@13.143.184.226:443?security=reality&encryption=none&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msc1.serverslocal.ru&sid=f7e66e308136e1a1#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-03T11:30:35.588Z"
+    },
+    {
+      "url": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@195.189.98.197:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-03T11:30:35.588Z"
+    },
     {
       "url": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AA",
       "name": "MARAMBASHI",
@@ -29956,48 +29998,6 @@
     },
     {
       "url": "vless://854860c4-b5e8-453c-a047-90d451fe9c58@199.232.78.143:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=hg50caebd43aec19ea.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@comoiran.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=comoiran.ir#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@52.78.216.116:8443#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://dc4d5002-9545-4357-bfe4-b0ab6f174bd8@www.snappfood.ir:2083?path=%2Fapi%2Fv1%3Fed%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=serv2.servvadd.org&fp=chrome&type=ws&allowInsecure=0&sni=serv2.servvadd.org#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://dc4d5002-9545-4357-bfe4-b0ab6f174bd8@www.varzesh3.com:443?path=%2Fapi%2Fv1%3Fed%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=serv2.servvadd.org&fp=chrome&type=ws&allowInsecure=0&sni=serv2.servvadd.org#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://a7580076-777d-5df7-bea4-809faa417a48@69.46.46.219:443?path=%2Fws%2FMardo&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-b211bd-c64f9a-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=core-b211bd-c64f9a-production.up.railway.app#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://a7580076-777d-5df7-bea4-809faa417a48@69.46.46.136:443?path=%2Fws%2FMardo&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-b211bd-c64f9a-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=core-b211bd-c64f9a-production.up.railway.app#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://a7580076-777d-5df7-bea4-809faa417a48@69.46.46.157:443?path=%2Fws%2FMardo&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-b211bd-c64f9a-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=core-b211bd-c64f9a-production.up.railway.app#MTMVPN",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.646Z"
