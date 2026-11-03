@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-03T15:46:37.687Z",
-  "count": 1521,
+  "updated": "2026-11-03T19:16:38.852Z",
+  "count": 1523,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=persia.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-03T19:16:29.042Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=iran.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-03T19:16:29.042Z"
+    },
     {
       "url": "https://t.me/proxy?server=proxy.nizya.club&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562",
       "name": "ProxyMTProto",
