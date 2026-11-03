@@ -68,7 +68,35 @@
     "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/top100.txt"
   },
   {
-    "name": "MNG",
-    "url": "https://raw.githubusercontent.com/hiddify/hiddify-app/refs/heads/main/test.configs/mahsa#%D9%85%D9%87%D8%B3%D8%A7"
+    "name": "MNG mci 1",
+    "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt"
+  },
+  {
+    "name": "MNG mci 2",
+    "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt"
+  },
+  {
+    "name": "MNG mci 3",
+    "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt"
+  },
+  {
+    "name": "MNG mci 4",
+    "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt"
+  },
+  {
+    "name": "MNG mtn 1",
+    "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt"
+  },
+  {
+    "name": "MNG mtn 2",
+    "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt"
+  },
+  {
+    "name": "MNG mtn 3",
+    "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt"
+  },
+  {
+    "name": "MNG mtn 4",
+    "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt"
   }
 ]
