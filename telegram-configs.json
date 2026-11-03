@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-03T18:45:38.360Z",
+  "updated": "2026-11-03T19:00:39.379Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@chatgpt.com:443?path=%2F%3F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40V2ray_Alpha%F0%9F%92%9E%2012",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-03T19:00:37.311Z"
+    },
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.155.209:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40V2ray_Alpha%F0%9F%92%9E%208",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-03T19:00:37.311Z"
+    },
+    {
+      "url": "vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@132.243.207.154:443?security=reality&encryption=none&pbk=tVx2o1LD0BI7CCoXfFSv-Rr_etGde9XpQ-iNA9P3338&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=get-37.topp-con.xyz&sid=59d2296aa6320c76#%40V2ray_Alpha%F0%9F%92%9E%203",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-03T19:00:37.311Z"
+    },
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.155.209:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40V2ray_Alpha%F0%9F%92%9E%202",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-03T19:00:37.311Z"
+    },
+    {
+      "url": "vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?security=reality&type=tcp&packetEncoding=xudp&sni=finlandlanzarotte.live&fp=chrome&flow=xtls-rprx-vision&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-03T19:00:36.811Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.68.55:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://e9a8c08b-6ff9-4794-adcc-35fe04bd57ee@pronet.hx9.ir:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fl.hupcloud.com&fp=firefox&type=ws&allowInsecure=0&sni=fl.hupcloud.com#MTMVPN%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://e9a8c08b-6ff9-4794-adcc-35fe04bd57ee@104.17.122.116:443?path=%2F&security=tls&encryption=none&insecure=0&host=de1.hupcloud.com&fp=firefox&type=ws&allowInsecure=0&sni=de1.hupcloud.com#MTMVPN%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://e9a8c08b-6ff9-4794-adcc-35fe04bd57ee@104.16.59.41:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=de.hupcloud.com&fp=chrome&type=ws&allowInsecure=0&sni=de.hupcloud.com#MTMVPN%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://70ad3e9c-89e6-4ee3-91c3-7cb10a4e483a@165.231.177.114:443?mode=stream-one&path=%2F&security=tls&alpn=h2&encryption=none&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxReuseTimes%22%3A0%7D%7D&insecure=0&host=ice.noooo.win&fp=safari&type=xhttp&allowInsecure=0&sni=cab-6ac48f09.ferrin.uk#MTMVPN%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://211eb157-2af3-424d-a1f2-84bb7927399c@145.79.177.153:443?security=reality&encryption=none&pbk=DJfF3VTbkLGvZcsqH1Dgfej9RoOrPl4P-JFelzxnd1k&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=download.virtualbox.org&sid=72a6fbb66efaa5e2#Telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://7f273ee6-21ac-4ff1-aa5b-140f0eee2093@172.67.142.99:443?path=%2Fvl%2FGJA7C3DrCU5zX3QNtUsiogyzH27BONbM%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-391492-501aaa.thatsmes-7b13.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=cOrE-391492-501Aaa.THatSmeS-7B13.WOrKERS.deV#Telegram%20%40mtmvpn",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.646Z"
