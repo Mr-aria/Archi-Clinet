@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-03T20:01:41.228Z",
-  "count": 1527,
+  "updated": "2026-11-03T22:16:54.275Z",
+  "count": 1528,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=one.rozinalpoku.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6F6E652E726F7A696E616C706F6B752E636F2E756B",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-03T22:16:50.682Z"
+    },
     {
       "url": "https://t.me/proxy?server=www.lominak3.ir&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
       "name": "MineProxy",
