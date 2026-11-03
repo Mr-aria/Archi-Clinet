@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-03T18:31:41.275Z",
+  "updated": "2026-11-03T18:45:38.360Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.68.55:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-03T18:45:35.837Z"
+    },
     {
       "url": "vless://d596f92b-a7ce-47d2-8392-a274d9f57bec@87.120.92.68:443?security=reality&encryption=none&pbk=XLAE_KCFdlZkGcFndCnzEqsNHX1FByaGihkyEyrmDlo&headerType=none&fp=firefox&spx=%2F885d24eecd2e022&type=tcp&flow=xtls-rprx-vision&sni=cloudiva.abrdns.com&sid=c1440935cc28#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://7f273ee6-21ac-4ff1-aa5b-140f0eee2093@172.67.142.99:443?path=%2Fvl%2FGJA7C3DrCU5zX3QNtUsiogyzH27BONbM%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-391492-501aaa.thatsmes-7b13.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=cOrE-391492-501Aaa.THatSmeS-7B13.WOrKERS.deV#Telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://fe73bd03-97ac-49df-aa25-75de63a363c2@dl.nexicore.ir:5223?security=reality&encryption=none&pbk=ySpK4hs6TnZJQrAlLL5fG6nR7yoNlaI7eLBcb6HAWho&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=57ac2acbc976853f#Telegram%20%40mtmvpn",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.646Z"
