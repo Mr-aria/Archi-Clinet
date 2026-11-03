@@ -1,3 +1,5 @@
+https://t.me/proxy?server=visu82.tidalbirch.sbs&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e57669737538322e746964616c62697263682e736273
+https://t.me/proxy?server=losuny65.quietfjord.click&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b6c6f73756e7936352e7175696574666a6f72642e636c69636b
 https://t.me/proxy?server=ghalb.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=167.233.115.113&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=65.108.53.31&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
