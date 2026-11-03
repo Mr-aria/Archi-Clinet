@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-03T16:31:38.074Z",
+  "updated": "2026-11-03T16:45:36.908Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.74.126:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-03T16:45:35.218Z"
+    },
     {
       "url": "hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.143:4444/?sni=pl3.nexfile.net#%F0%9F%8D%AA61@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://c1c95983-50a7-44b1-99ac-a062284939d0@validate.m2ip-video.cloud:8443?security=reality&encryption=none&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=peplow-labs.info&sid=2356d1ae4b#M%20T%20M%20V%20P%20N",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://08dd79b8-8eab-45e7-815b-29bb7ea35a61@167.82.76.31:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2Fconfigure%2Fservices%2FvzQ6lbMCPkOKGnZN5uJR3e%2Fversions%2F2%2Fdomains&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=namne.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=speedtest.net#M%20T%20M%20V%20P%20N",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.646Z"
