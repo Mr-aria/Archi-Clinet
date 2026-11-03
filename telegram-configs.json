@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-03T00:17:47.554Z",
+  "updated": "2026-11-03T01:46:39.627Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://7e5b1e82-73db-429a-93b2-7839a0bf4dc0@45.88.12.110:2083?&security=tls&fp=chrome&alpn=http%2F1.1&sni=mol.ultimagamest.com&type=ws&headerType=none&path=%2Fvless-ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-03T01:46:36.262Z"
+    },
     {
       "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sw.golangwikito.cfd&fp=ios&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&sid=a1037b25dcef6aa7&type=tcp&headerType=none#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@87.199.199.25:8443?security=reality&encryption=none&pbk=kQV48T3zJZQbisn4n1EEGVP8Ok3gSB5Uml2LLdplNU4&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=fileharbor.cc&sid=a53f8c1e6d9b2740#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.645Z"
-    },
-    {
-      "url": "vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@64.204.180.58:8443?security=reality&encryption=none&pbk=PdP1LjK-ioSLjrFa0pOfriSf5afLYvyy42U6nLHzVls&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de1.utchka.cc&sid=475c46cbe0d03d5a#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.645Z"
