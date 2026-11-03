@@ -66,5 +66,9 @@
   {
     "name": "Radikal top100",
     "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/top100.txt"
+  },
+  {
+    "name": "MNG",
+    "url": https://raw.githubusercontent.com/hiddify/hiddify-app/refs/heads/main/test.configs/mahsa#%D9%85%D9%87%D8%B3%D8%A7"
   }
 ]
