@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-03T04:45:36.475Z",
-  "count": 1510,
+  "updated": "2026-11-03T05:00:33.688Z",
+  "count": 1512,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=www.lominak2.ir&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
+      "name": "MineProxy",
+      "source": "MineProxy",
+      "date": "2026-11-03T05:00:31.001Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=www.lominak2.ir&port=4435&secret=dd79e7010200010007f0030386e24c3add",
+      "name": "MineProxy",
+      "source": "MineProxy",
+      "date": "2026-11-03T05:00:31.001Z"
+    },
     {
       "url": "https://t.me/proxy?server=visu82.tidalbirch.sbs&port=443&secret=eeb8e5365580b9ad3c2ee355dfcbc245e57669737538322e746964616c62697263682e736273",
       "name": "ProxyMTProto",
