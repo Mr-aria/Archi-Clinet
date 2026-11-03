@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-03T11:01:38.209Z",
+  "updated": "2026-11-03T11:16:39.051Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-03T11:16:35.018Z"
+    },
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-03T11:16:35.018Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-03T11:16:35.018Z"
+    },
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-03T11:16:35.018Z"
+    },
+    {
+      "url": "vless://0760406c-3f19-47b1-b332-f59270adf431@79.141.164.83:443?security=reality&encryption=none&authority=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&type=grpc&serviceName=neurex&sni=nlb.kosmosapp.net&sid=27350908de933e09#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-03T11:16:35.018Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.146.101:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://a7580076-777d-5df7-bea4-809faa417a48@69.46.46.157:443?path=%2Fws%2FMardo&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-b211bd-c64f9a-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=core-b211bd-c64f9a-production.up.railway.app#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://a7580076-777d-5df7-bea4-809faa417a48@69.46.46.163:443?path=%2Fws%2FMardo&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=core-b211bd-c64f9a-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=core-b211bd-c64f9a-production.up.railway.app#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://c88e0389-8333-476d-b565-495020e473e5@ee.xnetguard.stream:443?security=reality&encryption=none&pbk=a7pE0PrtV-p1g975c57xFrQ8MBI4G_Ozd7eWiq4L6lU&headerType=&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ee.xnetguard.stream&sid=f1d00cbbb31154b1#",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://e3150605-db89-43cd-8734-2def48cc5524@146.75.57.238:443?path=%2F&security=tls&encryption=none&insecure=0&host=looabfinalndeoijji.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=Bxontriol.fastly.com#",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2F%3FTelegram---@MTMVPN---@MTMVPN---@MTMVPN---@MTMVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206SUwvN0ovQ2M1elFwSnZwQVAwWlZrQT09OnN6anJqaXRzRUpTcERwemQxM29vN2c9PQ@rel.pasmazy1.ir:8080#",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.646Z"
