@@ -38,5 +38,33 @@
   {
     "name": "Zerofee",
     "url": "https://zerofee.ok-exor.ir/sub/djMsMzYzMDQyLDE3OTM2Mzg4OTY.ntRH0ckcf7Nub1LLqYJhhSgwZrKPuXQdW64-axaaOcs"
+  },
+  {
+    "name": "Radikal verified",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt"
+  },
+  {
+    "name": "Radikal fast",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/fast/configs.txt"
+  },
+  {
+    "name": "Radikal secure",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/secure/configs.txt"
+  },
+  {
+    "name": "Radikal all",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/configs.txt"
+  },
+  {
+    "name": "Radikal heavy",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/heavy/configs.txt"
+  },
+  {
+    "name": "Radikal light",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/light/configs.txt"
+  },
+  {
+    "name": "Radikal top100",
+    "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/top100.txt"
   }
 ]
