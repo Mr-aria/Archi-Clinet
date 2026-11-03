@@ -1,7 +1,91 @@
 {
-  "updated": "2026-11-03T09:21:14.201Z",
+  "updated": "2026-11-03T09:30:35.878Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.198.128:443?encryption=none&headerType=http&host=cloudfront.net&path=%2F&security=none&type=tcp#%F0%9F%8D%AA31@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vless://913dc759-8639-4890-9bfc-a9acdc5090cf@89.110.64.15:443?encryption=none&fp=&pbk=YWhH3_lunQFxpqA29GF-Hq1K78hdSsy0h3E5dVbxImA&security=reality&sid=371f6e&sni=graphs.4cdn.de&type=tcp#%F0%9F%8D%AA32@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@5.230.216.85:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp#%F0%9F%8D%AA33@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vless://a8321cfe-39a2-48a0-a918-f01f7d9006ed@188.137.237.14:8444?encryption=none&fp=firefox&host=nl16.meshbeat.online&path=%2Fapi%2Fv1%2Fdevices%2F317eb6a07b%2Ftelemetry&security=tls&sni=nl16.meshbeat.online&type=ws#%F0%9F%8D%AA35@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vless://d6eb8a46-e6a4-4891-b22e-dfaa609c6afd@153.76.190.31:2083?encryption=none&fp=ios&path=%2Fvless-ws&security=tls&sni=speedtestmark.com&type=ws#%F0%9F%8D%AA36@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vless://d65fb384-5029-4edf-bdc7-0f5960600e3d@153.76.190.31:2083?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fvless-ws&security=tls&sni=speedtestmark.com&type=ws#%F0%9F%8D%AA37@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@62.84.162.161:443?host=api.85s.me&path=%2F&sni=api.85s.me&type=ws#%F0%9F%8D%AA38@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vless://26524cce-d514-4014-a426-365fb266a14d@62.132.3.104:8443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=xy1ej.stream-node-us.danfeng.qzz.io&path=%2Fdanfeng&security=tls&sni=xy1ej.stream-node-us.danfeng.qzz.io&type=ws#%F0%9F%8D%AA39@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vless://26524cce-d514-4014-a426-365fb266a14d@64.227.115.28:443?allowInsecure=1&alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=xy1ej.stream-node-us.danfeng.qzz.io&path=%2Fdanfeng&security=tls&sni=xy1ej.stream-node-us.danfeng.qzz.io&type=ws#%F0%9F%8D%AA40@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vmess://5c040f1d-45db-43bd-8d46-e4950e433735@149.7.16.228:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#%F0%9F%8D%AA41@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "hysteria2://ripa841juk7gwn4t@31.76.241.169:10005/?obfs=salamander&obfs-password=7kydvvvn3bwt66ff&sni=de.c0d1xdev.xyz#%F0%9F%8D%AA42@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "trojan://8deb189a-3aed-4865-843b-b72dae954c46@144.31.252.100:8443?host=api.85s.me&path=%2F&sni=api.85s.me&type=ws#%F0%9F%8D%AA43@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.34.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&security=reality&sid=e6d589857d1cec5e&sni=fr.golangwikito.cfd&type=tcp#%F0%9F%8D%AA44@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
+    {
+      "url": "vmess://b831381d-6324-4d53-ad4f-8cda48b30811@d2.anonix.cloud:8018?encryption=auto&host=shit.67133767.xyz&path=%2Fwebsocket%2Ftransfer%2Fgayporn&security=none&type=ws#%F0%9F%8D%AA45@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-03T09:30:35.499Z"
+    },
     {
       "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:8080?path=%2F%3Fed%3D2560&security=none&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%221%22%5D%2C%20%22delays%22%3A%20%5B%224%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&type=ws#",
       "name": "Farah_VPN",
@@ -29914,90 +29998,6 @@
     },
     {
       "url": "trojan://Ujm0GtLvc1VelqUQi2Apg1EjVt0Z3Mjq@ir.maralfood1i.ir:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ir.maralfood1i.ir#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2Ffdip%3Dsstp%3A%2F%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn748359672.opengw.net%3A1458%3Fed%3D2560%23&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://5b44c4dc-3b6b-4e61-96fa-6e89b349e6c4@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=safa.fastly.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://a840a44b-f43a-46ea-a3c5-bab360f0de13@199.232.78.159:443?security=tls&encryption=none&insecure=0&host=pan2e.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=sity.fastly.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://249cce58-48ab-49a0-8aa1-fb8cd68a1104@de2.my-cdn.org:443?security=reality&encryption=none&pbk=4EUWyCLFjgb-cDwj8ws2nC82mCY_L5VvoCia7mHPH2o&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=de2.my-cdn.org&sid=adbbecad#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://92295a0d-b610-4075-85e9-bfab09ec6f3a@138.124.98.219:443?security=reality&encryption=none&pbk=IyUvo6owCe4Zfr8aIVdtweSNHQSpSyiO-OKsRDJ9BBs&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.ah.nl&sid=a111111111111111#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?path=%2F%3FTelegram---mehrosaboran&security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://ff3b79c1-1fd9-4e86-95a5-cf3863b3d162@c1.greewebservices.ir:443?path=%2F%3FTelegram---bored_vpn&security=tls&alpn=h2&encryption=none&insecure=0&host=cydydts.deldadehnoor.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=cydydts.deldadehnoor.ir#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&host=%2F%3FTELEGRAM--MTMVPN--MTMVPN--MTMVPN--MTMVPN&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://b1936288-a353-4ff1-89b3-edaead599c6b@de1.manticore-vpn.lol:443?security=reality&encryption=none&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=5347d9d0b588c111#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiIxMjAuNDguMTMzLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP1RlbGVncmFtLS0tTVRNVlBOLS0tTVRNVlBOLS0tTVRNVlBOLS0tTVRNVlBOIiwicGNzIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJUZWxlZ3JhbSBAbXRtdnBuICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://924fe46b-b6e0-479e-ae7f-a3661680e706@95.111.212.241:443?security=reality&encryption=none&pbk=BSTnEthBXhb_UyuWpLBDxg82-C-wcpU2_kOD5ohS12g&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=3a697adb4c58d495#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://51d039b4-6232-43fa-9161-46748776317c@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.646Z"
