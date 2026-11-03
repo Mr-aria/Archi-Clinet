@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-03T17:46:46.893Z",
+  "updated": "2026-11-03T18:30:34.084Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@dubai-cdn-keno.keno.su:443?security=reality&encryption=none&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-keno.keno.su&sid=0123456789abcdef#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-03T18:30:32.463Z"
+    },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@104.27.74.207:443?security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
       "name": "freakconfig",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@pa6r26.eu-cdn539.com:443?security=reality&encryption=none&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsde.eu-cdn294.com&sid=c8621ebb1e56abb3#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://a232975d-01b1-4b26-aba4-a536d778e314@ultra.bostnet.xyz:443?path=%2Fdjkr1lkwrt&security=reality&encryption=none&pbk=yX2afBMHpMtuf7DnBbPv_-QKRFHXhN2ZCbZzKWYnCTs&fp=chrome&spx=%2F104a9a5a86eb357&type=xhttp&sni=admin.r1.relay.scnative.space&sid=3f981d4bb76c3cd8#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.646Z"
