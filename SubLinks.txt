@@ -5,7 +5,7 @@
   },
   {
     "name": "ZerondOne",
-    "url": "https://sub.speedur.org/sub/djMsNzM3MDYyLDE3ODMyNzY1Mzkfa46e1dc36"
+    "url": "https://raw.githubusercontent.com/Efration/ZerondOne/refs/heads/main/ZerondOne.txt#ZerondOne"
   },
   {
     "name": "masir sefid",
