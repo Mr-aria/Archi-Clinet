@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-03T19:30:34.137Z",
+  "updated": "2026-11-03T19:31:46.741Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.67.76.40:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-03T19:31:44.089Z"
+    },
+    {
+      "url": "vless://913dc759-8639-4890-9bfc-a9acdc5090cf@89.110.64.15:443?security=reality&encryption=none&pbk=YWhH3_lunQFxpqA29GF-Hq1K78hdSsy0h3E5dVbxImA&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=graphs.4cdn.de&sid=371f6e#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-03T19:31:44.089Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiIxNzIuODYuMTA4Ljc5IiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJpZCI6IjliY2ZkM2I1LTVmNzEtNDkzOC1iMWQyLWY4ZmRkODk1MDk1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii85YmNmZDNiNS01ZjcxLTQ5MzgtYjFkMi1mOGZkZDg5NTA5NWQtdm0iLCJwb3J0IjoiNDI5MDYiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "trojan://%6D%69%74%69%76%70%6E@b2n.ir:443?path=%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F--%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E&security=tls&alpn=http%2F1.1&insecure=0&host=de.%6D%69%74%69%76%70%6E.in.net&fp=chrome&ech=iranva.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=de.%6D%69%74%69%76%70%6E.in.net#telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.647Z"
-    },
-    {
-      "url": "vless://fcdfed39-51aa-4bb5-beb7-61b0357e36b9@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%220-0%22%7D&insecure=0&host=fcdsxalkkkp.global.ssl.fastly.net&allowInsecure=0#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.647Z"
-    },
-    {
-      "url": "vless://fcdfed39-51aa-4bb5-beb7-61b0357e36b9@199.232.20.113:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=www.firefox.com&mode=auto&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%220-0%22%7D&insecure=0&host=fcdsxalkkkp.global.ssl.fastly.net&allowInsecure=0#MTMVPN",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.647Z"
