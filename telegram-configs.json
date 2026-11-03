@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-03T13:01:43.518Z",
+  "updated": "2026-11-03T14:15:33.144Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://89683f75-80b0-4cdf-a9cb-a13b52a56a6c@2.31.22.130:8080?encryption=mlkem768x25519plus.native.0rtt.Wlkin79_AoaAqKo0zdfSaaxlSgeYA8TfPWrnsoC6rHw&security=none&type=tcp&headerType=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-03T14:15:31.528Z"
+    },
+    {
+      "url": "vless://89683f75-80b0-4cdf-a9cb-a13b52a56a6c@2.31.22.130:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=digikala.com&fp=chrome&pbk=aiFPeLurQNAOYZhwdXsYwxCxBgw6qg8rt0UvdrdNPTY&sid=ed516450fce897dd&type=tcp&headerType=none&path=%2F%40zibanabz%40zibanabz%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-03T14:15:31.528Z"
+    },
+    {
+      "url": "vless://89683f75-80b0-4cdf-a9cb-a13b52a56a6c@2.31.22.130:3939?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ai.android&fp=chrome&pbk=dnnN66V_xqEbGoG5P8E_Zqk3TaZt2lM4SI9N7Ana7FA&sid=d9a2600fdecd7be2&spx=%2F16504cba99195d6&type=tcp&headerType=none&path=%2F%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-03T14:15:31.528Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.31.164:22222?encryption=none&security=none&type=tcp#(S104",
       "name": "PrivateVPNs",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://3c21ea2e-462a-4e03-b3d0-0d381d3b887c@www.mobocomcloud.ir:443?path=%2FMoboCloud%2FOTA%2FGermany&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=www.mobocomcloud.ir%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.mobocomcloud.ir#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://da24590d-b15a-4d8e-8648-51c40c9963e1@dearv.moon-night.ir:443?security=reality&encryption=none&pbk=dMBDL7ry94pavIxYmzimeyaCqor6fUNb0v3dzHif9xY&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=de.wikipedia.org&sid=e64e9f5eefbffc15#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://70bd2936-ed74-482e-a290-be4670e5b8ce@192.144.13.208:443?security=reality&encryption=none&pbk=vUqDEx0U33StHVKNQz11H_FsuwVmfqwUZlRNv0zmvzY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=profitscheck.com&sid=a7f3c91e2b6d0485#MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T12:47:54.646Z"
-    },
-    {
-      "url": "vless://da24590d-b15a-4d8e-8648-51c40c9963e1@ir4.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nobitex.ir&sid=cbe2503ffd040d#MTMVPN",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T12:47:54.646Z"
