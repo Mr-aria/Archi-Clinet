@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-03T14:16:49.204Z",
-  "count": 1520,
+  "updated": "2026-11-03T15:46:37.687Z",
+  "count": 1521,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=proxy.nizya.club&port=443&secret=ee05cf8e164f926f4a664b2404d276a1d670726f78792e6e697a79612e636c7562",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-03T15:46:31.348Z"
+    },
     {
       "url": "https://t.me/proxy?server=IRAN.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
