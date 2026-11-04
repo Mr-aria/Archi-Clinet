@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-04T15:17:11.290Z",
+  "updated": "2026-11-04T15:45:34.277Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&headerType=none&type=tcp&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&encryption=none&host=-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN&sni=yahoo.com&sid=c39cc7310a&flow=xtls-rprx-vision#%40nofiltering2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-04T15:45:33.642Z"
+    },
+    {
+      "url": "vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart.bachidze.com:443?pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&fp=firefox&security=reality&sni=smart.bachidze.com&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none#%40nofiltering2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-04T15:45:33.642Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a…",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-04T15:45:33.642Z"
+    },
     {
       "url": "vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@se3.shtil.io:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=se3.shtil.io#@ICV2RAY",
       "name": "icv2ray",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://af309ad2-c943-48ea-b570-2e51a2f079d9@185.146.173.152:2095?path=%2FDSDaswd22%2111*fdfm55247.COM.&security=none&encryption=none&host=NOxdB1.BisTaiR.orG&type=ws#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.652Z"
-    },
-    {
-      "url": "vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=%2F&security=none&encryption=none&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&type=ws#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.652Z"
-    },
-    {
-      "url": "vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.0.0:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fraud.chase&type=ws#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.652Z"
-    },
-    {
-      "url": "vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.17:80?path=%2FT%2CE%2CL%2CE%2CG%2CR%2CA%2CM%2CX%2CV%2C2%2CR%2CA%2CY%3Fed%3D2560&security=none&encryption=none&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.salf101.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&type=ws#%40V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.652Z"
