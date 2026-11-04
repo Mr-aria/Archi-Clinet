@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-04T13:15:34.715Z",
+  "updated": "2026-11-04T13:30:36.026Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://838e8b68-b583-4850-9c06-3ca63b05a936@2.31.22.130:8080?encryption=mlkem768x25519plus.native.0rtt.Wlkin79_AoaAqKo0zdfSaaxlSgeYA8TfPWrnsoC6rHw&security=none&type=tcp&headerType=none#%D…",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-04T13:30:34.122Z"
+    },
     {
       "url": "vless://5f704d93-7e7f-45b5-81f5-08db4a946220@104.17.70.206:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=free.sahanwickramasinghe.com&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.com#%40V2ray_Alpha%F0%9F%8C%90%207",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.129.129:443?path=%2FXV2ray%3Fed%3D512&security=tls&encryption=none&host=fastxv.pages.dev&type=ws&sni=pages.dev#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.652Z"
-    },
-    {
-      "url": "vless://6a13aa20-f011-4474-8da0-e7228b11aff2@85.192.56.170:43856?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=zula.ir#%40V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.652Z"
