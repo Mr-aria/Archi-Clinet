@@ -12,15 +12,15 @@
     "MatinSenPaii": 5780,
     "pewezavpn": 25837,
     "ShadowWolfVpn": 219,
-    "neotenet": 845,
+    "neotenet": 846,
     "v2ryNG01": 21928,
-    "MTP_roto": 49929,
+    "MTP_roto": 49930,
     "iProxy": 0,
     "ProxyNamava": 186,
     "MARAMBASHI": 41606,
-    "free_netplus": 21518,
-    "Farah_VPN": 395686,
-    "V2ray_Alpha": 10006,
+    "free_netplus": 21528,
+    "Farah_VPN": 395687,
+    "V2ray_Alpha": 10008,
     "iTV2RAY": 3146,
     "nofiltering2": 6230,
     "shh_proxy": 10988,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 11819,
   "totalProxies": 1336,
-  "runCount": 2528
+  "runCount": 2529
 }
