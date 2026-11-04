@@ -1,7 +1,7 @@
 {
   "lastSeen": {
     "PewezaTech": 25836,
-    "mmd_adm": 28801,
+    "mmd_adm": 28802,
     "free_vpn02": 5145,
     "freakconfig": 10460,
     "outline_vpn": 11851,
@@ -25,7 +25,7 @@
     "nofiltering2": 6228,
     "shh_proxy": 10988,
     "TestDummyChannel": 3,
-    "hamclasixii": 81610,
+    "hamclasixii": 81611,
     "Linuxor": 5938,
     "MineProxy": 55470,
     "imArasTey": 236,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 11797,
   "totalProxies": 1336,
-  "runCount": 2501
+  "runCount": 2502
 }
