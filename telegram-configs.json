@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-04T03:30:35.901Z",
+  "updated": "2026-11-04T04:30:33.996Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d342d11e-d224-4463-b982-532309285094@198.211.123.90:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=unsafefp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-04T04:30:32.661Z"
+    },
+    {
+      "url": "trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@connect-se.mimowhat.online:443?security=tls&sni=connect-se.mimowhat.online#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-04T04:30:32.661Z"
+    },
     {
       "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:2095?eh=Sec-WebSocket-Protocol&encryption=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F&security=none&type=ws#",
       "name": "Farah_VPN",
@@ -29989,18 +30001,6 @@
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-22T13:01:50.926Z"
-    },
-    {
-      "url": "vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FDailYCOnfIGs&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_a1i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-22T13:01:50.925Z"
-    },
-    {
-      "url": "vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_a11ia.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-22T13:01:50.925Z"
     }
   ]
 }
