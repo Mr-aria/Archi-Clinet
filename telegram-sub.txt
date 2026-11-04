@@ -1,3 +1,4 @@
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---%40MTMVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206K1NwSTZBajVSNVRleDZxS2ZXRjNadz09@38.54.85.230:8445#
 vless://27653b37-603c-4c90-b1f5-25c4d23f8932@89.169.47.96:443?sni=renderer-bridge-2-129.mirra.now&type=grpc&serviceName=VideoRenderer&fp=firefox&security=tls#
@@ -4997,4 +4998,3 @@ vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&security=reality&encryption=none&alpn=h2,http/1.1&authority=&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&fp=chrome&type=grpc&serviceName=&sni=dash.cloudflare.com&sid=f77e5398#%40V2rayNG3
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=uni.fi&type=ws#%40V2rayNG3
 vless://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?path=%2Fvless&security=none&encryption=none&host=Fr1.vless.site.&type=ws#%40V2rayNG3
-vless://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?path=%2Fcassiusvpn.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&fp=random&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org#%40V2rayNG3
