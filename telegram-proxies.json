@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-04T09:47:12.970Z",
-  "count": 1537,
+  "updated": "2026-11-04T11:01:46.243Z",
+  "count": 1538,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.lv426.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-04T11:01:31.313Z"
+    },
     {
       "url": "https://t.me/proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275",
       "name": "ProxyMTProto",
