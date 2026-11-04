@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-04T13:01:47.716Z",
-  "count": 1540,
+  "updated": "2026-11-04T17:01:36.597Z",
+  "count": 1543,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=turbo-speed.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-04T17:01:32.598Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=sarma.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-04T17:01:32.598Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=best-speed.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-04T17:01:32.598Z"
+    },
     {
       "url": "https://t.me/proxy?server=65.21.227.250&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
       "name": "ProxyMTProto",
