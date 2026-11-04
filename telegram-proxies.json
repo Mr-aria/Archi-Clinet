@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-04T04:46:32.692Z",
-  "count": 1530,
+  "updated": "2026-11-04T05:16:31.413Z",
+  "count": 1531,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=135.181.74.189&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-04T05:16:26.579Z"
+    },
     {
       "url": "https://t.me/proxy?server=lolo65.quillmarsh.xyz&port=8443&secret=eeae5ab45be1bccbba85eec21085b2fd20706574726f766963682e7275",
       "name": "ProxyMTProto",
