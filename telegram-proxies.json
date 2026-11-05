@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-05T19:00:38.278Z",
-  "count": 1607,
+  "updated": "2026-11-05T19:46:37.402Z",
+  "count": 1608,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=mt.elitev2.ir&port=8443&secret=ee9a21b42e041132145dd6ae8a87ace5b97777772e6170617261742e636f6d",
+      "name": "BlueKnight_Net",
+      "source": "BlueKnight_Net",
+      "date": "2026-11-05T19:46:34.751Z"
+    },
     {
       "url": "https://t.me/proxy?server=citrus.driftquill.click&port=8443&secret=ee2b6eb790d613a1725557ce33b9a87b30786170692e6f7a6f6e2e7275",
       "name": "ProxyMTProto",
