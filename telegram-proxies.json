@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-05T07:31:42.618Z",
-  "count": 1600,
+  "updated": "2026-11-05T10:00:32.070Z",
+  "count": 1603,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=checkout.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-05T10:00:31.103Z"
+    },
+    {
+      "url": "tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-05T10:00:31.103Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=forums.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-05T10:00:31.103Z"
+    },
     {
       "url": "tg://proxy?server=00777791.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
       "name": "proxy_badss",
