@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-05T02:30:33.304Z",
+  "updated": "2026-11-05T03:16:40.524Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://72881b3f-76f7-4cae-912d-e95e602a5ca4@wwww.qarvian.ir:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-05T03:16:37.575Z"
+    },
+    {
+      "url": "vless://70756c73-0000-4000-8000-650000000000@47.251.95.178:443?encryption=none&security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-05T03:16:37.575Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.156:8080#",
       "name": "V2ray_official",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://ffe6ffea-d8df-4efd-9fb1-ab093d6d0a2d@188.114.96.3:443?path=%2FXDibuDFmB3fiURk1%3Fed%3D2560&security=tls&encryption=none&host=PPaL03.tAveN-rYDan.WorKERS.DeV&type=ws&sni=PpAl03.TavEn-rYDAn.WORkerS.DEv#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.653Z"
-    },
-    {
-      "url": "vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.653Z"
-    },
-    {
-      "url": "vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=random&type=grpc&serviceName=grpc&sni=hvxoo.metahkh.com#%40V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.653Z"
