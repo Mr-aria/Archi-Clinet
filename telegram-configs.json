@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-05T16:00:35.855Z",
+  "updated": "2026-11-05T16:16:36.428Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.192.142:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-05T16:16:33.277Z"
+    },
     {
       "url": "vless://326c45d1-966c-4080-874f-ac73883c5e4a@132.243.119.223:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=KjXapnfwZtRbZIKBDsP-5YOL1nsiHLds8Hw-JfzczDo&security=reality&sid=5e50b6c8fe883545&sni=www.techadvisor.com&type=tcp#%F0%9F%A5%8C61@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.247:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.654Z"
