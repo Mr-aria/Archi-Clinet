@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-05T11:01:44.225Z",
+  "updated": "2026-11-05T12:15:35.724Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://%58pnTeam-91@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-05T12:15:34.093Z"
+    },
+    {
+      "url": "vless://%58pnTeam-90@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-05T12:15:34.093Z"
+    },
+    {
+      "url": "trojan://M%69TiVPN@188.114.97.6:443?path=%2F---%40M%69TiVPN---%40M%69TiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=s-s1.mitivpn-cdn.lifestyle&fp=chrome&type=ws&allowInsecure=0&sni=s-s1.mitivpn-cdn.lifestyle#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-05T12:15:34.093Z"
+    },
+    {
+      "url": "trojan://M%69TiVPN@216.24.57.1:443?path=%2F---%40M%69TiVPN---%40M%69TiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=s-s2.mitivpn-cdn.lifestyle&fp=chrome&type=ws&allowInsecure=0&sni=s-s2.mitivpn-cdn.lifestyle#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-05T12:15:34.093Z"
+    },
+    {
+      "url": "trojan://M%69TiVPN@188.114.97.6:443?path=%2F---%40M%69TiVPN---%40M%69TiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=s-s3.mitivpn-cdn.lifestyle&fp=chrome&type=ws&allowInsecure=0&sni=s-s3.mitivpn-cdn.lifestyle#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-05T12:15:34.093Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.31.219:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29971,36 +30001,6 @@
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://a8dcf8a4-e552-43fe-aeaa-eb6b6a4dcc2e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJkZTFlLXE2RnpnNDEzQzkudjJmcmVldnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyYThhMTBmYi05Y2EzLTM2N2UtYTIzNC1jZjA5Zjg0MWJlNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjE4OTMyOTNQeSIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.653Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiIxNS4yMDQuNjcuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzNGUtMjAyNDAxMTEudjJmcmVldnBuLmNvbSIsImlkIjoiMmE4YTEwZmItOWNhMy0zNjdlLWEyMzQtY2YwOWY4NDFiZTRmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YxNDktZHNrZHM2NSIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.653Z"
-    },
-    {
-      "url": "trojan://3817daf8-0f2b-412f-b87b-3efa585423e8@us2.vpn.ong:443?security=tls&headerType=none&type=tcp#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.653Z"
     }
   ]
 }
