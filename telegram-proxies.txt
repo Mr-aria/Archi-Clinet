@@ -1,3 +1,5 @@
+https://t.me/proxy?server=shared3.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275
+https://t.me/proxy?server=ge2.kkkservers.tech&port=8443&secret=eef99731abbc063924c8b52c5cd7aeca3a6765322e6b6b6b736572766572732e74656368
 https://t.me/proxy?server=checkout.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=myapi.gigicalla.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk
 https://t.me/proxy?server=forums.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ
