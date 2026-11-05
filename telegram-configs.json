@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-05T13:16:46.405Z",
+  "updated": "2026-11-05T14:00:35.379Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJkMmI2N2U0OC1jMzQxLTQ3YmEtOGNhYS01NjU4ZGY2OTNhYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IvCfh67wn4e3IDVAZXhjbGF2ZXZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T14:00:34.809Z"
+    },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiJ2aXBjY2MuY2MiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjViZWFkMzJmLWE5ODctNGY1Ny1iMWE4LTY2OTg3NzhmYWNkYSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5X3Byb3h5IiwiaG9zdCI6InZpcGNjYy5jYyIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#@V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.654Z"
