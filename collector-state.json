@@ -25,7 +25,7 @@
     "nofiltering2": 6230,
     "shh_proxy": 10988,
     "TestDummyChannel": 3,
-    "hamclasixii": 81627,
+    "hamclasixii": 81629,
     "Linuxor": 5947,
     "MineProxy": 55474,
     "imArasTey": 239,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 11894,
   "totalProxies": 1348,
-  "runCount": 2637
+  "runCount": 2638
 }
