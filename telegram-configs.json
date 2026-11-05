@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-05T09:30:33.598Z",
+  "updated": "2026-11-05T09:31:36.214Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.247.28:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-05T09:31:34.103Z"
+    },
     {
       "url": "vless://95d0e214-eab0-4701-93ed-fea4f1b56062@84.32.101.84:443?security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=firefox&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://dbc34aa9-3cb1-477a-c47d-998f8badf0e8@176.98.41.45:13509?security=reality&encryption=none&pbk=IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.653Z"
-    },
-    {
-      "url": "vless://world@5.181.23.116:7777?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#%40V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.653Z"
