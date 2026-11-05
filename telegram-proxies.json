@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-05T19:46:37.402Z",
-  "count": 1608,
+  "updated": "2026-11-05T20:00:39.517Z",
+  "count": 1610,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.sherlock049.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-05T20:00:30.412Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=ir-ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-05T20:00:30.412Z"
+    },
     {
       "url": "https://t.me/proxy?server=mt.elitev2.ir&port=8443&secret=ee9a21b42e041132145dd6ae8a87ace5b97777772e6170617261742e636f6d",
       "name": "BlueKnight_Net",
