@@ -1,7 +1,85 @@
 {
-  "updated": "2026-11-05T16:46:39.436Z",
+  "updated": "2026-11-05T17:15:35.856Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://db80088c-32a1-4cb8-a907-0f3cb7844152@gb1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QFYzek1TNFeZxhHP3gH-42RUYDGw0ZiigeDcUOFL2Vs&security=reality&sid=bd44ae7c721b8252&sni=gb1.japancase.site&type=tcp#%F0%9F%A5%8C91@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "vless://db80088c-32a1-4cb8-a907-0f3cb7844152@198.105.123.224:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=tr1.japancase.site&type=tcp#%F0%9F%A5%8C92@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "vless://db80088c-32a1-4cb8-a907-0f3cb7844152@tr1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=tr1.japancase.site&type=tcp#%F0%9F%A5%8C93@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "vmess://5c040f1d-45db-43bd-8d46-e4950e433735@67.220.74.250:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#%F0%9F%A5%8C94@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "vless://2739258b-a278-4bed-bc5d-f88830824dce@23.95.115.116:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=plwyjJZIVDt1OtwDAxfcLjDsR7dseVCe9Ia3HceIKEg&security=reality&sid=a1b2c3d4&sni=www.cloudflare.com&type=tcp#%F0%9F%A5%8C95@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "vless://72881b3f-76f7-4cae-912d-e95e602a5ca4@wwww.qarvian.ir:443?encryption=none&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%A5%8C96@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?allowInsecure=1&fp=chrome&sni=cdn.unlockyourfuturefindyourperfectcareer.com#%F0%9F%A5%8C97@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?allowInsecure=1&fp=chrome&sni=www.unlockyourfuturefindyourperfectcareer.com#%F0%9F%A5%8C98@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?allowInsecure=1&fp=chrome&sni=api.nextjobopportunityandclaimyouridealrole.com#%F0%9F%A5%8C99@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?allowInsecure=1&fp=chrome#%F0%9F%A5%8C100@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-05T17:15:35.077Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3QxeWpDcUFnMlpKR1FQUzltbURzNjh6THV2bmJnTA@dns3.m3hrzd.ir:8044#%40IRAN_V2RAY1%20%F0%9F%94%90",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-05T17:15:33.706Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3QxeWpDcUFnMlpKR1FQUzltbURzNjh6THV2bmJnTA@dns22.m3hrzd.ir:1348#%40IRAN_V2RAY1%20%F0%9F%94%90",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-05T17:15:33.706Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIU3QxeWpDcUFnMlpKR1FQUzltbURzNjh6THV2bmJnTA@45.86.158.154:8044#%40IRAN_V2RAY1%20%F0%9F%94%90",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-05T17:15:33.706Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.215.22:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29920,84 +29998,6 @@
     },
     {
       "url": "trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.100:80?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.155:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.13.164:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.97:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.128:8880?mode=gun&security=&encryption=none&type=grpc#@V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.654Z"
