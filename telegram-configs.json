@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-05T14:00:35.379Z",
+  "updated": "2026-11-05T14:02:00.131Z",
   "count": 5000,
   "configs": [
     {
-      "url": "vmess://eyJhZGQiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiIiwiaWQiOiJkMmI2N2U0OC1jMzQxLTQ3YmEtOGNhYS01NjU4ZGY2OTNhYzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6IvCfh67wn4e3IDVAZXhjbGF2ZXZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnZXRuZXQuc2VydmVyc3ViYXNsaS50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-05T14:00:34.809Z"
+      "url": "vless://72881b3f-76f7-4cae-912d-e95e602a5ca4@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTELEGRAM-----mtmvpn&security=tls&encryption=none&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-05T14:01:58.693Z"
     },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiJ2aXBjY2MuY2MiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjViZWFkMzJmLWE5ODctNGY1Ny1iMWE4LTY2OTg3NzhmYWNkYSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5X3Byb3h5IiwiaG9zdCI6InZpcGNjYy5jYyIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
