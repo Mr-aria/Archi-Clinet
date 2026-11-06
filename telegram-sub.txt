@@ -1,3 +1,7 @@
+trojan://Tg3RnK7Xp8B1@45.32.157.84:443?security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#
+vless://f3d543c5-f41b-46d7-85f8-d6f3ccefe280@188.116.27.6:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.sony.co.uk&fp=chrome&flow=xtls-rprx-vision&sid=1174&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&encryption=none#
+vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@188.114.97.6:443?security=tls&type=ws&path=%2F138.2.74.219-28616&host=nautica-cff.kloningstrife002.workers.dev&packetEncoding=xudp&sni=nautica-cff.kloningstrife002.workers.dev&fp=unsafe&encryption=none#
+vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@94.249.180.86:443?security=reality&type=tcp&packetEncoding=xudp&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&encryption=none#
 vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.77.243.143:443?fp=firefox&security=tls&sni=sg003.zestapp778.com&type=tcp#
 vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?path=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=unsafe&type=ws&allowInsecure=0&sni=lucasjow.us.ci#
 vless://0b41f339-5809-46ef-8351-b03fdc441539@fpoixf69hqt3e6d4urtb.mamadneizeh.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&path=%2Fvl%2FlYNtP7z8pJUmfp01tz5wEnuDujJtZ&security=tls&sni=FpoiXF69hQT3E6d4URTB.MamADNEIZeH.WorKers.DEV&type=ws#
@@ -4994,7 +4998,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950330462892661.neyshabur-prx-dn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3
 vless://f690c2da-bdc3-4538-999e-d2bb8a541188@104.16.161.143:2096?path=%2Fsecurity%3Dtls&security=tls&encryption=none&host=baomei.pages.dev&type=ws&sni=baomei.pages.dev#%40V2rayNG3
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3
-vless://64d6d0d4-3706-4837-b154-cda2816adcc5@104.20.43.81:80?path=%2F&security=none&encryption=none&host=crazy-identity.oneeat.co&type=ws#%40V2rayNG3
-vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?security=reality&encryption=none&pbk=flIlSQ8NWZl0ofim794-EaQhz2OnH1hN7imrQAPheRY&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=53ba1e37#%40V2rayNG3
-vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#%40V2rayNG3
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#%40V2rayNG3
