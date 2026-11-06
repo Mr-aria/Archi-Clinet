@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-06T02:01:35.163Z",
+  "updated": "2026-11-06T02:31:48.136Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://0b41f339-5809-46ef-8351-b03fdc441539@fpoixf69hqt3e6d4urtb.mamadneizeh.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&path=%2Fvl%2FlYNtP7z8pJUmfp01tz5wEnuDujJtZ&security=tls&sni=FpoiXF69hQT3E6d4URTB.MamADNEIZeH.WorKers.DEV&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-06T02:31:45.316Z"
+    },
     {
       "url": "vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@146.103.24.187:8443?security=tls&type=ws&path=%2F&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=firefox&encryption=none#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://49e03b39-4c27-4caf-8214-ccfe3d3d0295@65.109.8.76:36000?type=tcp&encryption=none&security=none#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#%40V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.654Z"
