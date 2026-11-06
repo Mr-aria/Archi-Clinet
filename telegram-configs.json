@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-06T13:16:34.064Z",
+  "updated": "2026-11-06T13:30:37.137Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=at1.japancase.site&sid=41ae8e266bc3346f#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-06T13:30:30.648Z"
+    },
     {
       "url": "vless://40a86b1b-239d-455e-b53f-4c270788ba6e@178.214.109.1:443?security=reality&encryption=none&pbk=3p6W4rMBh1HCwbjq4lcbWO0KjkqTshJU5lkTix5nwTc&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=promo-digital.wb.ru&sid=1cfa55abe4d2dc7a#MTMVPN",
       "name": "proxy_mtm",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147135010103.sec19org.com:443?security=tls&encryption=none&headerType=none&type=tcp#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#%40V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.654Z"
