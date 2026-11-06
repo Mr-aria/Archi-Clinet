@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-06T05:31:33.152Z",
+  "updated": "2026-11-06T06:00:34.775Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://11512726-b692-406f-ab49-7b28f44a8294@80.96.108.29:8443?mode=auto&path=%2Fae1b809ceb77&security=reality&encryption=none&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&fp=firefox&type=xhttp&sni=md.gorobsub.com#%F0%9F%87%B7%F0%9F%87%B4%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-06T06:00:29.812Z"
+    },
+    {
+      "url": "vless://db80088c-32a1-4cb8-a907-0f3cb7844152@147.45.221.5:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-06T06:00:29.812Z"
+    },
     {
       "url": "vless://d3f0d021-6a98-43c1-ba26-b75bd0d145f0@154.29.159.211:26763?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=firefox&flow=xtls-rprx-vision&sid=b72b5eed&pbk=9tgCHwsQFN0j6FaMsAeJN8TSD2qQFnX6JdTaEdp8TRU&encryption=none#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMTk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6InBlbGFuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://8417c221-c277-4e3b-8d19-b0ac0bfb4666@free.vpn.luna-marzban.ir:15510?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.654Z"
