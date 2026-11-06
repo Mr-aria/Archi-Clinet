@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-06T15:01:47.914Z",
+  "updated": "2026-11-06T15:16:45.915Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://b6b5b186-c68f-4f18-bb87-25de385be594@zibanabz.jonsonvip.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=digikala.com&fp=chrome&pbk=aiFPeLurQNAOYZhwdXsYwxCxBgw6qg8rt0UvdrdNPTY&sid=ed516450fce897dd&type=tcp&headerType=none&path=%2F%40zibanabz%40zibanabz%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-06T15:16:43.068Z"
+    },
+    {
+      "url": "vless://b6b5b186-c68f-4f18-bb87-25de385be594@zibanabz.jonsonvip.ir:3939?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ai.android&fp=chrome&pbk=dnnN66V_xqEbGoG5P8E_Zqk3TaZt2lM4SI9N7Ana7FA&sid=d9a2600fdecd7be2&spx=%2F16504cba99195d6&type=tcp&headerType=none&path=%2F%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-06T15:16:43.068Z"
+    },
     {
       "url": "vless://b566e589-1c53-4c6f-ba99-5633c552cdb5@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40V2ray_Alpha%F0%9F%AA%A9%202",
       "name": "V2ray_Alpha",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.211.136:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#@V2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.170.11:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#@V2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@V2rayng3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
