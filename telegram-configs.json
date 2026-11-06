@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-06T06:45:33.671Z",
+  "updated": "2026-11-06T06:46:34.065Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.122.8:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-06T06:46:31.451Z"
+    },
     {
       "url": "trojan://Tg3RnK7Xp8B1@45.32.157.84:443?allowInsecure=1&fp=chrome&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com%23%F0%9F%8D%AA2%40oneclickvpnkeys#%F0%9F%A7%AB1@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eVhjN042MWRTVTlmaXR4M3QzeDhG@185.140.14.113:443#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@46.183.217.204:990#%40V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.654Z"
