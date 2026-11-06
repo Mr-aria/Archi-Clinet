@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-06T14:00:30.952Z",
-  "count": 1623,
+  "updated": "2026-11-06T14:01:43.662Z",
+  "count": 1624,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=46.225.254.89&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "khabari_18",
+      "source": "khabari_18",
+      "date": "2026-11-06T14:01:32.734Z"
+    },
     {
       "url": "https://t.me/proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d",
       "name": "ProxyMTProto",
