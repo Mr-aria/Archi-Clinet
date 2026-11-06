@@ -1,3 +1,6 @@
+https://t.me/proxy?server=178.105.141.172&port=443&secret=ee8db761231b91c7c07ac0a6e7323ad41b676f6f676c65617069732e636f6d
+https://t.me/proxy?server=169.58.86.18&port=443&secret=ee85dc3d6c2900e59b6f97f68ee7d1e349676f6f676c65617069732e636f6d
+https://t.me/proxy?server=178.105.137.152&port=443&secret=eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d
 https://t.me/proxy?server=37.23.117.178&port=7997&secret=eea0fdabe1d65015dab63bfa14af873e5f626979736b32322e7275
 https://t.me/proxy?server=nl7.h1cloud.net&port=25108&secret=ee48ad01672a61ed02ba8b1f28baa867c27777772e73616d73756e672e636f6d
 https://t.me/proxy?server=dl.linux-orggv.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ
