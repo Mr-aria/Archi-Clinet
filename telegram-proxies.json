@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-06T15:30:31.167Z",
-  "count": 1625,
+  "updated": "2026-11-06T17:31:44.722Z",
+  "count": 1626,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=167.235.225.191&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-06T17:31:30.848Z"
+    },
     {
       "url": "https://t.me/proxy?server=Tond.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
       "name": "ProxyMTProto",
