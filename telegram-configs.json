@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-06T06:00:34.775Z",
+  "updated": "2026-11-06T06:01:33.591Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=firefox&sid=df8611c07d&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-06T06:01:30.454Z"
+    },
     {
       "url": "vless://11512726-b692-406f-ab49-7b28f44a8294@80.96.108.29:8443?mode=auto&path=%2Fae1b809ceb77&security=reality&encryption=none&pbk=_LNT4Kf7pPmeEBAnmJ7xsBu3y6Kih0Ew9AFVoDa3QSg&fp=firefox&type=xhttp&sni=md.gorobsub.com#%F0%9F%87%B7%F0%9F%87%B4%40FreakConfig",
       "name": "freakconfig",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiI1Ny4xMjkuNjQuMTk5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwZWxhbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6InBlbGFuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.654Z"
