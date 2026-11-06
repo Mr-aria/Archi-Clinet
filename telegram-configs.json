@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-06T20:00:41.587Z",
+  "updated": "2026-11-06T20:02:08.245Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://40a86b1b-239d-455e-b53f-4c270788ba6e@178.214.109.1:443?security=reality&encryption=none&pbk=3p6W4rMBh1HCwbjq4lcbWO0KjkqTshJU5lkTix5nwTc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=promo-digital.wb.ru&sid=1cfa55abe4d2dc7a#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-06T20:02:04.625Z"
+    },
+    {
+      "url": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-06T20:02:04.625Z"
+    },
+    {
+      "url": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@108.61.119.63:18580?security=tls&encryption=none&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us007.zestapp778.com#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-06T20:02:04.625Z"
+    },
+    {
+      "url": "vless://00c82fcb-2c67-465d-8432-6743a1593efa@162.159.249.92:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=dd-xx.pages.dev&fp=firefox&type=ws&allowInsecure=0&sni=DD-xx.PAGES.DEV#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-06T20:02:04.625Z"
+    },
+    {
+      "url": "vless://226279dd-28b2-4b61-96be-a2a0b1afd522@www.visa.com:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=hk.zhaoqing.city&fp=random&type=ws&allowInsecure=0&sni=hk.zhaoqing.city#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-06T20:02:04.625Z"
+    },
     {
       "url": "vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.85:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
       "name": "prrofile_purple",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?path=%2Fid-tksi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=m.udemy.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=m.udemy.com.cyylr.eu.cc#@v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://41d480fd-1dcc-4766-8e01-a67e7faa5934@129.6.29.253:443?path=%2Fid-amz&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=investors.spotify.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=investors.spotify.com.cyylr.eu.cc#@v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?path=%2Fid-tksi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#@v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://10be524f-e1dc-4d1c-a256-17df1399a739@104.17.121.253:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=donya-e-eqtesad.com.fararu.com.alef.ir.hamshahrionline.ir.khabaronline.ir.asriran.com.alalamtv.net&allowInsecure=0&sni=loVELY-bATtLeNn9IH0SniS.WInDlER.Co.Uk#@v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?mode=auto&path=%2FTelegram-Zedmodeon&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=mano.tll-far.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mano.tll-far.ir#@v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlMK0txWDhoSU1uK1V5QUR3U0pPUG03MkEwQTgzVHNET0ZYQm42STJtQT0@49.13.3.249:23997#@v2rayng3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
