@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-06T14:01:38.382Z",
+  "updated": "2026-11-06T14:31:46.608Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiI2Ni4xNjMuMTI1LjUxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-06T14:31:43.973Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.91.107.188:19999#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-06T14:31:43.973Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.50.215.234:19999#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-06T14:31:43.973Z"
+    },
     {
       "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206alViRE5zRmFtY3lEZnBtK3JJM1p5dz09@38.145.220.193:8443#",
       "name": "Farah_VPN",
@@ -29983,24 +30001,6 @@
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://8db764be-f144-4df0-ae5d-21d5f2551290@md.gilangard.ir:11431?security=reality&encryption=none&pbk=-mmOMxUx52Rj14VuE5fhlsvh7qt5WT9WEZy5LQlnSDc&headerType=none&fp=qq&type=tcp&sni=play.google.com&sid=d8de8785395c206b#@V2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
-    },
-    {
-      "url": "vless://c7d543af-1023-4b96-a698-187c190d3f4c@nautica.foolvpn.me:443?path=%2F47.89.39.186-39251&security=tls&encryption=none&host=nautica.foolvpn.me&type=ws&sni=nautica.foolvpn.me#%40V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.654Z"
     }
   ]
 }
