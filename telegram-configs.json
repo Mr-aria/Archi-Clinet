@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-07T13:00:35.493Z",
-  "count": 4998,
+  "updated": "2026-11-07T13:15:33.912Z",
+  "count": 5000,
   "configs": [
+    {
+      "url": "trojan://d9064589-74af-432a-9390-5d8a9da281bf@Sclass-C1.catcat321.com:20086?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=hk.catxstar.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T13:15:32.561Z"
+    },
+    {
+      "url": "trojan://123456@104.18.35.86:2096?allowInsecure=1&sni=321dfbc6.uir-9i6.pages.dev&type=ws&host=321dfbc6.uir-9i6.pages.dev&path=/#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T13:15:32.561Z"
+    },
+    {
+      "url": "trojan://gHQP0D7D15@104.16.186.130:2053?path=%2F&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=marvdasht.phonecomparisonblog.org&fp=unsafe&type=ws&allowInsecure=0&sni=marvdasht.phonecomparisonblog.org#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T13:15:32.561Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=exploredigitaljobplatformandfindonlinework.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T13:15:32.561Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.138.209:22222?encryption=none&security=none&type=tcp#(S104",
       "name": "PrivateVPNs",
@@ -29974,18 +29998,6 @@
     },
     {
       "url": "vless://7fcbc02d-6f61-4cdf-a322-b14779cc8b47@Chatgpt.com:443?path=%2Fman%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=pa.ar-marz.fun&fp=chrome&type=ws&allowInsecure=0&sni=pa.ar-marz.fun#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vkvideo.ru&sid=6354585c37827955#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://9e13716d-c43d-48b3-8cab-65e02d938ab5@chatgpt.com:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snapp.athenashoppp.ir&fp=chrome&type=ws&allowInsecure=0&sni=snaPP.athenashOppp.ir#@V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
