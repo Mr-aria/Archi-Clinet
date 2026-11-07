@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-07T01:15:30.572Z",
+  "updated": "2026-11-07T01:45:34.029Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.57.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime28.workers.dev&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T01:45:32.694Z"
+    },
+    {
+      "url": "vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?&security=tls&fp=firefox&sni=bhjolq0d0l.flowersgood.top&type=ws&headerType=none&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T01:45:32.694Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWN1dMYVlkdWprd25qNnh4WHEtMkJTeEdXRWNTSnRUQQ@88.216.254.18:1080#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T01:45:32.694Z"
+    },
     {
       "url": "vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@5.83.129.236:443?encryption=none&security=tls&sni=host-de-upscale.cdn.cachefleet.com&fp=chrome&type=grpc&authority=&serviceName=a9w9wmko0k2od14hv8v&mode=gun#",
       "name": "Farah_VPN",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.66.47.69:2053?path=%2Ffast&security=tls&encryption=none&insecure=1&host=hio-awx.pages.dev&type=ws&allowInsecure=1&sni=hio-awx.pages.dev#v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "trojan://8r%3C%5B9%27l6hAO%238ZQi@104.21.7.21:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&type=grpc&sni=google.com&sid=01#%40v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#v2rayng3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
