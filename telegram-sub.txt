@@ -1,3 +1,5 @@
+vless://ca4cb252-3fcb-4937-9d08-c39683e46e42@136.0.197.99:49520?security=reality&type=tcp&packetEncoding=xudp&sni=www.ebay.com&fp=chrome&flow=xtls-rprx-vision&pbk=c4S7RKiXGJElV2F5_cPCUc_NDZzjpcPHTEs-OwO6A2c&encryption=none#
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.40.57.134:19999#
 vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ca1.fox-lisa.ru&sid=027af64166562b09#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig
 vless://2739258b-a278-4bed-bc5d-f88830824dce@23.95.115.116:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=plwyjJZIVDt1OtwDAxfcLjDsR7dseVCe9Ia3HceIKEg&encryption=none#
 vless://408c814e-f70a-4d16-b3b3-8182bb70211d@34.39.80.57:50818?&security=tls&fp=chrome&sni=yingguo.rymaker.cn&type=ws&headerType=none&path=%2FGunService#
@@ -4996,5 +4998,3 @@ vmess://eyJhZGQiOiIxMDMuMTc5LjE0Mi4yMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#v2rayng3
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.103.114.206:8443?path=%2FProxyMtAlpha&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#v2rayng3
 vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f71c22#v2rayng3
-vless://6c3852b6-138f-4235-bc75-0ad96f82cca7@npmjs.com:2096?path=%2Fmetrics&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=6956646388cdb23c971b4ec6.mmdbay.site&fp=chrome&type=ws&allowInsecure=1&sni=6956646388cdb23c971b4ec6.mmdbay.site#v2rayng3
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?security=tls&encryption=none&headerType=none&type=tcp&sni=proxy.wastech.org#%40v2rayng3
