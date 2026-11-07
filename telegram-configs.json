@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-07T21:15:36.994Z",
+  "updated": "2026-11-07T22:45:33.300Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://94042dd1-d32a-4797-b88c-dc48459e2b34@ac3f32g.de18.h1clayd.click:443?encryption=none&security=reality&sni=ac3f32g.de18.h1clayd.click&fp=ios&pbk=cO2bNRZvYDit8UqQk_zc6BaSBA7LiLMSmMHTwjU531Q&sid=051e90ed3d657158&spx=%2F&type=grpc&authority=&serviceName=01ad85319ae3&mode=gun#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T22:45:31.963Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxOTMuMTA4LjExOS44NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T22:45:31.963Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiIxNzIuMTExLjM2LjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://e0dab845-5f26-4fe3-a158-1487adaa5389@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=&encryption=none&host=ping.amirhossein.info&type=ws#%F0%9F%9B%B0%20Telegram%20%7C%20%40Green_WPN%20%7C%20%40Vijra_dev",
-      "name": "fnet00",
-      "source": "fnet00",
-      "date": "2026-10-22T13:03:10.187Z"
-    },
-    {
-      "url": "vless://Telegram%40FNET00%40Am20094@188.121.126.69:8081?type=tcp&security=none#Tel%3A%40Mr_Amirr_00-Telegram%20%7C%20%40FNET00",
-      "name": "fnet00",
-      "source": "fnet00",
-      "date": "2026-10-22T13:03:10.187Z"
-    },
-    {
-      "url": "vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=%2Fadmin%3Fed%3D2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#New+Config",
       "name": "fnet00",
       "source": "fnet00",
       "date": "2026-10-22T13:03:10.187Z"
