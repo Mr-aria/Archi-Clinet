@@ -1,7 +1,7 @@
 {
   "lastSeen": {
     "PewezaTech": 25857,
-    "mmd_adm": 28818,
+    "mmd_adm": 28819,
     "free_vpn02": 5156,
     "freakconfig": 10512,
     "outline_vpn": 11858,
@@ -33,7 +33,7 @@
     "V2ray_official": 10047,
     "IRAN_V2RAY1": 11383,
     "Hope_Net": 94306,
-    "V2rayng_Fast": 26794,
+    "V2rayng_Fast": 26795,
     "icv2ray": 8852,
     "oneclickvpnkeys": 27582,
     "iRoProxy": 58224,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 12388,
   "totalProxies": 1432,
-  "runCount": 3069
+  "runCount": 3070
 }
