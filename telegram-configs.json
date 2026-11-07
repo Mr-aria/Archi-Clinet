@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-07T10:15:31.804Z",
+  "updated": "2026-11-07T10:45:33.579Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTEyOC1nY206Y2Q3MDZhMTA0Mjg0YTcwZjljZmZlNmFjMWRmNjNjMTg@193.148.19.214:12798#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T10:45:32.251Z"
+    },
+    {
+      "url": "ss://YWVzLTEyOC1nY206ODcyMmRlNTZiNmMwYjNmNmE0ZDAxY2Y5MWMwN2U2YWE=@38.60.223.125:13108#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T10:45:32.251Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWE41Tmx6allKRVFHOG9mTUh3bHpF@77.221.155.75:12576#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://982ae5d2-12a6-45a8-b0a2-19302336ea21@185.143.233.5:2052?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://0053c51b-b1f6-4d11-a087-ad795f65bec1@185.143.233.43:8880?path=%2F&security=none&encryption=none&host=motabarim3.service-panelbaz.ir&type=ws#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://87a09075-f5f0-4ff9-80df-3e81fcdfd10d@185.143.234.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#@V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
