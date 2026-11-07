@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-07T05:15:36.118Z",
+  "updated": "2026-11-07T05:31:33.297Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@ca1.fox-lisa.ru:443?security=reality&encryption=none&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ca1.fox-lisa.ru&sid=027af64166562b09#%F0%9F%87%A8%F0%9F%87%A6%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-07T05:31:29.495Z"
+    },
     {
       "url": "vless://2739258b-a278-4bed-bc5d-f88830824dce@23.95.115.116:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=plwyjJZIVDt1OtwDAxfcLjDsR7dseVCe9Ia3HceIKEg&encryption=none#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?security=tls&encryption=none&headerType=none&type=tcp&sni=proxy.wastech.org#%40v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@63.141.128.45:443?path=%2F188.240.213.98%3A8443&security=tls&encryption=none&insecure=1&host=afrcloud5.c01.kr&type=ws&allowInsecure=1&sni=afrcloud5.c01.kr#v2rayng3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
