@@ -37,15 +37,15 @@
     "icv2ray": 8852,
     "oneclickvpnkeys": 27582,
     "iRoProxy": 58225,
-    "proxy_badss": 27566,
+    "proxy_badss": 27567,
     "MyPoroxy": 46968,
-    "BlueKnight_Net": 1716,
+    "BlueKnight_Net": 1717,
     "SRCVPN": 7615,
     "ZibaNabz": 24761,
     "PrivateVPNs": 26521,
     "configV2rayForFree": 8066,
     "iranvpnet": 709,
-    "proxy_mtm": 33842,
+    "proxy_mtm": 33843,
     "CluvexStudio": 409,
     "whitedns": 2247,
     "YamYamProxy": 16582,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 12394,
   "totalProxies": 1433,
-  "runCount": 3082
+  "runCount": 3083
 }
