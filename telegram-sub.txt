@@ -1,3 +1,4 @@
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@5.83.129.236:443?encryption=none&security=tls&sni=host-de-upscale.cdn.cachefleet.com&fp=chrome&type=grpc&authority=&serviceName=a9w9wmko0k2od14hv8v&mode=gun#
 vless://ce440dcf-e570-4a50-af37-bf588ee8a988@172.67.141.182:443?security=tls&type=ws&path=%2Fvl%2FKSPdmco70dfoXFS292o2Nv6yPt%3Fed%3D2560%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&host=6qwoom7kdrcoan3ui4ra5dy.pages.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=6qwoom7kdrcoan3ui4ra5dy.pages.dev&fp=unsafe&encryption=none#
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&sid=c1db0a1b&serviceName=cas-fi&encryption=none&fp=firefox#
 vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@104.21.70.21:8080?encryption=none&security=none&sni=xstack.mahanfixe.workers.dev&type=ws&host=xstack.mahanfixe.workers.dev&path=%2Fxiron#
@@ -4997,4 +4998,3 @@ vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.66.47.69:2053?path=%2Ffast&secu
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.21.7.21:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#v2rayng3
 vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security=reality&encryption=none&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&type=grpc&sni=google.com&sid=01#%40v2rayng3
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#v2rayng3
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#v2rayng3
