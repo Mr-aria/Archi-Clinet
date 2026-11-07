@@ -47,9 +47,9 @@
     "iranvpnet": 709,
     "proxy_mtm": 33841,
     "CluvexStudio": 409,
-    "whitedns": 2245,
-    "YamYamProxy": 16575,
-    "sut_tw": 152208,
+    "whitedns": 2246,
+    "YamYamProxy": 16576,
+    "sut_tw": 152213,
     "iampediii": 163,
     "PASARGAD_V2rayNG": 6,
     "Awlix_ir": 3757,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 12335,
   "totalProxies": 1429,
-  "runCount": 3035
+  "runCount": 3036
 }
