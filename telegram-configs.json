@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-07T19:46:44.024Z",
+  "updated": "2026-11-07T20:00:31.288Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.181.192:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-07T20:00:30.442Z"
+    },
     {
       "url": "vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.101.79:443?security=reality&encryption=none&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app.betust.net&sid=ef5d4ad5#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&serviceName=grpc&type=grpc&encryption=none#@v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.656Z"
-    },
-    {
-      "url": "vless://eb8c46f5-68ae-46dc-aea3-50c8cef41897@cf-mci.coixconqwe1.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=gFsgfg%D8%A7%D8%A7x.1.gm.postshup.ir&type=httpupgrade#@v2rayng3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.656Z"
