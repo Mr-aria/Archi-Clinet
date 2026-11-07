@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-06T23:01:58.805Z",
+  "updated": "2026-11-07T00:45:32.559Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://ce440dcf-e570-4a50-af37-bf588ee8a988@172.67.141.182:443?security=tls&type=ws&path=%2Fvl%2FKSPdmco70dfoXFS292o2Nv6yPt%3Fed%3D2560%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&host=6qwoom7kdrcoan3ui4ra5dy.pages.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=6qwoom7kdrcoan3ui4ra5dy.pages.dev&fp=unsafe&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T00:45:31.190Z"
+    },
+    {
+      "url": "vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&sid=c1db0a1b&serviceName=cas-fi&encryption=none&fp=firefox#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T00:45:31.190Z"
+    },
+    {
+      "url": "vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@104.21.70.21:8080?encryption=none&security=none&sni=xstack.mahanfixe.workers.dev&type=ws&host=xstack.mahanfixe.workers.dev&path=%2Fxiron#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-07T00:45:31.190Z"
+    },
     {
       "url": "trojan://5t6i121em5lkmsmk@216.128.185.90:46977?security=tls&fp=firefox&sni=ca001.zestapp778.com#",
       "name": "Farah_VPN",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:2096?path=%2F%3F&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://2b5f8588-87f6-40af-a785-322c8fa1df77@104.16.7.70:2095?path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&security=none&encryption=none&host=sni.111000.dynv6.azazilvpn.sbs&type=ws#@v2rayng3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#@v2rayng3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
