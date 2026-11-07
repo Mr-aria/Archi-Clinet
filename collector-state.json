@@ -1,14 +1,14 @@
 {
   "lastSeen": {
     "PewezaTech": 25857,
-    "mmd_adm": 28819,
+    "mmd_adm": 28821,
     "free_vpn02": 5156,
     "freakconfig": 10513,
     "outline_vpn": 11858,
     "iut_ChatrBazaan": 0,
     "ProxyMTProto": 52871,
     "khabari_18": 78240,
-    "JozveDaneshgahi_ir": 13070,
+    "JozveDaneshgahi_ir": 13071,
     "MatinSenPaii": 5809,
     "pewezavpn": 25857,
     "ShadowWolfVpn": 219,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 12393,
   "totalProxies": 1433,
-  "runCount": 3073
+  "runCount": 3074
 }
