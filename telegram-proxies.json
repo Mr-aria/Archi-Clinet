@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-07T13:15:36.660Z",
-  "count": 1637,
+  "updated": "2026-11-07T15:01:41.387Z",
+  "count": 1639,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=speed.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-07T15:01:36.607Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=xenon.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-07T15:01:36.607Z"
+    },
     {
       "url": "https://t.me/proxy?server=138.201.157.70&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
       "name": "v2ryNG01",
