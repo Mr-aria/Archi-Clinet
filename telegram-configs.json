@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-07T10:45:33.579Z",
+  "updated": "2026-11-07T11:00:33.472Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.132.205:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-07T11:00:32.470Z"
+    },
     {
       "url": "ss://YWVzLTEyOC1nY206Y2Q3MDZhMTA0Mjg0YTcwZjljZmZlNmFjMWRmNjNjMTg@193.148.19.214:12798#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://5f117758-a07f-4b20-82bf-25b7665ee514@185.143.233.5:2052?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://982ae5d2-12a6-45a8-b0a2-19302336ea21@185.143.233.5:2052?path=%2F&security=none&encryption=none&host=cd2.sesrsa.com&type=ws#@V2rayNG3",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
