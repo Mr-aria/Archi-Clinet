@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-06T20:00:47.973Z",
-  "count": 1628,
+  "updated": "2026-11-07T06:31:46.476Z",
+  "count": 1629,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=dark-rush-85krcymd.expresshost.cloud&port=443&secret=eeebd9fc04e4292071437b21c5fcb3e1556461726b2d727573682d38356b7263796d642e65787072657373686f73742e636c6f7564",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-07T06:31:42.602Z"
+    },
     {
       "url": "https://t.me/proxy?server=tg.wequ.lat&port=443&secret=0289a13d961b91438fea5069a8097cb3",
       "name": "ProxyMTProto",
