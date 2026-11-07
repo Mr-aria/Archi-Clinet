@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-07T15:01:41.387Z",
-  "count": 1639,
+  "updated": "2026-11-07T16:01:37.331Z",
+  "count": 1641,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=Speed-speed.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-07T16:01:33.752Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-07T16:01:33.752Z"
+    },
     {
       "url": "https://t.me/proxy?server=speed.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
