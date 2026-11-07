@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-07T08:01:44.650Z",
-  "count": 1633,
+  "updated": "2026-11-07T08:46:44.096Z",
+  "count": 1634,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=172.65.39.222&port=131515&secret=ee09db815a6d82a31fda76f872230c69d76170617261742e636f6d",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-07T08:46:42.138Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.brettanderson.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
