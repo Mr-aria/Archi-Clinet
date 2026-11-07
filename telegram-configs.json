@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-07T16:30:30.728Z",
+  "updated": "2026-11-07T17:00:32.220Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.49.75:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-07T17:00:31.420Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.208.105:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://67eef5b1-27ee-4ea2-bcf3-1d736711720c@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxfr219.global.ssl.fastly.net&type=xhttp#@V2rayNG3",
-      "name": "V2rayNG3",
-      "source": "V2rayNG3",
-      "date": "2026-10-22T13:03:00.655Z"
-    },
-    {
-      "url": "vless://de8ebf94-883b-46e0-b276-2c3cd0c96e4e@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=maxde219.global.ssl.fastly.net&type=xhttp#@V2ray_NG",
       "name": "V2rayNG3",
       "source": "V2rayNG3",
       "date": "2026-10-22T13:03:00.655Z"
