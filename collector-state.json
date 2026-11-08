@@ -27,7 +27,7 @@
     "TestDummyChannel": 3,
     "hamclasixii": 81662,
     "Linuxor": 5984,
-    "MineProxy": 55504,
+    "MineProxy": 55505,
     "imArasTey": 261,
     "appxa": 15227,
     "V2ray_official": 10048,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 12602,
   "totalProxies": 1473,
-  "runCount": 3253
+  "runCount": 3254
 }
