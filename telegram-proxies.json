@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-08T14:31:36.786Z",
-  "count": 1684,
+  "updated": "2026-11-08T15:31:33.423Z",
+  "count": 1685,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=fast.webproxy.lol&port=443&secret=ee4160cbb0629c129ad2209f4df88d4bc964726976652e676f6f676c652e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T15:31:29.834Z"
+    },
     {
       "url": "https://t.me/proxy?server=boost.webproxy.lol&port=443&secret=ee61a214279f303f07c536ce7a8228e4c5626f6f73742e77656270726f78792e6c6f6c",
       "name": "ProxyMTProto",
