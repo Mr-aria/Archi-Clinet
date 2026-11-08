@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-08T11:01:39.155Z",
-  "count": 1677,
+  "updated": "2026-11-08T12:31:31.933Z",
+  "count": 1678,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=warp.webproxy.lol&port=443&secret=eecdd352e63c109299dc978b4e94fc4897776172702e77656270726f78792e6c6f6c",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T12:31:28.159Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.philgent.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
