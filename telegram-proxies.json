@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-08T12:31:31.933Z",
-  "count": 1678,
+  "updated": "2026-11-08T13:31:38.477Z",
+  "count": 1680,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=185.166.214.158&port=8443&secret=7n3yZ_5IshU33VFu-RJW7fZ3d3cuYXBwbGUuY29t",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T13:31:34.107Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=tghost.accesscam.org&port=7997&secret=eef8ceedada37935dbe4db815b0424a846626979736b32322e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T13:31:34.107Z"
+    },
     {
       "url": "https://t.me/proxy?server=warp.webproxy.lol&port=443&secret=eecdd352e63c109299dc978b4e94fc4897776172702e77656270726f78792e6c6f6c",
       "name": "ProxyMTProto",
