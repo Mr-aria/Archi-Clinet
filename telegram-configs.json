@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-08T17:00:34.195Z",
+  "updated": "2026-11-08T17:15:35.920Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-08T17:15:33.431Z"
+    },
+    {
+      "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-08T17:15:33.431Z"
+    },
+    {
+      "url": "vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@50.7.95.174:443?security=reality&encryption=none&pbk=2e9dGid5D-e4demAVGqU71uEeusuBhviikchaJ96E3o&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=panel.betust.net&sid=8ece2039#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-08T17:15:33.431Z"
+    },
+    {
+      "url": "vless://de3592c8-3e77-ea26-c465-d6e6f487597d@122.8.46.9:443?mode=auto&path=%2F%3F%40MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI%3Fed%3D2048&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-08T17:15:33.431Z"
+    },
+    {
+      "url": "vless://64a28ed6-2238-42d9-8452-b83674f741e5@141.193.213.30:2053?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=sunny-comet-55.curiocar.com&fp=edge&type=ws&allowInsecure=1&sni=sunny-comet-55.curiocar.com#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-08T17:15:33.431Z"
+    },
+    {
+      "url": "vless://39826f32-f5ca-42a5-ab33-188f7d199478@136.176.65.251:443?security=reality&encryption=none&pbk=O5NcKiTtNcJZiLMJhxT5d0Pn8KjVBvXGmztGd4_D-RI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=cdac1a856b81390f#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-08T17:15:33.431Z"
+    },
+    {
+      "url": "vless://0809eed6-5204-49b8-8312-b82a10024022@94.249.195.239:43000?security=reality&encryption=none&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=8cfe1563#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-08T17:15:33.431Z"
+    },
     {
       "url": "vless://b519e782-fb87-48bf-9935-20a8a5350852@194.135.32.187:443?security=reality&encryption=none&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=match4-114deaf482f681.gismeteo.ru&sid=99e78ee91698aaaa#",
       "name": "proxy_mtm",
@@ -29956,48 +29998,6 @@
     },
     {
       "url": "vless://ebdf3268-2bd2-4608-875f-82f6a5efac69@217.69.167.125:43000?security=reality&encryption=none&pbk=NXN75t-gk0tpVh74Thc7nPBXM4fytgMOZafDzSe8xAk&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=217.69.167.125&sid=353fdd95#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://b1936288-a353-4ff1-89b3-edaead599c6b@de1.manticore-vpn.lol:443?security=reality&encryption=none&pbk=Ego9_BM1Sy20swG1UaGOucL_o94l3F6uw8TOTH2jYRI&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&sid=5347d9d0b588c111#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-14@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=play.google.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-13@199.232.78.170:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=play.google.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://f62df9d7-8491-4214-9ef1-40af4a5914ec@31.57.157.54:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.xM-ikiKRHFgwNHu9H8UgNGYLW15_tknnoSPm0eNhCU8&pbk=AwVCzwCo-vP_z9Rowdp61yxAN7EViIGFpaL_dK9dhSU&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=chrome&spx=%2F08f01e66d38f9d9&type=tcp&sni=timeline.www.cloudflare.com&sid=39986650#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://accfae78-b31c-47cb-86a1-bb9a07973e4a@87.242.95.150:8448?security=reality&encryption=none&pbk=0CqG1bve7Hc-kLpAnxXVdfR_MJlf8L_GM7O9oTn8e34&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru&sid=9c90870157ed4bb3#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://51d039b4-6232-43fa-9161-46748776317c@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---mehrosaboran&security=tls&encryption=none&insecure=0&host=pannn1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=google.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJvdmhwb2suZ29hbGlyLmNvLnVrIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIvP1RlbGVncmFtLS0tbWVocm9zYWJvcmFuIiwiaWQiOiJmZjQ1MzYyNy01ZTdiLTQ5NDMtODI3OS1mYzVmMzRiZDM5MjciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIwODMiLCJwcyI6IkBtZWhyb3NhYm9yYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-10-22T13:03:19.468Z"
