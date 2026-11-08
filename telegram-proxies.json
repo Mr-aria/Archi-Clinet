@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-08T13:31:38.477Z",
-  "count": 1680,
+  "updated": "2026-11-08T13:46:36.701Z",
+  "count": 1683,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=138.201.92.100&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T13:46:35.464Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=89.108.71.59&port=443&secret=ee00d85706e58f9b5ead3b6c8a08d984df636c6f75642e6d61696c2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T13:46:35.464Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=park.monik.hamintori.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T13:46:35.464Z"
+    },
     {
       "url": "https://t.me/proxy?server=185.166.214.158&port=8443&secret=7n3yZ_5IshU33VFu-RJW7fZ3d3cuYXBwbGUuY29t",
       "name": "ProxyMTProto",
