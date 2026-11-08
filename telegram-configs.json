@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-07T22:45:33.300Z",
+  "updated": "2026-11-08T00:15:31.225Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiIyMTYuMTA2LjE4Mi4yMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTI3MCIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-08T00:15:30.183Z"
+    },
     {
       "url": "vless://94042dd1-d32a-4797-b88c-dc48459e2b34@ac3f32g.de18.h1clayd.click:443?encryption=none&security=reality&sni=ac3f32g.de18.h1clayd.click&fp=ios&pbk=cO2bNRZvYDit8UqQk_zc6BaSBA7LiLMSmMHTwjU531Q&sid=051e90ed3d657158&spx=%2F&type=grpc&authority=&serviceName=01ad85319ae3&mode=gun#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://Telegram%40FNET00%40Am20094@151.101.3.8:80?mode=auto&path=%2FTelegram%40FNET00-%40Am20094%2F%3Fed%3D2560&security=&encryption=none&host=fnet00.global.ssl.fastly.net&type=xhttp#Tel%3A%40Mr_Amirr_00-Public%7CVIP%26Tunnel%7C%40FNET00%7C%40Am20094-IP%201",
-      "name": "fnet00",
-      "source": "fnet00",
-      "date": "2026-10-22T13:03:10.187Z"
-    },
-    {
-      "url": "vless://e0dab845-5f26-4fe3-a158-1487adaa5389@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=&encryption=none&host=ping.amirhossein.info&type=ws#%F0%9F%9B%B0%20Telegram%20%7C%20%40Green_WPN%20%7C%20%40Vijra_dev",
       "name": "fnet00",
       "source": "fnet00",
       "date": "2026-10-22T13:03:10.187Z"
