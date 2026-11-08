@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-08T04:45:31.002Z",
+  "updated": "2026-11-08T05:45:35.754Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SXhSZUhPdWNLaXd2b3Nqb1JYbExMcHUyMFBzby1yWg@13.140.83.153:1080#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-08T05:45:33.958Z"
+    },
+    {
+      "url": "vless://8fdeb819-df0c-456d-9a1d-e3a9950ece4d@146.75.57.7:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-08T05:45:33.958Z"
+    },
     {
       "url": "vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?&security=tls&fp=firefox&sni=orbylume.my.to&type=ws&headerType=none&host=orbylume.my.to&path=%2Ftvpn-tor%2Fis#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://%58pnTeam-30@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.467Z"
-    },
-    {
-      "url": "vless://%58pnTeam-32@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.467Z"
-    },
-    {
-      "url": "vless://%58pnTeam-31@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-10-22T13:03:19.467Z"
