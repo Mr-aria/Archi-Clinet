@@ -1,3 +1,5 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXa0txck5IUnhRWEEtYmtMMnp0QXlsWHc4bUVfQllZcw@83.141.92.138:1080#
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4#
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl3.japancase.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl3.japancase.site&fp=firefox&flow=xtls-rprx-vision&sid=0d98b07acc98ccef&pbk=ZsKgmywoAPRRkYHqQ8hUHFB6X_f7tjXfYmvSeHj0-xQ&encryption=none#
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@179.253.99.12:443?security=reality&type=tcp&packetEncoding=xudp&sni=pl4.japancase.site&fp=firefox&flow=xtls-rprx-vision&sid=6b360314a8d57342&pbk=pTHOOfOiPcrSO2zkyCu6ezTV0-ppCC2JGVXhH1UEkSo&encryption=none#
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@45.86.60.190:443?security=reality&type=tcp&packetEncoding=xudp&sni=ee2.japancase.site&fp=chrome&flow=xtls-rprx-vision&sid=41ae8e266bc3346f&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&encryption=none#
@@ -4996,5 +4998,3 @@ vless://%58pnTeam-35@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&en
 vless://%58lnTeam-36@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
 vless://%58pnTeam-37@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
 vless://%58pnTeam-38@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
-vless://%58pnTeam-39@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
-vless://%58pnTeam-40@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
