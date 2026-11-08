@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-08T19:31:53.888Z",
-  "count": 1686,
+  "updated": "2026-11-08T20:31:39.523Z",
+  "count": 1687,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=coinvpnpro.duckdns.org&port=443&secret=ee3c23bf23e13aff489d37ab8181e48144636f696e76706e70726f2e6475636b646e732e6f7267",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T20:31:34.653Z"
+    },
     {
       "url": "https://t.me/proxy?server=z1.nevcodeframe.com&port=443&secret=eee5e0d75865263bccabe94c92f446184f7a312e6e6576636f64656672616d652e636f6d",
       "name": "ProxyMTProto",
