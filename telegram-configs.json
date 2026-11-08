@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-08T18:16:37.206Z",
+  "updated": "2026-11-08T19:00:30.687Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.195.220:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-08T19:00:29.789Z"
+    },
     {
       "url": "vless://9d979dd1-1760-4c76-8881-b05a09b4d795@198.2.251.107:45197?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LqXTJ-JXo1CgjUQT8trI3OEhY2qOr1YAin2YLuLZFx0&security=reality&sni=www.amazon.com&type=tcp#%F0%9F%92%AB95@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://f49d04d6-aaa7-4013-b323-bc35b78230db@141.193.213.172:443?path=%2Fwsrb7k2m%3Fed%23Telegram---mehrosaboran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=s3ws.ragingbull.de5.net&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=s3ws.ragingbull.de5.net#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-3@199.232.78.160:443?path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=Speedtest.net#%40mehrosaboran",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-10-22T13:03:19.468Z"
