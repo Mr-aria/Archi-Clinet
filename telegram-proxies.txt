@@ -1,3 +1,4 @@
+https://t.me/proxy?server=91.107.180.53&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d
 https://t.me/proxy?server=de-p1.h1cloud.net&port=25153&secret=ee0c63bf0d9b4a6cb5455e677bad52bf8b6d61782e7275
 https://t.me/proxy?server=n7d626c.lumenpost.top&port=443&secret=ee0b03536395a48484bf73aadee0e37dd46d2e6c756d656e706f73742e746f70
