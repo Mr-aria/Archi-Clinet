@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-08T07:31:43.050Z",
-  "count": 1653,
+  "updated": "2026-11-08T08:31:47.436Z",
+  "count": 1655,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T08:31:42.013Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=de-p1.h1cloud.net&port=25153&secret=ee0c63bf0d9b4a6cb5455e677bad52bf8b6d61782e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T08:31:42.013Z"
+    },
     {
       "url": "https://t.me/proxy?server=n7d626c.lumenpost.top&port=443&secret=ee0b03536395a48484bf73aadee0e37dd46d2e6c756d656e706f73742e746f70",
       "name": "ProxyMTProto",
