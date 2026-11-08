@@ -98,5 +98,9 @@
   {
     "name": "MNG mtn 4",
     "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt"
+  },
+  {
+    "name": "barry far",
+    "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt"
   }
 ]
