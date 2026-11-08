@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-08T10:01:41.034Z",
+  "updated": "2026-11-08T10:15:30.754Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://90157e25-cee1-4217-921e-91f300bc1a24@ee.subv.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#%40V2ray_Alpha%F0%9F%8C%9F%206",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-08T10:15:29.953Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiI3OS4xMzcuOTkuMTgzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEyNzAiLCJwcyI6IkBWMnJheV9BbHBoYfCfjJ8gMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-08T10:15:29.953Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiJla3Ntc3RyLXByb2R1Y3Rpb24udXAucmFpbHdheS5hcHAiLCJhaWQiOiIwIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJlZGdlIiwiaG9zdCI6ImVrc21zdHItcHJvZHVjdGlvbi51cC5yYWlsd2F5LmFwcCIsImlkIjoiNzdjODIwOGMtZTIzYS00NDUxLWI3YmUtMDY1N2U2YjQxMTBiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2d3LzQyNWIzYjRlLWRiMjQtNDQ3Yy1hYjQ3LTMzNWJiZWQzNGNmYz9lZFx1MDAzZDI1NjAiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ez8J+HsUBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJla3Ntc3RyLXByb2R1Y3Rpb24udXAucmFpbHdheS5hcHAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIiLCJ2Y24iOiIifQ==",
       "name": "freakconfig",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://%58pnTeam-24@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.467Z"
-    },
-    {
-      "url": "vless://5edbcb44-8d04-4fa7-a587-bc5d60c24ca1@185.207.66.70:31443?security=reality&encryption=none&pbk=2L85nJmWlabsRGWcDrG968Bw-gAPk6Fl5ERJer9LYC0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=43989f5e2e34d4a8#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.467Z"
-    },
-    {
-      "url": "vless://f1505323-ecb6-4152-9a5b-d37b3ae1cacf@213.156.152.75:8443?security=reality&encryption=none&pbk=72SJFDXHCtB2fWWRrjMj23J8iJ8T_2jvj-iNThmLREs&headerType=none&fp=firefox&type=tcp&sni=play-apps-features.googleusercontent.com&sid=8dc4f3de3846efa9#%40mehrosaboran",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-10-22T13:03:19.467Z"
