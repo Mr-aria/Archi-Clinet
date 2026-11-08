@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-08T08:31:47.436Z",
-  "count": 1655,
+  "updated": "2026-11-08T09:02:01.099Z",
+  "count": 1656,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=91.107.180.53&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T09:01:53.954Z"
+    },
     {
       "url": "https://t.me/proxy?server=static.antenna-mzt.live&port=443&secret=ee5a42e3752e724f2fdae9c117e7f076fe73746f72652e737465616d706f77657265642e636f6d",
       "name": "ProxyMTProto",
