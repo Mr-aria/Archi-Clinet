@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-08T02:15:33.112Z",
+  "updated": "2026-11-08T02:45:32.591Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXa0txck5IUnhRWEEtYmtMMnp0QXlsWHc4bUVfQllZcw@83.141.92.138:1080#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-08T02:45:31.369Z"
+    },
+    {
+      "url": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=a1b2c3d4&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-08T02:45:31.369Z"
+    },
     {
       "url": "vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl3.japancase.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl3.japancase.site&fp=firefox&flow=xtls-rprx-vision&sid=0d98b07acc98ccef&pbk=ZsKgmywoAPRRkYHqQ8hUHFB6X_f7tjXfYmvSeHj0-xQ&encryption=none#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://%58pnTeam-38@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.467Z"
-    },
-    {
-      "url": "vless://%58pnTeam-39@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.467Z"
-    },
-    {
-      "url": "vless://%58pnTeam-40@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-10-22T13:03:19.467Z"
