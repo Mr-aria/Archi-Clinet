@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-08T14:45:31.528Z",
+  "updated": "2026-11-08T14:46:36.608Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206UzNCZFpqWGh1bkhubUJqbUpiempNUT09OnNISVpDVUUwenhCMVMrM3l6RWJpVWc9PQ@81.12.33.25:8448#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-08T14:46:32.744Z"
+    },
+    {
+      "url": "vless://90157e25-cee1-4217-921e-91f300bc1a24@185.215.184.49:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dvizhok.su&sid=428ef87fd47a3a32#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-08T14:46:32.744Z"
+    },
+    {
+      "url": "vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@3.0.70.13:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-08T14:46:32.744Z"
+    },
+    {
+      "url": "vless://17791d81-b0b8-4504-a408-ce33fb1838e3@Home.bazicore.ir:8080?mode=auto&path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.xapoTANho1v2n2ySBEc7jmHBwRLOpF2PF47wL-1H8ho&host=Home.bazicore.ir&type=xhttp#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-08T14:46:32.744Z"
+    },
+    {
+      "url": "vless://c18a7a84-d4a9-4a73-bd27-cb00818abe0b@66.bmi.ir.asopardaz.ir:8443?security=reality&encryption=none&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hostgator.com&sid=e915#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-08T14:46:32.744Z"
+    },
+    {
+      "url": "vless://2e70d9ae-7906-4e34-a6f9-187987823e0b@j2.fllow.ir:25456?security=reality&encryption=none&pbk=2_l_AeThgEkkPEN4_jQm83_oGgx_e9nsvYc2VHXk93w&fp=chrome&spx=%2Fa0fd1806f4f1efe&type=grpc&serviceName=aparat-stream&sni=r.msftstatic.com&sid=3e69a3a1c5#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-08T14:46:32.744Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMTcyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk2OWVhODNkLWNjNmEtNDAzNS05M2IzLTA4OWZhY2ZiZjBkMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTQyNTgiLCJwcyI6IuKaoUBWMnJheV9vZmZpY2lhbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-08T14:46:32.744Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMTcyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjI1MTY0ZTlhLTI4ZjQtNGY5ZS05OGM3LTQ1NmNiNGQ3OTVhNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTQyNTgiLCJwcyI6IuKaoUBWMnJheV9vZmZpY2lhbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-08T14:46:32.744Z"
+    },
     {
       "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@158.51.121.221:19999#%40V2ray_Alpha%F0%9F%A6%8A%205",
       "name": "V2ray_Alpha",
@@ -29950,54 +29998,6 @@
     },
     {
       "url": "trojan://humanity@188.114.98.0:443?path=%2Fassignment%3Fed%23Telegram---mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "trojan://humanity@www.speedtest.net:443?path=%2Fassignment%3Fed%23Telegram---mehrosaboran&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-17@199.232.78.170:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-18@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "trojan://m%69tivpn@167.82.64.46:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "trojan://m%69tivpn@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-19@199.232.78.170:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-20@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3Fed%23Telegram---bored_vpn&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40mehrosaboran",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-10-22T13:03:19.468Z"
