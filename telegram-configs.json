@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-08T18:15:33.712Z",
+  "updated": "2026-11-08T18:16:37.206Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://9d979dd1-1760-4c76-8881-b05a09b4d795@198.2.251.107:45197?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LqXTJ-JXo1CgjUQT8trI3OEhY2qOr1YAin2YLuLZFx0&security=reality&sni=www.amazon.com&type=tcp#%F0%9F%92%AB95@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.910Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?sni=resources.unlockyourfuturefindyourperfectcareer.com#%F0%9F%92%AB96@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.910Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.82:443?fp=chrome&sni=courses.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%92%AB97@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.910Z"
+    },
+    {
+      "url": "trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?fp=chrome&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%92%AB98@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.910Z"
+    },
+    {
+      "url": "vless://352ff568-f971-4613-bf48-92997a5d44ed@23.95.222.127:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ribQDOlZ69PzvZ1EDF0EcmMvbq_T5RQrVRBSGUU2riU&security=reality&sid=35cd899f8de04801&sni=www.apple.com&type=tcp#%F0%9F%92%AB99@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.910Z"
+    },
+    {
+      "url": "tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&udp_relay_mode=native&version=5#%F0%9F%92%AB100@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.910Z"
+    },
+    {
+      "url": "vless://b71ae017-e2f6-439f-a9a3-0b0af5f067c5@159.200.230.2:443?encryption=none&fp=&pbk=ca6zu1GzzE4DotOlZz_eC4_ecunFZjmH82NA632obBc&security=reality&sid=81abfb97c660e8b7&sni=9e75c7t.de11.h1clayd.click&type=tcp#%F0%9F%92%AB91@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.909Z"
+    },
+    {
+      "url": "hysteria2://MZKlrFbG73bKvCDe8VPul5PR9xQm@35.207.53.51:20999/?insecure=1&sni=www.apple.com#%F0%9F%92%AB92@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.909Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?fp=chrome&sni=courses.unlockyourfuturefindyourperfectcareer.com#%F0%9F%92%AB93@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.909Z"
+    },
+    {
+      "url": "vless://ca4cb252-3fcb-4937-9d08-c39683e46e42@136.0.197.99:49520?encryption=none&flow=xtls-rprx-vision&fp=&pbk=c4S7RKiXGJElV2F5_cPCUc_NDZzjpcPHTEs-OwO6A2c&security=reality&sni=www.ebay.com&type=tcp#%F0%9F%92%AB94@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-08T18:16:34.909Z"
+    },
     {
       "url": "vless://a52ac672-0f5f-4070-b8fd-6b5685fc8004@199.7.140.201:443?security=reality&encryption=none&pbk=LRAkgKlj5BPtVAGEIZfO5LvDZ5Eg91X0CBKIYhBC1jE&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com#%40V2ray_Alpha%E2%99%A0%EF%B8%8F%206",
       "name": "V2ray_Alpha",
@@ -29938,66 +29998,6 @@
     },
     {
       "url": "vless://%58pnTeam-3@199.232.78.160:443?path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=Speedtest.net#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-4@199.232.78.170:443?path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=Speedtest.net#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@www.speedtest.net:443?path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560%23Telegram---mehrosaboran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-5@199.232.78.170:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=Speedtest.net#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-6@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=Speedtest.net#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-8@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=Speedtest.net#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTelegram---mehrosaboran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://49ccad64-c854-4f33-b334-793cf0d02b74@188.114.97.6:443?path=%2F%3FTelegram---mehrosabiran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=newcscf.jisucf.cloudns.ch&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=newcscf.jisucf.cloudns.ch#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-9@199.232.78.170:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=play.google.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://%58pnTeam-10@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=play.google.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-22T13:03:19.468Z"
-    },
-    {
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=%2F%3FTelegram---mehrosaboran&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%40mehrosaboran",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-10-22T13:03:19.468Z"
