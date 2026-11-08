@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-08T06:31:32.700Z",
-  "count": 1651,
+  "updated": "2026-11-08T07:31:43.050Z",
+  "count": 1653,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=n7d626c.lumenpost.top&port=443&secret=ee0b03536395a48484bf73aadee0e37dd46d2e6c756d656e706f73742e746f70",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T07:31:35.770Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=vk02.camdvr.org&port=5493&secret=eedc9cc5535051a23765d0b50fbb5a5d8c7777772e73616d73756e672e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-08T07:31:35.770Z"
+    },
     {
       "url": "https://t.me/proxy?server=shared4.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
       "name": "ProxyMTProto",
