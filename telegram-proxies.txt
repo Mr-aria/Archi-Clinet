@@ -1,3 +1,4 @@
+https://t.me/proxy?server=coinvpnpro.duckdns.org&port=443&secret=ee3c23bf23e13aff489d37ab8181e48144636f696e76706e70726f2e6475636b646e732e6f7267
 https://t.me/proxy?server=z1.nevcodeframe.com&port=443&secret=eee5e0d75865263bccabe94c92f446184f7a312e6e6576636f64656672616d652e636f6d
 https://t.me/proxy?server=fast.webproxy.lol&port=443&secret=ee4160cbb0629c129ad2209f4df88d4bc964726976652e676f6f676c652e636f6d
 https://t.me/proxy?server=boost.webproxy.lol&port=443&secret=ee61a214279f303f07c536ce7a8228e4c5626f6f73742e77656270726f78792e6c6f6c
