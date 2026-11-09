@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-09T03:46:40.334Z",
+  "updated": "2026-11-09T05:01:53.592Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://MiTiVPN@151.101.36.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Abu.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T05:01:47.960Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T05:01:47.960Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T05:01:47.960Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@146.75.57.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T05:01:47.960Z"
+    },
     {
       "url": "vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@193.233.127.149:443?mode=stream-one&path=%2Fstatic%2Fjs%2Fchunk&security=tls&encryption=none&insecure=0&host=nep.qiksme.com&fp=chrome&type=xhttp&allowInsecure=0&sni=nep.qiksme.com#@ICV2RAY",
       "name": "icv2ray",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "vless://884d809e-de48-4fa8-ab97-30b080789702@euro.connectingissues.ir:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "vless://bf038412-931e-4b18-a6a7-32d09304f333@ge3.pandaonline.org:443?security=reality&encryption=none&pbk=lvFOmvUfAoLa9vgvoAQVrZtCmU-wB-HcmgCU66WCQzc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ge3.pandaonline.org#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "vless://85dcf0fd-2652-467b-b8fd-0970d64ec932@45.130.125.8:443?mode=auto&path=%2Fapi%2FV4&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%2210-150%22%7D&insecure=0&host=cdn.loliol.dev&fp=random&type=xhttp&allowInsecure=0&sni=cdn.loliol.dev#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.238Z"
