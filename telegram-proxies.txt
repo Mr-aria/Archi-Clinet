@@ -1,3 +1,4 @@
+https://t.me/proxy?server=141.98.190.109&port=443&secret=ee3f04d05d67f649cae0c33b14f4e4e5fe6d6170792e636f6d
 tg://proxy?server=91.107.180.53&port=443&secret=dd79e7010200010007f0030386e24c3add
 tg://proxy?server=91.107.170.251&port=8443&secret=79e344818749bd7ac519130220c25d09
 tg://proxy?server=372dhg.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09
