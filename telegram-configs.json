@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-09T19:31:35.980Z",
+  "updated": "2026-11-09T19:45:31.192Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.90.197.159:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T19:45:30.236Z"
+    },
+    {
+      "url": "vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@47.80.57.116:443?&security=tls&fp=chrome&sni=mia6.pages.dev&type=ws&headerType=none&host=mia6.pages.dev&path=%2FTG%3A%40MiaChatChannel#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T19:45:30.236Z"
+    },
+    {
+      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---bored_vpn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T19:45:30.236Z"
+    },
     {
       "url": "vless://64c%655f%61f-427b-4dd1-926c-6b7c%65d6b8c38@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_%61z_ch%61nn%65l_N%55F%69L%54ER_8%69.glob%61l.ssl.f%61stly.n%65t.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
       "name": "mehrosaboran",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://Telegram%3AX_RAY_VPN1@45.74.158.246:8443?security=reality&encryption=none&pbk=oitYj2sYOanSBldmUzl3gRw4dfWPVmwO74eTjFWgWRI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=2125d7ff#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vless://08c063d4-17d8-4d44-8f1c-6a1e782d3a1e@167.82.101.213:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=vexikopq012.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=global.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.24.151:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.239Z"
