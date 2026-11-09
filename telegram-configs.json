@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-09T16:31:38.648Z",
+  "updated": "2026-11-09T16:45:34.658Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://97532b08-357e-4140-a6f0-8e07f2ed3327@206.81.30.239:443?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T16:45:32.969Z"
+    },
+    {
+      "url": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T16:45:32.969Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@151.245.112.193:8443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T16:45:32.969Z"
+    },
+    {
+      "url": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@188.255.156.213:443?&security=tls&fp=chrome&sni=shephe.dpdns.org&type=ws&headerType=none&host=shephe.dpdns.org&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T16:45:32.969Z"
+    },
+    {
+      "url": "vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.148:443?sni=api.mediacorphub.org&type=grpc&serviceName=gw.v2.PushService&fp=firefox&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T16:45:32.969Z"
+    },
     {
       "url": "ss://YWVzLTI1Ni1nY206aDhqNmUzeHVpaG4yZXBsOQ@136.243.249.198:443#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
       "name": "freakconfig",
@@ -10,12 +40,6 @@
     },
     {
       "url": "vless://68a67906-5b37-4779-a6cc-58a1655f18b4@api-austria.locallynet.org:6443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-austria.locallynet.org#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-11-09T16:31:33.726Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@151.101.36.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Abu.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-11-09T16:31:33.726Z"
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://a5c05c1e-aa68-443f-8598-09800244bd4b@188.114.98.193:443?path=%2FLiL%3Fed%3D%23TELEGRAM-NetFlowTools%3Fed%3D512&security=tls&alpn=h3&encryption=none&insecure=1&fp=firefox&type=ws&allowInsecure=1&sni=kingcloud.biack.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@199.232.78.140:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "trojan://MITIVPN@199.232.2.79:443?path=%2FMiTiVPN%3DDe&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@167.82.101.252:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@199.232.237.250:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.239Z"
