@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-09T10:00:30.803Z",
+  "updated": "2026-11-09T10:01:35.142Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://MiTiVPN@151.101.36.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Abu.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T10:01:30.407Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T10:01:30.407Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T10:01:30.407Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@146.75.57.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T10:01:30.407Z"
+    },
     {
       "url": "vless://032c5a4d-0e1b-4077-89ad-129386180d2c@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
       "name": "ZibaNabz",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://9ce76da7-91be-407e-b7f1-e1409db72325@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=lsjaoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "hysteria2://Masir_Sefid@206.189.58.246:2053?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "hysteria2://Masir_Sefid@206.189.58.246:1040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "hysteria2://Masir_Sefid@206.189.58.246:8443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=Api1.masir-sefid-1.my#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.nl.sdsl.globdal.fastldy.com.mitivpn.site&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.238Z"
