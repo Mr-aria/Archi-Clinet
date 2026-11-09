@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-09T21:45:32.885Z",
+  "updated": "2026-11-09T23:15:32.769Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@92.243.66.79:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-mow.probe.geomyip.com&fp=chrome&pbk=siD4oj2gdtLLEphV6fUXb8ueIc2WHVn7msOUhNGPf2o&sid=8d03c10b6a874a9c&type=tcp&headerType=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T23:15:31.679Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T23:15:31.679Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiI1MS42OC4zNC43OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NDg1ZGRjZi01NjJiLTQ2MzgtYjkyZS01ZWFiZmU2MGFkODYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYnAtdm1lc3MiLCJwY3MiOiIiLCJwb3J0IjoiMjAzMjciLCJwcyI6Ilx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGViXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T23:15:31.679Z"
+    },
     {
       "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/?Telegram---mehrosaboranfp=chrome&security=tls#",
       "name": "Farah_VPN",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "trojan://mitivpn@104.16.72.70:443?path=index.php%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-a.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-a.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVYkszbldiOUhGQVpPVjdyT3RDaDJKMjg1RXhhaGQ3TQ@78.141.215.62:1080#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan3.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiI3OC4xNDEuMjE1LjYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImFmZDQ1NDE5LWNmZmEtNGYxYi05OTBhLTUxMWFhYjZlZTlhYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJAcHJyb2ZpbGVfcHVycGxlICDimaXvuI/wn5GIINiq2YTar9ix2KfZhSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.239Z"
