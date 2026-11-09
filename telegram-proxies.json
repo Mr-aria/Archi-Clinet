@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-09T13:01:45.292Z",
-  "count": 1693,
+  "updated": "2026-11-09T15:31:51.120Z",
+  "count": 1694,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=turbo.webproxy.lol&port=443&secret=ee51fa3aadf3d9849a914784a8de1ff7e0747572626f2e77656270726f78792e6c6f6c",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-09T15:31:36.584Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.pcspeedyfix.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
