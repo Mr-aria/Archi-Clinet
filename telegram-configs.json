@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-09T01:45:30.401Z",
+  "updated": "2026-11-09T02:15:33.802Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://fdc48be3-a615-41ac-8bd1-ed844c931048@23.27.11.55:443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T02:15:32.434Z"
+    },
     {
       "url": "vless://affb10d4-3835-4b1f-b5a3-3481489911b6@172.93.186.31:443?&security=tls&fp=chrome&sni=cat.ilovezhenjiu.top&type=ws&headerType=none&host=cat.ilovezhenjiu.top&path=%2Fcgciws#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://24f1f7cc-3cfd-48c1-af87-07a50e9db7de@37.152.187.201:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=http&fp=chrome&type=tcp&allowInsecure=0&sni=algorithmmarket.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "vless://6e0a18d3-2598-4a73-9a41-1030b165e447@inkie.mmrknight.app:80?path=%2F&security=none&encryption=none&host=play.google.com&type=httpupgrade#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.238Z"
