@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-09T19:01:35.731Z",
-  "count": 1696,
+  "updated": "2026-11-09T19:15:41.301Z",
+  "count": 1697,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=138.201.157.7…",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-09T19:15:31.549Z"
+    },
     {
       "url": "https://t.me/proxy?server=surge.proxylite.tech&port=443&secret=7qIJcFetgp2gApkkN8oFR-JzdXJnZS5wcm94eWxpdGUudGVjaA",
       "name": "ProxyMTProto",
