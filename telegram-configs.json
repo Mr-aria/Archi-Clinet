@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-09T07:00:35.453Z",
-  "count": 4997,
+  "updated": "2026-11-09T07:31:36.051Z",
+  "count": 5000,
   "configs": [
+    {
+      "url": "trojan://MiTiVPN@151.101.36.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Abu.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T07:31:30.710Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T07:31:30.710Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T07:31:30.710Z"
+    },
+    {
+      "url": "trojan://MiTiVPN@146.75.57.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-09T07:31:30.710Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.176.3:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29974,12 +29998,6 @@
     },
     {
       "url": "vless://bd6f4e13-80fd-4dd6-8de8-21f23f8c4cdf@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.238Z"
-    },
-    {
-      "url": "vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&encryption=none&extra=%7B%0A%20%20%22scMaxConcurrentPosts%22%20%3A%20100%2C%0A%20%20%22noGRPCHeader%22%20%3A%20false%2C%0A%20%20%22scMinPostsIntervalMs%22%20%3A%2030%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%2C%0A%20%20%22scMaxEachPostBytes%22%20%3A%201000000%0A%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.238Z"
