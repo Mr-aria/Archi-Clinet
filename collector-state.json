@@ -8,7 +8,7 @@
     "iut_ChatrBazaan": 0,
     "ProxyMTProto": 52938,
     "khabari_18": 78419,
-    "JozveDaneshgahi_ir": 13121,
+    "JozveDaneshgahi_ir": 13122,
     "MatinSenPaii": 5824,
     "pewezavpn": 25874,
     "ShadowWolfVpn": 219,
@@ -25,13 +25,13 @@
     "nofiltering2": 6230,
     "shh_proxy": 10990,
     "TestDummyChannel": 3,
-    "hamclasixii": 81859,
-    "Linuxor": 6002,
+    "hamclasixii": 81861,
+    "Linuxor": 6004,
     "MineProxy": 55514,
     "imArasTey": 261,
     "appxa": 15239,
     "V2ray_official": 10050,
-    "IRAN_V2RAY1": 11388,
+    "IRAN_V2RAY1": 11389,
     "Hope_Net": 94306,
     "V2rayng_Fast": 26820,
     "icv2ray": 8865,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 12884,
   "totalProxies": 1489,
-  "runCount": 3457
+  "runCount": 3458
 }
