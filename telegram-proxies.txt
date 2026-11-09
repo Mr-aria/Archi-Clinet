@@ -1,3 +1,4 @@
+https://t.me/proxy?server=188.245.207.66&port=9443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=160.16.130.120&port=443&secret=eed087b9930e0ee686b6b4607244af896e7777772e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=topp3333roxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
 https://t.me/proxy?server=toppro123t.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275
