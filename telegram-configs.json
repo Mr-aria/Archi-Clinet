@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-09T05:46:36.053Z",
-  "count": 5000,
+  "updated": "2026-11-09T07:00:35.453Z",
+  "count": 4997,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.176.3:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-09T07:00:33.942Z"
+    },
     {
       "url": "trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&fp=chrome&sni=t.me%25252Ffuckthewall#%F0%9F%AA%AD1@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -91,30 +97,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-09T05:46:34.022Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@151.101.36.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=Abu.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-11-09T05:01:47.960Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-11-09T05:01:47.960Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-11-09T05:01:47.960Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@146.75.57.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-11-09T05:01:47.960Z"
     },
     {
       "url": "vless://3c4aa500-e3ae-4778-837b-f02dfea8c85f@193.233.127.149:443?mode=stream-one&path=%2Fstatic%2Fjs%2Fchunk&security=tls&encryption=none&insecure=0&host=nep.qiksme.com&fp=chrome&type=xhttp&allowInsecure=0&sni=nep.qiksme.com#@ICV2RAY",
@@ -2553,7 +2535,7 @@
       "date": "2026-11-07T10:00:33.821Z"
     },
     {
-      "url": "trojan://M%69TiVPN@146.75.57.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40M%69TiVPN---%40M%69TiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=M%69TiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "url": "trojan://M%69TiVPN@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40M%69TiVPN---%40M%69TiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-11-07T09:31:32.157Z"
@@ -2565,7 +2547,7 @@
       "date": "2026-11-07T09:31:32.157Z"
     },
     {
-      "url": "trojan://M%69TiVPN@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40M%69TiVPN---%40M%69TiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=MiTiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "url": "trojan://M%69TiVPN@146.75.57.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40M%69TiVPN---%40M%69TiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=M%69TiVPN-1-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-11-07T09:31:32.157Z"
