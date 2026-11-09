@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-09T09:30:40.016Z",
-  "count": 4997,
+  "updated": "2026-11-09T09:45:34.012Z",
+  "count": 4998,
   "configs": [
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-09T09:45:32.496Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.132.237.193:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
