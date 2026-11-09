@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-09T12:45:34.257Z",
-  "count": 1692,
+  "updated": "2026-11-09T13:01:45.292Z",
+  "count": 1693,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.pcspeedyfix.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-09T13:01:32.539Z"
+    },
     {
       "url": "https://t.me/proxy?server=188.245.207.66&port=9443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
       "name": "v2ryNG01",
