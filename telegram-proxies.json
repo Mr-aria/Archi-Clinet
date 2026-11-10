@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-10T05:31:39.996Z",
-  "count": 1741,
+  "updated": "2026-11-10T06:45:30.959Z",
+  "count": 1742,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir-ir.barhousefarm.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-10T06:45:29.293Z"
+    },
     {
       "url": "https://t.me/proxy?server=Ny.lgu.d.f8.fi.r.93-22-74-38.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "YamYamProxy",
