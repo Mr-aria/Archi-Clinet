@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-10T18:30:41.473Z",
-  "count": 1777,
+  "updated": "2026-11-10T18:31:36.345Z",
+  "count": 1779,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=deto84.larchmere.xyz&port=8443&secret=ee3295597e6c795e6a1a4b0a1231aec821786170692e6f7a6f6e2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-10T18:31:30.470Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=tolera44.copperwren.click&port=8443&secret=ee24c8636b7e946779a023ee708370719b786170692e6f7a6f6e2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-10T18:31:30.469Z"
+    },
     {
       "url": "https://t.me/proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "free_vpn02",
