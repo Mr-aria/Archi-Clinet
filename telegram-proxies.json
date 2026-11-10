@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-10T11:01:35.174Z",
-  "count": 1754,
+  "updated": "2026-11-10T11:30:34.544Z",
+  "count": 1756,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=partnerupload.steampower.online&port=3864&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-10T11:30:31.867Z"
+    },
+    {
+      "url": "tg://proxy?server=www.gigimystore.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-10T11:30:31.867Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.xeonxu.site&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "mehrosaboran",
