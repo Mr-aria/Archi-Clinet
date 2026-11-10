@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-10T05:16:43.062Z",
+  "updated": "2026-11-10T05:45:34.866Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://aad84fb9-a089-4818-be9f-30c3dd9e1c6b@46.8.100.46:35940?security=none&encryption=mlkem768x25519plus.native.0rtt.spOcMb4TcY-s4MzXQMKEcZqSV2up9RdToAdSmpU7zAQ&headerType=none&type=tcp#%40Shh_Proxy-New%C2%B9",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-10T05:45:34.522Z"
+    },
+    {
+      "url": "vless://c56cfec1-156f-44b5-bec5-dbd296400253@ir.vnexjet.ir:443?mode=auto&path=%2Fvideofjrj&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.DV0FWDqzb19HvIDWTD9wuLm0vKssz-U-4P9j7aP9PmU&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%220%22%7D&insecure=0&host=ir.vnexjet.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=ir.vnexjet.ir#%40Shh_Proxy-New%C2%B2",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-10T05:45:34.522Z"
+    },
+    {
+      "url": "vless://64ce5faf-427b-4dd1-926c-6b7ced6b8c38@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40Shh_Proxy-New%E2%81%B6",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-10T05:45:34.522Z"
+    },
+    {
+      "url": "vless://1653818d-532e-46be-b825-384107fb7c3a@edge.mediacorphub.org:443?security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=hub.v1.ObjectService&allowInsecure=0&sni=edge.mediacorphub.org#%40Shh_Proxy-New%E2%81%B9",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-10T05:45:34.522Z"
+    },
+    {
+      "url": "vless://9efd3f19-c7cb-4fa9-8d66-0598043597dc@23.227.38.99:443?&security=tls&fp=safari&sni=uuu-2-8uuu.ccc3cosmo.top&type=ws&headerType=none&host=uuu-2-8uuu.ccc3cosmo.top&path=%2Fimages#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-10T05:45:33.360Z"
+    },
     {
       "url": "vless://0d2d64a3-1d92-4c65-b293-d5a648d2b078@81.12.35.127:45903?type=tcp&security=none&headerType=none&encryption=none#%F0%9F%87%AE%F0%9F%87%B701%20%7C%20%E2%9A%A1Telegram%20%3D%20t.me%2Fex_proxies",
       "name": "Hope_Net",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://77c9a41e-70bd-47c2-b5e1-bff49df325d9@pizzashop.dearhossein-taktaz.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=pizzashop.dearhossein-taktaz.ir&fp=firefox&type=ws&allowInsecure=0&sni=pizzashop.dearhossein-taktaz.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://79a5be11-ec1f-4e18-b7fc-aef854234c43@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@151.101.1.194:443?path=%2F---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN---%40MiTiVPN%3Dsws&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "trojan://---------BanV2ray------------@179.237.74.104:361?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F0741da572c9d4fe&type=grpc&sni=world.yahoo.com%3A443&sid=c9d8#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://340e4de3-144b-49c4-ad72-b49b35713728@core.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=HAqqALwpxu_tx-IFcYaZWVshVKyKttGGrxoEfuP_Lgs&fp=chrome&type=grpc&serviceName=api.v1.StreamService&sni=core.noneok.com&sid=fde63d9c58210bf9#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.240Z"
