@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-10T08:16:55.172Z",
-  "count": 1747,
+  "updated": "2026-11-10T08:30:32.200Z",
+  "count": 1753,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=b77uiui1g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-10T08:30:30.615Z"
+    },
+    {
+      "url": "tg://proxy?port=443&secret=ee3d7e48e456e60b43cd4795edf16dd0f07777772e636c6f7564666c6172652e636f6d&server=wa.aa-r.com",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-10T08:30:30.615Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=bazar.jojeh.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-10T08:30:30.615Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=3.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-10T08:30:30.615Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=www.com.maroochia.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-10T08:30:30.615Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=dash.cloudflare.maroochia.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE=",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-10T08:30:30.615Z"
+    },
     {
       "url": "https://t.me/proxy?server=proxy.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
       "name": "IRAN_V2RAY1",
