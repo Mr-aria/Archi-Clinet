@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-10T20:46:34.255Z",
+  "updated": "2026-11-10T21:01:34.049Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://%58pnTeam-110@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Xpnteam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-10T21:01:32.803Z"
+    },
+    {
+      "url": "vless://%58pnTeam-111@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Xpnteam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-10T21:01:32.803Z"
+    },
+    {
+      "url": "vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---mehrosaboran&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-10T21:01:32.803Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&host=%2F%3FTelegram---mehrosaboran&headerType=none&type=tcp&allowInsecure=0&sni=blog.discovergreatjobsandadvanceyourcareer.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-10T21:01:32.803Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.134:443?security=tls&insecure=0&host=%2F%3FTelegram---mehrosaboran&headerType=none&type=tcp&allowInsecure=0&sni=api.iloverussia2026.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-10T21:01:32.803Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToydEVHNlFEYUZqRWljMDVv@20.164.212.218:443#",
       "name": "V2ray_official",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?path=%2Fsg-melbi%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.241Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.191.103:22224?security=none&encryption=none&headerType=none&type=tcp#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.241Z"
-    },
-    {
-      "url": "vless://35d2a009-4f71-4b99-85ef-369bb75908e1@172.66.213.38:2096?path=%2F%3Fu&security=tls&encryption=none&insecure=0&host=golden-garden-d12d.sazrerd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=golden-garden-d12d.sazrerd.workers.dev#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.241Z"
-    },
-    {
-      "url": "vless://d1da87ee-28d8-f2ae-1c2f-5b81d3b6679b@69.46.46.40:443?path=%2Fws%2Fd1da87ee-28d8-f2ae-1c2f-5b81d3b6679b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-7574.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-7574.up.railway.app#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.241Z"
-    },
-    {
-      "url": "vless://79c9514e-aa3c-4cd0-bf0d-dd6df42039f6@151.101.56.6:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.241Z"
-    },
-    {
-      "url": "vless://bc527d04-6272-41d0-8c48-aa0e83638c94@164.90.165.38:46569?security=none&encryption=none&headerType=none&type=tcp#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.241Z"
