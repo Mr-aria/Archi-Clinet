@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-10T00:15:36.325Z",
+  "updated": "2026-11-10T00:45:34.828Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-10T00:45:33.008Z"
+    },
+    {
+      "url": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@158.247.253.111:2087?sni=shephe.dpdns.org&type=ws&host=shephe.dpdns.org&path=/fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-10T00:45:33.008Z"
+    },
+    {
+      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-10T00:45:33.008Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@178.128.199.136:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-10T00:45:33.008Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@188.137.178.174:8443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-10T00:45:33.008Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.254.187:443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-10T00:45:33.008Z"
+    },
     {
       "url": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@132.243.203.214:8443?encryption=none&fp=chrome&host=shephe.dpdns.org&path=%2F&security=tls&sni=shephe.dpdns.org&type=ws#",
       "name": "Farah_VPN",
@@ -29962,42 +29998,6 @@
     },
     {
       "url": "vless://63ec4dae-1817-4f57-8102-b885d6045847@psf-1.zdshop.ir:80?security=none&encryption=none&host=khodroshop.ir&type=ws#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "trojan://mitivpn@104.16.72.70:443?path=%2Findex.php%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vless://53feb5dd-9bb2-44ff-80ec-4d00debf1de4@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbbbb.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbbbb.appleseraj.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vless://5768d6cf-2e1a-44cd-84d7-664d518d8d4c@82.40.62.159:37595?security=none&encryption=none&headerType=none&type=tcp#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vless://63ec4dae-1817-4f57-8102-b885d6045847@psc-1.zdshop.ir:443?mode=auto&security=tls&encryption=none&insecure=1&type=xhttp&allowInsecure=1&sni=75a288cac10899ee.dailygo.ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vless://242f3b82-7c52-4b3c-a576-c3c8d775e3ed@13.63.126.48:8444?security=reality&encryption=mlkem768x25519plus.native.0rtt.iTfk-FtxINrlWgajpp72IAz8c2i6vEU0W3YatYBVsgo&pbk=LINfckLkgXuI1-3SeeRrjtjymGEsus3vLypmcI8N6nY&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=e3e064f1196a7ba1#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.239Z"
-    },
-    {
-      "url": "vless://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?security=none&encryption=none&headerType=none&type=tcp#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.239Z"
