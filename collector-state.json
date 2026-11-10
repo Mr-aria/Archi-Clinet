@@ -2,7 +2,7 @@
   "lastSeen": {
     "PewezaTech": 25882,
     "mmd_adm": 28825,
-    "free_vpn02": 5161,
+    "free_vpn02": 5162,
     "freakconfig": 10575,
     "outline_vpn": 11866,
     "iut_ChatrBazaan": 0,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 13178,
   "totalProxies": 1560,
-  "runCount": 3682
+  "runCount": 3683
 }
