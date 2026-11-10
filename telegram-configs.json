@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-10T11:15:33.997Z",
+  "updated": "2026-11-10T11:31:35.700Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.254.187:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%F0%9F%87%AF%F0%9F%87%B5%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-10T11:31:30.326Z"
+    },
+    {
+      "url": "vless://1653818d-532e-46be-b825-384107fb7c3a@api.mediacorphub.org:443?mode=gun&security=tls&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=gw.v2.PushService&allowInsecure=0&sni=api.mediacorphub.org#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-10T11:31:30.326Z"
+    },
+    {
+      "url": "vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.68:2058?security=reality&encryption=none&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=937255313d6ce673#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-10T11:31:30.326Z"
+    },
+    {
+      "url": "vless://4ad9f982-b56a-444a-9684-35ce51307a36@109.172.114.57:2058?security=reality&encryption=none&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=937255313d6ce673#%F0%9F%87%A8%F0%9F%87%B3%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-10T11:31:30.326Z"
+    },
     {
       "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.242.104:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#",
       "name": "Farah_VPN",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://c065e1bb-cb56-41e5-b043-9dfd15b67565@152.233.43.77:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&type=grpc&serviceName=neurex&sni=api-maps.yandex.ru&sid=10ffb85da1c2d986#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@151.101.1.194:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Ds---W&security=tls&alpn=h2%2Chttp%2F1.1&insecure=1&host=mitivpn--mitivpn--mitivpn-mitivpn--mitivpn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://76b7834c-75d4-4fce-a90b-2639739e8e3e@s1.streemmovie.shop:8443?mode=auto&path=%2Fstreem&security=reality&encryption=mlkem768x25519plus.native.0rtt.hotsWvZPbyyNmCfg5BWRkmqwOet9BfmVK2pdUA-jMk0&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=6GfyVeO2GgIndTfBl4mFIgJi6eVSpQv7PDeV5F5RLyo&host=s1.streemmovie.shop&fp=chrome&spx=%2Fb08efb2caca471e&type=xhttp&sni=yt.be&sid=408aded4#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@cd3.postshup.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=nnnnnnnn.postshup.ir&type=httpupgrade#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.240Z"
