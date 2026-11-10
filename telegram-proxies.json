@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-10T18:31:36.345Z",
-  "count": 1779,
+  "updated": "2026-11-10T19:31:33.949Z",
+  "count": 1780,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=xe1rn.proxydazhenaparkovke.site&port=443&secret=ee4a26ea6bb803e4d556b56178d75a0889786531726e2e70726f787964617a68656e617061726b6f766b652e73697465",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-10T19:31:30.271Z"
+    },
     {
       "url": "https://t.me/proxy?server=deto84.larchmere.xyz&port=8443&secret=ee3295597e6c795e6a1a4b0a1231aec821786170692e6f7a6f6e2e7275",
       "name": "ProxyMTProto",
