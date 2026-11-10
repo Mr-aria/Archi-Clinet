@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-10T11:31:41.299Z",
-  "count": 1758,
+  "updated": "2026-11-10T13:01:54.916Z",
+  "count": 1759,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.vanitydomain.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-10T13:01:50.078Z"
+    },
     {
       "url": "https://t.me/proxy?server=t4.myrka.digital&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
       "name": "ProxyMTProto",
