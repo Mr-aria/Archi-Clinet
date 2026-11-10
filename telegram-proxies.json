@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-10T08:00:31.477Z",
-  "count": 1743,
+  "updated": "2026-11-10T08:16:55.172Z",
+  "count": 1747,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=proxy.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-10T08:16:52.985Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=all.foriran.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-10T08:16:52.985Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=shomal.bingi.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-10T08:16:52.985Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=gishniz.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-10T08:16:52.985Z"
+    },
     {
       "url": "https://t.me/proxy?server=rain.golgoli2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d",
       "name": "proxy_badss",
