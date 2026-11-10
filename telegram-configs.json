@@ -1,42 +1,102 @@
 {
-  "updated": "2026-11-10T10:15:31.867Z",
+  "updated": "2026-11-10T10:16:31.325Z",
   "count": 5000,
   "configs": [
     {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.203:443?security=tls&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=blog.discovergreatjobsandadvanceyourcareer.com#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-11-10T10:15:30.457Z"
+      "url": "vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&host=sc-thenetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%F0%9F%8E%8D31@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
     },
     {
-      "url": "vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@3.0.70.13:1114?security=reality&encryption=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=79a1e14b#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-11-10T10:15:30.457Z"
+      "url": "vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80?encryption=none&host=OV-France1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%F0%9F%8E%8D32@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
     },
     {
-      "url": "vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@144.31.215.114:443?security=reality&encryption=none&pbk=_KW3heutvbzbrT2m8YUKoyjj0LzRuZZRYRJ1eS3U2Tw&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=c12.qwyak.ru&sid=1390632cb141834f#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-11-10T10:15:30.457Z"
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@84.46.251.105:443?encryption=none&host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%8E%8D33@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
     },
     {
-      "url": "vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=key-master-saver.com&sid=1c3e8241a8743df9#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-11-10T10:15:30.457Z"
+      "url": "vless://64c05afc-ce81-4ba0-b697-afa04da1427e@195.72.166.251:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=RKDT6fVgcZS8Qfzhv5rbeHRIflA3UTKD_HNLJyOoUwk&security=reality&sid=25349b36802f&sni=www.lloydsbankinggroup.com&type=tcp#%F0%9F%8E%8D34@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
     },
     {
-      "url": "vless://eb733326-d5b1-4e96-a0b5-ba0d61b2f60a@88.210.14.234:8443?security=reality&encryption=none&pbk=rvoYYePJymtl89onIoho0KSX6GXJhN0-vzfZOfeKqBs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gbts.coldcrate.pro&sid=e3a57469d9a51ee4#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-11-10T10:15:30.457Z"
+      "url": "vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.202:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#%F0%9F%8E%8D35@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
     },
     {
-      "url": "vless://bad0b0df-f838-48a7-a86b-7d5f8b075952@146.75.57.238:443?mode=packet-up&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=h2&encryption=none&insecure=0&host=cplusshape.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-11-10T10:15:30.457Z"
+      "url": "vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=b7cd177731793b1e&sni=vkvd754.okcdn.ru&type=tcp#%F0%9F%8E%8D36@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
+    },
+    {
+      "url": "vless://032c5a4d-0e1b-4077-89ad-129386180d2c@zibanabz.jonsonvip.ir:3939?encryption=none&flow=xtls-rprx-vision&fp=&pbk=dnnN66V_xqEbGoG5P8E_Zqk3TaZt2lM4SI9N7Ana7FA&security=reality&sid=d9a2600fdecd7be2&sni=ai.android&type=tcp#%F0%9F%8E%8D37@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
+    },
+    {
+      "url": "vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=a1b2c3d4&sni=www.samsung.com&type=tcp#%F0%9F%8E%8D38@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@179.255.190.21:443?encryption=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%8E%8D39@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
+    },
+    {
+      "url": "vless://f59fdac3-5842-449b-8c8d-d5ebcdbf1768@141.227.160.61:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=apple.com&type=tcp#%F0%9F%8E%8D41@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@13.143.165.124:8443?encryption=none&host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%8E%8D42@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.219.97.198:443?encryption=none&host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%8E%8D43@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@85.192.27.171:2053?encryption=none&fp=chrome&host=fs.qicai99.com&path=%2Ffp%3Dchrome&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%8E%8D44@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@193.233.129.97:443?encryption=none&host=fs.qicai99.com&path=%2F&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%8E%8D45@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-10T10:16:30.123Z"
+    },
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@n2jp.mateflora.com:443?security=reality&type=raw&sni=psstatic.cdn.bcebos.com&fp=ios&flow=xtls-rprx-vision&sid=2dcc47&pbk=RI371-lYgNvJBO7ArimTr3EelNwUUcfMwg8J3SZ96Xk#%F0%9F%87%AF%F0%9F%87%B514%20%7C%20%E2%9A%A1Telegram%20%3D%20t.me%2Fex_proxies",
+      "name": "Hope_Net",
+      "source": "Hope_Net",
+      "date": "2026-11-10T10:16:29.465Z"
+    },
+    {
+      "url": "vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-3-z.473221.xyz:33162?encryption=none&type=tcp&security=reality&pbk=Qp9_bpGExQK_h5LMXLLwVA2o1vifMQwGJ6Qh2-X26Ro&sid=3fe1e73fc9ecc8d7&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&fp=edge#%F0%9F%87%B8%F0%9F%87%AC15%20%7C%20%E2%9A%A1Telegram%20%3D%20t.me%2Fex_proxies",
+      "name": "Hope_Net",
+      "source": "Hope_Net",
+      "date": "2026-11-10T10:16:29.465Z"
     },
     {
       "url": "trojan://a75243d0f5c2e31bd6c8c118b4f6442f81ad@176.122.173.224:443?allowInsecure=1&sni=www.cloudflare.com#",
@@ -29938,66 +29998,6 @@
     },
     {
       "url": "trojan://MiTiVPN@89.116.250.135:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DWIN-nl&security=tls&alpn=http%2F1.1&insecure=0&host=Wihn-Nlkl--ol.App-Cloud.Ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-Nll--l.App-Cloud.Ir#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@304331dec0350d1e.mbcloudynias.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c39acc8cb9481d24#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://663cf772-829c-4bc6-893d-b7d021d42f5b@staticdelivery.nexusmods.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=vp1.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vp1.cc.cd#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@45.130.125.207:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@91.193.58.201:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://663cf772-829c-4bc6-893d-b7d021d42f5b@www.leics.police.uk:443?path=%2F&security=tls&encryption=none&insecure=0&host=vp1.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vp1.cc.cd#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "trojan://MITIVPN@199.232.22.39:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Du--s&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.240Z"
-    },
-    {
-      "url": "vless://162539ad-3df4-429f-8e71-ecdb7023b786@82.47.22.240:443?security=reality&encryption=none&pbk=lGFpiPyaH0J4o6NWsXv48Y3aQF0IsZP-QF506VsNQVQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee-hs-1.minzt.su#%40prrofile_purple%20%20%E2%99%A5%EF%B8%8F%F0%9F%91%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.240Z"
