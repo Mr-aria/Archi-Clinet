@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-11T11:45:36.072Z",
+  "updated": "2026-11-11T12:01:34.896Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@45.83.182.80:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-11T12:01:30.619Z"
+    },
+    {
+      "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@yx.l110.us.ci:443?path=%2F&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-11T12:01:30.619Z"
+    },
     {
       "url": "vless://5ea68468-d58b-42e6-b433-9ea9cfbcac09@199.232.129.192:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=maria978.global.ssl.fastly.net&allowInsecure=0#YFZ%20351%20%40Outline_Vpn",
       "name": "outline_vpn",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=%2F%3FTELEGRAM--V2ray_confiig%3Fed%3D2560&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.242Z"
-    },
-    {
-      "url": "vless://44eae030-290b-4083-8102-6f8bab05701b@188.114.97.6:443?path=%2Fmtmvpn&security=tls&encryption=none&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.242Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@151.101.56.255:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.242Z"
