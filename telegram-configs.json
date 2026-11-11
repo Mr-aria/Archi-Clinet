@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-11T20:46:33.263Z",
+  "updated": "2026-11-11T21:15:34.679Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://95f85937-7b95-45c4-8d69-95da6a978569@vps2.nemnogogo.com:443?sni=vps2.nemnogogo.com&alpn=h2&type=grpc&serviceName=mobile.api.Event&fp=ios&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-11T21:15:32.935Z"
+    },
     {
       "url": "vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@yx.l110.us.ci:443?encryption=none&host=fs.qicai99.com&path=%2Ffp&security=tls&sni=fs.qicai99.com&type=ws#%F0%9F%97%BC91@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20fp%3Dchrome#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T13:45:35.951Z"
-    },
-    {
-      "url": "vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+fp%3Dchrome&security=tls&sni=vp58.cc.cd&type=ws#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T13:45:35.951Z"
