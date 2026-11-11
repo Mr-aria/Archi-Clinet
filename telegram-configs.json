@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-11T09:00:34.303Z",
+  "updated": "2026-11-11T09:15:35.416Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s2503.ccgfw.online:443?sni=u695098u093da7d1s2502.xxti.top&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-11T09:15:33.637Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?allowInsecure=1&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-11T09:15:33.637Z"
+    },
+    {
+      "url": "vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?sni=cadrin.wtf&type=grpc&serviceName=cache.sync.v1&fp=firefox&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-11T09:15:33.637Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.168.161:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://6c713691-3ca2-0009-ad25-113d1bed6b03@nl1.fluxorvpn.net:443?security=reality&encryption=none&pbk=JWDpSUaLgiXGXpgZzzxfDnYGvi4MBFcadN6cHZ-He1E&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=hatch.senko.ru&sid=b8c6965f3596688a#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.242Z"
-    },
-    {
-      "url": "vless://a788913b-ea27-4198-8024-e69919916516@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=albaniji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.242Z"
-    },
-    {
-      "url": "vless://a788913b-ea27-4198-8024-e69919916516@146.75.56.210:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=norwayi.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.242Z"
-    },
-    {
-      "url": "vless://a788913b-ea27-4198-8024-e69919916516@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=ukji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.242Z"
