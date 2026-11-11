@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-11T04:45:33.960Z",
+  "updated": "2026-11-11T05:15:33.418Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://4b50270b-5caf-4c34-b3da-17b4525604a6@188.225.37.175:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=cryptoventura.online&type=ws&headerType=none&host=cryptoventura.online&path=%2Fapi%2Fde3%2Flive#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-11T05:15:32.085Z"
+    },
+    {
+      "url": "vless://14fcb437-5561-413c-9eff-55424855e7d7@199.232.78.120:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=fraboijji.global.ssl.fastly.net.&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-11T05:15:32.085Z"
+    },
     {
       "url": "vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?&security=tls&fp=chrome&sni=orbylume.my.to&type=ws&headerType=none&host=orbylume.my.to&path=%2Ftvpn-tor%2Fis#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://f0dc4d4f-c956-0004-bc3a-021424b8e879@192.142.12.175:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=jsonstudio.site&sid=1c3e8241a8743df9#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.241Z"
-    },
-    {
-      "url": "vless://f0dc4d4f-c956-0004-bc3a-021424b8e879@192.142.12.198:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=jsonstudio.site&sid=1c3e8241a8743df9#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.241Z"
-    },
-    {
-      "url": "vless://eb1c3a3c-c828-404d-bf98-b878c5435600@us.differentok.com:443?mode=gun&security=reality&encryption=none&pbk=Jxwj8rNcJnXop1Xk9Ydst_wFPJsQOtZ74g50saIgokU&fp=firefox&type=grpc&serviceName=media.v2.RelayService&sni=us.differentok.com&sid=a5668d2759baa4ac#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.241Z"
