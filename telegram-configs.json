@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-11T07:16:37.306Z",
+  "updated": "2026-11-11T09:00:34.303Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.168.161:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-11T09:00:32.848Z"
+    },
     {
       "url": "vmess://5c040f1d-45db-43bd-8d46-e4950e433735@185.177.229.95:1270?allowInsecure=1&encryption=auto&security=tls&type=tcp#%F0%9F%97%BC1@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a788913b-ea27-4198-8024-e69919916516@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=ukji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.242Z"
-    },
-    {
-      "url": "vless://9b0ae636-a50b-4667-bbe0-22a0600610a5@199.232.129.192:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=1fastli-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=firefox.com#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.242Z"
