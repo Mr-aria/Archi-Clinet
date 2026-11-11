@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-11T20:01:35.066Z",
+  "updated": "2026-11-11T20:15:36.613Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.163.136:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-11T20:15:33.540Z"
+    },
+    {
+      "url": "vless://9443badf-414f-4b12-b19a-7cc2c7431163@190.93.244.47:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=moz.ar-marz.fun&fp=firefox&type=ws&allowInsecure=0&sni=moz.ar-marz.fun#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-11T20:15:33.540Z"
+    },
+    {
+      "url": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-11T20:15:33.540Z"
+    },
+    {
+      "url": "vless://ecc0e60a-f2cc-4266-8353-b228df89730a@45.92.219.47:443?security=reality&encryption=none&pbk=GBO_paFyK9FihgPMH8r_vHa4IKMkSGfvAQ2fhPK_1H4&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ty.galactichub.online#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-11T20:15:33.540Z"
+    },
+    {
+      "url": "vless://efd11a89-7506-44ce-95b6-6654859f155b@170.114.46.6:2096?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=pcloud.z-tas.com&fp=chrome&type=ws&allowInsecure=0&sni=pcloud.z-tas.com#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-11T20:15:33.540Z"
+    },
+    {
+      "url": "vless://ab223342-2da1-447b-8c38-6f58f12b92b0@95.169.9.188:42127?security=reality&encryption=none&pbk=PrT425XRELfK8LyAggHgC0JvyO7Aow7ccx9safXkjnY&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=13d2fb17c035fa9d#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-11T20:15:33.540Z"
+    },
     {
       "url": "vless://90157e25-cee1-4217-921e-91f300bc1a24@89.105.218.154:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=golos.mail.ru&sid=428ef87fd47a3a32#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
       "name": "prrofile_purple",
@@ -29965,42 +30001,6 @@
       "name": "shh_proxy",
       "source": "shh_proxy",
       "date": "2026-10-22T13:15:37.150Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#%40Shh_Proxy-New%E2%81%B7",
-      "name": "shh_proxy",
-      "source": "shh_proxy",
-      "date": "2026-10-22T13:15:37.150Z"
-    },
-    {
-      "url": "vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&host=95.128.71.79&path=/vless&security=none&type=ws#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T13:15:35.716Z"
-    },
-    {
-      "url": "vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?encryption=none&security=none&type=ws&host=3h-unitedstates1.09vpn.com&path=/vless/#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T13:15:35.716Z"
-    },
-    {
-      "url": "vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@172.64.229.129:2052?&type=ws&headerType=none&host=eu02.123450908.xyz&path=/rain1226#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T13:15:35.716Z"
-    },
-    {
-      "url": "vless://667a035b-6656-4a4f-a74c-8cd6a679f8d4@www.zsu.gov.ua:8880?encryption=none&fp=firefox&host=winter-mode-7f4e.89-136.workers.dev&path=/pyip%3DProxyIP.SG.CMLiussss.net&type=ws#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T13:15:35.716Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDIwIiwicHMiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T13:15:35.716Z"
     }
   ]
 }
