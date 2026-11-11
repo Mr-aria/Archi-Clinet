@@ -1,3 +1,5 @@
+https://t.me/proxy?server=lori58.quillmarsh.xyz&port=8443&secret=eed55fb51ca705b72784df27f1fbe16191786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=nemazo76.larchmere.xyz&port=443&secret=ee44f33295547b09ac13649a4c51c296f6706574726f766963682e7275
 https://t.me/proxy?server=losuny65.quietfjord.click&port=443&secret=ee214011ba04108a7b1836df3a5e918b3b786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=dema91.larchmere.xyz&port=443&secret=ee58851f6640315bea58279e83ed6ca84c786170692e6f7a6f6e2e7275
 https://t.me/proxy?server=mikaga72.larchmere.xyz&port=443&secret=eee2bb975ea85e1dc2466cf7f309ce6b95706574726f766963682e7275
