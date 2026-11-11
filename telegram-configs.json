@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-10T22:45:57.376Z",
+  "updated": "2026-11-11T01:15:31.095Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206YjdJNmc3bDdmSmhCYU1Jbkoremt6dz09@amasoid.ddns.net:14514#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-11T01:15:30.008Z"
+    },
+    {
+      "url": "vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@germ.onlineai.pro:14443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=germ.onlineai.pro&type=ws&headerType=none&host=germ.onlineai.pro&path=%2Fapi%2Fgenerate#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-11T01:15:30.008Z"
+    },
     {
       "url": "vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.105:2083?security=reality&encryption=none&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&fp=chrome&spx=%2F&type=grpc&serviceName=google.storage.v2.Storage&sni=dl.google.com&sid=8bd80253#",
       "name": "Farah_VPN",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@92.112.126.90:443#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.241Z"
-    },
-    {
-      "url": "vless://954e582b-339e-482f-91ca-62a021469766@parsiran.amirrezamydamane.info:42951?security=tls&encryption=mlkem768x25519plus.native.0rtt.hr_B27q0XLj8gjJlo_IFJOwOV8R8R3h6IK5EjNw7Exk&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=parsiran.amirrezamydamane.info#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.241Z"
-    },
-    {
-      "url": "vless://518a99df-54f6-4f42-819d-b60abd880edf@176.96.138.122:443?security=reality&encryption=none&pbk=O_YZOJVON0LE1U01hAtNUOVRy7z6fkBUXbMtpCGoGEg&host=%2F%3F&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=kind-vortex.cdn.cachefleet.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.241Z"
