@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-11T18:31:33.804Z",
-  "count": 1807,
+  "updated": "2026-11-11T20:31:37.710Z",
+  "count": 1808,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=tg.proxynet.tech&port=443&secret=ee6d98b7c125f854c0ac73c588ec9f225864726976652e676f6f676c652e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-11T20:31:34.504Z"
+    },
     {
       "url": "https://t.me/proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
       "name": "ProxyMTProto",
