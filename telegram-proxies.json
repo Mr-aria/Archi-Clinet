@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-11T13:31:40.049Z",
-  "count": 1792,
+  "updated": "2026-11-11T15:00:34.044Z",
+  "count": 1793,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=avangard.pareporeh.info.&port=5500&secret=7HQighJPBNMYVRNB6tdkVw",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-11T15:00:31.490Z"
+    },
     {
       "url": "https://t.me/proxy?server=rade61.quillmarsh.xyz&port=443&secret=eef24fdea024acae793e6ce811aae865a5786170692e6f7a6f6e2e7275",
       "name": "ProxyMTProto",
