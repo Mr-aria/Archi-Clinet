@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-11T17:46:49.157Z",
-  "count": 1806,
+  "updated": "2026-11-11T18:31:33.804Z",
+  "count": 1807,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=lynette.myrka.digital&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-11T18:31:29.552Z"
+    },
     {
       "url": "https://t.me/proxy?server=amsterdam.geodns.info&port=443&secret=ee79e344818749bd7ac519130220c25d09",
       "name": "oneclickvpnkeys",
