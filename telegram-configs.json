@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-11T20:15:36.613Z",
+  "updated": "2026-11-11T20:30:34.826Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.145.19:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-11T20:30:33.495Z"
+    },
     {
       "url": "vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.163.136:8443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
       "name": "MARAMBASHI",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMVk1saHZLODJUbzFGR3N5@20.166.51.228:443#%40Shh_Proxy-New%C2%B9",
-      "name": "shh_proxy",
-      "source": "shh_proxy",
-      "date": "2026-10-22T13:15:37.150Z"
-    },
-    {
-      "url": "vless://4dd86f78-8202-42c2-89b6-801fd29daf45@e29181f3ebfce73d.tunvi.w-ert.org:42924?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#%40Shh_Proxy-New%C2%B2",
       "name": "shh_proxy",
       "source": "shh_proxy",
       "date": "2026-10-22T13:15:37.150Z"
