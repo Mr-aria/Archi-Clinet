@@ -45,7 +45,7 @@
     "PrivateVPNs": 26581,
     "configV2rayForFree": 8074,
     "iranvpnet": 709,
-    "proxy_mtm": 33880,
+    "proxy_mtm": 33881,
     "CluvexStudio": 410,
     "whitedns": 2266,
     "YamYamProxy": 16629,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 13403,
   "totalProxies": 1602,
-  "runCount": 3878
+  "runCount": 3879
 }
