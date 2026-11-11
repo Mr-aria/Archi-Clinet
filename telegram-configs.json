@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-11T12:15:34.092Z",
+  "updated": "2026-11-11T13:00:34.938Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.135.252:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-11T13:00:33.578Z"
+    },
     {
       "url": "vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@151.101.36.88:443?mode=auto&security=tls&encryption=none&insecure=0&host=ovd5.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#%40V2ray_Alpha%F0%9F%A5%8C%208",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "trojan://MITIVPN@167.82.76.7:443?path=%40bored_vpn&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-22T13:03:29.242Z"
-    },
-    {
-      "url": "vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A",
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-22T13:03:29.242Z"
