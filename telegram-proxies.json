@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-11T11:31:42.053Z",
-  "count": 1789,
+  "updated": "2026-11-11T13:15:33.280Z",
+  "count": 1790,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=138.201.157.…",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-11T13:15:30.129Z"
+    },
     {
       "url": "https://t.me/proxy?server=heay.ajjab.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "YamYamProxy",
