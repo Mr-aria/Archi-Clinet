@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-12T08:15:41.012Z",
-  "count": 1814,
+  "updated": "2026-11-12T09:01:31.378Z",
+  "count": 1818,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=212.108.98.96.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-12T09:01:28.909Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=212.108.98.97.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-12T09:01:28.909Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=212.108.98.98.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-12T09:01:28.909Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=212.108.98.99.suser.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-12T09:01:28.909Z"
+    },
     {
       "url": "https://t.me/proxy?server=11.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
       "name": "MTP_roto",
