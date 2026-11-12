@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T17:31:33.804Z",
-  "count": 1829,
+  "updated": "2026-11-12T18:01:49.400Z",
+  "count": 1830,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=vasl-sho-eshgh-kon.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-12T18:01:44.575Z"
+    },
     {
       "url": "https://t.me/proxy?server=awd.subaru-volga.com&port=443&secret=ee54701e1686de96a44721501a7bee9e4c6c796e657474652e6d79726b612e6469676974616c",
       "name": "ProxyMTProto",
