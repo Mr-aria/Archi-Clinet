@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-12T07:00:50.722Z",
+  "updated": "2026-11-12T07:15:31.691Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-12T07:15:30.579Z"
+    },
+    {
+      "url": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-12T07:15:30.579Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.123.114:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29989,18 +30001,6 @@
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-10-22T14:32:43.586Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJkZWZlLnN5bmMtYnJpZGdlLmlyIiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6ImRlZmUuc3luYy1icmlkZ2UuaXIiLCJpZCI6ImU5ZjEyMjUzLWJjOTktNGVhNi04YWQwLTAwZTQwN2FiZTI2OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9jaGFubmVsQGF3c180NDMiLCJwb3J0IjoiNDQzIiwicHMiOiJAVjJyYXlfQWxwaGHwn5qSIDgiLCJzY3kiOiJhdXRvIiwic25pIjoiZGVmZS5zeW5jLWJyaWRnZS5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-22T14:32:43.586Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T14:32:43.367Z"
     }
   ]
 }
