@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-12T05:01:34.603Z",
+  "updated": "2026-11-12T05:15:33.016Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@146.75.59.186:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=ukoijji.global.ssl.fastly.net&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-12T05:15:31.443Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-12T05:15:31.443Z"
+    },
     {
       "url": "trojan://5t6i121em5lkmsmk@130.94.19.95:57277?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
       "name": "freakconfig",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.159:443#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T14:32:43.366Z"
-    },
-    {
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T14:32:43.366Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?path=/cart/docs/www/proxyip=108.160.132.132&security=tls&alpn=http/1.1&encryption=none&fm={#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T14:32:43.366Z"
