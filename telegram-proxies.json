@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-12T07:31:32.825Z",
-  "count": 1811,
+  "updated": "2026-11-12T08:15:41.012Z",
+  "count": 1814,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=11.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-12T08:15:32.568Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=61.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-12T08:15:32.568Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=17.new1.ramkal12.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-12T08:15:32.568Z"
+    },
     {
       "url": "https://t.me/proxy?server=fast.prxtg.top&port=443&secret=ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d",
       "name": "ProxyMTProto",
