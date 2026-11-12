@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T12:45:31.924Z",
+  "updated": "2026-11-12T13:00:31.589Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.233.250:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-12T13:00:30.447Z"
+    },
     {
       "url": "vless://679d0fcc-4c72-4073-8f1d-311b69ef72b5@2.31.100.78:13060?security=none&encryption=none&headerType=none&type=tcp#YFZ%20360%20%40Outline_Vpn",
       "name": "outline_vpn",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@it1.dedushka.top:443?allowInsecure=0&sni=it1.dedushka.top#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T16:02:21.475Z"
-    },
-    {
-      "url": "vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&headerType=none&fp=chrome&type=tcp&sni=tesla.com&sid=af1bdd293097b664#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T16:02:21.475Z"
