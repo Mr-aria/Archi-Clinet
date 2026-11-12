@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T16:15:35.765Z",
+  "updated": "2026-11-12T16:30:31.120Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.244.172:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-12T16:30:30.206Z"
+    },
     {
       "url": "vless://664f65f4-33b3-03ef-b9e5-68192d1d428e@200.102.183.160:443?security=reality&encryption=none&pbk=N8QooY7tm45gPX-9AQVg8ZYCCYqqfaiX8NGM96IvTBI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=68r2nrw6avta71yq.cdn.cachefleet.com#%40V2ray_Alpha%F0%9F%8C%96%207",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?&security=tls&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T17:34:12.551Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T17:34:12.551Z"
