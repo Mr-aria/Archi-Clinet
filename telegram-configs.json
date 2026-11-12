@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T23:15:34.077Z",
+  "updated": "2026-11-12T23:45:34.744Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-12T23:45:33.139Z"
+    },
     {
       "url": "vless://eb8c97f7-a154-4442-91b0-54c0d055ad0b@143.246.62.191:8443?security=reality&type=tcp&packetEncoding=xudp&sni=github.githubassets.com&fp=chrome&sid=4ad2e4e660550e43&pbk=4g6gX0ueJap7pY_iTDx23h6bzo3KIOTcFzP1Uacn0QA&encryption=none#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?path=%2F&security=tls&encryption=none&insecure=0&host=edge.yzkvm.top&fp=chrome&type=ws&allowInsecure=0&sni=edge.yzkvm.top#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T18:02:18.785Z"
-    },
-    {
-      "url": "vless://ef8907eb-8bb5-4735-80f2-1d0068500d95@116.204.164.17:7443?sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&type=ws&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&path=/@Marisa_kristifp=chrome&security=tls#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T18:02:18.785Z"
