@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T18:45:37.889Z",
-  "count": 1832,
+  "updated": "2026-11-12T20:01:43.535Z",
+  "count": 1833,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=178.105.127.56&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-12T20:01:32.032Z"
+    },
     {
       "url": "https://t.me/proxy?server=167.233.233.253&po…",
       "name": "v2ryNG01",
