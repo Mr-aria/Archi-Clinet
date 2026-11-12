@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-12T20:15:40.388Z",
-  "count": 4999,
+  "updated": "2026-11-12T20:16:39.346Z",
+  "count": 5000,
   "configs": [
+    {
+      "url": "vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@144.31.157.41:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-12T20:16:36.719Z"
+    },
+    {
+      "url": "vless://87c35d3a-36f1-fade-90b7-af60506efbb8@176.108.245.237:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=tfusq-ru-40sb.fade.mom#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-12T20:16:36.719Z"
+    },
+    {
+      "url": "vless://1653818d-532e-46be-b825-384107fb7c3a@assets.mediacorphub.org:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=edge&type=grpc&serviceName=hub.v1.ObjectService&allowInsecure=0&sni=assets.mediacorphub.org#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-12T20:16:36.719Z"
+    },
+    {
+      "url": "vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?security=reality&encryption=none&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=52c723e0fad49689#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-12T20:16:36.719Z"
+    },
     {
       "url": "vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80?encryption=none&security=none&type=ws&host=3h-unitedstates1.09vpn.com&path=/vless/#",
       "name": "Farah_VPN",
@@ -29974,24 +29998,6 @@
     },
     {
       "url": "vless://f1aca6da-29cd-4459-a980-2744cc0df374@87.236.166.190:443?path=%2F&security=tls&encryption=none&insecure=0&host=turk.bettercallakbar.ir&fp=chrome&type=ws&allowInsecure=0&sni=turk.bettercallakbar.ir#telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T17:47:24.333Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJmcmVlLmVydGViYXRnb29zdGFyLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZWFiNDM5LTUzYmYtNDZlNC1iYTU4LWZjMzY4YWUxZWU4YyIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJ0ZWxlZ3JhbSBAbXRtdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T17:47:24.333Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.90.187:22223?security=none&encryption=none&headerType=none&type=tcp#telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-22T17:47:24.333Z"
-    },
-    {
-      "url": "vless://f1aca6da-29cd-4459-a980-2744cc0df374@1love-iran.akbar1999.ir:80?path=%2F&security=none&encryption=none&host=1love-iran.akbar1999.ir&type=ws#telegram%20%40mtmvpn",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-22T17:47:24.333Z"
