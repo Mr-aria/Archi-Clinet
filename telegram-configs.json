@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T04:45:31.979Z",
+  "updated": "2026-11-12T05:01:34.603Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://5t6i121em5lkmsmk@130.94.19.95:57277?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=us001.zestapp778.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-12T05:01:29.631Z"
+    },
     {
       "url": "trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?path=/cart/docs/www/proxyip=108.160.132.132&security=tls&alpn=http/1.1&encryption=none&fm={#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T14:32:43.366Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T14:32:43.366Z"
