@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T09:46:37.710Z",
-  "count": 1820,
+  "updated": "2026-11-12T10:31:50.511Z",
+  "count": 1821,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=tg.prxtg.top&port=443&secret=ee2d1bb45f31056d1063563fc6e38e5a1064726976652e676f6f676c652e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-12T10:31:43.910Z"
+    },
     {
       "url": "https://t.me/proxy?server=www.lominak6.ir&port=443&secret=ee79e7010200010007f0030386e24c3add63646e2e79656b74616e65742e636f6d",
       "name": "MineProxy",
