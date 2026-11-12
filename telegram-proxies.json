@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-12T14:31:56.554Z",
-  "count": 1822,
+  "updated": "2026-11-12T17:16:56.153Z",
+  "count": 1828,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=45.136.14.148&port=443&secret=eed2583d5fe7b3674bb136f649b3d4ee327777772e6d6963726f736f66742e636f6d",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-12T17:16:46.066Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=power.naaab.lol&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-12T17:16:46.066Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=lol-lock.godserver52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-12T17:16:46.066Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=petros-iranim.qavi-tarin.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-12T17:16:46.066Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=proxy-cf1f540c.abaszadeh.cc&port=24443&secret=b23e8e3349282c01c4695763626670e2",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-12T17:16:46.066Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=book.malavanann.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-12T17:16:46.066Z"
+    },
     {
       "url": "https://t.me/proxy?server=w.prxtg.top&port=443&secret=eec15b39b08e586ff58acd45d81178bf1864726976652e676f6f676c652e636f6d",
       "name": "ProxyMTProto",
