@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T05:31:31.939Z",
-  "count": 1810,
+  "updated": "2026-11-12T07:31:32.825Z",
+  "count": 1811,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=fast.prxtg.top&port=443&secret=ee2c6cbde6f1e8947d8495ea1de476fc0b64726976652e676f6f676c652e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-12T07:31:27.334Z"
+    },
     {
       "url": "https://t.me/proxy?server=kotole.xeonxu.site&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "mehrosaboran",
