@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T06:46:39.889Z",
+  "updated": "2026-11-12T07:00:50.722Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.123.114:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-12T07:00:49.185Z"
+    },
     {
       "url": "vless://fb390da4-00c5-54f1-a1b4-c8e2bb6378c2@45.95.96.219:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8RfEuI1RxxW1dqq2nbt6ssKwx7UdmgKW1nKL9OuilGs&security=reality&sid=0492eabdb9&sni=deepl.com&type=tcp#%F0%9F%AB%861@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T14:32:43.367Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T14:32:43.367Z"
