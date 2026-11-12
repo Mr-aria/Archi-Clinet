@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-12T17:16:48.598Z",
+  "updated": "2026-11-12T17:45:32.827Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-12T17:45:31.726Z"
+    },
+    {
+      "url": "vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-12T17:45:31.726Z"
+    },
     {
       "url": "vless://1653818d-532e-46be-b825-384107fb7c3a@89.105.195.147:443?encryption=none&security=tls&serviceName=home.v1.ObjectService&sni=tracker.mediacorphub.org&type=grpc#%F0%9F%AB%8661@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.125.100.76:8443?encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=/trade/game/movies&security=tls&sni=cdn8848.776676.xyz&type=ws#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T17:34:12.551Z"
-    },
-    {
-      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJ1czE2LTQuOTk4OTk4LmJlc3QiLCJwb3J0IjoiNDQzIiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoic2VydmVyMS45OTY2MzM4Lnh5eiIsInBhdGgiOiIvZWZyc2Rpb3k5OHdlcnQiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJ2ZXIxLjk5NjYzMzgueHl6IiwidGVzdF9uYW1lIjoiMTMxIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T17:34:12.551Z"
-    },
-    {
-      "url": "trojan://humanity@78.47.146.151:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T17:34:12.551Z"
