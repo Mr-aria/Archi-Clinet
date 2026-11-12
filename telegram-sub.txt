@@ -1,3 +1,5 @@
+vless://37665857-8b6e-4daa-8231-3e2927221558@54.46.72.234:8030?&security=tls&fp=chrome&sni=spjd.cbc.qzz.io&type=ws&headerType=none&host=spjd.cbc.qzz.io&path=%2Fproxyip%3DProxyIP.US.CMLiussss.net#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.155.185:22222?encryption=none&security=none&type=tcp#(S103
 vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@138.124.251.98:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&security=reality&sid=8f3c6e2a1b5d4f09&sni=tradingview.com&type=tcp#%F0%9F%AB%8631@oneclickvpnkeys
 vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@20.215.66.17:2083?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&security=reality&sid=0123456789abcdef&sni=www.apple.com&type=tcp#%F0%9F%AB%8632@oneclickvpnkeys
@@ -4996,5 +4998,3 @@ vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&e
 vless://8e348ebd-1258-4d83-9721-81f922d314e9@178.239.145.21:101?security=none&encryption=none&host=mci.neteaderType=htp&type=tcp#%%5DwolfNET-4
 vless://9e3132b8-b595-444a-833a-2de44789f9d7@117.55.233.250:443?&security=tls&fp=chrome&sni=shephe.dpdns.org&type=ws&headerType=none&host=shephe.dpdns.org&path=%2F#
 vless://73bcd72f-9545-4cb8-8daf-7d004501880d@104.26.12.227:2096?&security=tls&fp=chrome&sni=shanxp.dpdns.org&type=ws&headerType=none&host=shanxp.dpdns.org&path=%2F#
-vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#
-vless://9419f782-b18e-4c4b-ae95-a7a279fd021f@91.193.58.117:443?path=%2FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&insecure=0&host=jamph131-1228.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=jamph131-1228.pages.dev#
