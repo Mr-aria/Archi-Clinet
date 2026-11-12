@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-12T11:46:33.007Z",
+  "updated": "2026-11-12T12:01:47.186Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@88.218.42.115:443?security=reality&encryption=none&pbk=cTHWxPgxWCY2aGTyJTLMOc9JVHdulknmGUqiolKPLgM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=edge-3b715ba41dc5.eu-cdn539.com&sid=dd908a76dbe472d4#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-12T12:01:41.893Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxMDkuNzAuNzQuMjAxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA5ZjBkZjZhLWRlYTktNGE2My05MTkyLTBjOWQ1ZTBjOWNkMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjgzODIiLCJwcyI6IvCfh6nwn4eqQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-12T12:01:41.893Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxNzYuOS4xOTkuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjZiYjcwYTc5LWM1NWItNDE4MC04OWUzLWZjMjliZmFiNjY2MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ep8J+HqkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-12T12:01:41.893Z"
+    },
+    {
+      "url": "vless://65e7fa8d-180a-4819-8f77-28e93f58f0ce@tuns.rupfem.ir:443?security=reality&encryption=none&pbk=v8flw1il4w2wrrss40MTSKQh_UIOi7qWtakqqzNrk1I&headerType=none&fp=chrome&spx=%2Fb2988d4fd610139&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&sid=64ffa8f4#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-12T12:01:41.893Z"
+    },
+    {
+      "url": "vless://e4346f8c-631a-46ee-9caf-09a69c08bff3@168.100.9.41:16386?security=reality&encryption=none&pbk=pCe1K8kz-ux6Gv_8nma15hPTBR3PZ4IiVAPSQqUbawY&headerType=none&fp=chrome&spx=%2FSsXg6QsPA0SPwqA&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=2d2db70fbd#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-12T12:01:41.893Z"
+    },
+    {
+      "url": "vless://4799420a-c720-46b1-9dfe-356438e50f10@flint48.fars-remen.ir:47607?security=none&encryption=mlkem768x25519plus.native.0rtt.S9DT4aeuKkc1Qtf8kz7jjGxGkzpzsCArx1CFRpmx4FU&host=dynu.com&headerType=http&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-12T12:01:41.893Z"
+    },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
       "name": "V2ray_official",
@@ -29962,42 +29998,6 @@
     },
     {
       "url": "vless://080fad7c-ff4b-499f-ab5d-52d69ea5745a@185.207.197.12:80?path=%2Fpyip&security=&encryption=none&host=calm-tree-22b0.215-d2a.workers.dev&type=ws#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T15:32:00.231Z"
-    },
-    {
-      "url": "vless://9e3132b8-b595-444a-833a-2de44789f9d7@94.130.178.194:443?path=%2F&security=tls&encryption=none&insecure=0&host=shephe.dpdns.org&fp=chrome&type=ws&allowInsecure=0&sni=shephe.dpdns.org#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T15:32:00.231Z"
-    },
-    {
-      "url": "vless://6e05822a-e9da-4135-a9db-71aa07a944af@sub.merky.top:443?path=%2Fmerky-connect%2Fde6%2F&security=tls&encryption=none&insecure=0&host=sub.merky.top&fp=chrome&type=ws&allowInsecure=0&sni=sub.merky.top#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T15:32:00.231Z"
-    },
-    {
-      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.120.94.30:8880?&type=ws&headerType=none&host=vms.lifetime07.workers.dev&path=%2F#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T15:32:00.231Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:21033?security=reality&encryption=none&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.kaidee.com&sid=cbd39bea0805e2#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T15:32:00.231Z"
-    },
-    {
-      "url": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.156.60:443?security=tls&type=ws&path=%2F&host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&packetEncoding=xudp&sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&fp=chrome&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T15:32:00.231Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@31.77.126.2:443?path=/?TELEGRAM-TOOTFFARANGI&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T15:32:00.231Z"
