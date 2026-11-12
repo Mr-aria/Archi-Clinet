@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T06:15:40.370Z",
+  "updated": "2026-11-12T06:45:30.771Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-12T06:45:29.850Z"
+    },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://b19419fa-8009-455b-b059-765e2856883a@www.speedtest.net:443?alpn=http/1.1&encryption=none&fp=chrome&host=akbarian34.j9z65ce2uyks.workers.dev&path=/vl/3Qe9Fv1V2cqEtXyBQApZYi%3Fed%3D2560&security=tls&sni=akbarian34.j9z65ce2uyks.workers.dev&type=ws#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T14:32:43.366Z"
-    },
-    {
-      "url": "vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T14:32:43.366Z"
