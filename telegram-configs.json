@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T09:00:35.945Z",
+  "updated": "2026-11-13T09:01:34.201Z",
   "count": 5000,
   "configs": [
     {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.138.99:22222?encryption=none&security=none&type=tcp#(S102",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-11-13T09:00:34.089Z"
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.44:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.indyourperfectremotetechjobfromthecomfortofhome.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-13T09:01:28.356Z"
     },
     {
       "url": "vless://615d9f74-4d51-bad3-f240-2a8400000015@104.17.148.22:443?encryption=none&fp=firefox&host=main.packetloss-com.workers.dev&path=/silaber&security=tls&sni=main.packetloss-com.workers.dev&type=ws#",
