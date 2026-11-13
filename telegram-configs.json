@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T16:45:35.676Z",
+  "updated": "2026-11-13T17:00:31.204Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.169.77:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-13T17:00:30.267Z"
+    },
     {
       "url": "vless://c07346da-5799-40c1-9d5a-5ea3ca3ac9e2@104.21.6.186:8443?path=%2Fvl%2FnOBmhwrWYZ5IucFYa%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zhclj7kx6wq0le6w-onnwueonk1hftn4.imanbieng27.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=Zhclj7kx6Wq0LE6W-ONnWuEONK1HfTN4.iManbIeNG27.WorkERs.dEv#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T01:30:31.381Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.156.101:21263?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-23T01:30:31.381Z"
