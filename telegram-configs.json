@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T05:16:40.876Z",
+  "updated": "2026-11-13T05:45:31.541Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.171.57.116:443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T05:45:30.623Z"
+    },
     {
       "url": "hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@206.245.153.57:8443/?insecure=1&obfs=salamander&obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2&pinSHA256=3d4bb251a1dfb0e132f9c5f4dbfef83bb7b3cf29ea1cdb8decea2f68365009c5&sni=hy2-nl.snobvpn.online#%F0%9F%AA%851@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-22T18:45:35.635Z"
-    },
-    {
-      "url": "vless://b2dacbda-8221-4548-a104-aa8aa56ab282@ac697733a52bdaba.tunvi.w-ert.org:32093?security=reality&alpn=h2%2Chttp%2F1.1&encryption=none&pbk=Jps_lXkq4doz-qvvikPlMevcR1CG3ZFRPHyAadj3Fhc&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=ca358c46a3e9d52a#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-22T18:45:35.635Z"
