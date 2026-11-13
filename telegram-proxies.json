@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-13T07:01:35.546Z",
-  "count": 1868,
+  "updated": "2026-11-13T08:31:32.564Z",
+  "count": 1870,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=tg.panther.pics&port=443&secret=2b2956eac133607cc458a43dd54f6a50",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-13T08:31:28.688Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=shared1.ddproxy.xyz&port=443&secret=eedddddddddddddddddddddddddddddddd6d2e6265626f6f2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-13T08:31:28.688Z"
+    },
     {
       "url": "https://t.me/proxy?server=jadid.porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
       "name": "ProxyMTProto",
