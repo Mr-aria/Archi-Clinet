@@ -1,4 +1,6 @@
-2.8.4
-تاریخ: ۱۴۰۵-۰۸-۰۴
-تغییرات:
-- بهبود کار در اینترنت ملی و ساده‌تر شدن تنظیمات میرور
+{
+  "versionCode": 36,
+  "versionName": "2.8.4",
+  "apkUrl": "https://raw.githubusercontent.com/Mr-aria/Archi-Clinet/main/apks/archi-v2.8.4-arm64.apk",
+  "changelog": "بهبود کار در اینترنت ملی و ساده‌تر شدن تنظیمات میرور"
+}
