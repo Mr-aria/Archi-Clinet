@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-13T01:15:35.350Z",
+  "updated": "2026-11-13T01:45:34.566Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteDgxZ2xxYnRsd3VoY2pv@57.131.4.13:8080#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T01:45:32.813Z"
+    },
+    {
+      "url": "vless://bba95b1f-f48c-454b-897b-a6c6bc307df1@167.172.165.106:2083?path=%2F&security=tls&encryption=none&insecure=0&host=edge.yzkvm.top&fp=chrome&type=ws&allowInsecure=0&sni=edge.yzkvm.top#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T01:45:32.813Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjciLCJhZGQiOiJzZW91bDAyLnpnam9rLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMWExZTUxOTYtZWFiNC00NzcyLTkwMTItNjVjMjdmMTlhNTI0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0Ijoic2VvdWwwMi56Z2pvay5jb20iLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T01:45:32.813Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T01:45:32.813Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T01:45:32.813Z"
+    },
+    {
+      "url": "vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T01:45:32.813Z"
+    },
     {
       "url": "ss://YWVzLTEyOC1nY206MzBlOWM3YWEtZDg2ZC00ZjBkLWEwZDYtOWQwZGRmM2Y1ZTQy@ruot.ayucloudservices.nl:40006#",
       "name": "Farah_VPN",
@@ -29962,42 +29998,6 @@
     },
     {
       "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T18:32:30.301Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T18:32:30.301Z"
-    },
-    {
-      "url": "vless://283665ab-54c2-4c59-ac55-5e8388558eba@188.114.97.6:443?security=tls&type=ws&host=27l432tlhnpcojr6u0d3.adfasdfadfasdf.workers.dev&path=%2Fvl%2FoCCSZfAWhGqcVO3WOEnIPj9Z9ke%3Fed&sni=27l432tlhnpcojr6u0d3.adfasdfadfasdf.workers.dev&alpn=http%2F1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&packetEncoding=xudp#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T18:32:30.301Z"
-    },
-    {
-      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@188.114.97.6:2082?security=none&type=ws&path=%2F%3Fed%3D2560&host=zb1zi.s3nx.dyz.hh.vavava.kdns.fr&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T18:32:30.301Z"
-    },
-    {
-      "url": "vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T18:32:30.301Z"
-    },
-    {
-      "url": "trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T18:32:30.301Z"
-    },
-    {
-      "url": "trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T18:32:30.301Z"
