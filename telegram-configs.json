@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T23:16:33.758Z",
+  "updated": "2026-11-13T23:45:31.289Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T23:45:30.328Z"
+    },
     {
       "url": "vless://faf19d58-79f2-4857-f790-3ebd8cb2459d@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=host.taghvimtime.ir#@ICV2RAY",
       "name": "icv2ray",
@@ -29995,12 +30001,6 @@
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-23T07:16:26.904Z"
-    },
-    {
-      "url": "vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&encryption=none&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&headerType=none&fp=chrome&spx=%2Fa6f16ebc763b16c&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=21270a66#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T07:00:36.655Z"
     }
   ]
 }
