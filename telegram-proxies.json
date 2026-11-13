@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T12:00:31.209Z",
-  "count": 1887,
+  "updated": "2026-11-13T12:31:35.338Z",
+  "count": 1888,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=top.fastprx.top&port=443&secret=ee2eaa3efe26957df17447871a78aa19b064726976652e676f6f676c652e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-13T12:31:29.749Z"
+    },
     {
       "url": "https://t.me/proxy?server=book.malavanann.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add706c61792e676f6f676c652e636f6d",
       "name": "free_vpn02",
