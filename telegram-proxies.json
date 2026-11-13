@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-13T16:31:37.766Z",
-  "count": 1890,
+  "updated": "2026-11-13T17:46:39.616Z",
+  "count": 1897,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=static.b-telega.shop&port=443&secret=ee9a3f90be73d8392fd072f9860a2699de7374617469632e622d74656c6567612e73686f70",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-13T17:46:37.259Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=u000i1g.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-13T17:46:37.259Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eeb169ade6f9f74fc28438d9a4d7627b827075622e756c7472612d666173742e6363",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-13T17:46:37.259Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=www.cloudflare.com.coldkeyw.co.uk&port=443&secret=7l984oosSBbGySPf1NVjDgE%3D",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-13T17:46:37.259Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=mt1.leeroy.uz&port=443&secret=eede199cd5cc7674e522ef10f4359224d36d2e6265626f6f2e7275",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-13T17:46:37.259Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=proxy-a4baf83b.kossher.cc&port=2096&secret=dd7c1ae0026ffd4439b7730b110669463d",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-13T17:46:37.259Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=94.184.32.115.ir-vlue3.ir&port=2020&secret=00000000000000000000000000000000",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-13T17:46:37.259Z"
+    },
     {
       "url": "https://t.me/proxy?server=fast.strobox.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
       "name": "ProxyMTProto",
