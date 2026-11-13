@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T22:00:33.275Z",
-  "count": 1866,
+  "updated": "2026-11-13T06:01:33.057Z",
+  "count": 1867,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-13T06:01:29.620Z"
+    },
     {
       "url": "tg://proxy?server=91.107.244.157&port=23064&secret=6ec09b67a2232109ffa7261bff9ea5c3",
       "name": "proxy_badss",
