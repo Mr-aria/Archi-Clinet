@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T18:45:32.491Z",
+  "updated": "2026-11-13T19:00:33.874Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.176.177:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-13T19:00:32.504Z"
+    },
     {
       "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.67.171:19999#%40V2ray_Alpha%E2%9B%88%EF%B8%8F9",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.143.133:22224?encryption=none&security=none&type=tcp#%F0%9F%A4%A91@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-23T03:01:36.786Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.90.187:22223?encryption=none&security=none&type=tcp#%F0%9F%A4%A93@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-23T03:01:36.786Z"
