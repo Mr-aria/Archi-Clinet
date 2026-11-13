@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T16:15:35.369Z",
+  "updated": "2026-11-13T16:30:36.916Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.171.86.108:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-13T16:30:34.899Z"
+    },
     {
       "url": "vless://a747c516-34bd-41b8-8590-a9d1edb79e95@164.90.176.31:2083?path=%2F&security=tls&encryption=none&insecure=0&host=summer-hall-8b23.asddsaasan.workers.dev&fp=random&type=ws&allowInsecure=0&sni=summer-hall-8b23.asddsaasan.workers.dev#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T01:00:31.256Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-23T01:00:31.256Z"
