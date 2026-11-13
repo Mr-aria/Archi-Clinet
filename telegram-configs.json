@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T10:46:44.283Z",
+  "updated": "2026-11-13T11:00:36.379Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.158.254:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-13T11:00:34.488Z"
+    },
     {
       "url": "vless://ead4a562-edf2-40cf-ad33-13ae98546226@77.90.0.22:2087?encryption=none&fp=&pbk=lN4gxtu1uZUH0d-RFC35FHoAwKZ6bNGV7I68JCAbGF4&security=reality&serviceName=grpc&sid=c0e1f54d&sni=dl.google.com&type=grpc#%F0%9F%AA%8531@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://9cdcbaf0-d244-4f37-b227-90166e43f5b5@cf-socks.caoyuwu.eu.org:443?&security=tls&fp=chrome&sni=cf-socks.caoyuwu.eu.org&type=ws&headerType=none&host=cf-socks.caoyuwu.eu.org&path=%2F#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T20:00:34.560Z"
-    },
-    {
-      "url": "trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T20:00:34.560Z"
