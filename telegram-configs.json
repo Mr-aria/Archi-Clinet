@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T04:45:36.478Z",
+  "updated": "2026-11-13T05:15:37.423Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://59548d2d-5d7c-4328-aa81-0d5614da0c1b@198.247.127.131:443?&security=reality&flow=xtls-rprx-vision&pbk=vmHHRwA9ER6c8dfgtL-gh2HBMCvjySy1xLimqYpLiCI&fp=chrome&sni=addons.mozilla.org&type=tcp&headerType=none&host=addons.mozilla.org&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T05:15:35.274Z"
+    },
     {
       "url": "vless://c5db14f6-2a21-401c-8160-a8093ff4ffd3@188.114.97.3:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=mxp6jvjacystdp-s4f.kjnnv3i410u6mq-itd.workers.dev&path=/vl/14m2B3TtxW5N85ews&security=tls&sni=mxp6jvjacystdp-s4f.kjnnv3i410u6mq-itd.workers.dev&type=ws#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.144.30.86:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chita.vkusnews.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T18:32:30.301Z"
-    },
-    {
-      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T18:32:30.301Z"
