@@ -1,3 +1,4 @@
+https://t.me/proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d
 tg://proxy?server=91.107.244.157&port=23064&secret=6ec09b67a2232109ffa7261bff9ea5c3
 tg://proxy?server=proxy.gocdn-prime.ir&port=41816&secret=82f1ed94476a3948772eae5db8ea9646
 tg://proxy?server=link.steampower.online&port=3864&secret=79e344818749bd7ac519130220c25d09
