@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T14:16:57.669Z",
+  "updated": "2026-11-13T14:45:35.450Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T14:45:33.696Z"
+    },
     {
       "url": "vless://f8cb3c89-32af-4255-bebc-d90aad175069@217.199.253.177:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rua.kosmosapp.net&allowInsecure=1&fp=firefox&security=reality&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09#%F0%9F%87%B7%F0%9F%87%BA%2013%40exclavevpn",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-22T21:00:34.794Z"
-    },
-    {
-      "url": "vless://ee18d188-14cc-417e-beb1-70e4add6d023@147.45.61.213:443?security=reality&encryption=none&pbk=fiH8cNK7JlHGz6hHHjmsspRdnjpemaq1Q_xmP8a5FHo&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=nl4.nztvpn.com&sid=a47d71c75bb8be07#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-22T21:00:34.794Z"
