@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T19:30:33.308Z",
+  "updated": "2026-11-13T19:45:34.336Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=/fp#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T19:45:32.954Z"
+    },
     {
       "url": "vless://9517e5e2-c4e9-425d-9355-0a8a9cfbf330@e0e26ad8c17ab47b.web.vipercloud.ir:40289?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#MTMVPN",
       "name": "proxy_mtm",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@31.77.126.2:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T05:00:31.900Z"
-    },
-    {
-      "url": "trojan://humanity@188.226.181.61:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-23T05:00:31.900Z"
