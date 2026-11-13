@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-13T12:15:31.683Z",
+  "updated": "2026-11-13T12:45:33.409Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?encryption=none&fp=chrome&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&sni=elenaaaaaaaaaa.cloudns.pro.&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T12:45:31.873Z"
+    },
+    {
+      "url": "vless://c07346da-5799-40c1-9d5a-5ea3ca3ac9e2@104.21.6.186:443?path=%2Fvl%2Fx4H5rhMsHGnY0L8MlLT9HFspaKsh7%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zhclj7kx6wq0le6w-onnwueonk1hftn4.imanbieng27.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zHcLJ7Kx6wq0LE6w-ONNWUeonk1hfTn4.ImanbIenG27.WoRKers.DEv#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T12:45:31.873Z"
+    },
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.16:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T12:45:31.873Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpieVg0LURWMEM0MlBMRlRXUWhNVEFRNjNtWjhxckRSQg==@dns24.m3hrzd.ir:1352#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T12:45:31.873Z"
+    },
+    {
+      "url": "vless://0fbe0c5e-b479-4d91-8b42-f194f781b6bb@188.114.96.1:8880?encryption=none&security=none&type=ws&host=z0ndd1onnp04unxjemim9lf8.abaravi51.workers.dev&path=/vl/YPMvUeqm6JGQPL7NGXDTWZ0M?ed=2560#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T12:45:31.873Z"
+    },
+    {
+      "url": "vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T12:45:31.873Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGU5IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZTkiLCJhZGQiOiIxMy4yNDkuMjMxLjg1IiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiJhODRjMTMyYS0zMTUxLTQwZmUtOTQ3Yi00ZGQ5YTdkMjEyMmMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJob3N0IjoiZDdwdTVtenI5YzRiMC5jbG91ZGZyb250Lm5ldCIsInBhdGgiOiIvdm1lc3MifQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T12:45:31.873Z"
+    },
+    {
+      "url": "vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?&sni=5.178.109.174&type=ws&headerType=none&host=5.178.109.174&path=%2Fvless#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-13T12:45:31.873Z"
+    },
     {
       "url": "vless://9419f782-b18e-4c4b-ae95-a7a279fd021f@91.193.58.117:443?path=%2FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&encryption=none&insecure=0&host=jamph131-1228.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=jamph131-1228.pages.dev#",
       "name": "Farah_VPN",
@@ -29953,54 +30001,6 @@
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-22T20:30:32.049Z"
-    },
-    {
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#Tel%40MARAMBASHI%20%F0%9F%92%9F",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-22T20:30:32.049Z"
-    },
-    {
-      "url": "vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?security=reality&encryption=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=al2.magazinnarubeva.ru&sid=8718c58d3d51db59#Tel%40MARAMBASHI%20%F0%9F%92%9F",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-22T20:30:32.049Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#Tel%40MARAMBASHI%20%F0%9F%92%9F",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-22T20:30:32.049Z"
-    },
-    {
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@165.245.182.116:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#Tel%40MARAMBASHI%20%F0%9F%92%9F",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-22T20:30:32.049Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Tel%40MARAMBASHI%20%F0%9F%92%9F",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-22T20:30:32.049Z"
-    },
-    {
-      "url": "vless://45d51389-0c38-4843-8ae8-cffb94e97a72@144.202.126.147:443?encryption=none&fp=&host=itunes.apple.com&path=%2Fws&pbk=jO7THaLxz0Oz3kePAJcuwcKNTlsWoEWGh18zzRmiXgo&security=reality&sid=77c4230d&sni=itunes.apple.com&type=ws#%F0%9F%9B%B891@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T20:01:37.703Z"
-    },
-    {
-      "url": "vless://b256c867-a020-48e0-be80-1b079f2613a2@45.76.172.197:443?encryption=none&fp=&path=%2Fws&pbk=Ag8SQ5QdqfHO9pKWA93kqGmH5EQo7Xm5Z4RbPnwPBBE&security=reality&sid=ff3597db&sni=itunes.apple.com&type=ws#%F0%9F%9B%B892@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T20:01:37.703Z"
-    },
-    {
-      "url": "vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&security=reality&sid=21270a66&sni=aws.amazon.com&type=tcp#%F0%9F%9B%B893@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-22T20:01:37.703Z"
     }
   ]
 }
