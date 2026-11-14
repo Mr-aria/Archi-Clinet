@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-14T20:01:37.804Z",
+  "updated": "2026-11-14T20:15:35.061Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.131:11443?security=reality&encryption=none&pbk=aRrXkr-ISYHOylnMElRKZ4BoHBdgXLBDgBmCC899j1w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=140.225.209.130&sid=1b10fef2d97c68a3#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-11-14T20:15:34.456Z"
+    },
+    {
+      "url": "vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.171:11443?security=reality&encryption=none&pbk=ZqHfvrlH6yQwF36OVgnBbgDgMIXtOYZ_QRpkjbwOJBg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=140.225.209.170&sid=341079e3ef711499#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-11-14T20:15:34.456Z"
+    },
+    {
+      "url": "vless://aa3e4b64-c119-44be-b0f3-f88293705e37@91.98.221.107:36976?security=reality&encryption=none&pbk=JOq-etvGYFzGXAO34SIBl2tSH3lQwIuChL8E8niAfw0&host=https%3A%2F%2Fwww.cloudflare.com&headerType=http&fp=chrome&spx=%2F5d88157af2232c9&type=tcp&sni=timeline.www.cloudflare.com&sid=7ac652c21ba6c3#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-11-14T20:15:34.456Z"
+    },
+    {
+      "url": "vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.168.211:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-11-14T20:15:34.456Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiI5MS45OC4yMjEuMTA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJodHRwczovL3d3dy5jbG91ZGZsYXJlLmNvbSIsImlkIjoiYWEzZTRiNjQtYzExOS00NGJlLWIwZjMtZjg4MjkzNzA1ZTM3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwY3MiOiIiLCJwb3J0IjoiNTg4MDQiLCJwcyI6IvCflLAgQHBycm9maWxlX3B1cnBsZSAo2KrZhNqv2LHYp9mFKSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIiwidmNuIjoiIn0=",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-11-14T20:15:34.456Z"
+    },
+    {
+      "url": "vless://62546819-be8b-4ecf-bb90-ed04fdf610f3@178.214.125.2:443?security=reality&encryption=none&pbk=ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=conf.emaar.ru&sid=6172ba9cffe9c22f#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
+      "name": "prrofile_purple",
+      "source": "prrofile_purple",
+      "date": "2026-11-14T20:15:34.456Z"
+    },
     {
       "url": "vless://2ed1ddca-a5cf-41ba-86f1-677501db9d11@1.235c235.abrdns.com:4041?security=reality&encryption=none&pbk=ccKm06pTKMz_Mrbn3jL4wXQI6vmw2iYIQ8c--Sn13lI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=genshin.hoyoverse.com&sid=566f0df921560c#MTMVPN",
       "name": "proxy_mtm",
@@ -29965,42 +30001,6 @@
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-23T20:15:30.994Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22224?security=&encryption=none&headerType=&type=tcp#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-23T20:15:30.994Z"
-    },
-    {
-      "url": "vless://218fd696-e3a2-4c33-b397-a5f13a82969e@216.227.161.95:7443?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=media3.abvphelp.cc&fp=firefox&sid=48d5cf47&pbk=uNqGvaJEIFTFQvAxsTDhetPxkIWzJuBtxXsK0yFMYzM#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T20:01:41.716Z"
-    },
-    {
-      "url": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@193.233.253.180:8444?security=reality&type=grpc&mode=gun&serviceName=GunService&packetEncoding=xudp&sni=github.com&fp=chrome&sid=457fab2ac885dbe0&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T20:01:41.716Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJkb2ctdXMua3VubHVuMDFkbnMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk0NjRjYTQwLWRkNzUtMzc0Mi1hNjI4LWQ5MzFhOWY0MTNiMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjEwMDkiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4Iiwic2N5IjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T20:01:41.716Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOiIwIiwiaWQiOiIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTYyNTgiLCJwcyI6Ilx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRlYSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T20:01:41.716Z"
-    },
-    {
-      "url": "vless://ad489e25-3492-4f70-846b-f5c040ab1981@aws.tv.sync-bridge.ir:443?mode=gun&security=reality&encryption=none&pbk=CMcDUshsDJ_MLtaLyJmvDOFmxiWVSMSt-3zEmQJRczY&fp=chrome&spx=%2Fde97860c0276453&type=grpc&sni=play.google.com&sid=6e99488c#%40prrofile_purple%20%7C%20ViP%20%E2%9A%A1",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-23T20:00:32.251Z"
     }
   ]
 }
