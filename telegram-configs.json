@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-14T16:31:36.483Z",
+  "updated": "2026-11-14T16:46:37.874Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#%40V2ray_Alpha%F0%9F%8F%80%206",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-14T16:46:35.957Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.62.2:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromesecurity=tls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T17:30:36.096Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-23T17:30:36.096Z"
