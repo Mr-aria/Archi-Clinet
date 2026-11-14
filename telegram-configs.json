@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-14T09:00:37.650Z",
+  "updated": "2026-11-14T09:01:33.420Z",
   "count": 5000,
   "configs": [
     {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.93.21:22222?encryption=none&security=none&type=tcp#(S102",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-11-14T09:00:35.650Z"
+      "url": "vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4eo8J+HpkBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIyMy4xNjIuMjAwLjE5OCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-14T09:01:27.923Z"
     },
     {
       "url": "vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?mode=gun&security=tls&encryption=none&insecure=0&fp=qq&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#%40V2ray_Alpha%F0%9F%8E%91%206",
