@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-14T08:45:31.232Z",
+  "updated": "2026-11-14T09:00:37.650Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.93.21:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-14T09:00:35.650Z"
+    },
     {
       "url": "vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?mode=gun&security=tls&encryption=none&insecure=0&fp=qq&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#%40V2ray_Alpha%F0%9F%8E%91%206",
       "name": "V2ray_Alpha",
@@ -29995,12 +30001,6 @@
       "name": "outline_vpn",
       "source": "outline_vpn",
       "date": "2026-10-23T11:00:30.698Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.237.199:22222?encryption=none&security=none&type=tcp#(S103",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-23T10:45:33.552Z"
     }
   ]
 }
