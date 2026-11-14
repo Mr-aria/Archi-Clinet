@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-13T22:31:38.930Z",
-  "count": 1902,
+  "updated": "2026-11-14T06:01:30.855Z",
+  "count": 1903,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-14T06:01:27.311Z"
+    },
     {
       "url": "https://t.me/proxy?server=full.rozinalpoku.co.uk&port=8080&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "YamYamProxy",
