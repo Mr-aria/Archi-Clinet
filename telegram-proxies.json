@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-14T06:01:30.855Z",
-  "count": 1903,
+  "updated": "2026-11-14T06:31:32.926Z",
+  "count": 1904,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=demo.white-bars.ru&port=443&secret=ee12f392b7ee1dd989907a3dbdac0e523964656d6f2e77686974652d626172732e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-14T06:31:29.085Z"
+    },
     {
       "url": "https://t.me/proxy?server=russia.knox-proxy.world&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d",
       "name": "ProxyMTProto",
