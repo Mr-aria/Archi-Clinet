@@ -1,3 +1,4 @@
+https://t.me/proxy?server=48.103.224.73&port=443&secret=eeb3302b8ce6f18e5e5f32360e1d70a4ff676f6f676c657461676d616e616765722e636f6d
 tg://proxy?server=srv-jxltms.nether.cfd&port=443&secret=ee8ef3d287d668f5b4859c68653b6bc974646c2e676f6f676c652e636f6d
 https://t.me/proxy?server=arvan.cloud.w.downloder.co.uk&port=8443&secret=7l984oosSBbGySPf1NVjDgE=
 https://t.me/proxy?server=xk4.p9.vzt.m.2e.hq.w.roseprox.xyz&port=5443&secret=eeNcH6iy2U4Htjocj0Atng
