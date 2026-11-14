@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-14T06:45:35.164Z",
-  "count": 1905,
+  "updated": "2026-11-14T10:01:34.838Z",
+  "count": 1912,
   "proxies": [
+    {
+      "url": "tg://proxy?server=srv-jxltms.nether.cfd&port=443&secret=ee8ef3d287d668f5b4859c68653b6bc974646c2e676f6f676c652e636f6d",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-14T10:01:32.331Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=arvan.cloud.w.downloder.co.uk&port=8443&secret=7l984oosSBbGySPf1NVjDgE=",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-14T10:01:32.331Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=xk4.p9.vzt.m.2e.hq.w.roseprox.xyz&port=5443&secret=eeNcH6iy2U4Htjocj0Atng",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-14T10:01:32.331Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=bank.meli.com.cloud.coldkeyw.co.uk&port=443&secret=EE5f7ce28a2c4816c6c923dfd4d5630e01",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-14T10:01:32.331Z"
+    },
+    {
+      "url": "tg://proxy?server=46.225.228.229&port=69&secret=eek0soMPvMd5NXaOI8NFbg",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-14T10:01:32.331Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=api-gateway-internal.terminalc.shop.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-14T10:01:32.331Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=46.225.228.229&port=69&secret=eeQt8J7R28jCwkFJJVLgUA",
+      "name": "pewezavpn",
+      "source": "pewezavpn",
+      "date": "2026-11-14T10:01:32.331Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.peachsoft.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "MTP_roto",
