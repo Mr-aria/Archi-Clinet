@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-14T00:15:32.979Z",
+  "updated": "2026-11-14T00:45:34.644Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.21.70.21:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=damp-dawn-3a96.alvlirm123.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=damp-dawn-3a96.alvlirm123.workers.dev#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T00:45:33.042Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T00:45:33.042Z"
+    },
+    {
+      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.47.113:2086?&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T00:45:33.042Z"
+    },
+    {
+      "url": "vless://893096ae-ed76-4440-bc34-f77c4872540f@188.114.97.6:8080?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=masterserver1-vsh.kalleh.workers.dev&path=/eyJqdW5rIjoieE1zSFhYR2hkcHZGUHI3cSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&sni=masterserver1-vsh.kalleh.workers.dev&type=ws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T00:45:33.042Z"
+    },
     {
       "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#",
       "name": "Farah_VPN",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://5545d204-13f5-4e3e-af5c-4ded2b945743@146.75.57.238:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=polandboijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T07:16:26.904Z"
-    },
-    {
-      "url": "vless://5545d204-13f5-4e3e-af5c-4ded2b945743@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=albaniaoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T07:16:26.904Z"
-    },
-    {
-      "url": "vless://5545d204-13f5-4e3e-af5c-4ded2b945743@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=looabturkeyeoijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%B9%F0%9F%87%B7%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T07:16:26.904Z"
-    },
-    {
-      "url": "vless://aa57c8ff-9445-43d1-931b-f174b01ab094@Cdn.mamad.web.tr:443?mode=auto&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2Fsetare&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22hMaxReusableSecs%22%3A%22300-480%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22300-500%22%2C%22maxConcurrency%22%3A%2216-32%22%7D%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%5C%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%5C%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%5C%2F116.0.0.0%20Safari%5C%2F537.36%22%7D%7D&insecure=0&host=Ongyjbthv.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T07:16:26.904Z"
-    },
-    {
-      "url": "vless://5545d204-13f5-4e3e-af5c-4ded2b945743@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=looabgermanyoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-23T07:16:26.904Z"
