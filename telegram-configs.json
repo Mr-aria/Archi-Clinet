@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-14T20:15:35.061Z",
+  "updated": "2026-11-14T20:16:42.766Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://f656c4b9-54dc-44cc-a142-e242ce687e56@78.159.250.83:443?security=tls&encryption=none&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=dualarrow.net#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-14T20:16:39.644Z"
+    },
+    {
+      "url": "vless://8d2cbffd-43d0-458d-906b-7c54b7b51f38@199.232.78.120:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=usaslioijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-14T20:16:39.644Z"
+    },
+    {
+      "url": "vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.171:11443?security=reality&encryption=none&pbk=ZqHfvrlH6yQwF36OVgnBbgDgMIXtOYZ_QRpkjbwOJBg&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=140.225.209.170&sid=341079e3ef711499#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-14T20:16:39.644Z"
+    },
+    {
+      "url": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.175.171.30:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=assets-v2.porsche.com&sid=1a2b3c4d#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-14T20:16:39.644Z"
+    },
+    {
+      "url": "vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@48.102.168.211:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-14T20:16:39.644Z"
+    },
     {
       "url": "vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@140.225.209.131:11443?security=reality&encryption=none&pbk=aRrXkr-ISYHOylnMElRKZ4BoHBdgXLBDgBmCC899j1w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=140.225.209.130&sid=1b10fef2d97c68a3#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
       "name": "prrofile_purple",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-23T20:15:30.994Z"
-    },
-    {
-      "url": "vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?security=reality&encryption=none&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&headerType=none&fp=random&type=tcp&sni=www.cloudflare.com&sid=ce1dc482#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-23T20:15:30.994Z"
-    },
-    {
-      "url": "vless://TelegramSoonTeam@v2.x0netbot.com:26240?security=reality&encryption=none&pbk=8JAwBHA2qkWEsUq0KZTXV7otTkunRNhrHDw3n-cNYVY&headerType=&fp=chrome&spx=%2F4e7681b09aab65f&type=tcp&sni=bg-call-donation-alpha.goog&sid=aa37a051c2bec9#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-23T20:15:30.994Z"
-    },
-    {
-      "url": "vless://TelegramSoonTeam@v2.x0netbot.com:14383?security=reality&encryption=none&pbk=8JAwBHA2qkWEsUq0KZTXV7otTkunRNhrHDw3n-cNYVY&headerType=&fp=chrome&spx=%2F4e7681b09aab65f&type=tcp&sni=bg-call-donation-dev.goog&sid=4d#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-23T20:15:30.994Z"
-    },
-    {
-      "url": "vless://8e51228b-0985-4755-a0e0-8ecb7493bac6@95.135.125.11:48293?security=reality&encryption=none&pbk=KFTbe_Hkcy4x5DbQTRoUpSjux-NU1YVwFHHFjVKXyGg&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=23e882de408ef82a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-23T20:15:30.994Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.209.55:22223?security=&encryption=none&headerType=&type=tcp#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-23T20:15:30.994Z"
