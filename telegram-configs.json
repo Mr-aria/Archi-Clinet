@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-14T17:01:35.148Z",
+  "updated": "2026-11-14T17:16:53.563Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiIxMjM0NjYucnUiLCJwb3J0IjoiMjYwMzIiLCJ0eXBlIjoibm9uZSIsImlkIjoiODA0MzM0ZTItMDRjYS00MzRjLTgzMTEtM2NjZWU4MjE4MTc1IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IjEyMzQ2Ni5ydSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T17:16:50.510Z"
+    },
+    {
+      "url": "vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?&type=ws&headerType=none&host=dcm4kwis2exkw.cloudfront.net&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T17:16:50.510Z"
+    },
+    {
+      "url": "vless://0c85001b-ad48-4f43-bdc9-b2b5c626a26e@assets.opensignal.com:80?&type=ws&headerType=none&host=d36lt9hzl2ug3d.cloudfront.net:assets.opensignal.com&path=%2Flogout#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T17:16:50.510Z"
+    },
+    {
+      "url": "vmess://eyJ2IjpudWxsLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IiwiYWRkIjoiMTY5LjE5Ny4xNDIuMjIiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgQFJheWRpa2FseCB8IEUzOEREQiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T17:16:50.510Z"
+    },
+    {
+      "url": "vless://55458d10-24ab-4ea6-a522-13741b546f2a@ec7a81g.de15.h1clayd.click:443?security=reality&type=grpc&mode=gun&serviceName=43f41cd7fee0&packetEncoding=xudp&sni=ec7a81g.de15.h1clayd.click&fp=chrome&sid=7a8e24da4eb2c1b5&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T17:16:50.510Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.11.116.160:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29971,36 +30001,6 @@
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-23T17:47:03.668Z"
-    },
-    {
-      "url": "vless://7623b717-29f8-4f76-9a9a-eec96d92dba9@146.75.57.111:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=firefox.com&mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=host3872.global.ssl.fastly.net&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T17:47:03.668Z"
-    },
-    {
-      "url": "vless://408c51e8-9246-483d-ba73-34ab4e202eb9@pl1.song69.fun:20268?security=reality&encryption=none&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=0c774b50#%F0%9F%87%B5%F0%9F%87%B1%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T17:47:03.668Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.33.153:18443#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-23T17:31:49.683Z"
-    },
-    {
-      "url": "trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=edge&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-23T17:31:49.683Z"
-    },
-    {
-      "url": "vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@fin3.himoy.space:443?security=reality&encryption=none&pbk=2aGY0cy7IEqurjq5XBPv9gaZHhuod0RDBJUToyTSrws&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fin3.himoy.space&sid=2764053a11bdeec7#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-23T17:31:49.683Z"
     }
   ]
 }
