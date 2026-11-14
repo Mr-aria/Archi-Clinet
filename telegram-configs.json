@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-14T08:16:42.013Z",
+  "updated": "2026-11-14T08:45:31.232Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@vps3.nemnogogo.com:443?mode=gun&security=tls&encryption=none&insecure=0&fp=qq&type=grpc&serviceName=mobile.api.Event&allowInsecure=0&sni=vps3.nemnogogo.com#%40V2ray_Alpha%F0%9F%8E%91%206",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-14T08:45:30.243Z"
+    },
+    {
+      "url": "vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@20.215.66.17:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T08:45:30.163Z"
+    },
+    {
+      "url": "vless://9cdcbaf0-d244-4f37-b227-90166e43f5b5@cf-socks.caoyuwu.eu.org:443?&security=tls&fp=chrome&sni=cf-socks.caoyuwu.eu.org&type=ws&headerType=none&host=cf-socks.caoyuwu.eu.org&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T08:45:30.163Z"
+    },
+    {
+      "url": "vless://ab61daa1-b7fb-486e-8946-b1da9a444685@158.247.224.240:443?&security=tls&fp=chrome&sni=cf2us.3rr0r.online&type=ws&headerType=none&host=cf2us.3rr0r.online&path=%2Fproxyip%3DProxyIP.KR.CMLiussss.Net#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T08:45:30.163Z"
+    },
+    {
+      "url": "vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@74.161.152.237:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T08:45:30.163Z"
+    },
+    {
+      "url": "vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@9.163.235.73:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T08:45:30.163Z"
+    },
+    {
+      "url": "vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&sid=9e419c0759b54d6f#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T08:45:30.163Z"
+    },
     {
       "url": "vless://3f2a36f7-2cb3-4181-ae70-7c6d22dc3b01@91.107.147.12:11520?encryption=none&security=none&type=tcp#%F0%9F%99%8F1@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29959,48 +30001,6 @@
       "name": "PrivateVPNs",
       "source": "PrivateVPNs",
       "date": "2026-10-23T10:45:33.552Z"
-    },
-    {
-      "url": "trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?security=tls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T10:31:47.523Z"
-    },
-    {
-      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjNcdWQ4M2NcdWRkZjEiLCJhZGQiOiJoYWEuZGFzaHVhaS5jeW91IiwicG9ydCI6IjQ1MDY2IiwidHlwZSI6Im5vbmUiLCJpZCI6IjQ1MDQ4YzVjLTlhYWEtNGU0My1hOTkwLWJiODg3NjcyNjA5YSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJoYWEuZGFzaHVhaS5jeW91IiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T10:31:47.523Z"
-    },
-    {
-      "url": "vless://%58pnTeam-39@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-23T10:30:33.785Z"
-    },
-    {
-      "url": "vless://%58pnTeam-40@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-23T10:30:33.785Z"
-    },
-    {
-      "url": "vless://e7e1e726-b30f-477a-a308-3138e62a8d21@vip-tun.korluma.ir:8010?security=none&encryption=mlkem768x25519plus.native.0rtt.Qu4km2yZ6QAhjFVVooUz7HaqfY01CIucSDrRPJY4rBw&host=netmeli.korluma.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T10:30:29.543Z"
-    },
-    {
-      "url": "vless://e7e1e726-b30f-477a-a308-3138e62a8d21@vip-tun.korluma.ir:15088?security=none&encryption=mlkem768x25519plus.native.0rtt.cvVZFxCx1D3ly-0N5EXakc6tYVadDChlE35mpu3MvwU&host=netmeli.korluma.ir&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T10:30:29.543Z"
-    },
-    {
-      "url": "vless://e7e1e726-b30f-477a-a308-3138e62a8d21@vip-tun.korluma.ir:14256?security=none&encryption=mlkem768x25519plus.native.0rtt.lP8_9ZFjOlVDAt1gqie0PnqPKOz_HsYUrzhlyV8T4C8&host=netmeli.korluma.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T10:30:29.543Z"
     }
   ]
 }
