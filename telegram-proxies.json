@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-14T06:31:32.926Z",
-  "count": 1904,
+  "updated": "2026-11-14T06:45:35.164Z",
+  "count": 1905,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.peachsoft.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-14T06:45:29.630Z"
+    },
     {
       "url": "https://t.me/proxy?server=demo.white-bars.ru&port=443&secret=ee12f392b7ee1dd989907a3dbdac0e523964656d6f2e77686974652d626172732e7275",
       "name": "ProxyMTProto",
