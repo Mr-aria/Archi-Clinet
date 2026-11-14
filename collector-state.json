@@ -1,14 +1,14 @@
 {
   "lastSeen": {
     "PewezaTech": 25928,
-    "mmd_adm": 28856,
+    "mmd_adm": 28861,
     "free_vpn02": 5173,
     "freakconfig": 10638,
     "outline_vpn": 11876,
     "iut_ChatrBazaan": 0,
     "ProxyMTProto": 53104,
     "khabari_18": 78873,
-    "JozveDaneshgahi_ir": 13259,
+    "JozveDaneshgahi_ir": 13260,
     "MatinSenPaii": 5874,
     "pewezavpn": 25928,
     "ShadowWolfVpn": 219,
@@ -33,7 +33,7 @@
     "V2ray_official": 10059,
     "IRAN_V2RAY1": 11399,
     "Hope_Net": 94309,
-    "V2rayng_Fast": 26883,
+    "V2rayng_Fast": 26884,
     "icv2ray": 8885,
     "oneclickvpnkeys": 27677,
     "iRoProxy": 58280,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 14177,
   "totalProxies": 1710,
-  "runCount": 4413
+  "runCount": 4414
 }
