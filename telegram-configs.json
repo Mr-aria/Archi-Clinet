@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-14T14:46:32.270Z",
+  "updated": "2026-11-14T16:15:33.556Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.190:443?path=%2F&security=tls&encryption=none&insecure=0&host=d2ex4nxd2e01ub.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d2ex4nxd2e01ub.cloudfront.net#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-14T16:15:29.276Z"
+    },
     {
       "url": "vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@20.19.83.143:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://db5d30fa-cb12-4988-8ba0-5e8e04925306@88d5a34e7e43.salzivo.ir:443?vcn=play.google.com&mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=bx7o4b0csy0j.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T16:48:06.011Z"
-    },
-    {
-      "url": "vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-23T16:48:06.011Z"
