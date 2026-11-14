@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-14T17:45:33.905Z",
-  "count": 1918,
+  "updated": "2026-11-14T18:46:35.975Z",
+  "count": 1919,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=49.13.7.180&port=443…",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-14T18:46:31.874Z"
+    },
     {
       "url": "https://t.me/proxy?server=objectpeak.org&port=443&secret=ee15d9244d7aa802e81b1736133fe059c5686f66662e7275",
       "name": "ProxyMTProto",
