@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-14T14:00:31.910Z",
+  "updated": "2026-11-14T14:46:32.270Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://52a5a29f-c162-411a-8a37-a3f11b0dc537@20.19.83.143:2083?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=WbgtxLlo2gmTzB4Wzxgh_U7G97d4ENTS10fYIoujET4&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T14:46:30.024Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T14:46:30.024Z"
+    },
     {
       "url": "vless://1e697474-7836-47ed-aaca-b559efcbb298@eu90.cdn77.icu:20010/?type=tcp&encryption=none&flow=&sni=eu64.cdn77.icu&fp=firefox&security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sid=1ed136481e0ede74#%F0%9F%99%8F75%40oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_8i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T16:48:06.011Z"
-    },
-    {
-      "url": "vless://7dee06cc-4bc8-43ca-a6c2-59f81107f2e3@www.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM--FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE-FaraGATE--TELEGRAM&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-23T16:48:06.011Z"
-    },
-    {
-      "url": "vless://49883404-5bd4-42fc-9cb4-913980e278ad@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%2F%40CloudVPNchannel%3Fed%3D2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mpkoe7ypcibr80p102020123.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig",
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-23T16:48:06.011Z"
