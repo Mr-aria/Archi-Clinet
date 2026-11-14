@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-14T15:45:32.088Z",
-  "count": 1915,
+  "updated": "2026-11-14T16:46:42.523Z",
+  "count": 1916,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=karbon.torobchesho.co.uk.&port=443&secret=ee79e344828749bd7ac519130220c25d096b6172626f6e2e746f726f6263686573686f2e636f2e756b",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-14T16:46:34.128Z"
+    },
     {
       "url": "https://t.me/proxy?server=ultraproxy.shop&port=443&secret=eeec15a78c3842e866c302c8526175a68c7975672d6c696e6b2e7275",
       "name": "ProxyMTProto",
