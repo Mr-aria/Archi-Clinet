@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-14T21:16:37.989Z",
+  "updated": "2026-11-14T22:46:38.232Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjQxIiwiaWQiOiI5ZDVjMTVhMy0xNjZjLTRkNjUtOGEwYi1kN2E3YTdjODg2M2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvIiwiaG9zdCI6IjdkNTY0ODJkYzUyNTFlMmVmYWNhNjIzZGNiYzY0ZTNkLm1vYmdzbGIudGJjYWNoZS5jb20iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-14T22:46:35.846Z"
+    },
     {
       "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40V2ray_Alpha%F0%9F%8D%BB%2010",
       "name": "V2ray_Alpha",
@@ -29995,12 +30001,6 @@
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-23T20:31:36.210Z"
-    },
-    {
-      "url": "vless://%58pnTeam-42@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-23T20:30:31.428Z"
     }
   ]
 }
