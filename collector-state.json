@@ -39,7 +39,7 @@
     "iRoProxy": 58295,
     "proxy_badss": 28278,
     "MyPoroxy": 47090,
-    "BlueKnight_Net": 1768,
+    "BlueKnight_Net": 1769,
     "SRCVPN": 7621,
     "ZibaNabz": 24803,
     "PrivateVPNs": 26640,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 14475,
   "totalProxies": 1737,
-  "runCount": 4690
+  "runCount": 4691
 }
