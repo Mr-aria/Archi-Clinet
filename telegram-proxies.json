@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-15T18:45:35.133Z",
-  "count": 1937,
+  "updated": "2026-11-15T19:15:31.639Z",
+  "count": 1938,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir.konstruktion.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-15T19:15:29.674Z"
+    },
     {
       "url": "https://t.me/proxy?server=breezeridge.heronglade.space&port=8443&secret=eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275",
       "name": "ProxyMTProto",
