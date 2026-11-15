@@ -1,7 +1,127 @@
 {
-  "updated": "2026-11-15T06:16:33.888Z",
+  "updated": "2026-11-15T07:00:34.463Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.175.171.30:8444?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=www.volkswagen.de&type=tcp#%F0%9F%99%8F92@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "hysteria2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?sni=s5.libertyrunet.store#%F0%9F%99%8F69@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://a54c6d0b-56d8-4bb8-a4af-8c5a7f0c0b34@200.165.236.84:443?encryption=none&fp=&pbk=WerkLBuzReJqDK23pG8dd7JPLBcu2rVhUfBR52D4um0&security=reality&serviceName=api&sid=05c656ffd118ce13&sni=yandex.ru&type=grpc#%F0%9F%99%8F43@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?fp=chrome&sni=resources.connectingpeoplewithgreatjobs.com#%F0%9F%99%8F72@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?fp=chrome&sni=blog.unlockyourfuturefindyourperfectcareer.com#%F0%9F%99%8F70@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "trojan://5t6i121em5lkmsmk@149.104.87.125:15083?allowInsecure=1&sni=mx001.zestapp778.com#%F0%9F%99%8F74@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://bcdb425f-80bc-4ec8-92a5-8edf53639c01@207.148.124.12:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=www.bing.com&type=tcp#%F0%9F%99%8F39@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://b0d814b5-7232-4fe9-9ce9-e552c9abbae8@172.239.67.142:443?encryption=none&fp=&host=itunes.apple.com&path=%2Fws&pbk=Knpni0SBmL6d1nGWtqmHRDsOQvQxcD2Wd0eOf2KZtgs&security=reality&sid=ba356a45&sni=itunes.apple.com&type=ws#%F0%9F%99%8F40@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?allowInsecure=1&fp=chrome#%F0%9F%99%8F32@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=sg.fasti.win&type=tcp#%F0%9F%99%8F73@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?fp=chrome&sni=cdn.connectingpeoplewithgreatjobs.com#%F0%9F%99%8F71@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.175.211.248:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=images.porsche.com&type=tcp#%E2%9A%95%EF%B8%8F1@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://54bbcea5-44b1-44c9-83db-47b1562f678d@91.98.221.107:42275?encryption=none&headerType=http&host=https%3A%2F%2Fwww.cloudflare.com&path=%2F&security=none&type=tcp#%E2%9A%95%EF%B8%8F2@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://e4346f8c-631a-46ee-9caf-09a69c08bff3@168.100.9.41:16386?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pCe1K8kz-ux6Gv_8nma15hPTBR3PZ4IiVAPSQqUbawY&security=reality&sid=2d2db70fbd&sni=www.oracle.com&type=tcp#%E2%9A%95%EF%B8%8F3@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.231.45.196:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=images.porsche.com&type=tcp#%E2%9A%95%EF%B8%8F4@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vmess://54bbcea5-44b1-44c9-83db-47b1562f678d@91.98.221.107:58804?encryption=auto&headerType=http&host=https%3A%2F%2Fwww.cloudflare.com&path=%2F&security=none&type=tcp#%E2%9A%95%EF%B8%8F8@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://0809eed6-5204-49b8-8312-b82a10024022@195.110.15.17:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&security=reality&sid=8cfe1563&sni=195.110.15.17&type=tcp#%E2%9A%95%EF%B8%8F10@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?allowInsecure=1&fp=chrome#%E2%9A%95%EF%B8%8F13@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.231.28.130:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=images.porsche.com&type=tcp#%E2%9A%95%EF%B8%8F14@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
+    {
+      "url": "hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@177.202.66.212:443/?insecure=1&sni=de1.obxodvpn.us#%E2%9A%95%EF%B8%8F15@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-15T07:00:34.133Z"
+    },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&sni=fuck.rkn#",
       "name": "Farah_VPN",
@@ -29881,126 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-23T21:32:22.619Z"
-    },
-    {
-      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@108.61.164.217:4443?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&flow=xtls-rprx-vision&sid=835391010667297d&pbk=k9srkQedwHsZGJP-R-GGwDOGok05gk23s8d4mtidMC4&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:32:22.619Z"
-    },
-    {
-      "url": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:32:22.619Z"
-    },
-    {
-      "url": "vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:32:22.619Z"
-    },
-    {
-      "url": "vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@147.45.60.160:8444?security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:32:22.619Z"
-    },
-    {
-      "url": "vless://96ee55ac-d534-4502-878a-468c7896360b@208.67.106.154:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=c9677d3b7dea&pbk=_0fpFqEEuCso3B8K7AAcMjctwG_xfCxO2PdKzGd_-hg#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:32:22.619Z"
-    },
-    {
-      "url": "vless://dc2259c4-388e-4285-ba18-df619b6672b6@82.118.16.187:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=cd6065902eea7a02&pbk=R5ycsjJ-v024902dMSqTsSdqxUwCFEXMebdBEWFt9VU#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:32:22.619Z"
-    },
-    {
-      "url": "vless://0ab273e4-cea6-41d0-bbab-41071d2fc455@5.252.179.15:443?security=reality&encryption=none&pbk=XQB2zIgrhD8AtxgYFM8UiiWYt1sLVBLhMg1M4-sGMAY&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=296f27de82dad7ff#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:32:22.619Z"
-    },
-    {
-      "url": "vless://4b09d40d-e36a-47c3-baa4-e6bf551b3183@31.59.217.164:443?security=reality&type=tcp&packetEncoding=none&sni=www.adobe.com&fp=chrome&flow=xtls-rprx-vision&sid=1625a2a79d01328f&pbk=kOkILS7UXUQDNPLYn4SQ65kMIWKXNOttV5Kddw4ZqTo#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:32:22.619Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.877774.xyz:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&hos",
-      "name": "V2rayng_Fast",
-      "source": "V2rayng_Fast",
-      "date": "2026-10-23T21:15:30.833Z"
-    },
-    {
-      "url": "vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@47.77.196.79:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=random&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.868Z"
-    },
-    {
-      "url": "vless://b1a8d1eb-dfb2-4dd3-afe6-cd0fff8177df@hikvision-plus.com:2052?path=/@BlueKnight_net--@BlueKnight_net&security=none&encryption=none&host=uwu.blueknightnet.qzz.io&type=ws&sni=hikvision-plus.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.868Z"
-    },
-    {
-      "url": "vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.868Z"
-    },
-    {
-      "url": "vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&encryption=none&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=fd8cf7e1173f0edb#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.868Z"
-    },
-    {
-      "url": "vless://adcaa148-7c66-4282-a81a-99ec8afa029d@82.118.19.153:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=670ed9f350bd8ee0&pbk=Tiuy8om5Lk0pWL95-8LaFFTwH0vbURVMoOkaW9xGaiE#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.868Z"
-    },
-    {
-      "url": "vless://679439c5-28f2-485e-af5f-60a5fcd9c36c@82.117.255.174:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=31e91d43e553bf32&pbk=0QDBHaCRO2dPeeSVy3B3R_U12ZOvbvWl1JTFW_ZcpD0#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.868Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.868Z"
-    },
-    {
-      "url": "vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.868Z"
-    },
-    {
-      "url": "vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@208.84.100.209:2112?security=reality&encryption=none&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=125ba3#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.866Z"
-    },
-    {
-      "url": "trojan://humanity@172.66.40.99:443?allowInsecure=1&sni=www.trusteeforward.com&alpn=http/1.1&type=ws&host=www.trusteeforward.com&path=/assignment#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T21:01:40.866Z"
-    },
-    {
-      "url": "vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@64.176.231.183:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=ca193e889d958f81&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-23T20:31:36.735Z"
     }
   ]
 }
