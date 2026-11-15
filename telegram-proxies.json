@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-15T19:15:31.639Z",
-  "count": 1938,
+  "updated": "2026-11-15T19:16:37.467Z",
+  "count": 1939,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=138.201.157.70&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-15T19:16:33.330Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.konstruktion.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
