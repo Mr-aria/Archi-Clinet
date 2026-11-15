@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-15T10:45:35.818Z",
-  "count": 1928,
+  "updated": "2026-11-15T11:45:38.161Z",
+  "count": 1930,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=bamboohollow.heronglade.space&port=443&secret=eecb583feec28443b065f8a1f3df502eea786170692e6f7a6f6e2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-15T11:45:29.982Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=apple.heronglade.space&port=8443&secret=eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-15T11:45:29.982Z"
+    },
     {
       "url": "https://t.me/proxy?server=rade48.sorrelbay.xyz&port=443&secret=ee8a22a2efc31d03cfe33e7dc2abb809db617669746f2e7275",
       "name": "ProxyMTProto",
