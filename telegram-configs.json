@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-15T13:16:45.868Z",
+  "updated": "2026-11-15T13:31:48.095Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://2237ac4b-a8a8-4476-ff67-d140d96b7a38@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=firefox&type=xhttp&sni=community.fastly.steamstatic.com&mode=packet-up&path=%2F%40%43%6C%6F%75%64%56%50%4E%63%68%61%6E%6E%65%6C%2F%40%43%6C%6F%75%64%56%50%4E%63%68%61%6E%6E%65%6C%2F%40%43%6C%6F%75%64%56%50%4E%63%68%61%6E%6E%65%6C&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-300%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingMethod%22%3A%22repeat-x%22%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%2C%22xPaddingHeader%22%3A%22Referer%22%2C%22xPaddingKey%22%3A%22x_padding%22%7D&insecure=0&host=cloudvpn2026-4.global.prod.fastly.net.global.prod.fastly.net&allowInsecure=0#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-15T13:31:45.974Z"
+    },
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.134.252.228:443#MTMVPN%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-15T13:31:45.974Z"
+    },
+    {
+      "url": "vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@168.222.43.151:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-15T13:31:45.974Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTlweTBhOGlwZ2xxa2Jl@51.77.144.182:8080#%40V2ray_Alpha%F0%9F%AB%80%E2%9D%A4%EF%B8%8F%209",
       "name": "V2ray_Alpha",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.226:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zIhDtqZo--gCOBxMLqpRETmsGUNTzyHQzBDtRov_Qjk&security=reality&sid=84249c1249f4b2d5&sni=wifi10.jzxc.digital&type=tcp#%F0%9F%90%996@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-24T06:45:33.902Z"
-    },
-    {
-      "url": "vless://605dea9b-b485-45c9-af9b-cc2b0195023c@193.111.248.80:2053?encryption=none&fp=&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&serviceName=api&sid=afee962d&sni=nl3.mycloud1.org&type=grpc#%F0%9F%90%997@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-24T06:45:33.902Z"
-    },
-    {
-      "url": "vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.227:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=53u64exYWpO2W3vlx4UUlDUFQpBFMUKQPeN6miQtpXE&security=reality&sid=1cb422f39c02f3ec&sni=www.bmw.com&type=tcp#%F0%9F%90%998@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-24T06:45:33.902Z"
-    },
-    {
-      "url": "vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.249:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_hvd47UytqRrbVTiFFe2vwvWgeg4visStJQpj9xcGjM&security=reality&sid=681c5f389bb35191&sni=wifi6.jzxc.digital&type=tcp#%F0%9F%90%999@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-24T06:45:33.902Z"
