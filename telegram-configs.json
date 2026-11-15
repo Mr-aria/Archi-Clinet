@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-15T00:46:37.220Z",
+  "updated": "2026-11-15T01:46:49.293Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiJVUzAzMjAxMy5zc2dyZWVuLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGI2NDExZTMtOTE0ZC00ZDZjLWI0ODYtNThiMWI4OGY1YzVmIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJob3N0IjoiVVMwMzIwMTMuc3NncmVlbi5vcmciLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-15T01:46:46.083Z"
+    },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiIxNjguMTEwLjYzLjI0NyIsInBvcnQiOiI4MDgxIiwiaWQiOiJjM2JkZTI5Ni04ZTQ0LTRiOGMtYTMyNS01NzdkNWIzY2M3YzgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvdmxlc3MiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@89.34.230.66:60023?security=reality&encryption=none&authority=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=PFL3AoMNTu9-VrM2WIrvQl2l-ibVgR5vIE1Vh-txKVg&fp=chrome&type=grpc&sni=starlink.com&sid=6070d424a64f75#Tel%40MARAMBASHI%20%F0%9F%87%B9%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-23T20:31:36.210Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.877774.xyz:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#Tel%40MARAMBASHI%20%F0%9F%87%B9%F0%9F%87%B7",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-23T20:31:36.210Z"
