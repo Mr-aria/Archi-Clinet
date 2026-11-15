@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-15T14:01:56.798Z",
+  "updated": "2026-11-15T14:16:39.843Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&sid=1d86d17709852910#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-15T14:16:37.004Z"
+    },
     {
       "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.175.238.57:443#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
@@ -29995,12 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-24T07:02:03.404Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.99.223:22222?encryption=none&security=none&type=tcp#(S101",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-24T06:46:30.637Z"
     }
   ]
 }
