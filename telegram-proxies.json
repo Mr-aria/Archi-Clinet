@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-15T17:15:30.978Z",
-  "count": 1934,
+  "updated": "2026-11-15T17:45:35.871Z",
+  "count": 1935,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=kvas.kemerovo.online&port=8443&secret=ee888877776666555544443333222211117474322e6d79726b612e6469676974616c",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-15T17:45:31.948Z"
+    },
     {
       "url": "https://t.me/proxy?server=bia.hastim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
