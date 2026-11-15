@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-15T13:01:44.957Z",
+  "updated": "2026-11-15T13:16:45.868Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTlweTBhOGlwZ2xxa2Jl@51.77.144.182:8080#%40V2ray_Alpha%F0%9F%AB%80%E2%9D%A4%EF%B8%8F%209",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-15T13:16:43.361Z"
+    },
+    {
+      "url": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0#%40V2ray_Alpha%F0%9F%AB%80%E2%9D%A4%EF%B8%8F%208",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-15T13:16:43.361Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.116.219:22222?encryption=none&security=none&type=tcp#(S104",
       "name": "PrivateVPNs",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.249:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_hvd47UytqRrbVTiFFe2vwvWgeg4visStJQpj9xcGjM&security=reality&sid=681c5f389bb35191&sni=wifi6.jzxc.digital&type=tcp#%F0%9F%90%999@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-24T06:45:33.902Z"
-    },
-    {
-      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.158:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ai.ozon.ru&type=tcp#%F0%9F%90%9910@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-24T06:45:33.902Z"
-    },
-    {
-      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%F0%9F%90%9911@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-24T06:45:33.902Z"
