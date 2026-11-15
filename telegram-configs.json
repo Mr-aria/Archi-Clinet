@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-15T11:45:33.824Z",
+  "updated": "2026-11-15T12:46:35.966Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://399049fd-9cd6-4425-8114-6ea2f5040fe4@195.133.88.165:2096?&security=tls&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=velvet-ridge.justext.space&type=tcp&headerType=none&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-15T12:46:33.386Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiJKUDAzMjAwMS5zc2dyZWVuLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTY1ODZlYTktYTMwZC00MzIzLTk3ZjMtMTkwN2IyN2Y0MzlmIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93ZXMiLCJob3N0IjoiSlAwMzIwMDEuc3NncmVlbi5vcmciLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-15T12:46:33.386Z"
+    },
+    {
+      "url": "vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-15T12:46:33.386Z"
+    },
     {
       "url": "vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@5.231.28.130:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=images.porsche.com&sid=1a2b3c4d#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
       "name": "freakconfig",
@@ -29983,24 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-24T06:45:33.902Z"
-    },
-    {
-      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.160.141.19:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ai.ozon.ru&type=tcp#%F0%9F%90%9913@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-24T06:45:33.902Z"
-    },
-    {
-      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.96:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%F0%9F%90%9914@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-24T06:45:33.902Z"
-    },
-    {
-      "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.96.6:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AC",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-24T05:31:49.654Z"
     }
   ]
 }
