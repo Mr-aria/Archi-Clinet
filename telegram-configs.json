@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-15T20:00:38.596Z",
+  "updated": "2026-11-15T20:01:35.903Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.22.136:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-15T20:01:33.685Z"
+    },
     {
       "url": "vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@196.245.153.112:443?encryption=none&fp=&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&security=reality&sid=c10f4100fa3a8d47&sni=b998f03d.de-p2.h1clayd.click&type=tcp#%E2%9A%95%EF%B8%8F91@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://3d87029f-b55b-487d-aea6-6049c8668ff1@5.175.161.229:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=a5fyDdAxG-lU54h4F5KPPa-CuCswv9EBAuXYKdmcnjE&security=reality&sid=f7a5b6b3bb04abb6&sni=www.bmw.com&type=tcp#%F0%9F%90%9967@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-24T14:15:40.146Z"
-    },
-    {
-      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.142:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=gb.ozon.ru&type=tcp#%F0%9F%90%9968@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-24T14:15:40.146Z"
