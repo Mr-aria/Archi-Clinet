@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-15T11:00:32.491Z",
+  "updated": "2026-11-15T11:01:34.974Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.224.161:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-15T11:01:32.460Z"
+    },
     {
       "url": "vless://767dfbb8-3c8a-435e-8e54-a3af898e4606@vghui9ytyu-production.up.railway.app:443?path=%2Fapi%2F2f0ZyU&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=vghui9ytyu-production.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vghui9ytyu-production.up.railway.app#@ICV2RAY",
       "name": "icv2ray",
@@ -29995,12 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-24T04:31:48.714Z"
-    },
-    {
-      "url": "vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@144.31.215.196:443?security=reality&encryption=none&pbk=jwLEnDwGROadL1ax-SrVC50sE5slaP7TbGQtBxkcTws&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=c2.qwyak.ru&sid=8c9ab0f7b293f9ef#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-24T02:32:00.270Z"
     }
   ]
 }
