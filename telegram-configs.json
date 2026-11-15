@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-14T22:46:38.232Z",
+  "updated": "2026-11-15T00:46:37.220Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCJhZGQiOiIxNjguMTEwLjYzLjI0NyIsInBvcnQiOiI4MDgxIiwiaWQiOiJjM2JkZTI5Ni04ZTQ0LTRiOGMtYTMyNS01NzdkNWIzY2M3YzgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvdmxlc3MiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-15T00:46:33.632Z"
+    },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjQxIiwiaWQiOiI5ZDVjMTVhMy0xNjZjLTRkNjUtOGEwYi1kN2E3YTdjODg2M2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvIiwiaG9zdCI6IjdkNTY0ODJkYzUyNTFlMmVmYWNhNjIzZGNiYzY0ZTNkLm1vYmdzbGIudGJjYWNoZS5jb20iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.877774.xyz:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&fp=qq&type=ws&allowInsecure=0&sni=lucasjow.us.ci#Tel%40MARAMBASHI%20%F0%9F%87%B9%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-23T20:31:36.210Z"
-    },
-    {
-      "url": "vless://f2a1f964-7cfb-435f-abb2-2969bd595c75@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=italyma.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#Tel%40MARAMBASHI%20%F0%9F%87%B9%F0%9F%87%B7",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-23T20:31:36.210Z"
