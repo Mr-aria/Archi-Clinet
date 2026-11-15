@@ -1,3 +1,5 @@
+https://t.me/proxy?server=94.184.39.105.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
+https://t.me/proxy?server=proxy-cf1f540c.abaszadeh.cc&port=2096&secret=dd5b1fcbe181cf94842af4d41f5e6b48b0
 https://t.me/proxy?server=138.201.157.70&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=ir.konstruktion.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=breezeridge.heronglade.space&port=8443&secret=eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275
