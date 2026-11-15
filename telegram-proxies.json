@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-15T15:45:32.014Z",
-  "count": 1932,
+  "updated": "2026-11-15T17:15:30.978Z",
+  "count": 1934,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=bia.hastim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-15T17:15:29.287Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=hamishe.hastim.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-15T17:15:29.287Z"
+    },
     {
       "url": "https://t.me/proxy?server=echoreed.heronglade.space&port=8443&secret=eecb583feec28443b065f8a1f3df502eea706574726f766963682e7275",
       "name": "ProxyMTProto",
