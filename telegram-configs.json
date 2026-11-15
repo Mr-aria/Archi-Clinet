@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-15T16:31:54.870Z",
+  "updated": "2026-11-15T17:00:33.568Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?security=reality&encryption=none&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=user.betust.net&sid=c1064ddb#%40V2rayng_Fast%20",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-15T17:00:32.604Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.211.214:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://0b6a937e-5b0e-49ca-b31e-f03f290e97cf@45.9.118.200:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%F0%9F%90%9940@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-24T09:45:32.313Z"
-    },
-    {
-      "url": "vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@193.223.104.124:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%F0%9F%90%9941@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-24T09:45:32.313Z"
