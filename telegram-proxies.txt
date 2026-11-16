@@ -1,3 +1,5 @@
+https://t.me/proxy?server=neri21.sorrelbay.xyz&port=443&secret=eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=risuto15.kelpmoor.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486617669746f2e7275
 https://t.me/proxy?server=94.184.39.105.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D
 https://t.me/proxy?server=proxy-cf1f540c.abaszadeh.cc&port=2096&secret=dd5b1fcbe181cf94842af4d41f5e6b48b0
 https://t.me/proxy?server=138.201.157.70&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
