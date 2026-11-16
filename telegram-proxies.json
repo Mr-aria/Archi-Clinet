@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-16T04:45:34.188Z",
-  "count": 1943,
+  "updated": "2026-11-16T05:45:33.557Z",
+  "count": 1946,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=Rose.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-16T05:45:30.158Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=sudega30.ashwren.xyz&port=443&secret=eee1d528d13649f8288c1ea7898787b48662726f777365722e79616e6465782e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-16T05:45:29.445Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=mile20.sorrelbay.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-16T05:45:29.445Z"
+    },
     {
       "url": "https://t.me/proxy?server=neri21.sorrelbay.xyz&port=443&secret=eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275",
       "name": "ProxyMTProto",
