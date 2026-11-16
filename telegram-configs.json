@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-16T12:46:46.477Z",
+  "updated": "2026-11-16T13:01:38.636Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.42.203:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-16T13:01:36.014Z"
+    },
     {
       "url": "vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&fp=unsafe&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#Tel%40MARAMBASHI%20%F0%9F%87%BA%F0%9F%87%B8",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-25T06:45:30.491Z"
-    },
-    {
-      "url": "vless://0632a4e7-d55a-4d17-a47b-9958b471be90@146.75.57.111:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=cdn.akamai.steamstatic.com&mode=auto&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=france-sgood-wopppd-xn--fhq0la447aac5504dea701axr1g.global.ssl.fastly.net&allowInsecure=0#Tel%40MARAMBASHI%20%F0%9F%87%BA%F0%9F%87%B8",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-25T06:45:30.491Z"
