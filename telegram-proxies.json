@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-16T06:31:34.748Z",
-  "count": 1974,
+  "updated": "2026-11-16T06:45:34.419Z",
+  "count": 1975,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=opss.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-16T06:45:31.101Z"
+    },
     {
       "url": "tg://proxy?server=109.70.74.98&port=443&secret=9969fafcf79cfc04411f324292414913",
       "name": "proxy_badss",
