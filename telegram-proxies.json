@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-16T15:45:37.316Z",
-  "count": 1988,
+  "updated": "2026-11-16T17:45:34.252Z",
+  "count": 1989,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=valenki.kemerovo.online&port=443&secret=eed80703ad02e82988a4b6b4d437fe2c9c76616c656e6b692e6b656d65726f766f2e6f6e6c696e65",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-16T17:45:30.612Z"
+    },
     {
       "url": "https://t.me/proxy?server=birchshore.heronglade.space&port=443&secret=ee2b60d9fbfb7978842047eb90c50862a0706574726f766963682e7275",
       "name": "ProxyMTProto",
