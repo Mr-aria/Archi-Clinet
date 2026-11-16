@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-16T03:46:46.239Z",
+  "updated": "2026-11-16T04:16:49.171Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@67.159.52.81:443?security=reality&type=tcp&packetEncoding=xudp&sni=sg.fasti.win&fp=chrome&flow=xtls-rprx-vision&sid=feedbacc&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-16T04:16:45.781Z"
+    },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://c6362720-0931-4b91-b187-d8ecf3149734@connect.hondamotor.site:10002?security=none&encryption=none&headerType=none&type=tcp#%40V2ray_Alpha%F0%9F%92%AD%209",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-24T19:15:40.648Z"
-    },
-    {
-      "url": "trojan://humanity@108.162.194.134:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40V2ray_Alpha%F0%9F%92%AD%2011",
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-10-24T19:15:40.648Z"
