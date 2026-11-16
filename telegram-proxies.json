@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-15T19:31:36.305Z",
-  "count": 1941,
+  "updated": "2026-11-16T04:45:34.188Z",
+  "count": 1943,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=neri21.sorrelbay.xyz&port=443&secret=eee1d528d13649f8288c1ea7898787b486786170692e6f7a6f6e2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-16T04:45:30.244Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=risuto15.kelpmoor.xyz&port=8443&secret=eee1d528d13649f8288c1ea7898787b486617669746f2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-16T04:45:30.244Z"
+    },
     {
       "url": "https://t.me/proxy?server=94.184.39.105.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
       "name": "free_vpn02",
