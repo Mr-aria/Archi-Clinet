@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-16T03:16:36.791Z",
+  "updated": "2026-11-16T03:46:46.239Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-16T03:46:43.501Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01&path=%2FXIXVPN%3Fed%3D2560#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-16T03:46:43.501Z"
+    },
     {
       "url": "vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9922313fffed1c63&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M#",
       "name": "Farah_VPN",
@@ -29989,18 +30001,6 @@
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-10-24T19:15:40.648Z"
-    },
-    {
-      "url": "vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?mode=gun&security=reality&encryption=none&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&type=grpc&serviceName=grpc_common1&sni=www.semiconductor.samsung.com&sid=defda00d613c#%40V2ray_Alpha%F0%9F%92%AD%2012",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-24T19:15:40.648Z"
-    },
-    {
-      "url": "vless://06dbe829-7f11-4b64-9443-ae3a959f48d5@lxybfcdlgj.falqiro.ir:2096?path=%2F&security=tls&encryption=none&insecure=0&host=Tun.pasarguardspeed.ir&type=ws&allowInsecure=0&sni=Tun.pasarguardspeed.ir#telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-24T19:00:33.458Z"
     }
   ]
 }
