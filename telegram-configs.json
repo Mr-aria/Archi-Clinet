@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-16T19:00:33.103Z",
+  "updated": "2026-11-16T19:01:54.651Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.110.213:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-16T19:01:51.783Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNOFoySTduR2pobXdoeTJt@40.123.254.236:443#",
       "name": "V2ray_official",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://01868cd8-7316-45c2-bc72-62e847e41b81@goold.zovip2.ir:443?vcn=goold.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=goold.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=goold.zovip2.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-25T14:01:39.142Z"
-    },
-    {
-      "url": "vless://a8a35938-7ed6-4237-9e91-9ad4af0c8257@216.24.57.1:2095?path=%2F&security=none&encryption=none&host=PsH3bCy-RkLdPzN.BfUgSt.hAe38WqNdKlS-.mZtRpA.YwKe62VfRxQjDn-hPtLyC-sKwZfD.mAnIyAdG7sHaRd.iR&type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-25T14:01:39.142Z"
