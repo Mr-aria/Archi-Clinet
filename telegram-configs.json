@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-16T11:30:33.243Z",
+  "updated": "2026-11-16T12:15:41.245Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://3ffb0799-5047-420a-90af-6a4b3fef91b0@n1.topingr.ir:443?path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cdn2.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn2.zovip2.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-16T12:15:32.385Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3F---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-16T12:15:32.385Z"
+    },
     {
       "url": "vless://0809eed6-5204-49b8-8312-b82a10024022@5.83.158.96:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U_dxFnbfesmgSwL-SlpvGYFbpY5vlJ1kb52knlCXkkI&security=reality&sid=8cfe1563&sni=5.83.158.96&type=tcp#%E2%99%BB%EF%B8%8F31@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://8e6efaba-ba3d-49ec-98aa-c8f9baaf1d17@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&alpn=h2&encryption=none&insecure=0&host=mpkoe7ypcibr80p102020123.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=firefox.com#Tel%40MARAMBASHI%20%F0%9F%87%BA%F0%9F%87%B8",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-25T06:45:30.491Z"
-    },
-    {
-      "url": "vless://c82d125b-8cb3-48a1-b9d6-1a9a5900322f@wwww.qarvian.ir:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3F%40MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI%3Fed%3D2048&security=tls&encryption=mlkem768x25519plus.native.0rtt.q079RMPHYs-gpSp9GN2dsmVaxDt1yZX_h329HErSPhk&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Friendly-holloween-lobster-temple.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=firefox.com#Tel%40MARAMBASHI%20%F0%9F%87%BA%F0%9F%87%B8",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-25T06:45:30.491Z"
-    },
-    {
-      "url": "vless://761abded-9587-4bd8-9a32-53aa107f624e@95.182.92.109:443?mode=auto&path=%2F%3F%40MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI%3Fed%3D512&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=8OJj19JwriKLmDB8jDnxleSCeVshOIIhg3EHWxGE61E&fp=chrome&spx=%2Fb0b351ee1c05095&type=xhttp&sni=www.cloudflare.com&sid=d5b2a3aa#Tel%40MARAMBASHI%20%F0%9F%87%BA%F0%9F%87%B8",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-25T06:45:30.491Z"
