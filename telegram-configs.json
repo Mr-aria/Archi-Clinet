@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-16T08:30:32.581Z",
+  "updated": "2026-11-16T08:31:46.215Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://SiFvGI5bX01GGtGOJ2_nxA@199.232.249.131:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2FTELEGRAM-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52&security=tls&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%31%37%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20MTMVPN",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-16T08:31:44.763Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiINqp2KfZhtin2YQg2KrZhNqv2LHYp9mFIDogTVRNVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-16T08:31:44.763Z"
+    },
+    {
+      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a#%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20MTMVPN",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-16T08:31:44.763Z"
+    },
+    {
+      "url": "vless://92e598b8-014a-4232-952b-3ac6d00da498@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-16T08:31:43.820Z"
+    },
+    {
+      "url": "vless://92e598b8-014a-4232-952b-3ac6d00da498@zibanabz.jonsonvip.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=digikala.com&fp=chrome&pbk=aiFPeLurQNAOYZhwdXsYwxCxBgw6qg8rt0UvdrdNPTY&sid=ed516450fce897dd&type=tcp&headerType=none&path=%2F%40zibanabz%40zibanabz%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-16T08:31:43.820Z"
+    },
+    {
+      "url": "vless://92e598b8-014a-4232-952b-3ac6d00da498@zibanabz.jonsonvip.ir:3939?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ai.android&fp=chrome&pbk=dnnN66V_xqEbGoG5P8E_Zqk3TaZt2lM4SI9N7Ana7FA&sid=d9a2600fdecd7be2&spx=%2F16504cba99195d6&type=tcp&headerType=none&path=%2F%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-16T08:31:43.820Z"
+    },
     {
       "url": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@81.171.14.72:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OH9jKzqAqEg98VDxmxReqrC_jbJWNwr-ipj2cNRgazc&security=reality&sid=2237b916&sni=zovira.me&type=tcp#%E2%99%BB%EF%B8%8F1@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29965,42 +30001,6 @@
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-10-24T20:31:37.808Z"
-    },
-    {
-      "url": "vless://%58pnTeam-46@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-24T20:31:37.808Z"
-    },
-    {
-      "url": "vless://84c5d62d-cbae-4c05-a98d-ac280f54c3ad@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=frenchji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-24T20:30:32.762Z"
-    },
-    {
-      "url": "vless://95b09be3-503f-4829-af4a-7e6d5a78f0e7@render.com:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=wispy-feather-dbb4.gvcxxxcklnxx.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wispy-feather-dbb4.gvcxxxcklnxx.workers.dev#telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-24T20:30:32.762Z"
-    },
-    {
-      "url": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@p2tun0.greewebservices.ir:28820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=e3085d4fc679ba12#telegram%20%40mtmvpn",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-24T20:30:32.762Z"
-    },
-    {
-      "url": "vless://9d356fd5-cf3f-4e73-b424-414e78c911bf@tun2.w-ert.org:40289?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-24T20:30:32.762Z"
-    },
-    {
-      "url": "vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal1.greewebservices.ir:2425?security=reality&encryption=none&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&headerType=none&fp=ios&type=tcp&sni=play.googleapis.com&sid=9b60d3#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-24T20:30:32.762Z"
     }
   ]
 }
