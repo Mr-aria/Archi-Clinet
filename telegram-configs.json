@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-16T20:16:39.012Z",
+  "updated": "2026-11-16T20:30:33.515Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.176:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=1fw71dc.virtual-network.lol&type=tcp#%E2%99%BB%EF%B8%8F91@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
+    {
+      "url": "vless://2e69b088-6ef3-417f-8247-125cf257fafd@3.174.189.0:443?encryption=none&fp=chrome&host=d3bufpfi7s84bl.cloudfront.net&mode=auto&path=%2Fcf&security=tls&sni=d3bufpfi7s84bl.cloudfront.net&type=xhttp#%E2%99%BB%EF%B8%8F92@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
+    {
+      "url": "hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160/?insecure=1&sni=www.bing.com#%E2%99%BB%EF%B8%8F93@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
+    {
+      "url": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@45.150.108.180:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Jw--SSPecJpt9-lke7H9Bdr8F73xxtvC_5ZrxiWRog0&security=reality&sid=dc1bf50b0e0a&sni=il1.gofizzin.com&type=tcp#%E2%99%BB%EF%B8%8F94@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
+    {
+      "url": "vless://5cbc4b74-5352-4e64-af65-bcbabf46a18a@172.233.201.244:61635?encryption=none&flow=xtls-rprx-vision&fp=&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&security=reality&sid=1f2519bb96e5589c&sni=www.cloudflare.com&type=tcp#%E2%99%BB%EF%B8%8F95@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
+    {
+      "url": "vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@23.155.44.105:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HE1CGzI0QBqhMRUsHqq_9v4Mj3M5dkluFmfyMBH_7kM&security=reality&sid=70f75668dc5914b3&sni=app.flyprotect.ca&type=tcp#%E2%99%BB%EF%B8%8F96@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
+    {
+      "url": "vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?encryption=none&fp=firefox&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc#%E2%99%BB%EF%B8%8F97@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
+    {
+      "url": "vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@88.218.92.185:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0L0a22tcISNd3pY2Le6DS9vrW1ughjmzhjj5ec8iBHo&security=reality&sid=a51a6973d7d358d6&sni=sadas.jugoslavija.uk&type=tcp#%E2%99%BB%EF%B8%8F98@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
+    {
+      "url": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.135.119.135:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fVo5hYUD3VkxEetcXSMVWp7hjvz4YrKLNHDhGhn-d3M&security=reality&sid=0640a12b&sni=ge1.gofizzin.com&type=tcp#%E2%99%BB%EF%B8%8F99@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
+    {
+      "url": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@142.248.80.106:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=D06tMjGb6wYuCGlUgI53TNMtGAzap3xnUYn5Ev4TVBY&security=reality&sid=4974484abe&sni=us7.gofizzin.com&type=tcp#%E2%99%BB%EF%B8%8F100@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-16T20:30:32.896Z"
+    },
     {
       "url": "vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?security=reality&encryption=none&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tiktok2.transitbp2systems.com#Tel%40MARAMBASHI%20%F0%9F%92%9F",
       "name": "MARAMBASHI",
@@ -29941,66 +30001,6 @@
       "name": "shh_proxy",
       "source": "shh_proxy",
       "date": "2026-10-25T15:15:40.943Z"
-    },
-    {
-      "url": "vless://6228ee5b-fe07-4ee5-8300-386cd004eb84@57.129.138.142:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Guo_gNZWlSZKb4JcO9dTLxruZ9smPrxZlMsfZJOJEjI&pbk=itUb_lVoLPqG2cGs6vxsOaOImohnpXucmiaDm6_6iyU&headerType=none&fp=chrome&spx=%2F09877bd0d6f416c&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=fe57#%40Shh_Proxy-New%C2%B9%E2%81%B0",
-      "name": "shh_proxy",
-      "source": "shh_proxy",
-      "date": "2026-10-25T15:15:40.943Z"
-    },
-    {
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryp…",
-      "name": "shh_proxy",
-      "source": "shh_proxy",
-      "date": "2026-10-25T15:15:40.943Z"
-    },
-    {
-      "url": "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.48:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40V2ray_Alpha%F0%9F%9A%83%2010",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-25T14:45:35.074Z"
-    },
-    {
-      "url": "vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=anyfile2file.com&sid=64c1fe36c7846400#%40V2ray_Alpha%F0%9F%9A%83%208",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-25T14:45:35.074Z"
-    },
-    {
-      "url": "trojan://humanity@188.114.98.0:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40V2ray_Alpha%F0%9F%9A%83%207",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-25T14:45:35.074Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%40V2ray_Alpha%F0%9F%9A%83%205",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-25T14:45:35.074Z"
-    },
-    {
-      "url": "vless://c60cd62f-8dc5-415f-826b-abb7856027d1@kala.fortresshost.ir:443?mode=auto&path=%2FMeh%3Fdi&security=tls&alpn=h2&encryption=mlkem768x25519plus.native.0rtt.0Vh97j6xS7KWSt0KJUlPGDqvOnB6YEWo0xWQ3HQgYm4&insecure=0&host=kala.fortresshost.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=kala.fortresshost.ir#%40V2ray_Alpha%F0%9F%9A%83%204",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-25T14:45:35.074Z"
-    },
-    {
-      "url": "vless://90c08c98-7ec8-4fab-da36-cf140d18c708@host.taghvimtime.ir:8443?mode=auto&path=%2FMeh%3Fdi%3D443&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxBufferedPosts%22%3A30%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&insecure=0&host=host.taghvimtime.ir&fp=chrome&type=xhttp&allowInsecure=0&sni",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-25T14:45:35.074Z"
-    },
-    {
-      "url": "vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@199.232.78.160:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_10i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-25T14:01:39.142Z"
-    },
-    {
-      "url": "vless://cd07ae0d-f31d-4209-a0a4-d9d9cfcca1ad@167.82.64.64:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-25T14:01:39.142Z"
     }
   ]
 }
