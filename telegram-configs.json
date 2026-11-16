@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-16T11:00:46.328Z",
+  "updated": "2026-11-16T11:01:36.199Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.58.161:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-16T11:01:34.082Z"
+    },
     {
       "url": "vless://SoonTeam%20@fr.abbaas.net:8443?mode=auto&path=%2Fsoon&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=GgO_laVIFUL5JOZrIesfGewuZSXQMLhC-ASCW76ziSk&fp=chrome&spx=%2F78ed60190db0c5a&type=xhttp&sni=www.crazimals.com&sid=f4eaffbb#%40V2rayng_Fast%20",
       "name": "V2rayng_Fast",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.38.127:2052?sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=/?ed=2560security=tls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-25T02:15:35.672Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-25T02:15:35.672Z"
