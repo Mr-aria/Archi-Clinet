@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-16T20:30:33.515Z",
+  "updated": "2026-11-16T20:45:36.261Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://%58pnTeam-129@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Xpnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-16T20:45:35.159Z"
+    },
+    {
+      "url": "vless://%58pnTeam-128@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Xpnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-16T20:45:35.159Z"
+    },
     {
       "url": "vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.176:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=1fw71dc.virtual-network.lol&type=tcp#%E2%99%BB%EF%B8%8F91@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29989,18 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-25T15:16:38.383Z"
-    },
-    {
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sid=501ab3325b77e1ca#%40Shh_Proxy-New%C2%B2",
-      "name": "shh_proxy",
-      "source": "shh_proxy",
-      "date": "2026-10-25T15:15:40.943Z"
-    },
-    {
-      "url": "vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&fp=chrome&spx=%2Fb53ffbda568617f&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#%40Shh_Proxy-New%E2%81%B6",
-      "name": "shh_proxy",
-      "source": "shh_proxy",
-      "date": "2026-10-25T15:15:40.943Z"
     }
   ]
 }
