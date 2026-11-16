@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-16T08:31:46.215Z",
+  "updated": "2026-11-16T09:01:34.756Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.40.10:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-16T09:01:32.061Z"
+    },
     {
       "url": "trojan://SiFvGI5bX01GGtGOJ2_nxA@199.232.249.131:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2FTELEGRAM-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52&security=tls&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%31%37%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20MTMVPN",
       "name": "proxy_mtm",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a52fcd33-b235-4b30-a4e8-165287302c66@aws.root.sync-bridge.ir:443?mode=gun&security=reality&encryption=none&pbk=cSku9Lo_wLXixUZuWW2JZxcSUK-fGprJLKrCGUfoAgI&fp=chrome&spx=%2Fe30c438f7ceb9c7&type=grpc&sni=www.cloudflare.com&sid=8a31#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-10-24T20:31:37.808Z"
-    },
-    {
-      "url": "vless://%58pnTeam-45@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
       "name": "mehrosaboran",
       "source": "mehrosaboran",
       "date": "2026-10-24T20:31:37.808Z"
