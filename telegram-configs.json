@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-16T20:00:33.863Z",
+  "updated": "2026-11-16T20:01:35.581Z",
   "count": 5000,
   "configs": [
     {
-      "url": "trojan://humanity@104.17.111.4:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#APPXA-full",
-      "name": "appxa",
-      "source": "appxa",
-      "date": "2026-11-16T20:00:31.843Z"
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.135.255:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-16T20:01:33.922Z"
     },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.110.213:22222?encryption=none&security=none&type=tcp#(S103",
