@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-16T06:45:34.419Z",
-  "count": 1975,
+  "updated": "2026-11-16T07:15:32.846Z",
+  "count": 1981,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=a1.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-16T07:15:29.923Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=a4.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-16T07:15:29.923Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=a3.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-16T07:15:29.923Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=a5.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-16T07:15:29.923Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=a2.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-16T07:15:29.923Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=a6.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-16T07:15:29.923Z"
+    },
     {
       "url": "https://t.me/proxy?server=opss.anotelinopalk.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "YamYamProxy",
