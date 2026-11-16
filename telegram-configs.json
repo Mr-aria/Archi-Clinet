@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-16T19:01:54.651Z",
+  "updated": "2026-11-16T20:00:33.863Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://humanity@104.17.111.4:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#APPXA-full",
+      "name": "appxa",
+      "source": "appxa",
+      "date": "2026-11-16T20:00:31.843Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.110.213:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a8a35938-7ed6-4237-9e91-9ad4af0c8257@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=netheri.global.ssl.fastly.net.&fp=ios&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-25T14:01:39.142Z"
-    },
-    {
-      "url": "vless://01868cd8-7316-45c2-bc72-62e847e41b81@goold.zovip2.ir:443?vcn=goold.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=goold.zovip2.ir&fp=chrome&type=ws&allowInsecure=0&sni=goold.zovip2.ir#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-25T14:01:39.142Z"
