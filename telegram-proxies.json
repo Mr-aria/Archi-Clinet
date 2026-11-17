@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-17T17:45:38.748Z",
-  "count": 2023,
+  "updated": "2026-11-17T22:30:35.420Z",
+  "count": 2025,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=letsgo.sinlx.ir.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk%3D",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-17T22:30:33.426Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=stream.amaster.xyz.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-17T22:30:33.426Z"
+    },
     {
       "url": "https://t.me/proxy?server=parts.kemerovo.online&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
       "name": "ProxyMTProto",
