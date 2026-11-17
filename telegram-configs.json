@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-17T14:30:33.860Z",
+  "updated": "2026-11-17T16:01:58.813Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://%4D%69%54%69%56%50%4E@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%3D26%3Fed%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E.si&fp=chrome&type=ws&allowInsecure=0&sni=steamstatic.com#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-17T16:01:56.702Z"
+    },
+    {
+      "url": "vless://f33635e9-3cdd-41df-80b9-d76ac5fb4bc1@167.82.64.47:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=steamstatic.com&mode=auto&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%2B%28X11%3B%2BLinux%2Bx86_64%29%2BAppleWebKit%2F537.36%2B%28KHTML%2C%2Blike%2BGecko%29%2BChrome%2F81.0.4044.129%2BSafari%2F537.36%22%7D%7D&insecure=0&host=cplusshape.global.ssl.fastly.net&allowInsecure=0#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-17T16:01:56.702Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.220.118:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-17T16:01:55.679Z"
+    },
     {
       "url": "vless://0269c212-2480-4546-b912-3e6c63ebf665@du5g.altheora.ir:3920?mode=auto&path=%2F&security=reality&encryption=mlkem768x25519plus.native.0rtt.4Jb6jrSt_LOKTca06bM-c5TVlLkFoEU8mkyWQ_uYXxw&pbk=D-Vn6ucy_v_Pre-QtXpL4jbjYUcnqX88QndrXyBwrnA&fp=chrome&type=xhttp&flow=xtls-rprx-vision&sni=ea.com&sid=ac526236a4be0913#%40V2rayng_Fast%20",
       "name": "V2rayng_Fast",
@@ -29983,24 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-26T02:45:35.241Z"
-    },
-    {
-      "url": "vless://e5c3d067-7a15-4977-90c0-7e0f6e896a09@216.167.126.97:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=yFvOpugh65xKQNAwKrhitv4d2pflD8QwNFMj-jDOmT8#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-26T02:45:35.241Z"
-    },
-    {
-      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.39.218:2052?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-26T02:15:30.532Z"
-    },
-    {
-      "url": "vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@147.78.0.186:2053?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-26T01:45:30.910Z"
     }
   ]
 }
