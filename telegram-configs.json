@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-17T06:00:33.944Z",
+  "updated": "2026-11-17T07:01:48.644Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.98.116:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-17T07:01:45.119Z"
+    },
     {
       "url": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.60:443/?type=tcp&encryption=none&flow=&sni=api-rt-cfg.galioncc.com&fp=firefox&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#%F0%9F%87%B0%F0%9F%87%BF%2017%40exclavevpn",
       "name": "oneclickvpnkeys",
@@ -29995,12 +30001,6 @@
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-25T15:30:31.549Z"
-    },
-    {
-      "url": "vless://680e92ac-1688-49e0-af96-7327fbc30ce8@45.151.71.167:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.ozon.ru&type=tcp#%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB61@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-25T15:16:38.383Z"
     }
   ]
 }
