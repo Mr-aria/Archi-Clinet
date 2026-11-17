@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-17T13:15:33.528Z",
-  "count": 2010,
+  "updated": "2026-11-17T13:16:57.352Z",
+  "count": 2011,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=167.233.39.81&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-17T13:16:42.026Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir.xn--ds-bja.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
