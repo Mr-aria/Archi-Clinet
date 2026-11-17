@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-17T15:46:53.923Z",
-  "count": 2014,
+  "updated": "2026-11-17T16:30:33.214Z",
+  "count": 2018,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=176.65.135.69&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-17T16:30:32.767Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=109.70.74.168&port=8882&secret=fa09633c332e2a34f03c95553909d4e9",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-17T16:30:32.767Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=ee020e97412a4640a060f203c5ab8dc3d47075622e756c7472612d666173742e6363",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-17T16:30:32.767Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=edge.turboass.live&port=443&secret=ee51116f4018a2b3dfc9bda286c52afe9f656467652e747572626f6173732e6c697665",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-17T16:30:32.767Z"
+    },
     {
       "url": "https://t.me/proxy?server=91.99.81.215&port=8…",
       "name": "v2ryNG01",
