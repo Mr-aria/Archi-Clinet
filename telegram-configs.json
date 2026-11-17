@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-17T09:01:44.446Z",
+  "updated": "2026-11-17T09:15:33.384Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://%58pnTeam-130@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=%58pnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-17T09:15:32.871Z"
+    },
+    {
+      "url": "vless://%58pnTeam-131@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=%58pnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-17T09:15:32.871Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.56.100.217:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "trojan://humanity@104.18.45.38:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-25T17:16:35.294Z"
-    },
-    {
-      "url": "vless://9c5ad05d-d807-003a-bf48-cfad48af6dec@5.35.3.115:443?mode=packet-up&path=%2Fupload&security=reality&encryption=none&extra=%7B%22xmux%22%3A%20%7B%22cMaxReuseTimes%22%3A%200%2C%20%22maxConnections%22%3A%20%221-2%22%2C%20%22hKeepAlivePeriod%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22900-1400%22%2C%20%22hMaxReusableSecs%22%3A%20%223600-5400%22%7D%2C%20%22downloadSettings%22%3A%20%7B%22port%22%3A%20443%2C%20%22address%22%3A%20%225.35.3.115%22%2C%20%22network%22%3A%20%22xhttp%22%2C%20%22security%22%3A%20%22reality%22%2C%20%22xhttpSettings%22%3A%20%7B%22path%22%3A%20%22%2Fupload%22%2C%20%22xmux%22%3A%20%7B%22cMaxReuseTimes%22%3A%200%2C%20%22maxConnections%22%3A%20%222-3%22%2C%20%22hKeepAlivePeriod%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20%22700-1100%22%2C%20%22hMaxReusableSecs%22%3A%20%222700-4200%22%7D%7D%2C%20%22realitySettings%22%3A%20%7B%22shortId%22%3A%20%22094b2db0737de9f4%22%2C%20%22publicKey%22%3A%20%22yY6BKckWhkJ4r_5raufIumhtWHJIvqdPD7YFnznodlA%22%2C%20%22serverName%22%3A%20%22img.redbarn.ru%22%2C%20%22fingerprint%22%3A%20%22firefox%22%7D%7D%7D&pbk=yY6BKckWhkJ4r_5raufIumhtWHJIvqdPD7YFnznodlA&fp=firefox&type=xhttp&sni=redbarn.ru&sid=6d06f5e94bbedd56#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-25T17:16:35.294Z"
-    },
-    {
-      "url": "vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&headerType=none&fp=firefox&type=tcp&sni=www.google.com&sid=d368b94e275ab080#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-25T17:16:35.294Z"
