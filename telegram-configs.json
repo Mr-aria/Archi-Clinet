@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-17T18:01:49.699Z",
+  "updated": "2026-11-17T18:31:59.286Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://8561e790-a0d8-4394-b02b-ac20d3cd6b3a@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-17T18:31:56.066Z"
+    },
+    {
+      "url": "vless://8561e790-a0d8-4394-b02b-ac20d3cd6b3a@zibanabz.jonsonvip.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=digikala.com&fp=chrome&pbk=aiFPeLurQNAOYZhwdXsYwxCxBgw6qg8rt0UvdrdNPTY&sid=ed516450fce897dd&type=tcp&headerType=none&path=%2F%40zibanabz%40zibanabz%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-17T18:31:56.066Z"
+    },
+    {
+      "url": "vless://8561e790-a0d8-4394-b02b-ac20d3cd6b3a@zibanabz.jonsonvip.ir:3939?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ai.android&fp=chrome&pbk=dnnN66V_xqEbGoG5P8E_Zqk3TaZt2lM4SI9N7Ana7FA&sid=d9a2600fdecd7be2&spx=%2F16504cba99195d6&type=tcp&headerType=none&path=%2F%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-17T18:31:56.066Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMjAyIiwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiODAiLCJwcyI6InByb3h5X2JhZHNz8J+OtiIsInNjeSI6ImF1dG8iLCJzbmkiOiJpbi0xNTIuNjcuOC4yMDUtMDIwMiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9",
       "name": "proxy_badss",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@45.9.118.219:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%F0%9F%90%8D6@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T05:46:38.780Z"
-    },
-    {
-      "url": "hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@94.103.169.109:4443/?sni=de3.shvpn.ru#%F0%9F%90%8D7@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T05:46:38.780Z"
-    },
-    {
-      "url": "hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.77.8.44:4443/?sni=de4.shvpn.ru#%F0%9F%90%8D8@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T05:46:38.780Z"
-    },
-    {
-      "url": "hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@31.77.8.55:4443/?sni=de5.shvpn.ru#%F0%9F%90%8D9@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-26T05:46:38.780Z"
