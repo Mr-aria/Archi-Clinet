@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-17T17:15:34.108Z",
-  "count": 2022,
+  "updated": "2026-11-17T17:45:38.748Z",
+  "count": 2023,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=parts.kemerovo.online&port=443&secret=ee1111222233334444555566667777888874342e6d79726b612e6469676974616c",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-17T17:45:31.918Z"
+    },
     {
       "url": "https://t.me/proxy?server=fandogh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
       "name": "ProxyMTProto",
