@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-17T20:30:35.375Z",
+  "updated": "2026-11-17T20:31:43.062Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.189.136:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-17T20:31:40.559Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#",
       "name": "V2ray_official",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://fafc7c16-f890-45ee-a856-02df225172dd@2.27.206.215:2052?encryption=none&fp=&mode=stream-up&path=%2Fcdn%2Fapi&pbk=3ds1sPK8MuZVr6IOAwjRx0h_2IZMZ2v_RzNGl3iYwno&security=reality&sid=025ee5be0c789ece&sni=yastatic.net&type=xhttp#%F0%9F%90%8D36@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T08:46:35.467Z"
-    },
-    {
-      "url": "hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@193.23.216.156:443/?sni=crt.onecloudstream.com#%F0%9F%90%8D37@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-26T08:46:35.467Z"
