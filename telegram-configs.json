@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-17T20:31:43.062Z",
+  "updated": "2026-11-17T20:45:34.670Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://%58pnTeam-133@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Xpnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-17T20:45:33.861Z"
+    },
+    {
+      "url": "trojan://m%69tivpn@167.82.64.7:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.talk&fp=firefox&type=ws&allowInsecure=0&sni=steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-17T20:45:33.861Z"
+    },
+    {
+      "url": "trojan://M%69TiVPN@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn.si&fp=chrome&type=ws&allowInsecure=0&sni=steamstatic.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-17T20:45:33.861Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.189.136:22222?encryption=none&security=none&type=tcp#(S104",
       "name": "PrivateVPNs",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://680e92ac-1688-49e0-af96-7327fbc30ce8@51.89.231.124:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%F0%9F%90%8D33@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T08:46:35.467Z"
-    },
-    {
-      "url": "trojan://humanity@8.6.112.206:443?alpn=http%2F1.1&fp=chrome&host=www.trusteeforward.com&path=%2Fassignment&sni=www.trusteeforward.com&type=ws#%F0%9F%90%8D34@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T08:46:35.467Z"
-    },
-    {
-      "url": "vless://fafc7c16-f890-45ee-a856-02df225172dd@2.27.206.215:4444?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ds1sPK8MuZVr6IOAwjRx0h_2IZMZ2v_RzNGl3iYwno&security=reality&sid=93907e6811339813&sni=yastatic.net&type=tcp#%F0%9F%90%8D35@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T08:46:35.467Z"
-    },
-    {
-      "url": "vless://fafc7c16-f890-45ee-a856-02df225172dd@2.27.206.215:2052?encryption=none&fp=&mode=stream-up&path=%2Fcdn%2Fapi&pbk=3ds1sPK8MuZVr6IOAwjRx0h_2IZMZ2v_RzNGl3iYwno&security=reality&sid=025ee5be0c789ece&sni=yastatic.net&type=xhttp#%F0%9F%90%8D36@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-26T08:46:35.467Z"
