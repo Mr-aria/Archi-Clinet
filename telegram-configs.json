@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-17T16:46:35.632Z",
+  "updated": "2026-11-17T17:01:48.168Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.194.136:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-17T17:01:45.436Z"
+    },
     {
       "url": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@88.216.211.36:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=de8.galioncc.com&sid=c4e7a1902b8d6f35#%40V2ray_Alpha%F0%9F%A5%A9%205",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@nl8.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=nl8.pad-sservice.lat&type=ws&headerType=none&host=nl8.pad-service.com&path=%2FNL8W#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-26T02:45:35.241Z"
-    },
-    {
-      "url": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de3.pad-sservice.lat:8443?&security=tls&fp=chrome&sni=de3.pad-sservice.lat&type=ws&headerType=none&host=de3.pad-service.com&path=%2FD1E#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-26T02:45:35.241Z"
