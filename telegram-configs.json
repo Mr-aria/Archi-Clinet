@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-17T19:00:31.961Z",
+  "updated": "2026-11-17T19:01:50.978Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.51.222:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-17T19:01:47.786Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#%40IRAN_V2RAY1%20%F0%9F%8E%96%EF%B8%8F",
       "name": "IRAN_V2RAY1",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://04edf721-b2b7-4a80-9fbd-c949438c58c9@147.45.46.136:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ozon.ru&type=tcp#%F0%9F%90%8D2@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T05:46:38.780Z"
-    },
-    {
-      "url": "vless://75985152-e16e-4a48-87ff-35c2615e0ab5@147.45.46.157:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=apple.com&type=tcp#%F0%9F%90%8D3@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-26T05:46:38.780Z"
