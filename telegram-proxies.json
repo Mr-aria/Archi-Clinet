@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-18T13:15:30.656Z",
-  "count": 2059,
+  "updated": "2026-11-18T14:45:33.904Z",
+  "count": 2060,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=www.prxtg.top&port=443&secret=ee4274afdce63c4c3a2b341bad09220a047777772e70727874672e746f70",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-18T14:45:30.504Z"
+    },
     {
       "url": "https://t.me/proxy?server=103.161.35.56&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
       "name": "ProxyMTProto",
