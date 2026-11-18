@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-18T17:45:35.777Z",
-  "count": 2064,
+  "updated": "2026-11-18T18:31:36.751Z",
+  "count": 2065,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=Yv.od7.fk.h8.dl.pw.g.44-94-14-4.ir.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-18T18:31:31.511Z"
+    },
     {
       "url": "https://t.me/proxy?server=neon.tealbriar.xyz&port=8443&secret=ee7809adb838f02953d8f53df91d2e4b35706574726f766963682e7275",
       "name": "ProxyMTProto",
