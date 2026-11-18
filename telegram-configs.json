@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-17T21:31:34.290Z",
+  "updated": "2026-11-18T07:02:09.362Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.253.34:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-18T07:02:06.204Z"
+    },
     {
       "url": "trojan://%4D%69%54%69%56%50%4E@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E---%40%4D%69%54%69%56%50%4E%3D26&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E.si&fp=chrome&type=ws&allowInsecure=0&sni=steamstatic.com#Telegram%20%40mtmvpn%20%F0%9F%94%B0%20",
       "name": "proxy_mtm",
@@ -29995,12 +30001,6 @@
       "name": "PrivateVPNs",
       "source": "PrivateVPNs",
       "date": "2026-10-26T09:00:32.124Z"
-    },
-    {
-      "url": "vless://a756c39b-da0c-4195-94fd-f2a35e37622a@103.91.147.203:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=apple.com&type=tcp#%F0%9F%90%8D31@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T08:46:35.467Z"
     }
   ]
 }
