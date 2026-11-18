@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-18T18:45:33.269Z",
-  "count": 2067,
+  "updated": "2026-11-18T19:16:37.084Z",
+  "count": 2068,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=91.99.81.215&por…",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-18T19:16:33.055Z"
+    },
     {
       "url": "https://t.me/proxy?server=free.deal-market.xyz&port=8443&secret=ee8b79c6d1a900b4bcd70637a416f3a5c1696e74656c2e636f6d",
       "name": "ProxyMTProto",
