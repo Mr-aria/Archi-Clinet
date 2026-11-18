@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-18T19:16:37.084Z",
-  "count": 2068,
+  "updated": "2026-11-18T19:46:47.843Z",
+  "count": 2073,
   "proxies": [
+    {
+      "url": "tg://proxy?server=5.75.226.255&port=75&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-18T19:46:36.804Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=71v.le.ezk.4.6b.eg.k.roseprox.xyz&port=8443&secret=eeNI0VVoN2N3qBrz9BcsrQ",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-18T19:46:36.804Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=gamecenter.amaster.xyz.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-18T19:46:36.804Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=www.yaho.com.maroochia.co.uk&port=443&secret=dd5f7ce28a2c4816c6c923dfd4d5630e01dd",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-18T19:46:36.804Z"
+    },
+    {
+      "url": "tg://proxy?server=77.42.86.7&port=7&secret=ee5f7ce28a2c4816c6c923dfd4d5630e01",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-18T19:46:36.804Z"
+    },
     {
       "url": "https://t.me/proxy?server=91.99.81.215&por…",
       "name": "v2ryNG01",
