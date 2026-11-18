@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-18T17:16:36.386Z",
+  "updated": "2026-11-18T17:30:38.952Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru14.net:443?security=tls&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=app.streamru14.net#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T17:30:34.592Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T17:30:34.592Z"
+    },
+    {
+      "url": "vless://baaa4c32-a606-4b5d-802f-17a4c0adea22@182.16.69.178:443?security=reality&encryption=none&pbk=hLH987c7kuDMVFHiw2ErecWQhwMKIPOwZsBLGrpN6io&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com&sid=240c30abe706#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T17:30:34.592Z"
+    },
     {
       "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
       "name": "MARAMBASHI",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au7.pad-sservice.lat:8443?path=%2FAU7W&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=au7.pad-sservice.lat&fp=firefox&type=ws&allowInsecure=0&sni=au7.pad-sservice.lat#%40V2ray_Alpha%F0%9F%8F%86%202",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-26T17:45:38.418Z"
-    },
-    {
-      "url": "vless://5ec50dc8-fba8-42ad-b427-e51193bc5c2a@146.75.57.238:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=looaloooibamoooijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40V2ray_Alpha%F0%9F%8F%86%203",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-26T17:45:38.418Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999#%40V2ray_Alpha%F0%9F%8F%86%204",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-26T17:45:38.418Z"
-    },
-    {
-      "url": "vless://5ec50dc8-fba8-42ad-b427-e51193bc5c2a@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=ussman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#%40V2ray_Alpha%F0%9F%8F%86%206",
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-10-26T17:45:38.418Z"
