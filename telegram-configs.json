@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-18T19:46:42.692Z",
+  "updated": "2026-11-18T20:30:32.921Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@136.148.77.250:8388#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.72.224:443#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206TURobVltRTRNR1k1T0dJNU9EZ3lZVEZpWkRobFpERXpaVFpqWTJWbQ@37.152.181.92:9130#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZjJOcTVZTG55Y2xQYVdSOG15Ny9WZGQzWlg4VVJuY1haTmx5NStIY1VTcz06ZFE2V1ljUHBHWDV4SXhVVlBBUjh3MUE5ZVk2a0VWb0tLVzNIbGVKNm84WT0@77.90.10.175:8086#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.122.241.248:443#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3F---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram%E2%80%94PLANB_NET%E2%80%94PLANB_NET%E2%80%94PLANB_NET%E2%80%94PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-18T20:30:31.156Z"
+    },
     {
       "url": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?security=reality&encryption=none&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=ru7e2bab87cc39.eu-cdn539.com&sid=3992cc7fb9fcbe58#%40V2ray_Alpha%F0%9F%A7%90%205",
       "name": "V2ray_Alpha",
@@ -29929,78 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-27T01:45:34.939Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJ6ZmQtaGt2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYxMTIiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T01:45:34.939Z"
-    },
-    {
-      "url": "vless://d18c6897-2849-456a-8c46-d7ecece47c20@141.101.90.108:2053?sni=wzs.echo.net.eu.org&type=ws&host=wzs.echo.net.eu.org&path=/video/HxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HUlxQSwUEVRwJUx8BQRoaSVhfRhoOChkDDUs=fp=chrome&security=tls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T01:45:34.939Z"
-    },
-    {
-      "url": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.253.251.184:443?sni=edg-2oo.pages.dev&type=ws&host=edg-2oo.pages.dev&path=/article/pages/archive?ed=2560fp=chromesecurity=tls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T01:45:34.939Z"
-    },
-    {
-      "url": "vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?sni=kk-ru24a1.testkknegr.online&alpn=h2&type=grpc&serviceName=vlgrpc&fp=chrome&security=tls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T01:15:35.780Z"
-    },
-    {
-      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJhZGQiOiJ3d3cud2luZG93c21zaWRvd25sb2Fkcy5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiI4MGJlMmRlYi0zYjI3LTQ3NzUtOWJkMS03ZjJhMmI5YzI2MWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6Ind3dy53aW5kb3dzbXNpZG93bmxvYWRzLmNvbSIsInBhdGgiOiIvdHJ1dGgiLCJob3N0Ijoid3d3LndpbmRvd3Ntc2lkb3dubG9hZHMuY29tIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T01:15:35.780Z"
-    },
-    {
-      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTciLCJhZGQiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiI4M2IwOWE2NC0xZWFmLTRjNGQtODllZC04NjZkNGI2YjgxMTUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6Ind3dy51YnVudHV1cGRhdGVzLmNvbSIsInBhdGgiOiIvdHJ1dGgiLCJob3N0Ijoid3d3LnVidW50dXVwZGF0ZXMuY29tIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T01:15:35.780Z"
-    },
-    {
-      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCJhZGQiOiJ3d3cud2luZG93c3NlYXJjaHRvb2xzLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6ImJhMTExNmUyLThjMmYtNGUzZC04ZTUwLWM5NTQzNjBjZjk3MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoid3d3LndpbmRvd3NzZWFyY2h0b29scy5jb20iLCJwYXRoIjoiL3RydXRoIiwiaG9zdCI6Ind3dy53aW5kb3dzc2VhcmNodG9vbHMuY29tIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T01:15:35.780Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@77.110.97.245:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T00:45:34.122Z"
-    },
-    {
-      "url": "vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=firefox&sid=a73f0410d728c823&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T00:15:34.073Z"
-    },
-    {
-      "url": "vless://36c06e11-028b-40a1-a91f-c8f38f03e829@jp.yi-yi.xyz:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=956d8072a694ff37&pbk=g3T4dVyrbNixv7HvSMlh91cYBa5kEsZCEInB7Xc_AEY#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-26T22:45:32.871Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ==@140.82.56.38:8388#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-26T21:45:32.845Z"
-    },
-    {
-      "url": "vless://846cedee-2a52-4a62-a0b9-11850ead6a8b@46.8.43.125:443?security=reality&type=tcp&packetEncoding=xudp&sni=kz-central.v8x2b.lol&fp=firefox&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-26T21:15:31.244Z"
     }
   ]
 }
