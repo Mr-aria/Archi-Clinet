@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-18T16:30:34.405Z",
+  "updated": "2026-11-18T16:31:41.095Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.200.161:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-18T16:31:38.528Z"
+    },
     {
       "url": "vless://SoonTeam%20@fr.abbaas.net:443?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&fp=chrome&spx=%2F96792ab71d05b03&type=tcp&sni=stg.crazimals.com&sid=57#%40V2rayng_Fast%20",
       "name": "V2rayng_Fast",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://1c640e86-51fe-45f0-9afb-efa55c4d1997@213.152.165.197:2092?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&security=reality&sid=716b7eba38125f3a&sni=www.apple.com&type=tcp#%F0%9F%90%8D64@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T16:16:42.276Z"
-    },
-    {
-      "url": "vless://901cb432-3807-404a-9bb8-987814b000ca@213.152.165.200:2092?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&security=reality&sid=716b7eba38125f3a&sni=www.apple.com&type=tcp#%F0%9F%90%8D65@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-26T16:16:42.276Z"
