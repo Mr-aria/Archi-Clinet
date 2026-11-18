@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-18T18:30:47.719Z",
+  "updated": "2026-11-18T19:01:49.315Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.11.154:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-18T19:01:46.119Z"
+    },
     {
       "url": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@85.14.243.91:8443?encryption=none&fp=&pbk=dPnrpjfG_vzjH20n0W7qNbWB5-dMxNSjeo2BpIsrXAE&security=reality&serviceName=workspace6c036b2914c6&sid=bca958b54462eba5&sni=edge-7577e858223c.eu-cdn539.com&type=grpc#%F0%9F%94%B961@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://5ec50dc8-fba8-42ad-b427-e51193bc5c2a@199.232.78.159:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=ussman.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-26T20:15:31.127Z"
-    },
-    {
-      "url": "vless://75985152-e16e-4a48-87ff-35c2615e0ab5@147.45.46.157:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-26T20:15:31.127Z"
