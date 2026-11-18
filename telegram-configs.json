@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-18T12:00:38.274Z",
+  "updated": "2026-11-18T13:01:59.343Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.247.164:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-18T13:01:56.678Z"
+    },
     {
       "url": "vless://003ec416-45f0-462a-8030-016fe0a71703@160.123.255.172:443?alpn=h2%2Ch3%2Chttp%2F1.1&encryption=none&fp=firefox&mode=auto&path=%2F&security=tls&sni=mama147.baklajann.ru&type=xhttp#%F0%9F%94%B932@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://f9a9aa1f-75fb-4490-9155-85567af7a0ff@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-26T14:31:41.731Z"
-    },
-    {
-      "url": "vless://678aeb5e-b88b-4c82-869c-b1bc273c1c21@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=snaanjaai.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig",
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-26T14:31:41.731Z"
