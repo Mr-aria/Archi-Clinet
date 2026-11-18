@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-18T10:15:35.145Z",
+  "updated": "2026-11-18T11:01:50.581Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.89.220:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-18T11:01:48.004Z"
+    },
     {
       "url": "vless://%58pnTeam-134@167.82.64.7:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=Xpnt5eam.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
       "name": "mehrosaboran",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@pl2.pad-sservice.lat:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=pl2.pad-service.com&type=ws&allowInsecure=0&sni=pl2.pad-sservice.lat#Tel%40MARAMBASHI%20%F0%9F%92%9F",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-26T12:15:32.498Z"
-    },
-    {
-      "url": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.138:443?security=reality&encryption=none&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=zsde.eu-cdn294.com&sid=c8621ebb1e56abb3#Tel%40MARAMBASHI%20%F0%9F%92%9F",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-26T12:15:32.498Z"
