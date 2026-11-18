@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-18T16:31:41.095Z",
+  "updated": "2026-11-18T17:01:33.808Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.119.204:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-18T17:01:31.643Z"
+    },
+    {
+      "url": "vless://fa80a2a1-edb1-461a-b94b-e360b8574e27@104.21.1.213:443?encryption=none&security=tls&sni=media-0a02cd.aiacademyhub.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=media-0a02cd.aiacademyhub.org&path=%2F27ae75d08381b6af#@Proxy_badss",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-18T17:01:30.336Z"
+    },
+    {
+      "url": "vless://df97ce68-477f-4484-94c7-79eccab7319d@64.190.113.142:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=usi1.angelsleep9.com&fp=firefox&pbk=D6i-T21GKwBd113fbh7kgofOE63M4GId7LsCGdI6z20&type=tcp&headerType=none#@Proxy_badss",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-18T17:01:30.336Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.200.161:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@13.143.232.62:4443/?sni=nl1.obxodvpn.us#%F0%9F%90%8D61@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T16:16:42.276Z"
-    },
-    {
-      "url": "trojan://humanity@88.216.69.253:443?host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%F0%9F%90%8D62@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T16:16:42.276Z"
-    },
-    {
-      "url": "trojan://humanity@154.81.141.42:443?host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%F0%9F%90%8D63@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-26T16:16:42.276Z"
-    },
-    {
-      "url": "vless://1c640e86-51fe-45f0-9afb-efa55c4d1997@213.152.165.197:2092?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&security=reality&sid=716b7eba38125f3a&sni=www.apple.com&type=tcp#%F0%9F%90%8D64@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-26T16:16:42.276Z"
