@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-19T17:30:38.945Z",
+  "updated": "2026-11-19T18:46:41.597Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiMmJjODBlNzctOTU5MC00ZGVkLWE0OGItMGVkYTQ5M2Y2MTFiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5X0FscGhh8J+moyAxMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T18:46:39.103Z"
+    },
+    {
+      "url": "vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@129.101.98.60:443?security=reality&encryption=none&pbk=lews1n_fypGexd_dMofEO4Vy1ULsFeVIFa90MMY3pm4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru7e2bab87cc39.eu-cdn539.com&sid=3992cc7fb9fcbe58#%40V2ray_Alpha%F0%9F%A6%A3%207",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T18:46:39.103Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com#%40V2ray_Alpha%F0%9F%A6%A3%205",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T18:46:39.103Z"
+    },
+    {
+      "url": "vless://a346c521-7a7f-452b-9356-a4893feb5982@78.17.215.133:443?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=de10-r.bankai.party#%40V2ray_Alpha%F0%9F%A6%A3%204",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T18:46:39.103Z"
+    },
+    {
+      "url": "vless://a346c521-7a7f-452b-9356-a4893feb5982@178.130.46.188:443?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl16-r.bankai.party#%40V2ray_Alpha%F0%9F%A6%A3%203",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T18:46:39.103Z"
+    },
     {
       "url": "vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=%2Fapi%2Fvless&security=tls&alpn=http&encryption=none&insecure=0&host=vpn-rating.space&fp=firefox&type=ws&allowInsecure=0&sni=daily-author.ru#%40V2rayng_Fast%20",
       "name": "V2rayng_Fast",
@@ -29968,36 +29998,6 @@
     },
     {
       "url": "vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#%F0%9F%90%9263@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@13.143.239.84:4443/?sni=nl1.obxodvpn.us#%F0%9F%90%9264@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "hysteria2://146d567c-6335-4e63-a8aa-7ec068642440@191.217.251.225:4443/?sni=nl1.obxodvpn.us#%F0%9F%90%9265@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl2.nexfile.net:4444/#%F0%9F%90%9266@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "hysteria2://10be1dad-9952-4c5e-aa30-db435f69b727@bl3.nexfile.net:4444/#%F0%9F%90%9267@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.160:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&security=reality&sid=88d9dc52ef39c8bd&sni=node-slo05.rkitman.ru&type=tcp#%F0%9F%90%9268@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-27T14:16:33.125Z"
