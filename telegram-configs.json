@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-19T12:00:33.770Z",
+  "updated": "2026-11-19T12:16:35.592Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@194.60.228.97:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#%40V2ray_Alpha%F0%9F%AA%B8%2010",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T12:16:33.398Z"
+    },
+    {
+      "url": "vless://SoonTeam@fr.abbaas.net:443?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&fp=chrome&spx=%2F96792ab71d05b03&type=tcp&sni=weather.com&sid=0ccc9342fa5e7f#%40V2ray_Alpha%F0%9F%AA%B8%208",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T12:16:33.398Z"
+    },
+    {
+      "url": "vless://SoonTeam@fr.abbaas.net:45546?mode=auto&path=%2Fsoon&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=GgO_laVIFUL5JOZrIesfGewuZSXQMLhC-ASCW76ziSk&fp=chrome&spx=%2F78ed60190db0c5a&type=xhttp&sni=stage.theweathercompany.info&sid=810ca2a7f7f111#%40V2ray_Alpha%F0%9F%AA%B8%207",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T12:16:33.398Z"
+    },
+    {
+      "url": "vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?path=%2Ft.me-SubGift&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=subgift.gcorecdn.com#%40V2ray_Alpha%F0%9F%AA%B8%205",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T12:16:33.398Z"
+    },
+    {
+      "url": "vless://a346c521-7a7f-452b-9356-a4893feb5982@138.124.80.29:443?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fin1-r.bankai.party#%40V2ray_Alpha%F0%9F%AA%B8%204",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T12:16:33.398Z"
+    },
+    {
+      "url": "vless://SoonTeam@fr.abbaas.net:41058?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&fp=chrome&spx=%2F96792ab71d05b03&type=tcp&sni=w-x.co&sid=0ccc9342fa5e7f#%40V2ray_Alpha%F0%9F%AA%B8%203",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-19T12:16:33.398Z"
+    },
     {
       "url": "vless://04f4af27-af47-4f97-9eb0-17a46df671e6@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=fraboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@ICV2RAY",
       "name": "icv2ray",
@@ -29965,42 +30001,6 @@
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-27T09:01:33.801Z"
-    },
-    {
-      "url": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.102:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node-slo01.rkitman.ru&sid=88d9dc52ef39c8bd#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T08:45:33.910Z"
-    },
-    {
-      "url": "vless://d68be168-fda7-4e8c-8638-33a82d2202ca@193.223.104.106:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=apple.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T08:15:33.669Z"
-    },
-    {
-      "url": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.107:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=node-slo02.rkitman.ru&sid=88d9dc52ef39c8bd#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T08:15:33.669Z"
-    },
-    {
-      "url": "vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?encryption=none&host=OV-France1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%F0%9F%90%9210@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T07:46:47.713Z"
-    },
-    {
-      "url": "vless://f439e4fe-139b-4882-ad8b-a16176d09c88@94.183.197.40:443?encryption=none&fp=&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=de2.cdn77.icu&type=tcp#%F0%9F%90%921@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T07:46:47.713Z"
-    },
-    {
-      "url": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@157.173.7.17:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&security=reality&sid=88d9dc52ef39c8bd&sni=node-fra03.rkitman.ru&type=tcp#%F0%9F%90%922@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T07:46:47.713Z"
     }
   ]
 }
