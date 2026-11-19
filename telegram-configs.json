@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-19T22:45:31.511Z",
+  "updated": "2026-11-19T23:16:39.633Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://8e348ebd-1258-4d83-9721-81f922d314e9@178.239.145.21:101?security=none&encryption=none&host=mci.neteaderType=htp&type=tcp#%%5DwolfNET-4",
+      "name": "free_netplus",
+      "source": "free_netplus",
+      "date": "2026-11-19T23:16:36.692Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5MUR4Q0hUSkJLb1ZxbFFjSHJMN2VKbFlESi9kWDdNaVMydHJUa21oK2dvPQ@e5.cover20.ir:31973?type=tcp#ss-7TB",
       "name": "V2rayNG3",
@@ -29995,12 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-27T19:15:37.085Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.223.99:22222?encryption=none&security=none&type=tcp#(S103",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-27T19:00:33.300Z"
     }
   ]
 }
