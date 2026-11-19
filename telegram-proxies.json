@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-19T05:45:31.912Z",
-  "count": 2077,
+  "updated": "2026-11-19T06:30:33.196Z",
+  "count": 2080,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=93.115.20.4&port=8443&secret=dd4d1904787e99a86dc23b12eb306f2712",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-19T06:30:32.914Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=srv-sfnjxv.nether.cfd&port=443&secret=ee2963ae650074baec7e12802a367b039e646c2e676f6f676c652e636f6d",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-19T06:30:32.914Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=proxy2.rayzatech.site&port=8445&secret=eefb8693c530954691a4cb8413692bb3987261797a61746563682e73697465",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-19T06:30:32.914Z"
+    },
     {
       "url": "https://t.me/proxy?server=violet.heronglade.space&port=8443&secret=ee4b20619b99880640b45f275c18e20555786170692e6f7a6f6e2e7275",
       "name": "ProxyMTProto",
