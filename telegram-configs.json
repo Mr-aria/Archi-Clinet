@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-19T10:16:37.191Z",
+  "updated": "2026-11-19T11:01:32.303Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.138.168:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-19T11:01:30.274Z"
+    },
     {
       "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
       "name": "MARAMBASHI",
@@ -29995,12 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-27T07:46:47.713Z"
-    },
-    {
-      "url": "vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@188.114.97.6:443?security=tls&type=ws&path=%2F9BozNyvQ8VdRvsYX%3Fed%3D2560&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&fp=unsafe#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T07:45:30.789Z"
     }
   ]
 }
