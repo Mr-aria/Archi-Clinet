@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-19T21:16:42.527Z",
+  "updated": "2026-11-19T22:45:31.511Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5MUR4Q0hUSkJLb1ZxbFFjSHJMN2VKbFlESi9kWDdNaVMydHJUa21oK2dvPQ@e5.cover20.ir:31973?type=tcp#ss-7TB",
+      "name": "V2rayNG3",
+      "source": "V2rayNG3",
+      "date": "2026-11-19T22:45:30.630Z"
+    },
     {
       "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OFNyQVkya0VrOVVIS1NnVUpqUXZmZFRKUDlvUGxTUFZQMXdJQ0w3bjNoaz0@43.106.81.90:443#Tel%40MARAMBASHI%20%F0%9F%87%B3%F0%9F%87%B1",
       "name": "MARAMBASHI",
@@ -29995,12 +30001,6 @@
       "name": "PrivateVPNs",
       "source": "PrivateVPNs",
       "date": "2026-10-27T19:00:33.300Z"
-    },
-    {
-      "url": "vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387?security=reality&encryption=none&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=9608a9c65d315d52#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-27T18:16:35.088Z"
     }
   ]
 }
