@@ -1,3 +1,6 @@
+vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=none&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?mode=gun&security=reality&encryption=none&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&fp=random&type=grpc&serviceName=grpc-common3&sni=www.nvidia.com&sid=52add08b86a5ccea#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.138.168:22222?encryption=none&security=none&type=tcp#(S103
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE
@@ -4995,6 +4998,3 @@ vless://45ceaca9-30f4-4035-85b7-8f83493911d8@188.164.248.91:443?ed=2048&eh=Sec-W
 vless://2567e2e0-8d4c-4c51-aee9-5d1f36024472@[2001:bc8:32d7:302::10
 vless://00ee2eeb-cb0e-453c-b151-c8cf28089d31@116.203.7.223:34257?encryption=none&fp=&pbk=5FkOfDtgsGr856IC5mE1c27qzl_HQ85onkcaIzd_qgk&security=reality&sid=601e43eb94a28919&sni=play.google.com&type=tcp#%F0%9F%90%929@oneclickvpnkeys
 vless://4a02614f-c461-4675-9017-bb5a757c8edd@31.59.179.90:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=pJpaRasoceUeRDJTXEZNnKT3yW5IocPXudB_B7_rBR0&security=reality&sid=4fa44664f6a566d3&sni=grr.milas.click&type=tcp#%F0%9F%90%9211@oneclickvpnkeys
-trojan://5e4a2c58499345c3@145.241.235.204:20022?allowInsecure=1&sni=ikuk204.zxom.eu.org#%F0%9F%90%9212@oneclickvpnkeys
-vless://ee82f319-ab92-425d-8e04-28a29f33f670@193.160.141.81:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=apple.com&type=tcp#%F0%9F%90%9214@oneclickvpnkeys
-trojan://mitivpn@167.82.64.46:443?alpn=http%2F1.1&fp=firefox&host=mitivpn-mitivpn.ac.ir&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=firefox.com&type=ws#%F0%9F%90%9215@oneclickvpnkeys
