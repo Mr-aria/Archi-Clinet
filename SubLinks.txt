@@ -102,5 +102,29 @@
   {
     "name": "barry far",
     "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt"
+  },
+  {
+    "name": "V2RaySub FastNodes curated",
+    "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/curated.txt"
+  },
+  {
+    "name": "V2RaySub FastNodes verified TLS",
+    "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/verified_tls.txt"
+  },
+  {
+    "name": "V2RaySub kobabi",
+    "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub_all.txt"
+  },
+  {
+    "name": "V2RaySub rasool083",
+    "url": "https://raw.githubusercontent.com/rasool083/v2ray-sub/refs/heads/main/sub.txt"
+  },
+  {
+    "name": "V2RaySub SubCrawler vless",
+    "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/master/sub/share/vless"
+  },
+  {
+    "name": "V2RaySub Mineral",
+    "url": "https://github.com/LalatinaHub/Mineral/raw/refs/heads/master/result/nodes"
   }
 ]
