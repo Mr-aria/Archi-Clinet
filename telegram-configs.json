@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-19T16:01:43.712Z",
+  "updated": "2026-11-19T16:30:34.781Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?security=reality&encryption=none&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&host=%2F%3FTelegram%E2%80%94PLANB_NET%E2%80%94PLANB_NET%E2%80%94PLANB_NET%E2%80%94PLANB_NET&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-19T16:30:32.786Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.183.73:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29995,12 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-27T11:45:31.157Z"
-    },
-    {
-      "url": "vless://37ca5f34-2531-4fda-a781-20f3845fea88@178.250.157.231:443?security=reality&encryption=none&pbk=pObQ7F063LsHc_lDuUfzPnx83C-goIPyyffMZs1CG0U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lifeskaterstudent.caskstudio.org&sid=c9e5505275320b51#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T11:15:33.522Z"
     }
   ]
 }
