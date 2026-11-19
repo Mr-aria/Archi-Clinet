@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-19T19:46:53.716Z",
+  "updated": "2026-11-19T20:00:32.841Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&security=reality&sid=39793bc4708abbbb&sni=mensura.cdn-apple.com&type=tcp#%F0%9F%94%B591@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-19T20:00:32.091Z"
+    },
+    {
+      "url": "hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-hk-004.fastervpn.world:443/?insecure=1&sni=vpn-hk-004.fastervpn.world#%F0%9F%94%B592@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-19T20:00:32.091Z"
+    },
+    {
+      "url": "hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443/?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#%F0%9F%94%B593@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-19T20:00:32.091Z"
+    },
+    {
+      "url": "vmess://418048af-a293-4b99-9b0c-98ca3580dd24@38.11.69.48:30004?encryption=auto&host=www.83761815.xyz&path=%2Fpath%2F1698843555400&security=tls&sni=www.83761815.xyz&type=ws#%F0%9F%94%B595@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-19T20:00:32.091Z"
+    },
+    {
+      "url": "vless://66171cbe-0b4b-4b24-99f6-d5a822f4dc9a@158.101.151.157:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=99eQkMBHqOEKororOWKFlmH8M0o9VaVpV9w1vQIxhz8&security=reality&sid=684c7531e599dec0&sni=www.microsoft.com&type=tcp#%F0%9F%94%B596@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-19T20:00:32.091Z"
+    },
+    {
+      "url": "hysteria2://linlin-2026@13.55.52.44:36712/?insecure=1&sni=13.55.52.44#%F0%9F%94%B5100@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-19T20:00:32.091Z"
+    },
     {
       "url": "vless://5d594aff-c434-4f20-a70f-99d34eb396e8@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=ukoijji.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#YFZ%20450%20%40Outline_Vpn",
       "name": "outline_vpn",
@@ -29965,42 +30001,6 @@
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-27T17:45:31.855Z"
-    },
-    {
-      "url": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=play.googleapis.com&sid=974f7f8f#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-27T17:45:31.855Z"
-    },
-    {
-      "url": "vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?security=reality&encryption=none&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=50#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-27T17:45:31.855Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.84.84:22222?encryption=none&security=none&type=tcp#(S102",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-27T17:00:30.472Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.60.198.0:22222?encryption=none&security=none&type=tcp#(S102",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-27T17:00:30.472Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@52.78.45.69:8443#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T16:45:34.281Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.215.117:22222?encryption=none&security=none&type=tcp#(S101",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-27T16:30:37.494Z"
     }
   ]
 }
