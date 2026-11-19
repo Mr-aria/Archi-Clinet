@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-19T04:45:30.909Z",
-  "count": 2075,
+  "updated": "2026-11-19T05:45:31.912Z",
+  "count": 2077,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=violet.heronglade.space&port=8443&secret=ee4b20619b99880640b45f275c18e20555786170692e6f7a6f6e2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-19T05:45:29.452Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=solar.heronglade.space&port=443&secret=ee4b20619b99880640b45f275c18e20555706574726f766963682e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-19T05:45:29.452Z"
+    },
     {
       "url": "https://t.me/proxy?server=vivi73.sorrelbay.xyz&port=443&secret=ee2d41dffff1a709fab3857583bca0c360617669746f2e7275",
       "name": "ProxyMTProto",
