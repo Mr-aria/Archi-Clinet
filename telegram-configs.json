@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-19T20:00:32.841Z",
+  "updated": "2026-11-19T20:01:38.462Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.41.107:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-19T20:01:36.008Z"
+    },
     {
       "url": "vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&security=reality&sid=39793bc4708abbbb&sni=mensura.cdn-apple.com&type=tcp#%F0%9F%94%B591@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.70.206:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-27T17:45:31.855Z"
-    },
-    {
-      "url": "vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-27T17:45:31.855Z"
