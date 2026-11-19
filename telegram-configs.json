@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-19T18:46:41.597Z",
+  "updated": "2026-11-19T19:00:36.248Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?security=tls&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=base.hosamobenl.co.uk#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-19T19:00:34.082Z"
+    },
+    {
+      "url": "vless://SoonTeam%20@fr.abbaas.net:41058?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2F96792ab71d05b03&type=tcp&sni=www.crazimals.com&sid=74bd1764ce65#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-19T19:00:34.082Z"
+    },
+    {
+      "url": "vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=OV-Germany1.09vpn.com&type=ws#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-19T19:00:34.082Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiMmJjODBlNzctOTU5MC00ZGVkLWE0OGItMGVkYTQ5M2Y2MTFiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5X0FscGhh8J+moyAxMCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==",
       "name": "V2ray_Alpha",
@@ -29983,24 +30001,6 @@
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-27T15:00:31.377Z"
-    },
-    {
-      "url": "hysteria2://4b1be712-774c-4b65-8491-a3339e124a70@hys-eu.letsconnectpoint.com:443/#%F0%9F%90%9261@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "trojan://humanity@109.234.211.232:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%F0%9F%90%9262@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "vless://ef328563-cda1-4530-9b0a-988cc5a74d78@188.137.158.159:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=softice.net&type=tcp#%F0%9F%90%9263@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
     }
   ]
 }
