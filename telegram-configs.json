@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-19T17:01:39.950Z",
+  "updated": "2026-11-19T17:16:42.110Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@leviko-de6003.shopingggg.ir:443?security=reality&encryption=none&pbk=O35Np_ugrc3mUDIEO4UnViEwRobM2r9kqQCdcdCHjEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p1.xvanta.online&sid=cb33163cf9c03ab1#%40Shh_Proxy-New%C2%B9",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-19T17:16:40.837Z"
+    },
+    {
+      "url": "vless://fdc6b770-0b62-4a4f-a369-885e390dbca3@leviko-de2375.shopingggg.ir:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=TcpTlsDigikaLa.SavfaSf.iR.#%40Shh_Proxy-New%C2%B2",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-19T17:16:40.837Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWlp6Zm8xbXFIN1BxbmxvQW9nZGkyWEJobGdpb2ZNeQ@tr.subscriptionservice.ir:2089#%40Shh_Proxy-New%C2%B3",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-19T17:16:40.837Z"
+    },
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.245.170.82:443#%40Shh_Proxy-New%E2%81%B5",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-19T17:16:40.837Z"
+    },
+    {
+      "url": "vless://c1e84bf2-9052-4135-9edf-29b52a6dfdf3@nyan.nyanners.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=nyan.nyanners.ir#%40Shh_Proxy-New%E2%81%B6",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-19T17:16:40.837Z"
+    },
+    {
+      "url": "vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl7089.shopingggg.ir:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#%40Shh_Proxy-New%E2%81%B7",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-19T17:16:40.837Z"
+    },
+    {
+      "url": "vless://a346c521-7a7f-452b-9356-a4893feb5982@leviko-de8370.shopingggg.ir:443?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de10-r.bankai.party#%40Shh_Proxy-New%E2%81%B8",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-19T17:16:40.837Z"
+    },
+    {
+      "url": "vless://a1cf2f59-ffe0-4cb3-8c68-e6abf44726fc@leviko-nl0448.shopingggg.ir:443?security=reality&encryption=none&pbk=MYmnKEaJyfk1HrBaKg3AvYebp-sP3rZRNh9MnOcKgXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=705f0a232571#%40Shh_Proxy-New%E2%81%B9",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-19T17:16:40.837Z"
+    },
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@18.130.78.177:443#%40Shh_Proxy-New%C2%B9%E2%81%B0",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-19T17:16:40.837Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.0.90:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29947,60 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "vless://901cb432-3807-404a-9bb8-987814b000ca@213.152.165.201:2092?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&security=reality&sid=716b7eba38125f3a&sni=www.apple.com&type=tcp#%F0%9F%90%9271@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&security=reality&sid=16036bbef04d0509&sni=twitch.tv&type=tcp#%F0%9F%90%9272@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "hysteria2://2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5@92.242.165.40:8443/?sni=speedtestmark.com#%F0%9F%90%9273@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.155:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&security=reality&sid=88d9dc52ef39c8bd&sni=node-slo04.rkitman.ru&type=tcp#%F0%9F%90%9274@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "hysteria2://23c82941-70f4-4381-90db-bd28e9a902e9@steel7.hadsvpn.com:443/#%F0%9F%90%9275@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.19:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=firefox&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#%40V2ray_Alpha%F0%9F%8C%BB%2013",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-27T14:15:32.011Z"
-    },
-    {
-      "url": "trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=edge&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40V2ray_Alpha%F0%9F%8C%BB%2012",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-27T14:15:32.011Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJ0dXJrbmV3Lm5ldC1mbG93YS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imd2dDEuY29tIiwiaWQiOiJjZDk2NDc5ZS05YzM5LTRhN2YtYmEwYy04MDZhODNhZjE5Y2EiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5X0FscGhh8J+MuyAxMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-27T14:15:32.011Z"
-    },
-    {
-      "url": "vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.70.206:8443?path=%2F&security=tls&encryption=none&insecure=0&host=free.sahanwickramasinghe.me&fp=chrome&type=ws&allowInsecure=0&sni=free.sahanwickramasinghe.me#%40V2ray_Alpha%F0%9F%8C%BB%203",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-27T14:15:32.011Z"
     }
   ]
 }
