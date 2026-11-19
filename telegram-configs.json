@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-19T13:00:36.719Z",
+  "updated": "2026-11-19T13:16:48.548Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://4f9f03f9-39e9-4879-8f10-0eccf859aafd@gold.jafarghasemiturkk.ir:8080?path=%2F&type=ws&security=none&flow=xtls-rprx-vision&encryption=mlkem768x25519plus.native.0rtt.EITKrLrLFdNlWVc2lGL0531SnyJBnQ7NwAOFsSxdY0w#%40NOFILTERING2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-19T13:16:46.639Z"
+    },
+    {
+      "url": "vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@leviko-se9938.shopingggg.ir:443?host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&security=tls&headerType=none&encryption=none&allowInsecure=0&type=tcp&sni=lodizu.hagrid-connected.com&flow=xtls-rprx-vision&insecure=0&fp=chrome&alpn=h2%2Chttp%2F1.1#%40NOFILTERING2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-19T13:16:46.639Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT…",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-19T13:16:46.639Z"
+    },
     {
       "url": "hysteria2://VPNJEy@[2a0f:5707:aaf1:11a6::1",
       "name": "oneclickvpnkeys",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "hysteria2://capadm54312235%3AJdypYweuDQOrFqWTcFAL6aFq@51.15.16.68:24044/?insecure=1&obfs=salamander&obfs-password=ypvL8T4HFIBLoH8q&sni=vpn.local#%F0%9F%90%9232@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T09:46:41.253Z"
-    },
-    {
-      "url": "vless://c136a12c-4260-48a7-a1e6-fbda83a11045@free.sahanwickramasinghe.me:8443?encryption=none&fp=chrome&host=free.sahanwickramasinghe.me&path=%2F&security=tls&sni=free.sahanwickramasinghe.me&type=ws#%F0%9F%90%9233@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T09:46:41.253Z"
-    },
-    {
-      "url": "vless://c136a12c-4260-48a7-a1e6-fbda83a11045@51.75.67.209:8443?encryption=none&host=free.sahanwickramasinghe.me&path=%2F&security=tls&sni=free.sahanwickramasinghe.me&type=ws#%F0%9F%90%9234@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T09:46:41.253Z"
-    },
-    {
-      "url": "vless://6c688f63-fad4-45d8-a6a1-1e978ed26b8b@49.13.39.86:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=static.75.209.109.65.clients.your-server.de&type=tcp#%F0%9F%90%9235@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-27T09:46:41.253Z"
