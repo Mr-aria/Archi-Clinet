@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-19T19:00:36.248Z",
+  "updated": "2026-11-19T19:01:39.125Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.128:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-19T19:01:37.094Z"
+    },
     {
       "url": "vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@87.248.149.50:443?security=tls&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&sni=base.hosamobenl.co.uk#",
       "name": "V2ray_official",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTUhBMVRuQ2VoTUNBbnNWOEdPejdINW9SUkhxRy03Ng@dns22.m3hrzd.ir:1347#MTMVPN%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-27T15:00:31.377Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoTUhBMVRuQ2VoTUNBbnNWOEdPejdINW9SUkhxRy03Ng@dns22.m3hrzd.ir:1345#Chanel0111Net",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-27T15:00:31.377Z"
