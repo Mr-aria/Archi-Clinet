@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-19T06:30:33.196Z",
-  "count": 2080,
+  "updated": "2026-11-19T08:45:30.511Z",
+  "count": 2082,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=dunelumen.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9464756e656c756d656e2e76656c76657477696e646f772e6363",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-19T08:45:28.821Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=dunelumen.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9464756e656c756d656e2e7061706572746561706f742e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-19T08:45:28.821Z"
+    },
     {
       "url": "https://t.me/proxy?server=93.115.20.4&port=8443&secret=dd4d1904787e99a86dc23b12eb306f2712",
       "name": "oneclickvpnkeys",
