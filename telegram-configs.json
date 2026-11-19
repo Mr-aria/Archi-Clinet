@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-18T20:45:35.900Z",
+  "updated": "2026-11-19T06:45:33.466Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://490dc3b4-8d1d-49fd-840e-bd5277b41557@189.30.65.203:2083?mode=gun&security=&encryption=none&type=grpc&serviceName=service-41f6a2a01377#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-19T06:45:29.276Z"
+    },
+    {
+      "url": "vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.144.52.195:443?security=reality&encryption=none&pbk=wpKYWqa_j7WXClXDdSL-llXhjH918G_U7jfpHAMSGWk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fl-modx.nodexphere.net#%F0%9F%87%AB%F0%9F%87%AE%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-19T06:45:29.276Z"
+    },
     {
       "url": "vless://32ea050a-1981-4ed2-b63f-77e0f53c4b65@cdn4.velmoradigital.store:2443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=cdn4.velmoradigital.store#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
       "name": "prrofile_purple",
@@ -29989,18 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-27T04:45:33.644Z"
-    },
-    {
-      "url": "vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@188.114.98.0:443?security=tls&type=ws&path=%2Fpai50288&host=ccs2g.pai50288.uk&packetEncoding=xudp&alpn=http%2F1.1&sni=ccs2g.pai50288.uk&fp=unsafe&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T03:15:34.764Z"
-    },
-    {
-      "url": "vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:8080?&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-27T02:45:32.420Z"
     }
   ]
 }
