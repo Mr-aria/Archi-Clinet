@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-19T17:16:42.110Z",
+  "updated": "2026-11-19T17:30:38.945Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?path=%2Fapi%2Fvless&security=tls&alpn=http&encryption=none&insecure=0&host=vpn-rating.space&fp=firefox&type=ws&allowInsecure=0&sni=daily-author.ru#%40V2rayng_Fast%20",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-19T17:30:37.264Z"
+    },
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40V2rayng_Fast%20",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-19T17:30:37.264Z"
+    },
     {
       "url": "vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@leviko-de6003.shopingggg.ir:443?security=reality&encryption=none&pbk=O35Np_ugrc3mUDIEO4UnViEwRobM2r9kqQCdcdCHjEI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p1.xvanta.online&sid=cb33163cf9c03ab1#%40Shh_Proxy-New%C2%B9",
       "name": "shh_proxy",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://d0c8aa8d-a535-432a-b521-21f0e561f643@92.42.201.160:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&security=reality&sid=88d9dc52ef39c8bd&sni=node-slo05.rkitman.ru&type=tcp#%F0%9F%90%9268@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "trojan://humanity@www.speedtest.net:443?host=www.calmlunch.com&path=%2Fassignment%3FTELEGRAM--CONFIG7X--CONFIG7X&sni=www.calmlunch.com&type=ws#%F0%9F%90%9269@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-27T14:16:33.125Z"
-    },
-    {
-      "url": "vless://3edfab95-a259-45f2-846c-3a1ca12c9b60@45.66.161.213:12443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=HiHSfcw5q5boEsWk4vW5rcO8WThY4A9r2t5mv53WM0A&security=reality&sid=10c4a07dbcd21648&sni=545a6fa5e369.j.cloudfront.hls.ttvnw.net&type=tcp#%F0%9F%90%9270@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-27T14:16:33.125Z"
