@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-20T19:46:48.895Z",
-  "count": 2139,
+  "updated": "2026-11-20T20:30:33.759Z",
+  "count": 2140,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=5.75.243.182&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-20T20:30:30.830Z"
+    },
     {
       "url": "https://t.me/proxy?server=alooo.unarc.com.tr&port=2083&secret=7hXN1Lxn0j-oiEBe3j4Z_9B3d3cuY2xvdWRmbGFyZS5jb20",
       "name": "ProxyMTProto",
