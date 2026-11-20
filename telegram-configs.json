@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-20T10:31:32.923Z",
+  "updated": "2026-11-20T10:45:35.586Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.62.190:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-20T10:45:33.899Z"
+    },
     {
       "url": "vless://836c4d68-e086-11f1-aabc-67841df8a6f9@185.65.202.122:10004?encryption=none&path=%2Fvpnjantit&security=none&type=ws#%E2%AD%9532@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://c7270753-bd18-4696-956d-57dbde1183fe@gb.puflino.com:443?security=reality&encryption=none&pbk=65d6SIYIqiX-SN4vx_BnNiQJ8Lnr0HAgUKoT7WgWRgI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=edge-uk2.mystatic-cdn.ru&sid=ee169e93d3c277a1#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-27T20:30:35.333Z"
-    },
-    {
-      "url": "vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20MTMVPN",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-27T20:30:35.333Z"
