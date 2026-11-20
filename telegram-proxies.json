@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-20T19:16:48.178Z",
-  "count": 2137,
+  "updated": "2026-11-20T19:46:48.895Z",
+  "count": 2139,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=alooo.unarc.com.tr&port=2083&secret=7hXN1Lxn0j-oiEBe3j4Z_9B3d3cuY2xvdWRmbGFyZS5jb20",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-20T19:46:43.781Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=top.deal-market.xyz&port=853&secret=eed54b7276c5dfb4e0ecb7996de53dc9ae696e74656c2e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-20T19:46:43.781Z"
+    },
     {
       "url": "https://t.me/proxy?server=This-is-home.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
