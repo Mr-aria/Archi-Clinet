@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-20T16:45:34.535Z",
+  "updated": "2026-11-20T17:01:57.724Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@leviko-ca8643.shopingggg.ir:8080#%40IRAN_V2RAY1%20%E2%9A%A1",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-20T17:01:54.732Z"
+    },
+    {
+      "url": "vless://01e61db7-9e0b-4431-a995-a5288a01b951@leviko-tr3098.shopingggg.ir:43000?security=reality&encryption=none&pbk=DbL9RJFvJrnxBu6fFhWkHF8nsD6cK_DKMuMV00RmlWg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=147.45.66.208&sid=4d3d8e15#%40IRAN_V2RAY1%20%E2%9A%A1",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-20T17:01:54.732Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.21.62:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-27T21:46:47.673Z"
-    },
-    {
-      "url": "vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=none&fp=chrome&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-27T21:46:47.673Z"
-    },
-    {
-      "url": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?security=reality&encryption=none&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bilibili-vn.biliimg.com&sid=a46bb5972cf50671#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-27T21:46:47.673Z"
