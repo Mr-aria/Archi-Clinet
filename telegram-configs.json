@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-20T18:01:34.873Z",
+  "updated": "2026-11-20T18:45:31.073Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.233.185:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-20T18:45:29.938Z"
+    },
     {
       "url": "vless://4777d90d-265b-4927-a0d1-63f36ed1421c@94.241.172.107:443?mode=packet-up&pcs=67fa1e374feaeb232157317d6ace682475cb1a826e0cf8657151a254681aed62&path=%2Fassets%2Fnl02%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=94.241.172.107#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=%2F%3FTELEGRAM%D0%B2%D2%96%E2%80%9DV2ray_confiig&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-27T22:16:53.981Z"
-    },
-    {
-      "url": "vless://ee82f319-ab92-425d-8e04-28a29f33f670@193.160.141.81:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-27T22:16:53.981Z"
