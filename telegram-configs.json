@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-20T18:45:31.073Z",
+  "updated": "2026-11-20T19:16:39.059Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@104.18.63.135:2083?path=%2F&security=tls&encryption=none&insecure=0&host=vipfree.dr-ping.ir&fp=chrome&type=ws&allowInsecure=0&sni=vipfree.dr-ping.ir#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-20T19:16:32.567Z"
+    },
+    {
+      "url": "trojan://6-FrR5YsfjfyNp6AIFZgcQ@ipfast.kingmna.com:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&insecure=0&host=copy_az_channel_NUFiLTER_17i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-20T19:16:32.567Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.233.185:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-27T22:16:53.981Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-27T22:16:53.981Z"
-    },
-    {
-      "url": "vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=%2F%3FTELEGRAM%D0%B2%D2%96%E2%80%9DV2ray_confiig&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-27T22:16:53.981Z"
