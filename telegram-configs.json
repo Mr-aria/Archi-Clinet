@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-20T12:31:41.726Z",
+  "updated": "2026-11-20T12:45:31.514Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.127.161:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-20T12:45:30.667Z"
+    },
     {
       "url": "vless://352a250d-080b-47b5-b7db-f9f8fa31c551@45.192.12.92:443?security=reality&encryption=none&pbk=aUOP5gJGQ1QFhdZuREZ8yosfPavFiJ6f_EySIBZ2WCE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nltimes.nl#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@37.153.158.136:56137#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-27T20:47:05.294Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@87.236.166.166:56137#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-27T20:47:05.294Z"
