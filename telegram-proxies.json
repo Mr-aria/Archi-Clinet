@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-20T15:46:40.405Z",
-  "count": 2135,
+  "updated": "2026-11-20T19:16:48.178Z",
+  "count": 2137,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=This-is-home.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-20T19:16:32.888Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=my.home.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-20T19:16:32.888Z"
+    },
     {
       "url": "https://t.me/proxy?server=cdncoast.com&port=443&secret=eea0802366dd565a104bdfb2f9e390c2d4686f66662e7275",
       "name": "ProxyMTProto",
