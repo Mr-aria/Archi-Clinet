@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-20T05:16:50.449Z",
-  "count": 2121,
+  "updated": "2026-11-20T06:46:38.953Z",
+  "count": 2123,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=breeze.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94627265657a652e76656c76657477696e646f772e6363",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-20T06:46:34.530Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=breeze.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94627265657a652e7061706572746561706f742e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-20T06:46:34.530Z"
+    },
     {
       "url": "https://t.me/proxy?server=172.65.172.190&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "YamYamProxy",
