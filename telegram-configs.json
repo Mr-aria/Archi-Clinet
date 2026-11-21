@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-21T12:01:34.734Z",
+  "updated": "2026-11-21T13:01:48.951Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?security=tls&obfs=salamander&obfs-password=v0qq015d7c8zgzu7&insecure=0&sni=quotes.ali-khamenei.world#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-21T13:01:44.785Z"
+    },
+    {
+      "url": "vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?path=%2Fstream%2Fupdates%2Fa66d7902%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=neplay603.gangtype.com&fp=firefox&type=ws&sni=neplay603.gangtype.com#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-21T13:01:44.785Z"
+    },
+    {
+      "url": "vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@109.106.15.99:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=key-master-saver.com&sid=1c3e8241a8743df9#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-21T13:01:44.785Z"
+    },
+    {
+      "url": "vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@192.142.12.198:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-21T13:01:44.785Z"
+    },
+    {
+      "url": "vless://9a597d68-6688-4046-bf24-a5a541e115e0@135.136.33.134:8443?security=reality&encryption=none&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=f8d0271b4b5f9efc#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-21T13:01:44.785Z"
+    },
+    {
+      "url": "vless://bc93a03d-13b5-0006-8ee7-d50c11459dab@89.18.60.230:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-21T13:01:44.785Z"
+    },
+    {
+      "url": "vless://bc058e69-0444-4c7b-98da-bd67f0b143da@130.12.242.106:443?security=reality&encryption=none&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=15affa0af66dfc79#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-21T13:01:44.785Z"
+    },
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-21T13:01:44.785Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-21T13:01:44.785Z"
+    },
     {
       "url": "vless://2e80121c-31b2-423e-914f-f2a365aedfa1@detwo.growmart.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=o6eT_tu59qsEdh0M1ZHIKGmqhwfOJn26504U_1F0xQM&security=reality&sid=def7804cfaccddd9&sni=detwo.growmart.site&type=tcp#%E2%9A%99%EF%B8%8F33@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29947,60 +30001,6 @@
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-28T09:45:34.903Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-28T09:45:34.903Z"
-    },
-    {
-      "url": "vless://5ce803ae-a81c-4276-b1f8-ee3b845c5c4b@193.160.140.168:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-28T09:45:34.903Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-28T09:45:34.903Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-28T09:45:34.903Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiIzOC42MC4yMjQuMTczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjZjFmNDcwLTNmNzAtNDU4OS1hMmE0LTQ2NTdlYTNhMWVkZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzIxNTMiLCJwcyI6Ilx1ZDgzY1x1ZGRmMlx1ZDgzY1x1ZGRmZCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGYyXHVkODNjXHVkZGZkIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-28T08:45:31.239Z"
-    },
-    {
-      "url": "trojan://Tg3RnK7Xp8B1@64.176.96.237:443?security=tls&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-28T08:45:31.239Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJzZWxlY3Qtc2cuZGRuc2t1bmx1bi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGZhNjU3OTktNjk0ZS0zMTZiLWIyZDMtMzBjNzkzNzc3Y2JmIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI5MDM5IiwicHMiOiJcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMgSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-28T08:45:31.239Z"
-    },
-    {
-      "url": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ukefast.failspace.top:443?sni=ukefast.failspace.top&alpn=h2&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-28T08:45:31.239Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcnMyZTlh@54.36.174.134:443#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-28T08:45:31.239Z"
     }
   ]
 }
