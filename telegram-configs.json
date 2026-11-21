@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-21T18:45:32.129Z",
+  "updated": "2026-11-21T19:00:30.635Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=o685y.save-node.com#YFZ%20500%20%40Outline_Vpn",
+      "name": "outline_vpn",
+      "source": "outline_vpn",
+      "date": "2026-11-21T19:00:28.948Z"
+    },
+    {
+      "url": "vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@fr-free.fastestrelay.com:443?path=%2F700gvl&security=tls&encryption=none&insecure=0&host=fr-free.fastestrelay.com&fp=chrome&type=ws&allowInsecure=0&sni=fr-free.fastestrelay.com#YFZ%20501%20%40Outline_Vpn",
+      "name": "outline_vpn",
+      "source": "outline_vpn",
+      "date": "2026-11-21T19:00:28.948Z"
+    },
+    {
+      "url": "vless://4bec3709-0954-4173-ae59-3dee6cb8b961@91.192.158.251:2066?security=reality&encryption=none&pbk=84GM9QUTdTfTrhR-8loDOu7VA0LFW8X02vSvBQdsLAg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=1b2a3f#YFZ%20503%20%40Outline_Vpn",
+      "name": "outline_vpn",
+      "source": "outline_vpn",
+      "date": "2026-11-21T19:00:28.948Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=blog.browseseniorrolesandenhanceyourcareertoday.com#YFZ%20505%20%40Outline_Vpn",
+      "name": "outline_vpn",
+      "source": "outline_vpn",
+      "date": "2026-11-21T19:00:28.948Z"
+    },
+    {
+      "url": "vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&encryption=none&headerType=none&type=tcp#YFZ%20508%20%40Outline_Vpn",
+      "name": "outline_vpn",
+      "source": "outline_vpn",
+      "date": "2026-11-21T19:00:28.948Z"
+    },
+    {
+      "url": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@9.247.54.228:443?mode=auto&path=%2F0616f2d729aa&security=reality&encryption=none&pbk=dtO7khFLUkpFDQOtNzo4Th4hJKLoPSY2VtD_9k4Hgiw&type=xhttp&sni=fc82dfx.nl8.h1clayd.click&sid=7b2b1a14a6e0630d#YFZ%20509%20%40Outline_Vpn",
+      "name": "outline_vpn",
+      "source": "outline_vpn",
+      "date": "2026-11-21T19:00:28.948Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.47.138.188:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29965,42 +30001,6 @@
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-28T13:46:34.877Z"
-    },
-    {
-      "url": "vless://024cf4e8-fa64-44ea-b22f-c28437120563@www.naviga-ting.com:443?path=%2F51544%2Fws&security=tls&encryption=mlkem768x25519plus.native.0rtt.HgOBFNZBsI-IbLuV7IeOJbMRNb9CodLXi3YDHVWPWQU&insecure=0&host=ded1ws.samcdn.shop&fp=firefox&type=ws&allowInsecure=0&sni=www.naviga-ting.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-28T13:46:34.877Z"
-    },
-    {
-      "url": "vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.108:443?mode=auto&security=reality&encryption=none&pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&type=xhttp&sni=savesafe.top&sid=def9b800fb6a3ddb#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-28T13:46:34.877Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%94%B0%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-28T13:30:31.749Z"
-    },
-    {
-      "url": "vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?security=reality&encryption=none&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&headerType=none&fp=chrome&spx=%2Fa38e5cd3c84c243&type=tcp&sni=delivery.mp.microsoft.com&sid=d3feff5d570d6b#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%94%B0%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-28T13:30:31.749Z"
-    },
-    {
-      "url": "vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@se.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%94%B0%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-28T13:30:31.749Z"
-    },
-    {
-      "url": "trojan://humanity@104.18.37.127:443?path=%2Fassignment&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%94%B0%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-28T13:30:31.749Z"
     }
   ]
 }
