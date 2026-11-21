@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T16:15:31.190Z",
+  "updated": "2026-11-21T16:45:31.458Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.41.76:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-21T16:45:30.548Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.123.21:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.162:443?encryption=none&fp=&mode=auto&pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&security=reality&sid=def9b800fb6a3ddb&sni=savesafe.top&type=xhttp#%F0%9F%8F%8638@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-28T10:46:36.681Z"
-    },
-    {
-      "url": "vless://6c688f63-fad4-45d8-a6a1-1e978ed26b8b@167.233.180.114:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=static.196.249.107.91.clients.your-server.de&type=tcp#%F0%9F%8F%8639@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-28T10:46:36.681Z"
