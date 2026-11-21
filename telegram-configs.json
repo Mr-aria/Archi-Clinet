@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T20:01:45.787Z",
+  "updated": "2026-11-21T20:15:33.088Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.140.219:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-21T20:15:32.027Z"
+    },
     {
       "url": "vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&host=ov-france1.09vpn.com&type=ws&sni=ov-france1.09vpn.com#",
       "name": "V2ray_official",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443/?sni=forshynewh.duckdns.org#%F0%9F%8F%8663@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-28T17:46:53.515Z"
-    },
-    {
-      "url": "vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&security=reality&sid=af4ca5d16438c938&sni=vikt659.isgood.host&type=tcp#%F0%9F%8F%8664@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-28T17:46:53.515Z"
