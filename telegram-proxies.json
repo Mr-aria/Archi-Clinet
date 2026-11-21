@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T19:46:45.637Z",
-  "count": 2173,
+  "updated": "2026-11-21T20:30:37.402Z",
+  "count": 2174,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir-mainland.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-21T20:30:33.124Z"
+    },
     {
       "url": "https://t.me/proxy?server=teledomen.lol&port=443&secret=ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d",
       "name": "ProxyMTProto",
