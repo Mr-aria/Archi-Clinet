@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T12:46:46.208Z",
-  "count": 2169,
+  "updated": "2026-11-21T13:46:49.861Z",
+  "count": 2170,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=info.sibasiba.space&port=443&secret=7rMwK4zm8Y5eXzI2Dh1wpP9pbmZvLnNpYmFzaWJhLnNwYWNl",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-21T13:46:44.513Z"
+    },
     {
       "url": "https://t.me/proxy?server=matrixxx.vip&port=443&secret=eed0c83b444210a4302be4b1fe17714d4e6d617472697878782e766970",
       "name": "ProxyMTProto",
