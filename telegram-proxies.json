@@ -1,7 +1,115 @@
 {
-  "updated": "2026-11-21T08:16:35.729Z",
-  "count": 2149,
+  "updated": "2026-11-21T11:15:35.518Z",
+  "count": 2167,
   "proxies": [
+    {
+      "url": "tg://proxy?server=man-mamnon-misham-aziz.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=khare-gol.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=becarefull.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=188.245.7.75&port=3864&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=khosh-khande.lolauth.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=sudoaptupdate-y-sudoaptupgrade-y.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=strong.hosiyaman.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=H2O.miandoabs.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=948116789.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=alone.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=88.99.59.152&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=proxy2.nightvpn.ru&port=443&secret=00000000000000000000001000000000",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=333.antifilterasianew.co.uk&port=8443&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=46.225.179.160&port=8443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=perspolis.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=messi.nisti.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=87.248.144.40&port=2096&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
+    {
+      "url": "tg://proxy?server=elrmam.bypased.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-21T11:15:32.041Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir-ir-ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
