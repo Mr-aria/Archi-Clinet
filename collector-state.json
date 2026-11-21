@@ -7,7 +7,7 @@
     "outline_vpn": 11895,
     "iut_ChatrBazaan": 0,
     "ProxyMTProto": 53322,
-    "khabari_18": 79581,
+    "khabari_18": 79582,
     "JozveDaneshgahi_ir": 13493,
     "MatinSenPaii": 5937,
     "pewezavpn": 25993,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 15333,
   "totalProxies": 1939,
-  "runCount": 5692
+  "runCount": 5693
 }
