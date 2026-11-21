@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-21T19:31:39.000Z",
+  "updated": "2026-11-21T20:00:35.793Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&alpn=http%2F1.1&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-21T20:00:32.764Z"
+    },
+    {
+      "url": "vless://4bec3709-0954-4173-ae59-3dee6cb8b961@91.192.158.251:2066?security=reality&encryption=none&pbk=84GM9QUTdTfTrhR-8loDOu7VA0LFW8X02vSvBQdsLAg&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=1b2a3f#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AA",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-21T20:00:32.764Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.157:8080#",
       "name": "V2ray_official",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "ss://YWVzLTI1Ni1nY206TldFMFkySTVaalpsWXpkbE5qZ3lNems0WkdaaU5UUTFOemN5TVRGaQ@amsterdam108.npvnot.com:995#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-28T17:45:37.274Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@104.18.35.15:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-28T17:45:37.274Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-28T17:45:37.274Z"
