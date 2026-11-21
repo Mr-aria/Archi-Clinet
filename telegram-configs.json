@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T10:30:33.908Z",
+  "updated": "2026-11-21T10:45:30.896Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.184.123:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-21T10:45:30.081Z"
+    },
     {
       "url": "vless://bc93a03d-13b5-0006-8ee7-d50c11459dab@89.18.60.230:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#Tel%40MARAMBASHI%20%F0%9F%92%9C",
       "name": "MARAMBASHI",
@@ -29995,12 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-28T07:45:31.761Z"
-    },
-    {
-      "url": "vless://d4353076-3ec7-47dc-88b0-f21eb59fbfb8@193.160.140.159:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=mtmvpn&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%E2%AD%90%EF%B8%8F%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-28T07:30:34.432Z"
     }
   ]
 }
