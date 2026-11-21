@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T20:30:37.402Z",
-  "count": 2174,
+  "updated": "2026-11-21T23:30:31.315Z",
+  "count": 2175,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir-mainland.steveharrop.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-21T23:30:30.053Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir-mainland.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "MTP_roto",
