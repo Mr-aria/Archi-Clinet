@@ -17,7 +17,7 @@
     "MTP_roto": 50251,
     "iProxy": 0,
     "ProxyNamava": 305,
-    "MARAMBASHI": 41859,
+    "MARAMBASHI": 41860,
     "free_netplus": 24972,
     "Farah_VPN": 396561,
     "V2ray_Alpha": 10101,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 15333,
   "totalProxies": 1937,
-  "runCount": 5676
+  "runCount": 5677
 }
