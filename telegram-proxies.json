@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T19:16:34.927Z",
-  "count": 2172,
+  "updated": "2026-11-21T19:46:45.637Z",
+  "count": 2173,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=teledomen.lol&port=443&secret=ee47865459ee8e60d17b7374b5c7b53d086d6170792e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-21T19:46:40.458Z"
+    },
     {
       "url": "https://t.me/proxy?server=95.217.193.214&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
       "name": "ProxyMTProto",
