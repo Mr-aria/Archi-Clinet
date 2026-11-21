@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T08:01:43.057Z",
+  "updated": "2026-11-21T09:15:31.463Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.43.146.80:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-21T09:15:30.438Z"
+    },
     {
       "url": "vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@192.142.12.198:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=diffoscope.com&type=tcp#%E2%9A%99%EF%B8%8F1@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://b68bd590-010d-402c-9ffe-68a8ebbacebe@2.27.21.15:443?security=reality&encryption=none&pbk=kGd24lfAZGfG38A65J6ghGNEKeUKqAB6TDR1G09pHEI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=envs.net&sid=91079323f5151c91#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%E2%AD%90%EF%B8%8F%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-28T07:30:34.432Z"
-    },
-    {
-      "url": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%E2%AD%90%EF%B8%8F%20MTMVPN",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-28T07:30:34.432Z"
