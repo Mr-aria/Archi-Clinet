@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T13:01:48.951Z",
+  "updated": "2026-11-21T13:16:46.164Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-21T13:16:38.705Z"
+    },
     {
       "url": "hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?security=tls&obfs=salamander&obfs-password=v0qq015d7c8zgzu7&insecure=0&sni=quotes.ali-khamenei.world#",
       "name": "V2ray_official",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://cb2dbb6a-a1ea-4023-9ace-6466cee57241@51.81.203.63:443?security=reality&encryption=none&pbk=nqwCf6oW49tEtmQ0EzxigZ0uu1pg0E30CS54G40Iti0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=4477382ff6d3d41c#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-28T09:45:34.903Z"
-    },
-    {
-      "url": "vless://a01eabc2-bfdd-457c-a02a-73993237a3c4@91.107.247.174:443?security=reality&encryption=none&pbk=MjBRMMMBFIu4jSHSdDzdK4VPczAVkC1GHhHvugU3myI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&spx=%2Fb2700254108c651&type=tcp&sni=gspe121-rh-ssl.ls.apple.com&sid=c76b1008265b1a#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-28T09:45:34.903Z"
