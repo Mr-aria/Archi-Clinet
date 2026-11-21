@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-21T16:45:31.458Z",
+  "updated": "2026-11-21T16:46:37.044Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@195.15.207.252:443?security=reality&encryption=none&pbk=dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ch.mntw.lol&sid=76d0389e457fcba0#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-21T16:46:35.732Z"
+    },
+    {
+      "url": "vless://bc93a03d-13b5-0006-8ee7-d50c11459dab@89.18.60.230:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-21T16:46:35.732Z"
+    },
+    {
+      "url": "vless://713142c9-ad09-4894-b35c-645423f3f6c9@mirror.embrofree.org:443?security=reality&encryption=none&pbk=wfp4jyEksrozyS739zqIsNXySoqeEVtaQlVmeNeLp28&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=firefox&type=tcp&sni=dl-cdn.alpinelinux.org#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-21T16:46:35.732Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.41.76:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://53e31ee1-0a75-48c8-82fd-a54c8728ed9d@217.69.167.229:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9JxTswHvWeq5349tgvXL7fDWaWuCb3jstVS7e6daAD4&security=reality&sid=81a5b989&type=tcp#%F0%9F%8F%8635@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-28T10:46:36.681Z"
-    },
-    {
-      "url": "vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?encryption=none&fp=firefox&path=%2Fws&security=tls&sni=indigostar.click&type=ws#%F0%9F%8F%8636@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-28T10:46:36.681Z"
-    },
-    {
-      "url": "vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.151:443?encryption=none&fp=&mode=auto&pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&security=reality&sid=def9b800fb6a3ddb&sni=savesafe.top&type=xhttp#%F0%9F%8F%8637@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-28T10:46:36.681Z"
-    },
-    {
-      "url": "vless://eaa34d9f-662d-4378-8210-3508b5eee727@217.216.218.162:443?encryption=none&fp=&mode=auto&pbk=B4gdMxfjdXtFuqg-Ek9CDKiJT6QQiKb-tV2VODt_ik0&security=reality&sid=def9b800fb6a3ddb&sni=savesafe.top&type=xhttp#%F0%9F%8F%8638@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-28T10:46:36.681Z"
