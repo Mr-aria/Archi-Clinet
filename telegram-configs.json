@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-21T14:45:32.908Z",
+  "updated": "2026-11-21T15:46:35.321Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://bc93a03d-13b5-0004-8ee7-d50c11459dab@109.106.15.99:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=key-master-saver.com&sid=1c3e8241a8743df9#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-21T15:46:30.834Z"
+    },
     {
       "url": "vless://6c49810a-e6e7-4948-8061-6f6243b0124d@zibanabz.jonsonvip.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ssh.webdade.com&fp=chrome&pbk=aiFPeLurQNAOYZhwdXsYwxCxBgw6qg8rt0UvdrdNPTY&sid=ed516450fce897dd&type=tcp&headerType=none&path=%2F%40zibanabz%40zibanabz%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
       "name": "ZibaNabz",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://f8d52ece-fad4-478d-875d-df6eed3befa7@2.26.98.95:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&security=reality&sid=2c9a2790ad5900b2&sni=ge-s-1.pythonmakemigreat.wiki&type=tcp#%F0%9F%8F%8640@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-28T10:46:36.681Z"
-    },
-    {
-      "url": "vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.188:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new-ded.failspace.top&type=tcp#%F0%9F%8F%8641@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-28T10:46:36.681Z"
