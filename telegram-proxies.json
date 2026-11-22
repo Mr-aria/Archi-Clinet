@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-21T23:30:31.315Z",
-  "count": 2175,
+  "updated": "2026-11-22T04:46:33.575Z",
+  "count": 2177,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=gapolo64.kelpmoor.xyz&port=443&secret=eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-22T04:46:29.865Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=delede54.sorrelbay.xyz&port=8443&secret=eefa048bc9fcc498244c3c7c8b2c2388d5786170692e6f7a6f6e2e7275",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-22T04:46:29.865Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir-mainland.steveharrop.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "MTP_roto",
