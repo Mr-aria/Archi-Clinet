@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-22T10:00:36.714Z",
-  "count": 2190,
+  "updated": "2026-11-22T10:01:34.335Z",
+  "count": 2194,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=91.221.191.138&port=443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T10:01:33.128Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=91.221.191.115&port=443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T10:01:33.128Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=tg.boursbato.ir&port=443&secret=ee47eed690e8a57000cd1c1a1655cc591974672e626f7572736261746f2e6972",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T10:01:33.128Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=darkdept.store&port=8443&secret=ee4cdc677c2048afa846136f4a70c05e827777772e6461726b646570742e73746f7265",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T10:01:33.128Z"
+    },
     {
       "url": "https://t.me/proxy?server=1.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
       "name": "MTP_roto",
