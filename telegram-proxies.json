@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-22T04:46:33.575Z",
-  "count": 2177,
+  "updated": "2026-11-22T07:46:36.053Z",
+  "count": 2179,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=dune.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9464756e652e76656c76657477696e646f772e6363",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-22T07:46:31.407Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=dune.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9464756e652e7061706572746561706f742e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-22T07:46:31.407Z"
+    },
     {
       "url": "https://t.me/proxy?server=gapolo64.kelpmoor.xyz&port=443&secret=eefa048bc9fcc498244c3c7c8b2c2388d562726f777365722e79616e6465782e7275",
       "name": "ProxyMTProto",
