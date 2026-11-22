@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-22T17:46:46.285Z",
-  "count": 2202,
+  "updated": "2026-11-22T18:15:33.117Z",
+  "count": 2205,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=87.248.129.49&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-22T18:15:30.411Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=62ddd1.mmd1.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-22T18:15:30.411Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=87.248.129.190&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-22T18:15:30.411Z"
+    },
     {
       "url": "https://t.me/proxy?server=ams2.tlgfast.com&port=443&secret=ee2a4905e52c0b5fa1b009ec835de0e9b6616d73322e746c67666173742e636f6d",
       "name": "ProxyMTProto",
