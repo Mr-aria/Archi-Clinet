@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-22T07:01:55.783Z",
+  "updated": "2026-11-22T07:15:31.005Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://7024c3e5-caae-4743-9a77-727fe558db29@zibanabz.jonsonvip.ir:8080?encryption=mlkem768x25519plus.native.0rtt._fFH4skXICMnTh4JT8Z-opz_fEPLVLD1w2NW3PN7tgQ&security=none&type=tcp&headerType=none#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-22T07:15:30.060Z"
+    },
+    {
+      "url": "vless://7024c3e5-caae-4743-9a77-727fe558db29@zibanabz.jonsonvip.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ssh.webdade.com&fp=chrome&pbk=aiFPeLurQNAOYZhwdXsYwxCxBgw6qg8rt0UvdrdNPTY&sid=ed516450fce897dd&type=tcp&headerType=none&path=%2F%40zibanabz%40zibanabz%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-22T07:15:30.060Z"
+    },
+    {
+      "url": "vless://7024c3e5-caae-4743-9a77-727fe558db29@zibanabz.jonsonvip.ir:3939?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ai.android&fp=chrome&pbk=dnnN66V_xqEbGoG5P8E_Zqk3TaZt2lM4SI9N7Ana7FA&sid=d9a2600fdecd7be2&spx=%2F16504cba99195d6&type=tcp&headerType=none&path=%2F%40zibanabz#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%40zibanabz",
+      "name": "ZibaNabz",
+      "source": "ZibaNabz",
+      "date": "2026-11-22T07:15:30.060Z"
+    },
     {
       "url": "hysteria2://capadmae6e0190%3AmoJK4Js1rEdUv1eWIqyjX1QB@51.15.16.68:8444/?insecure=1&obfs=salamander&obfs-password=HVD1C0uyo38mMz8B&sni=vpn.local#%F0%9F%93%975@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@hw7.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw7.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw7.divarkhaghazi.com.#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%AA%90%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-28T19:30:31.574Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%AA%90%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-28T19:30:31.574Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206TWpOaE4yUXdObUZsWVRSbFpHTXhOV1ZsT1RJME1HSTBNVFU0TURZMQ@helsinki03.npvnot.com:995#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%AA%90%20MTMVPN",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-28T19:30:31.574Z"
-    },
-    {
-      "url": "vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%AA%90%20MTMVPN",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-28T19:30:31.574Z"
