@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-22T19:00:34.489Z",
-  "count": 2206,
+  "updated": "2026-11-22T20:46:43.587Z",
+  "count": 2208,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=media.maxim-api.com&port=18443&secret=ee888d29ec050419c2d69ddc04a4bf12d86d656469612e6d6178696d2d6170692e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-22T20:46:40.031Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=mt-sw.alex-photo-notes.pl&port=443&secret=eeee677bf5d2356b3744e1208cc35d70887777772e676f6f676c652e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-22T20:46:40.031Z"
+    },
     {
       "url": "https://t.me/proxy?server=167.233.39.81&port=44…",
       "name": "v2ryNG01",
