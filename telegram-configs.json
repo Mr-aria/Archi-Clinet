@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-22T20:01:49.445Z",
+  "updated": "2026-11-22T20:15:32.319Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.103.0:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-22T20:15:31.404Z"
+    },
     {
       "url": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?encryption=none&host=platform103.halalkhor.info&path=%2Fplatform103&security=none&type=ws#%F0%9F%93%9791@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29995,12 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-29T09:15:32.907Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-29T08:45:30.460Z"
     }
   ]
 }
