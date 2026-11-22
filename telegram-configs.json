@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-22T18:30:32.503Z",
+  "updated": "2026-11-22T18:45:30.757Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.29.80:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-22T18:45:29.930Z"
+    },
     {
       "url": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@212.192.3.63:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#YFZ%20511%20%40Outline_Vpn",
       "name": "outline_vpn",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vmess://eyJhZGQiOiI1MS44My42LjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZGU4ODNkNmQtNDA5OS00MWJjLWJhODYtODJmZmVkNjRhMzgwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMDI1MCIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjciLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-29T06:45:33.213Z"
-    },
-    {
-      "url": "vless://85656e50-ee8d-4266-8b48-b99833c090dd@146.75.59.186:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=looabnetheroijji.global.ssl.fastly.net.&path=%2F#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-29T06:45:33.213Z"
