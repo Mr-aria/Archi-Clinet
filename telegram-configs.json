@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-22T20:00:33.529Z",
+  "updated": "2026-11-22T20:01:49.445Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?encryption=none&host=platform103.halalkhor.info&path=%2Fplatform103&security=none&type=ws#%F0%9F%93%9791@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T20:01:47.603Z"
+    },
+    {
+      "url": "vless://4c4f7955-3b05-4795-b3b7-6c83b7f82b0f@172.236.231.45:443?encryption=none&fp=&host=itunes.apple.com&path=%2Fws&pbk=M6kLOIYA9IagUu0eiplnPZFObYVzTc4GfPyEqKQnZWQ&security=reality&sid=8353867a&sni=itunes.apple.com&type=ws#%F0%9F%93%9792@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T20:01:47.603Z"
+    },
+    {
+      "url": "vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?encryption=none&host=%5B%27platform109.halalkhor.info%27%5D&path=%2Fplatform109&security=none&type=ws#%F0%9F%93%9793@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T20:01:47.603Z"
+    },
+    {
+      "url": "vmess://e0856508-d693-450a-a099-455091dc4f25@161.33.20.255:8880?encryption=auto&path=%2Fe0856508-d693-450a-a099-455091dc4f25-vm&security=none&type=ws#%F0%9F%93%9795@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T20:01:47.603Z"
+    },
+    {
+      "url": "hysteria2://oracle_hy2_pass_2026@129.225.181.46:8443/?insecure=1&sni=bing.com#%F0%9F%93%9796@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T20:01:47.603Z"
+    },
+    {
+      "url": "vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?encryption=none&flow=xtls-rprx-vision&fp=&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#%F0%9F%93%97100@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-22T20:01:47.603Z"
+    },
     {
       "url": "vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@45.132.179.90:443?security=reality&encryption=none&pbk=Ldrfdkq0bJrZWCS0p1u6Z2tPPal0LzRm4cgEYF_2KH8&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=sbmicro683.gangplatform.com&sid=cda7e8556ea56616#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
       "name": "MARAMBASHI",
@@ -29965,42 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-29T08:45:30.460Z"
-    },
-    {
-      "url": "trojan://%4D%69%54%69%56%50%4E@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E--%6D%69%74%69%76%70%6E.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-29T08:00:41.213Z"
-    },
-    {
-      "url": "trojan://%4D%69%54%69%56%50%4E@167.82.64.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E--%6D%69%74%69%76%70%6E.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-29T08:00:41.213Z"
-    },
-    {
-      "url": "trojan://%4D%69%54%69%56%50%4E@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%3FTelegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E--%6D%69%74%69%76%70%6E.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#Telegram%20%40mtmvpn%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-29T08:00:41.213Z"
-    },
-    {
-      "url": "vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443/?type=tcp&encryption=none&flow=&security=tls&sni=swz.proxyplankton.ru&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA29%40exclavevpn",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-29T07:46:31.384Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-29T07:15:32.540Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.232.138:22222?encryption=none&security=none&type=tcp#(S101",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-29T07:00:38.634Z"
     }
   ]
 }
