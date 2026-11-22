@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-22T08:30:32.827Z",
-  "count": 2180,
+  "updated": "2026-11-22T10:00:36.714Z",
+  "count": 2190,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=1.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=71.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=91.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=81.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=61.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=41.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=51.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=31.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=21.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=11.hide.7y76y.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-22T10:00:30.714Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir-neverland.nowhearthis.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "MTP_roto",
