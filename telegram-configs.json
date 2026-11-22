@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-22T11:01:30.823Z",
+  "updated": "2026-11-22T11:15:30.808Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://6d622d0d-2572-456a-8daf-b2f01698aa37@135.106.175.19:443?security=reality&encryption=none&pbk=102QGNfisDfTEw5BcC0u61i6mY6UFcZ2qCMJzNxDtXc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=roshia.anime-together.club#MTMVPN%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-22T11:15:30.369Z"
+    },
     {
       "url": "hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111/?insecure=1&sni=%E2%80%A6#%F0%9F%93%9731@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://27653b37-603c-4c90-b1f5-25c4d23f8932@72.56.242.232:443?encryption=none&fp=chrome&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-1-881.mirra.now&type=grpc#%F0%9F%8F%8698@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-28T20:46:46.436Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?fp=chrome&sni=connectwithtopemployersandfindidealjobs.com#%F0%9F%8F%8699@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-28T20:46:46.436Z"
