@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-22T18:15:33.117Z",
-  "count": 2205,
+  "updated": "2026-11-22T19:00:34.489Z",
+  "count": 2206,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=167.233.39.81&port=44…",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-22T19:00:31.098Z"
+    },
     {
       "url": "https://t.me/proxy?server=87.248.129.49&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
       "name": "proxy_badss",
