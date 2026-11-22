@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-22T11:15:30.808Z",
+  "updated": "2026-11-22T12:45:33.070Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.135.154:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-22T12:45:31.907Z"
+    },
     {
       "url": "vless://6d622d0d-2572-456a-8daf-b2f01698aa37@135.106.175.19:443?security=reality&encryption=none&pbk=102QGNfisDfTEw5BcC0u61i6mY6UFcZ2qCMJzNxDtXc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=roshia.anime-together.club#MTMVPN%20",
       "name": "proxy_mtm",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "hysteria2://1953e43b-605c-4262-83eb-41a80646b801@31.185.105.12:443/?sni=fr.song69.fun#%F0%9F%8F%8697@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-28T20:46:46.436Z"
-    },
-    {
-      "url": "vless://27653b37-603c-4c90-b1f5-25c4d23f8932@72.56.242.232:443?encryption=none&fp=chrome&security=tls&serviceName=VideoRenderer&sni=renderer-bridge-1-881.mirra.now&type=grpc#%F0%9F%8F%8698@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-28T20:46:46.436Z"
