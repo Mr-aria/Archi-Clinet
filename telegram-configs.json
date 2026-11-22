@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-22T16:30:33.962Z",
+  "updated": "2026-11-22T16:45:33.108Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.130.204.50:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-22T16:45:31.959Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.64.60:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-22T16:45:31.959Z"
+    },
     {
       "url": "vless://7d43670b-6b08-45b9-8a24-8f3971abc132@poland.biznes.lol:443?security=reality&encryption=none&pbk=j4Uc6ljg9by_VKYywo5h2N-eh3kpUbFL5Bsp8-AX4Qk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.biznes.lol#%40V2ray_Alpha%F0%9F%AB%8E%205",
       "name": "V2ray_Alpha",
@@ -29989,18 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-28T21:45:34.166Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@216.173.67.59:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-28T21:45:34.166Z"
-    },
-    {
-      "url": "vless://99fa1d27-b252-4cba-b04d-50c3d0873700@hk013.zestapp778.com:59746?type=tcp&security=tls&fp=chrome&sni=hk013.zestapp778.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-28T21:15:34.575Z"
     }
   ]
 }
