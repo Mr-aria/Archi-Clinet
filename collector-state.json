@@ -13,12 +13,12 @@
     "pewezavpn": 26022,
     "ShadowWolfVpn": 219,
     "neotenet": 1260,
-    "v2ryNG01": 22284,
+    "v2ryNG01": 22288,
     "MTP_roto": 50304,
     "iProxy": 0,
     "ProxyNamava": 305,
     "MARAMBASHI": 41927,
-    "free_netplus": 25599,
+    "free_netplus": 25607,
     "Farah_VPN": 396706,
     "V2ray_Alpha": 10116,
     "iTV2RAY": 3146,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 15958,
   "totalProxies": 2053,
-  "runCount": 6220
+  "runCount": 6221
 }
