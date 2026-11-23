@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-23T20:45:35.982Z",
+  "updated": "2026-11-23T20:46:31.710Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=chrome&spx=%2FHesarWeb&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-23T20:46:30.513Z"
+    },
+    {
+      "url": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-23T20:46:30.513Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ii8/VGVsZWdyYW0tLS1tZWhyb3NhYm9yYW4iLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InJhdyIsInBhdGgiOiIvZXlKcWRXNXJJam9pTlVaVldtZFBOV05wVFc1TE9DSXNJbkJ5YjNSdlkyOXNJam9pZG13aUxDSnRiMlJsSWpvaWNISmxabWw0SWl3aWNHRnVaV3hKVUhNaU9sc2lXekkyTURJNlptTTFPVHBpTURvMk5EbzZYU0pkZlEiLCJwY3MiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IkBtZWhyb3NhYm9yYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-23T20:46:30.513Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---mehrosaboran&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-23T20:46:30.513Z"
+    },
+    {
+      "url": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@212.192.3.113:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#%40mehrosaboran",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-23T20:46:30.513Z"
+    },
     {
       "url": "vless://566a19dc-591e-4ddf-a727-2b95d68ae4a5@195.201.225.248:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=c3nztvix78ee.dx4x.com#",
       "name": "proxy_mtm",
@@ -29971,36 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-30T18:15:33.505Z"
-    },
-    {
-      "url": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?security=reality&type=tcp&packetEncoding=xudp&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-30T18:15:33.505Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-30T18:15:33.505Z"
-    },
-    {
-      "url": "vless://5a82be1c-ed6a-4f98-a767-05df0f7be3e7@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#YFZ%20211%20%40Outline_Vpn",
-      "name": "outline_vpn",
-      "source": "outline_vpn",
-      "date": "2026-10-30T18:15:30.274Z"
-    },
-    {
-      "url": "vless://b59d913d-e686-4e89-b37b-00b56de6f7ba@199.232.20.113:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=www.firefox.com&mode=auto&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%220-0%22%7D&insecure=0&host=Manek--kip.global.ssl.fastly.net&allowInsecure=0#YFZ%20213%20%40Outline_Vpn",
-      "name": "outline_vpn",
-      "source": "outline_vpn",
-      "date": "2026-10-30T18:15:30.274Z"
-    },
-    {
-      "url": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed&security=tls&encryption=none&insecure=0&host=n.bitpulse.me&fp=chrome&type=ws&allowInsecure=0&sni=n.bitpulse.me#YFZ%20216%20%40Outline_Vpn",
-      "name": "outline_vpn",
-      "source": "outline_vpn",
-      "date": "2026-10-30T18:15:30.274Z"
     }
   ]
 }
