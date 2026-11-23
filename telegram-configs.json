@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T10:30:32.821Z",
+  "updated": "2026-11-23T10:45:32.402Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.200.99:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-23T10:45:31.128Z"
+    },
     {
       "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d312d7fb-f1b0-4a92-adef-771d9bf24a87@creator.morteza1388m1122.ir:8443?sni=CREATOR.morteza1388m1122.ir&fp=chrome&security=tls#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-29T20:45:34.427Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-29T20:45:34.427Z"
