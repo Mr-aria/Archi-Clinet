@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T06:15:35.649Z",
+  "updated": "2026-11-23T06:45:33.338Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.202.241:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-23T06:45:32.290Z"
+    },
     {
       "url": "trojan://GBEqN2BggZfFExc5pTTHUA@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%54%45%4C%45%47%52%41%4D%2D%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D%2D%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41M%2D%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D%2D%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D%2D%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D%2D%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D%2D%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D%2D%40%4E%55%46%69%4C%54%45%52&security=tls&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%31%37%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@45.152.192.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sid=61e21f9aa67aa1bf&sni=8a11e6a89110.j.cloudfront.hls.ttvnw.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&type=tcp#%40nofiltering2%20%60",
-      "name": "nofiltering2",
-      "source": "nofiltering2",
-      "date": "2026-10-29T18:45:33.495Z"
-    },
-    {
-      "url": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?insecure=0&host=hw3.divarkhaghazi.com.&security=tls&path=%2F&sni=hw3.divarkhaghazi.com&type=ws&allowInsecure=0&encryption=none#%40nofiltering2",
       "name": "nofiltering2",
       "source": "nofiltering2",
       "date": "2026-10-29T18:45:33.495Z"
