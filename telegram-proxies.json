@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T13:30:34.395Z",
-  "count": 2227,
+  "updated": "2026-11-23T16:15:35.550Z",
+  "count": 2228,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=yazdan.htop.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
+      "name": "BlueKnight_Net",
+      "source": "BlueKnight_Net",
+      "date": "2026-11-23T16:15:32.332Z"
+    },
     {
       "url": "https://t.me/proxy?server=188.245.204.125&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
       "name": "v2ryNG01",
