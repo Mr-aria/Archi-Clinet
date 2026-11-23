@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-23T22:30:33.565Z",
+  "updated": "2026-11-23T23:30:39.785Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T23:30:37.337Z"
+    },
+    {
+      "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare-dns.com&fp=firefox&flow=xtls-rprx-vision&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T23:30:37.337Z"
+    },
     {
       "url": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birchbark.gerqix.online:443?sni=birchbark.gerqix.online&alpn=h2&type=grpc&serviceName=glush.de7.v1&fp=chrome&security=tls#",
       "name": "Farah_VPN",
@@ -29989,18 +30001,6 @@
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-10-30T18:45:33.331Z"
-    },
-    {
-      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-30T18:45:33.077Z"
-    },
-    {
-      "url": "vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.221:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=69984b9e02545831&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-30T18:45:33.077Z"
     }
   ]
 }
