@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-23T08:45:33.240Z",
+  "updated": "2026-11-23T09:00:33.898Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=qq&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&type=tcp&headerType=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T09:00:32.537Z"
+    },
+    {
+      "url": "vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?security=reality&type=tcp&packetEncoding=xudp&sni=video.yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T09:00:32.537Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T09:00:32.537Z"
+    },
+    {
+      "url": "vless://88e79aa6-f431-4453-8dcc-652a0c747198@172.67.197.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=o685y.save-node.com&type=ws&headerType=none&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T09:00:32.537Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T09:00:32.537Z"
+    },
+    {
+      "url": "vless://b69cf773-da16-486e-afce-a45b94f998b3@154.40.61.186:8443?allowInsecure=1&sni=senflarelink-node-wj1gsa.pages.dev&type=ws&host=senflarelink-node-wj1gsa.pages.dev&path=/flow=&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T09:00:32.537Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.123.34:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29965,42 +30001,6 @@
       "name": "PrivateVPNs",
       "source": "PrivateVPNs",
       "date": "2026-10-29T19:00:39.146Z"
-    },
-    {
-      "url": "vless://3bcbd7ef-e05b-4745-a1de-5ecf98dd2fb6@216.24.57.225:2083?encryption=none&host=pol.netvia.ir&path=%2Fwss&security=tls&sni=pol.netvia.ir&type=ws#%F0%9F%A4%9691@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-29T18:46:52.508Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?sni=www.connectingpeoplewithgreatjobs.com#%F0%9F%A4%9692@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-29T18:46:52.508Z"
-    },
-    {
-      "url": "vless://cb06778c-91e6-480a-a791-a49dcfa940d5@199.127.153.13:43000?encryption=none&flow=xtls-rprx-vision&fp=&pbk=iLJlXL4PvOVex6GXgDLywQQ_j6_uJ7YMVlePIYwceF8&security=reality&sid=1a72a06c&type=tcp#%F0%9F%A4%9693@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-29T18:46:52.508Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%A4%9694@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-29T18:46:52.508Z"
-    },
-    {
-      "url": "vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@178.83.45.226:8080?encryption=none&security=none&type=tcp#%F0%9F%A4%9695@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-29T18:46:52.508Z"
-    },
-    {
-      "url": "vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&security=reality&sid=3199b70105c62ce0&sni=www.sun6-21.userapi.com&type=tcp#%F0%9F%A4%9696@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-29T18:46:52.508Z"
     }
   ]
 }
