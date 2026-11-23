@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T16:16:37.925Z",
-  "count": 2230,
+  "updated": "2026-11-23T17:15:35.252Z",
+  "count": 2231,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=kgs.larilarilaylay.ir&port=8080&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-23T17:15:34.854Z"
+    },
     {
       "url": "https://t.me/proxy?server=dc.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "YamYamProxy",
