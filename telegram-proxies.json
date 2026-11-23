@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T17:32:04.034Z",
-  "count": 2246,
+  "updated": "2026-11-23T18:45:38.725Z",
+  "count": 2247,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=professor.hasratepaeiz.website.&port=7070&secret=iORid5lJ237IiBMGYMQMdw",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-23T18:45:30.146Z"
+    },
     {
       "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd651bab73c30ff52fce6751261cff5047",
       "name": "V2rayng_Fast",
