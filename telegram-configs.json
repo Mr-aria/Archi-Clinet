@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T20:31:33.634Z",
+  "updated": "2026-11-23T20:45:35.982Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://566a19dc-591e-4ddf-a727-2b95d68ae4a5@195.201.225.248:443?security=tls&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=c3nztvix78ee.dx4x.com#",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-23T20:45:35.097Z"
+    },
     {
       "url": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@72.56.238.135:443?encryption=none&fp=firefox&host=parchment.merlano.monster&path=%2Fapi%2Fde7%2Fstream&security=tls&sni=parchment.merlano.monster&type=ws#%F0%9F%94%B0100@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed&security=tls&encryption=none&insecure=0&host=n.bitpulse.me&fp=chrome&type=ws&allowInsecure=0&sni=n.bitpulse.me#YFZ%20216%20%40Outline_Vpn",
-      "name": "outline_vpn",
-      "source": "outline_vpn",
-      "date": "2026-10-30T18:15:30.274Z"
-    },
-    {
-      "url": "vless://056405e8-de9f-4d0d-8145-956f13cc34da@79.182.39.37:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#YFZ%20217%20%40Outline_Vpn",
       "name": "outline_vpn",
       "source": "outline_vpn",
       "date": "2026-10-30T18:15:30.274Z"
