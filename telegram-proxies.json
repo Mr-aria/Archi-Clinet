@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T10:16:38.136Z",
-  "count": 2214,
+  "updated": "2026-11-23T11:46:38.682Z",
+  "count": 2215,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=as.mkim.click&port=443&secret=ee2dfa3526fc70b7abd7a09eade6ccea1f61732e6d6b696d2e636c69636b",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-23T11:46:31.881Z"
+    },
     {
       "url": "https://t.me/proxy?server=great.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
