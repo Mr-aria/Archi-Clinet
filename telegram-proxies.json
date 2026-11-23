@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-23T18:45:38.725Z",
-  "count": 2247,
+  "updated": "2026-11-23T20:01:43.905Z",
+  "count": 2252,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd222a71dc7a2491f931e301c2ac3b68c5",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:01:42.440Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd4367291c863876651a582348b725d498",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:01:42.440Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd7465278aaf465103b4d25f0924c747f8",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:01:42.440Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=ddff55d98bd5291cd145638b4c233cb16b",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:01:42.440Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd159d23f3401a2c2a1f28b9cd3e480e53",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:01:42.440Z"
+    },
     {
       "url": "https://t.me/proxy?server=professor.hasratepaeiz.website.&port=7070&secret=iORid5lJ237IiBMGYMQMdw",
       "name": "MyPoroxy",
