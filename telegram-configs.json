@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T19:31:35.714Z",
+  "updated": "2026-11-23T20:15:39.246Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.126.197:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-23T20:15:37.215Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZTRjM2lzb3Z3OHBqbmc0@57.131.21.102:8080#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "trojan://humanity@104.18.37.127:443?host=www.trusteeforward.com&path=%2Fassignment&sni=www.trusteeforward.com&type=ws#%F0%9F%91%BE69@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-30T15:46:39.797Z"
-    },
-    {
-      "url": "vless://c6362720-0931-4b91-b187-d8ecf3149734@178.83.45.226:10002?encryption=none&security=none&type=tcp#%F0%9F%91%BE70@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-30T15:46:39.797Z"
