@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-23T06:45:33.338Z",
+  "updated": "2026-11-23T07:00:45.015Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@inlay.merlano.monster:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T07:00:42.471Z"
+    },
+    {
+      "url": "vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.18.35.86:2083?&security=tls&fp=chrome&sni=vlsovip.1d.mom&type=ws&headerType=none&host=vlsovip.1d.mom&path=%2Ffp%3Dunsafe#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T07:00:42.471Z"
+    },
+    {
+      "url": "vless://8b1b59c8-8802-0002-a636-ffe786275594@91.219.23.76:443?&security=tls&fp=firefox&sni=cataloguebroker.comparecarprices.org&type=ws&headerType=none&path=%2Fmedia%2Fws%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T07:00:42.471Z"
+    },
+    {
+      "url": "vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?&security=tls&fp=firefox&sni=neplay603.gangtype.com&type=ws&headerType=none&host=neplay603.gangtype.com&path=%2Fstream%2Fupdates%2Fa66d7902#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T07:00:42.471Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T07:00:42.471Z"
+    },
+    {
+      "url": "vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.145.94:443?security=tls&type=ws&path=%2F&host=powered-by-surena.configfarsi695fd01a94fe7.workers.dev&packetEncoding=xudp&sni=powered-by-surena.configfarsi695fd01a94fe7.workers.dev&fp=chrome#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T07:00:42.471Z"
+    },
+    {
+      "url": "vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site&type=tcp&headerType=none&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T07:00:42.471Z"
+    },
+    {
+      "url": "vless://ce18d0eb-5c71-41f9-96e5-1632e22456e4@195.123.240.65:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=ios&flow=xtls-rprx-vision&sid=19296c9f1bf9c7b1&pbk=StPbcmBuzpuYUfa4oZ5SI3Bq1OSF_-oU1vp2AcyvQVE#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T07:00:42.471Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.202.241:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29953,54 +30001,6 @@
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-29T18:46:52.290Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp%3Dchromefp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=firefox&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-29T18:46:52.290Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2F%3FTELEGRAM----ICV2RAY----%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=qq&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-29T18:46:52.290Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2F%3FTELEGRAM----ICV2RAY----%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-29T18:46:52.290Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp%3Dchromefp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=safari&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-29T18:46:52.290Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp%3Dchromefp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=android&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-29T18:46:52.290Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp%3Dchromefp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=edge&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-29T18:46:52.290Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=android&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-29T18:46:52.290Z"
-    },
-    {
-      "url": "vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@45.152.192.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sid=61e21f9aa67aa1bf&sni=8a11e6a89110.j.cloudfront.hls.ttvnw.net&pbk=8ZYjmjb0b2QJKCGMrcdhQNV28jZZPCKgIQbIdqChQ0w&headerType=none&type=tcp#%40nofiltering2%20%60",
-      "name": "nofiltering2",
-      "source": "nofiltering2",
-      "date": "2026-10-29T18:45:33.495Z"
     }
   ]
 }
