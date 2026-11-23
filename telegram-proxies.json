@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T13:01:42.884Z",
-  "count": 2226,
+  "updated": "2026-11-23T13:30:34.395Z",
+  "count": 2227,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=188.245.204.125&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-23T13:30:30.706Z"
+    },
     {
       "url": "https://t.me/proxy?server=45.83.85.233&port=443&secret=31abec0f24f6e02870e523711c3be0d4",
       "name": "oneclickvpnkeys",
