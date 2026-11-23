@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T08:30:47.274Z",
+  "updated": "2026-11-23T08:45:33.240Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.169.123.34:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-23T08:45:32.173Z"
+    },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&security=reality&sid=3199b70105c62ce0&sni=www.sun6-21.userapi.com&type=tcp#%F0%9F%A4%9696@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-29T18:46:52.508Z"
-    },
-    {
-      "url": "vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&fp=ios&host=194.87.143.165&path=%2F&security=tls&sni=wsru1.wba-pn.ru&type=ws#%F0%9F%A4%9697@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-29T18:46:52.508Z"
