@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T20:46:31.710Z",
+  "updated": "2026-11-23T21:00:32.527Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?allowInsecure=1&security=tls&sni=bgsg1.hikigo.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T21:00:31.252Z"
+    },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---mehrosaboran&headerType=none&fp=chrome&spx=%2FHesarWeb&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40mehrosaboran",
       "name": "mehrosaboran",
@@ -29995,12 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-30T18:45:33.077Z"
-    },
-    {
-      "url": "vless://706bce83-91db-4260-b175-cba29145cd56@93.152.223.244:443?security=reality&type=tcp&packetEncoding=xudp&sni=ddk5-ger.newagetechnologies.live&fp=qq&flow=xtls-rprx-vision&pbk=yKwDGqOdkC_nEPOQHMvAQLPcPK8YHskv_opYoY66Yk8#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-30T18:15:33.505Z"
     }
   ]
 }
