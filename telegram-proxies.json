@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T07:46:36.018Z",
-  "count": 2213,
+  "updated": "2026-11-23T10:16:38.136Z",
+  "count": 2214,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=great.ir.bcsadwtgd.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-23T10:16:33.378Z"
+    },
     {
       "url": "https://t.me/proxy?server=bamboo.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c9462616d626f6f2e7061706572746561706f742e636f6d",
       "name": "ProxyMTProto",
