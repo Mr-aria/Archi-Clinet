@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-23T20:01:43.905Z",
-  "count": 2252,
+  "updated": "2026-11-23T20:31:40.336Z",
+  "count": 2257,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dddd62844dd009ab1362cf07e62184aa3e",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:31:32.058Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dde9dc84972864f2dce59fe97bcdf2a147",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:31:32.058Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=ddf31ef84f83f7054a95ea8716468bd1fa",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:31:32.058Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd968844a4da1a1d59d44afbe786466b88",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:31:32.058Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd188d4015ad654e5343511592f33ee080",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-23T20:31:32.058Z"
+    },
     {
       "url": "https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd222a71dc7a2491f931e301c2ac3b68c5",
       "name": "V2rayng_Fast",
