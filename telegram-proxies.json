@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T04:46:33.055Z",
-  "count": 2210,
+  "updated": "2026-11-23T05:16:37.062Z",
+  "count": 2211,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=Bezan-Ke.Khob-Mizani.manege-desktop-for.co.im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-23T05:16:33.626Z"
+    },
     {
       "url": "https://t.me/proxy?server=deny72.ashwren.xyz&port=443&secret=eea642c4bcbaceb5aa415464da57a03a37706574726f766963682e7275",
       "name": "ProxyMTProto",
