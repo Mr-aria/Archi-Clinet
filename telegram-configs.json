@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-23T09:00:33.898Z",
+  "updated": "2026-11-23T10:00:33.150Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.40.173:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#Tel%40MARAMBASHI%20%F0%9F%A7%A1",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-23T10:00:31.343Z"
+    },
+    {
+      "url": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@132.243.242.115:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#Tel%40MARAMBASHI%20%F0%9F%A7%A1",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-23T10:00:31.343Z"
+    },
+    {
+      "url": "vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@84.54.58.149:443?security=reality&encryption=none&pbk=t_PE4flX4qNVn1leXcJX_YWgDw9YZxsrCQAPEHYConc&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sbmicro656.richhoodfoc.com&sid=f21696d23293b39f#Tel%40MARAMBASHI%20%F0%9F%A7%A1",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-23T10:00:31.343Z"
+    },
     {
       "url": "vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=qq&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&type=tcp&headerType=none#",
       "name": "Farah_VPN",
@@ -29983,24 +30001,6 @@
       "name": "prrofile_purple",
       "source": "prrofile_purple",
       "date": "2026-10-29T20:01:37.624Z"
-    },
-    {
-      "url": "vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?security=reality&encryption=none&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&host=%2F%3FTelegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&headerType=none&fp=chrome&spx=%2Fa38e5cd3c84c243&type=tcp&sni=delivery.mp.microsoft.com&sid=d3feff5d570d6b#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-29T20:01:37.624Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJyaGhpZXJrd3JmNmZoczJoLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJyaGhpZXJrd3JmNmZoczJoLnYuM2Rucy52aXAiLCJpZCI6Ijc4YjNmMTQ5LWYwMzctNDY1ZC1iMmZiLTExYWRiNmY3M2ZmOCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwic25pIjoicmhoaWVya3dyZjZmaHMyaC52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-29T19:15:34.944Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.220.159:22222?encryption=none&security=none&type=tcp#(S103",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-29T19:00:39.146Z"
     }
   ]
 }
