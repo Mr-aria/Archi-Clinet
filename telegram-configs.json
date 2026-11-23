@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-23T14:30:34.386Z",
+  "updated": "2026-11-23T16:00:35.431Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4443?mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=bl1.nexfile.net#%40V2ray_Alpha%F0%9F%AB%AA%205",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-23T16:00:33.883Z"
+    },
     {
       "url": "vless://0ef68b29-266e-4e0a-b935-eaa02975a439@31.56.18.99:443?security=reality&encryption=none&pbk=RtoBkG8dr6pam2Z7bskxQxSlw17C1pDfzYeafDo2nG8&host=%2F%3FTelegram---%40%2F&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=play.cloudconsole.ru&sid=d16188300cd57a53#YFZ%20521%20%40Outline_Vpn",
       "name": "outline_vpn",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.183.42:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=y0wgEdmPNIKlAMJHeC0teOW_fBnX8tmRE8n1CwOZSwU&security=reality&sni=13oktober.live&type=tcp#%F0%9F%91%BE7@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-30T06:16:43.553Z"
-    },
-    {
-      "url": "vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:447?encryption=none&path=%2F&security=none&type=ws#%F0%9F%91%BE8@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-30T06:16:43.553Z"
