@@ -1,3 +1,8 @@
+https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd651bab73c30ff52fce6751261cff5047
+https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd0ccf8d682be5eae6d4f924adf0ab482a
+https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd4e505989efcd64d6c988dee68b3427c5
+https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=ddfebba3a4ed6b772ae7c458e3dea0a83a
+https://t.me/proxy?server=kenric.nine11.art&port=8443&secret=dd040a922951376bff2ab28594deb1a629
 https://t.me/proxy?server=yek.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=do.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=se.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
