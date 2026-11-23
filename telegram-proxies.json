@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-23T17:15:35.252Z",
-  "count": 2231,
+  "updated": "2026-11-23T17:16:34.335Z",
+  "count": 2241,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=yek.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=do.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=se.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=char.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=pnj.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=shish.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=haf.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=hasht.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=noh.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=dah.ionox.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-23T17:16:31.449Z"
+    },
     {
       "url": "https://t.me/proxy?server=kgs.larilarilaylay.ir&port=8080&secret=EERighJJvXrFGRMCIMJdCQ",
       "name": "proxy_mtm",
