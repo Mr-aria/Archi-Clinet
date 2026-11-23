@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-23T04:30:34.019Z",
+  "updated": "2026-11-23T05:00:33.724Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://7318caa1-93d1-4a9d-c481-504599902700@155.248.175.201:23169?sni=djj.zjlo.top&flow=xtls-rprx-vision&fp=firefox&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T05:00:32.458Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?sni=connectingpeoplewithgreatjobs.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T05:00:32.458Z"
+    },
+    {
+      "url": "trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@xvxn1hkzf.mateflora.com:443?allowInsecure=1&sni=xvxn1hkzf.mateflora.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T05:00:32.458Z"
+    },
+    {
+      "url": "vless://9000a7f3-df2a-49a8-ae56-3e7777bd32f7@109.248.17.252:443?sni=v4.clequinix.globalinetforallalwaysandneverbanyoubelieveme.com&type=grpc&serviceName=v4-clequinix-globalinetforallalwaysandneverbanyoubelieveme-com&fp=firefox&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T05:00:32.458Z"
+    },
+    {
+      "url": "trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@nb1hk.hikigo.com:443?allowInsecure=1&sni=nb1hk.hikigo.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-23T05:00:32.458Z"
+    },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0Ijo4MCwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIiwicGF0aCI6Ii8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
       "name": "Farah_VPN",
@@ -29971,36 +30001,6 @@
       "name": "nofiltering2",
       "source": "nofiltering2",
       "date": "2026-10-29T18:45:33.495Z"
-    },
-    {
-      "url": "vless://ce8fbdea-c3c3-4fb1-9658-32599d1f853f@45.152.192.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sid=61e21f9aa67aa1bf&sn…",
-      "name": "nofiltering2",
-      "source": "nofiltering2",
-      "date": "2026-10-29T18:45:33.495Z"
-    },
-    {
-      "url": "trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230?security=tls&sni=www.alibaba.com&type=ws&path=/&Host=www.alibaba.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-29T18:45:32.707Z"
-    },
-    {
-      "url": "vless://d8c14c5c-a80a-4f6f-a5fb-52071849c443@104.21.70.21:443?alpn=http/1.1&ed=2560&encryption=none&fp=unsafe&host=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&path=/eyJqdW5rIjoiZTFWRGJFS0NUd2F2NkRmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&sni=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&type=ws#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-29T18:45:32.707Z"
-    },
-    {
-      "url": "ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-29T17:45:35.237Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiI0Ny4xMjkuMTE1Ljk2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZy10cmFuc2l0LTMubmVidWxhY2xvdWQud2luIiwiaWQiOiJkZmE5Zjg3NS0zODA1LTQ5ZDktODYzNi00NmI2ODk5YmUyNGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2V0RGF0YS91cyIsInBvcnQiOiIzMTQxNCIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJzY3kiOiJhdXRvIiwic25pIjoic2ctdHJhbnNpdC0zLm5lYnVsYWNsb3VkLndpbiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-29T17:45:35.237Z"
     }
   ]
 }
