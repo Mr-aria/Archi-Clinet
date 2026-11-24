@@ -1,3 +1,12 @@
+https://t.me/proxy?server=85.133.200.41&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk
+https://t.me/proxy?server=85.133.200.42&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk
+https://t.me/proxy?server=85.133.200.44&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
+https://t.me/proxy?server=85.133.200.45&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
+https://t.me/proxy?server=85.133.200.46&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
+https://t.me/proxy?server=85.133.200.47&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
+https://t.me/proxy?server=85.133.200.48&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
+https://t.me/proxy?server=85.133.200.50&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0
+https://t.me/proxy?server=85.133.200.49&port=8880&secret=3RBEYoISSb16xRkTAiDCXQk
 https://t.me/proxy?server=professor.hasratepaeiz.website.&port=7070&secret=88e462779949db7ec888130660c40c77
 https://t.me/proxy?server=128.140.29.187&port=8443&secret=104462821249bd7ac519130220c25d09
 tg://proxy?server=5.222.9.13&port=443&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q
