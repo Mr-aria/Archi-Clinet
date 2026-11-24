@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T11:02:22.460Z",
+  "updated": "2026-11-24T12:45:31.176Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.219.105:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-24T12:45:30.362Z"
+    },
     {
       "url": "vmess://a925a98c-ad7a-40c6-9fdf-130a1de69416@179.43.140.24:42831?encryption=auto&headerType=http&path=%2F3x&security=none&type=tcp#%F0%9F%86%9331@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29995,12 +30001,6 @@
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-31T06:01:29.323Z"
-    },
-    {
-      "url": "vless://780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7@146.75.59.186:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=%2F#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-31T05:45:34.602Z"
     }
   ]
 }
