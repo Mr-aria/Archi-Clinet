@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T16:15:39.569Z",
-  "count": 2296,
+  "updated": "2026-11-24T16:30:34.841Z",
+  "count": 2297,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=5.75.241.224&port=8443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-24T16:30:31.503Z"
+    },
     {
       "url": "https://t.me/proxy?server=87.248.144.50&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "iRoProxy",
