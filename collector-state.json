@@ -1,13 +1,13 @@
 {
   "lastSeen": {
-    "PewezaTech": 26022,
+    "PewezaTech": 26024,
     "mmd_adm": 29006,
     "free_vpn02": 5196,
     "freakconfig": 10797,
     "outline_vpn": 11903,
     "iut_ChatrBazaan": 0,
     "ProxyMTProto": 53429,
-    "khabari_18": 79870,
+    "khabari_18": 79874,
     "JozveDaneshgahi_ir": 13603,
     "MatinSenPaii": 5977,
     "pewezavpn": 26024,
@@ -18,8 +18,8 @@
     "iProxy": 0,
     "ProxyNamava": 305,
     "MARAMBASHI": 41929,
-    "free_netplus": 25642,
-    "Farah_VPN": 396731,
+    "free_netplus": 25646,
+    "Farah_VPN": 396732,
     "V2ray_Alpha": 10117,
     "iTV2RAY": 3146,
     "nofiltering2": 6246,
@@ -58,7 +58,7 @@
     "mehrosaboran": 21100,
     "prrofile_purple": 44363
   },
-  "totalCollected": 15994,
+  "totalCollected": 15995,
   "totalProxies": 2062,
-  "runCount": 6300
+  "runCount": 6301
 }
