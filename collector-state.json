@@ -6,7 +6,7 @@
     "freakconfig": 10808,
     "outline_vpn": 11905,
     "iut_ChatrBazaan": 0,
-    "ProxyMTProto": 53452,
+    "ProxyMTProto": 53454,
     "khabari_18": 79928,
     "JozveDaneshgahi_ir": 13623,
     "MatinSenPaii": 5986,
@@ -55,10 +55,10 @@
     "Awlix_ir": 3761,
     "V2rayNG3": 3194,
     "fnet00": 2065,
-    "mehrosaboran": 21102,
+    "mehrosaboran": 21103,
     "prrofile_purple": 44384
   },
   "totalCollected": 16133,
   "totalProxies": 2119,
-  "runCount": 6395
+  "runCount": 6396
 }
