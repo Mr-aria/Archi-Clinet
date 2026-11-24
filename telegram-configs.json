@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-24T16:15:35.451Z",
+  "updated": "2026-11-24T16:45:31.216Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://lDU6Jpl4nSXA-x4sWmb1LQ@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52&security=tls&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%36%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#MTMVPN%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-24T16:45:30.541Z"
+    },
+    {
+      "url": "vless://a8e5585a-6020-4649-a364-c1ebf3a40548@193.111.248.54:443?security=reality&encryption=none&pbk=0KDql59THS-DXg30wMR0QGgFB6rXARDhr8WoWyfVA2M&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tagderdeutscheneinheit.de&sid=6f0091ebe3029ebb#",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-24T16:45:30.541Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.94.99:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-24T16:45:30.336Z"
+    },
     {
       "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ajREZGRmVmgzek9OMXMzV2ZibWRuMldXaExDV0FhT0p5S3FkZUt2eGg0QT0%3D@27.124.5.86:8388#",
       "name": "proxy_mtm",
@@ -29983,24 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-31T09:15:33.951Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.102.210:22222?encryption=none&security=none&type=tcp#(S102",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-31T09:00:30.002Z"
-    },
-    {
-      "url": "vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@88.216.70.92:443?security=reality&encryption=none&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-modx-prime.storagedirectguide.com#Telegram%20%40mtmvpn%20%E2%99%A8%EF%B8%8F%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-31T08:30:33.405Z"
-    },
-    {
-      "url": "vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.32.139:443?security=reality&encryption=none&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-modx-prime.storagedirectguide.com#Telegram%20%40mtmvpn%20%F0%9F%AA%90%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-31T08:30:33.405Z"
     }
   ]
 }
