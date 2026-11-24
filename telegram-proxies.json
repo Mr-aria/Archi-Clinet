@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T08:47:01.387Z",
-  "count": 2266,
+  "updated": "2026-11-24T09:45:33.921Z",
+  "count": 2267,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=kaktos.mrdatac.ir.&port=5500&secret=6HQighJPCNNYVRNB6tdkAg",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-24T09:45:31.353Z"
+    },
     {
       "url": "https://t.me/proxy?server=wbs.regmail.org&port=443&secret=ee5610dcb9c93a1c5dd38d965b0462ad2c7762732e7265676d61696c2e6f7267",
       "name": "ProxyMTProto",
