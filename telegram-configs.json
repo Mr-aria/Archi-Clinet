@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T00:30:32.564Z",
+  "updated": "2026-11-24T01:00:33.074Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T01:00:31.510Z"
+    },
     {
       "url": "vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.18.35.86:2083?sni=vlsovip.1d.mom&type=ws&host=vlsovip.1d.mom&path=/fp=unsafefp=chrome&security=tls#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#%40V2ray_Alpha%E2%AD%90%207",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-30T18:45:33.331Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectingpeoplewithgreatjobs.com#%40V2ray_Alpha%E2%AD%90%208",
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-10-30T18:45:33.331Z"
