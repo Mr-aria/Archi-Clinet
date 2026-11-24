@@ -1,3 +1,4 @@
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.219.105:22222?encryption=none&security=none&type=tcp#(S104
 vmess://a925a98c-ad7a-40c6-9fdf-130a1de69416@179.43.140.24:42831?encryption=auto&headerType=http&path=%2F3x&security=none&type=tcp#%F0%9F%86%9331@oneclickvpnkeys
 vless://cae99415-10a6-4317-81bd-19a4586b5d76@196.196.208.22:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3Ya7Erk_G6wlvuy6ekUzCW7zxnaDivdUzkkJXTFXcWs&security=reality&sid=96f94f6200195aae&sni=8a0f3at.fi-p1b.h1clayd.click&type=tcp#%F0%9F%86%9332@oneclickvpnkeys
 vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@leviko-pl1084.shopingggg.ir:4443?encryption=none&fp=chrome&mode=auto&path=%2Fapi%2Fv1%2Fsync%2F&security=tls&sni=bl1.nexfile.net&type=xhttp#%F0%9F%86%9333@oneclickvpnkeys
@@ -4997,4 +4998,3 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.10.172.173:22222?encryption=none&
 vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.30:8443?security=reality&type=tcp&packetEncoding=xudp&sni=play.googleapis.com&fp=chrome&sid=974f7f8f&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&encryption=none#
 vless://bb3df091-daa3-4a7d-8394-8d7c115e8987@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=1&host=takidopower-point.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=www.firefox.com#%F0%9F%87%AE%F0%9F%87%B9%40FreakConfig
 vless://d342d11e-d224-4463-b982-532309285094@188.164.248.216:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=edge&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
-vless://780aa2f6-1a02-4fa2-bcd0-fa7d469bdff7@146.75.59.186:443?&security=tls&fp=chrome&sni=firefox.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=%2F#
