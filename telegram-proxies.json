@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-24T21:31:51.282Z",
-  "count": 2334,
+  "updated": "2026-11-24T22:15:34.968Z",
+  "count": 2338,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=afkar.lavazem1.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-24T22:15:31.400Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=winter.lavazem2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-24T22:15:31.400Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=perfect.lavazem3.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-24T22:15:31.400Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=day.lavazem4.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-24T22:15:31.400Z"
+    },
     {
       "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=2095&secret=dd42dc5b43406e76e8f620b1120df24500",
       "name": "V2rayng_Fast",
