@@ -1,7 +1,49 @@
 {
-  "updated": "2026-11-24T04:30:32.220Z",
+  "updated": "2026-11-24T05:30:32.226Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://a8e5585a-6020-4649-a364-c1ebf3a40548@193.111.248.54:443?&security=reality&flow=xtls-rprx-vision&pbk=0KDql59THS-DXg30wMR0QGgFB6rXARDhr8WoWyfVA2M&sid=6f0091ebe3029ebb&fp=firefox&sni=tagderdeutscheneinheit.de&type=tcp&headerType=none&host=tagderdeutscheneinheit.de&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T05:30:30.962Z"
+    },
+    {
+      "url": "vless://4fddfe0e-fddc-4032-b4c8-09c6d811fed0@152.53.1.170:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=node-au.neverlock.uk&type=tcp&headerType=none&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T05:30:30.962Z"
+    },
+    {
+      "url": "trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?security=tls&sni=bgsg1.hikigo.com&type=tcp#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T05:30:30.962Z"
+    },
+    {
+      "url": "vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@cove.gerqix.online:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=cove.gerqix.online&type=ws&headerType=none&host=cove.gerqix.online&path=%2Fapi%2Fde6%2Fstream#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T05:30:30.962Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@3.38.213.49:8443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T05:30:30.962Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsInBvcnQiOiIyMzAyNiIsInR5cGUiOiJub25lIiwiaWQiOiJiOWRlMWJjOS1iYWE3LTQxYWMtODZmNy1jY2Q1OTY5NWNiMjEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2kiLCJob3N0IjoiNDcuMjQ0LjEyMC4xOTciLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T05:30:30.962Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@13.212.45.108:8443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T05:30:30.962Z"
+    },
     {
       "url": "vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sundial.filnex.baby:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=silverfen.elvano.website&type=ws&headerType=none&host=sundial.filnex.baby&path=%2Fapi%2Fde4%2Fstream#",
       "name": "Farah_VPN",
@@ -29959,48 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-30T19:16:54.567Z"
-    },
-    {
-      "url": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?encryption=none&fp=&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&security=reality&sid=974f7f8f&sni=play.googleapis.com&type=tcp#%F0%9F%91%BE94@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-30T19:16:54.567Z"
-    },
-    {
-      "url": "trojan://MiTiVPN@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com#%F0%9F%94%B0%20%40prrofile_purple%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29",
-      "name": "prrofile_purple",
-      "source": "prrofile_purple",
-      "date": "2026-10-30T19:01:57.789Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.13.152:22222?encryption=none&security=none&type=tcp#(S103",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-30T19:00:33.212Z"
-    },
-    {
-      "url": "vless://924e20da-fcad-4e7e-8113-c62d27a0d01e@hw3.divarkhaghazi.com:465?security=tls&encryption=none&insecure=0&host=hw3.divarkhaghazi.com.&type=ws&allowInsecure=0&sni=hw3.divarkhaghazi.com.#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-30T18:46:36.407Z"
-    },
-    {
-      "url": "vless://6c713691-3ca2-4446-ad25-113d1bed6b03@de-tls.fluxorvpn.net:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=grpc&serviceName=%2Fgrpc&allowInsecure=0&sni=mediatract.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-30T18:46:36.407Z"
-    },
-    {
-      "url": "vless://ddbabbeb-fe47-45ef-b581-cac345ecf132@89.125.11.57:443?security=reality&encryption=none&pbk=ikLQ5dfCqs8QkJM7HJBhO9II6blBL9etrPx8-jD1MRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-room10.filesnap.tech&sid=6684cb92eab730e6#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-30T18:46:36.407Z"
-    },
-    {
-      "url": "vless://0205a7e1-970d-468a-926c-7e3b4c9a8b9d@Konglam.goodphilips.ir:443?mode=gun&security=reality&encryption=mlkem768x25519plus.native.0rtt.Czbg9hcwQievAuL-xnehRb6R4iBpzARvfocZiezGIgo&pbk=x1K53K_cLlg8QvxQhDnfRvMkQbtWkdzKdmaeYCIo4Hc&fp=chrome&type=grpc&sni=amp-api-edge.apps.apple.com&sid=e85705ad62739603#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-30T18:46:36.407Z"
     }
   ]
 }
