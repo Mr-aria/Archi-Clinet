@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-24T13:30:38.185Z",
-  "count": 2273,
+  "updated": "2026-11-24T14:01:56.686Z",
+  "count": 2278,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=2087&secret=dda6821ca6885a8a186f55ac19d8cf308a",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-24T14:01:54.567Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=2087&secret=dd9e2afbbe362ea69d9c641fa0e7a52d1e",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-24T14:01:54.567Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=2087&secret=ddc1c1dd34c31e4c3fe371d9ca9a7f2962",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-24T14:01:54.567Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=2087&secret=dd120fcb27cd1958d4470ac63487ed8577",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-24T14:01:54.567Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=2087&secret=dd77e33bef503b46b89c76bb835de0d425",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-24T14:01:54.567Z"
+    },
     {
       "url": "https://t.me/proxy?server=78.46.120.153&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
       "name": "v2ryNG01",
