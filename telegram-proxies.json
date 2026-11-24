@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T12:46:35.241Z",
-  "count": 2271,
+  "updated": "2026-11-24T13:16:36.418Z",
+  "count": 2272,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir-immortals.sponsorafuture.co.uk&port=443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-24T13:16:30.279Z"
+    },
     {
       "url": "https://t.me/proxy?server=pebble.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94706562626c652e76656c76657477696e646f772e6363",
       "name": "ProxyMTProto",
