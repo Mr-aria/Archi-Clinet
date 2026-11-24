@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T21:01:35.921Z",
-  "count": 2328,
+  "updated": "2026-11-24T21:30:33.616Z",
+  "count": 2329,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=91.99.126.21&port=8443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-24T21:30:30.920Z"
+    },
     {
       "url": "https://t.me/proxy?server=85.133.233.108&port=8443&secret=ddf7afc755fe155cb7d4540aab9ede8682",
       "name": "V2rayng_Fast",
