@@ -1,3 +1,4 @@
+https://t.me/proxy?server=kaktos.mrdatac.ir.&port=5500&secret=6HQighJPCNNYVRNB6tdkAg
 https://t.me/proxy?server=wbs.regmail.org&port=443&secret=ee5610dcb9c93a1c5dd38d965b0462ad2c7762732e7265676d61696c2e6f7267
 https://t.me/proxy?server=aptupdate.appnormoor.info&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
 https://t.me/proxy?server=cdn.divpal.com&port=8443&secret=dd71889eb517157210d61df330a5f11d95
