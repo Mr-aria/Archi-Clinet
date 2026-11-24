@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T18:16:32.823Z",
-  "count": 2318,
+  "updated": "2026-11-24T18:45:39.081Z",
+  "count": 2319,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=dastan.sarnevesht.space.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8Q",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-24T18:45:32.821Z"
+    },
     {
       "url": "https://t.me/proxy?server=85.133.200.41&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk",
       "name": "YamYamProxy",
