@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-24T19:46:36.968Z",
-  "count": 2321,
+  "updated": "2026-11-24T20:00:31.671Z",
+  "count": 2323,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=My.fastprx.co.uk&port=2052&secret=aea1191522c9b281d2633610a34e730d",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-24T20:00:29.804Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=its.fastprx.co.uk&port=2086&secret=d2289d65c760a8245e24ffc2e3a3ba27",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-24T20:00:29.804Z"
+    },
     {
       "url": "https://t.me/proxy?server=13.61.74.249&port=8443&secret=eec3ea1bb7b5e1a1ee5f9d46e097c8bd0f7777772e636c6f7564666c6172652e636f6d",
       "name": "YamYamProxy",
