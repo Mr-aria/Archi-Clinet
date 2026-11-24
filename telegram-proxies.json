@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T14:01:56.686Z",
-  "count": 2278,
+  "updated": "2026-11-24T14:16:54.330Z",
+  "count": 2279,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=83.243.86.176&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-24T14:16:44.157Z"
+    },
     {
       "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=2087&secret=dda6821ca6885a8a186f55ac19d8cf308a",
       "name": "V2rayng_Fast",
