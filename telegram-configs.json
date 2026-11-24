@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-24T16:01:57.863Z",
+  "updated": "2026-11-24T16:15:35.451Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ajREZGRmVmgzek9OMXMzV2ZibWRuMldXaExDV0FhT0p5S3FkZUt2eGg0QT0%3D@27.124.5.86:8388#",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-24T16:15:34.724Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.42.174.135:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-24T16:15:33.801Z"
+    },
     {
       "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
       "name": "V2ray_official",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.32.139:443?security=reality&encryption=none&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl-modx-prime.storagedirectguide.com#Telegram%20%40mtmvpn%20%F0%9F%AA%90%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-31T08:30:33.405Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUY0RFeWlnVHNHNnFMLWdDcXRwbDNtcmtPbm9iX0ctUw@dns27.m3hrzd.ir:8044#Telegram%20%40mtmvpn%20%F0%9F%92%8E%20",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-10-31T08:30:33.405Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@104.18.47.73:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Telegram%20%40mtmvpn%20%E2%9C%85%20",
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-31T08:30:33.405Z"
