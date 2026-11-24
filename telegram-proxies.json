@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-24T16:45:39.164Z",
-  "count": 2303,
+  "updated": "2026-11-24T17:00:41.577Z",
+  "count": 2309,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=professor.hasratepaeiz.website.&port=7070&secret=88e462779949db7ec888130660c40c77",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-24T17:00:30.033Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=128.140.29.187&port=8443&secret=104462821249bd7ac519130220c25d09",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-24T17:00:30.033Z"
+    },
+    {
+      "url": "tg://proxy?server=5.222.9.13&port=443&secret=ameuTC0XO0FodFQ1yzE6OQQ1yzE60Q",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-24T17:00:30.033Z"
+    },
+    {
+      "url": "tg://proxy?server=65.108.3.108&port=25082&secret=8f377d952314d1fdb717c6ee9150c47d",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-24T17:00:30.033Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=cloudflare.weed.squadgame.co.uk&port=8443&secret=EE5f7ce28a2c4816c6c923dfd4d5630e01",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-24T17:00:30.033Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=static.azmaster.xyz.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D",
+      "name": "PewezaTech",
+      "source": "PewezaTech",
+      "date": "2026-11-24T17:00:30.033Z"
+    },
     {
       "url": "https://t.me/proxy?server=web.cocorichmond.site.&port=8880&secret=6HQighJPCNNYVRNB6tdkAg",
       "name": "MyPoroxy",
