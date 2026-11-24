@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T20:31:43.658Z",
+  "updated": "2026-11-24T21:00:38.792Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M05Cc25CTGFuUGZHNmkzUzJHVEhpbmVzd3I2RWVTSlBiMFBDZU1Rb0dvQT0=@47.85.238.210:443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T21:00:35.884Z"
+    },
     {
       "url": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@mosaic.merlano.monster:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=safari&host=mosaic.merlano.monster&mode=auto&path=%2Fapi%2Fde3%2Fsync&security=tls&sni=mosaic.merlano.monster&type=xhttp#%F0%9F%86%9399@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@104.18.40.100:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-10-31T17:45:30.344Z"
-    },
-    {
-      "url": "vless://8263aa5b-601d-4e05-b61d-a70e15d97869@45.198.0.88:443?security=reality&encryption=none&pbk=GG5vpbtQpYpZkAa3qQfLe3f9kzym3EU5t8_MYUkX_z0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl1.edge.rbullet.net&sid=458374ae#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-31T17:45:30.344Z"
