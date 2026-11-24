@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-24T14:16:49.713Z",
+  "updated": "2026-11-24T14:30:37.773Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://ce6e3651-b819-493f-81e7-d7f3dd278e64@fr1oo.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=chrome&type=tcp&sni=delivery.mp.microsoft.com&sid=8101b9ba16eb77c7#%40Shh_Proxy-New%C2%B9",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-24T14:30:35.781Z"
+    },
+    {
+      "url": "vless://2e9e9381-2b39-4c52-bd4c-c18a6791b650@fr1oo.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=chrome&type=tcp&sni=delivery.mp.microsoft.com&sid=8101b9ba16eb77c7#%40Shh_Proxy-New%C2%B2",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-24T14:30:35.781Z"
+    },
+    {
+      "url": "vless://acf9f498-905f-4873-a4d5-0741c482687c@fr1oo.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=chrome&type=tcp&sni=delivery.mp.microsoft.com&sid=3e5cba1bd6eb6221#%40Shh_Proxy-New%E2%81%B5",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-24T14:30:35.781Z"
+    },
     {
       "url": "vless://391a32c6-084c-4d61-8e8d-472678021dac@145.79.177.134:6443?mode=gun&security=reality&encryption=none&authority=www.semiconductor.samsung.com&pbk=a3yUxhq8UVjuSGrtdQZs-epe3B8fepkuCOkGibNyL0E&fp=firefox&type=grpc&serviceName=%2Fapi%2Fv1%2Fupdate&sni=www.semiconductor.samsung.com&sid=27b13b0239429b12#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
       "name": "freakconfig",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://6788563f-df4b-4363-aa71-cd50c4b03cd8@189.74.106.74:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.setevoypriliv.cc&type=tcp#%F0%9F%8E%835@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-31T07:46:39.479Z"
-    },
-    {
-      "url": "vless://706bce83-91db-4260-b175-cba29145cd56@31.76.35.12:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cPSdD4ZVudfLDBq8o2BR8QhZ03vhrLKpGQdtKAf-kCI&security=reality&sid=106d54d7c88dd8b3&sni=up8.newagetechnologies.live&type=tcp#%F0%9F%8E%836@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-31T07:46:39.479Z"
-    },
-    {
-      "url": "vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@88.216.70.92:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&security=reality&sni=nl-modx-prime.storagedirectguide.com&type=tcp#%F0%9F%8E%837@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-31T07:46:39.479Z"
-    },
-    {
-      "url": "vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@45.38.190.101:443?encryption=none&fp=&mode=auto&path=%2F&pbk=BwvlA1kuzTnXLIVO4AbvYMgbLG87MWPcwoodcZc_8S0&security=reality&sid=6e8a5b8428df2c7b&sni=google.com&type=xhttp#%F0%9F%8E%838@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-31T07:46:39.479Z"
