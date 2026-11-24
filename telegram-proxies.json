@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T13:16:36.418Z",
-  "count": 2272,
+  "updated": "2026-11-24T13:30:38.185Z",
+  "count": 2273,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=78.46.120.153&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-24T13:30:31.359Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir-immortals.sponsorafuture.co.uk&port=443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
