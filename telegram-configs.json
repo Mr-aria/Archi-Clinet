@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T19:31:35.744Z",
+  "updated": "2026-11-24T19:45:37.246Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.149.48:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-24T19:45:34.896Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.220:8080#",
       "name": "V2ray_official",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://88281d02-b387-4fe3-918e-26ed331e6d08@81.17.154.97:443?mode=auto&path=%2Fccxf5snr06b8xxb6&security=tls&alpn=h2&encryption=none&insecure=0&host=is-tw-relay.cdn.cachefleet.com&fp=firefox&type=xhttp&allowInsecure=0&sni=is-tw-relay.cdn.cachefleet.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-31T16:16:36.781Z"
-    },
-    {
-      "url": "vless://e3425eb4-e9be-4568-8740-529a031c9315@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&security=tls&encryption=none&insecure=0&host=snaanjaai.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=firefox.com#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-10-31T16:16:36.781Z"
