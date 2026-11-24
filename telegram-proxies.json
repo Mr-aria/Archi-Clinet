@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T16:31:42.496Z",
-  "count": 2302,
+  "updated": "2026-11-24T16:45:39.164Z",
+  "count": 2303,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=web.cocorichmond.site.&port=8880&secret=6HQighJPCNNYVRNB6tdkAg",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-24T16:45:29.813Z"
+    },
     {
       "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=ddcc3cace6847328b480b0b66238ba0af8",
       "name": "V2rayng_Fast",
