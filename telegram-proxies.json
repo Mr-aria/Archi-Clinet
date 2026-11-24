@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-24T17:00:41.577Z",
-  "count": 2309,
+  "updated": "2026-11-24T18:16:32.823Z",
+  "count": 2318,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=85.133.200.41&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-24T18:16:30.112Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.200.42&port=8880&secret=3XnjRIGHSb16xRkTAiDCXQk",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-24T18:16:30.112Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.200.44&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-24T18:16:30.112Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.200.45&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-24T18:16:30.112Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.200.46&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-24T18:16:30.112Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.200.47&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-24T18:16:30.112Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.200.48&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-24T18:16:30.112Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.200.50&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-24T18:16:30.112Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.200.49&port=8880&secret=3RBEYoISSb16xRkTAiDCXQk",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-24T18:16:30.112Z"
+    },
     {
       "url": "https://t.me/proxy?server=professor.hasratepaeiz.website.&port=7070&secret=88e462779949db7ec888130660c40c77",
       "name": "PewezaTech",
