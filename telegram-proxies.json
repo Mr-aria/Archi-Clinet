@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T10:16:40.592Z",
-  "count": 2268,
+  "updated": "2026-11-24T12:45:36.296Z",
+  "count": 2269,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=masachoset.rah-toro-mikhanad.info.&port=9988&secret=6HQighJPCNNYVRNB6tdkAg",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-24T12:45:29.826Z"
+    },
     {
       "url": "https://t.me/proxy?server=ir-countdown.lewisj.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "ProxyMTProto",
