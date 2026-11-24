@@ -1,3 +1,4 @@
+vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.cryptofront.uk&path=/#
 vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.18.35.86:2083?sni=vlsovip.1d.mom&type=ws&host=vlsovip.1d.mom&path=/fp=unsafefp=chrome&security=tls#
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@kozel.cc.cd:443?sni=kozel.cc.cd&type=ws&host=kozel.cc.cd&path=/118.151.222.66=17317fp=chrome&security=tls#
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@57.129.83.85:19999#
@@ -4997,4 +4998,3 @@ vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?security=reali
 trojan://humanity@45.128.76.242:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%40V2ray_Alpha%E2%AD%90%203
 trojan://humanity@162.159.84.189:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%40V2ray_Alpha%E2%AD%90%205
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#%40V2ray_Alpha%E2%AD%90%207
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectingpeoplewithgreatjobs.com#%40V2ray_Alpha%E2%AD%90%208
