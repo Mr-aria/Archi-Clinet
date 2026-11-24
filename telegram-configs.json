@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-24T05:30:32.226Z",
+  "updated": "2026-11-24T07:00:36.710Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6MUtSV1lvTk9CVTFPWFYrZExDaGlSYWdlU1A5dUlSWTJ3c0pQaWVSQzdrWT0@129.146.200.42:50356#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T07:00:34.207Z"
+    },
+    {
+      "url": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@marina.gerqix.online:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=marina.gerqix.online&type=ws&headerType=none&host=marina.gerqix.online&path=%2Fapi%2Fde3%2Fstream#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T07:00:34.207Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T07:00:34.207Z"
+    },
     {
       "url": "vless://a8e5585a-6020-4649-a364-c1ebf3a40548@193.111.248.54:443?&security=reality&flow=xtls-rprx-vision&pbk=0KDql59THS-DXg30wMR0QGgFB6rXARDhr8WoWyfVA2M&sid=6f0091ebe3029ebb&fp=firefox&sni=tagderdeutscheneinheit.de&type=tcp&headerType=none&host=tagderdeutscheneinheit.de&path=%2F#",
       "name": "Farah_VPN",
@@ -29983,24 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-30T19:16:54.568Z"
-    },
-    {
-      "url": "vless://ea277838-a188-44f1-a2e8-94aa110c4f27@185.178.208.140:443?alpn=h2&encryption=none&fp=safari&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=static.bakarova-top.ru&type=xhttp#%F0%9F%91%BE91@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-30T19:16:54.567Z"
-    },
-    {
-      "url": "vmess://c58c1205-b308-416f-8503-c04557abf93d@158.160.180.165:24212?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=158.160.180.165&type=tcp#%F0%9F%91%BE92@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-30T19:16:54.567Z"
-    },
-    {
-      "url": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.30:8443?encryption=none&fp=&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&security=reality&sid=974f7f8f&sni=play.googleapis.com&type=tcp#%F0%9F%91%BE93@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-30T19:16:54.567Z"
     }
   ]
 }
