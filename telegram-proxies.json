@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T09:45:33.921Z",
-  "count": 2267,
+  "updated": "2026-11-24T10:16:40.592Z",
+  "count": 2268,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir-countdown.lewisj.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-24T10:16:33.842Z"
+    },
     {
       "url": "https://t.me/proxy?server=kaktos.mrdatac.ir.&port=5500&secret=6HQighJPCNNYVRNB6tdkAg",
       "name": "MyPoroxy",
