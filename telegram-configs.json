@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-24T16:45:31.216Z",
+  "updated": "2026-11-24T17:00:36.813Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0303.gggrelay.org:34745?security=tls&sni=nu3rb.supertoolify.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T17:00:34.624Z"
+    },
+    {
+      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM@43.201.46.216:8443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T17:00:34.624Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWEiLCJhZGQiOiIxMDQuMTguMTUuMTkiLCJwb3J0IjoyMDg2LCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T17:00:34.624Z"
+    },
     {
       "url": "trojan://lDU6Jpl4nSXA-x4sWmb1LQ@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52&security=tls&insecure=0&host=%63%6F%70%79%5F%61%7A%5F%63%68%61%6E%6E%65%6C%5F%4E%55%46%69%4C%54%45%52%5F%36%69.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#MTMVPN%20",
       "name": "proxy_mtm",
@@ -29983,24 +30001,6 @@
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-10-31T10:15:33.347Z"
-    },
-    {
-      "url": "vless://8f763a7f-4cda-4db1-90e3-9aeae0860dc0@business.lesotorg-kirov.ru:443?&security=tls&fp=android&sni=business.lesotorg-kirov.ru&type=ws&headerType=none&host=business.lesotorg-kirov.ru&path=%2Fchws#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-31T09:45:39.151Z"
-    },
-    {
-      "url": "vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.11:8443?security=reality&type=tcp&packetEncoding=xudp&sni=play.googleapis.com&fp=chrome&sid=974f7f8f&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-31T09:15:33.951Z"
-    },
-    {
-      "url": "vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?type=tcp&headerType=none&security=reality&encryption=none&sni=finlandlanzarotte.live&fp=qq&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&flow=xtls-rprx-vision#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-31T09:15:33.951Z"
     }
   ]
 }
