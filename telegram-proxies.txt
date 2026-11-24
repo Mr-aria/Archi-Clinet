@@ -1,3 +1,6 @@
+https://t.me/proxy?server=wbs.regmail.org&port=443&secret=ee5610dcb9c93a1c5dd38d965b0462ad2c7762732e7265676d61696c2e6f7267
+https://t.me/proxy?server=aptupdate.appnormoor.info&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793
+https://t.me/proxy?server=cdn.divpal.com&port=8443&secret=dd71889eb517157210d61df330a5f11d95
 https://t.me/proxy?server=olivesail.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946f6c6976657361696c2e76656c76657477696e646f772e6363
 https://t.me/proxy?server=olivesail.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946f6c6976657361696c2e7061706572746561706f742e636f6d
 https://t.me/proxy?server=195.62.32.55&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
