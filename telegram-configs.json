@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-24T12:45:31.176Z",
+  "updated": "2026-11-24T13:00:39.303Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiI0Ny44Ni45MC4zMSIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMjM0YTgwNDEtMmI0ZC00NGEzLWE4ZDgtNTIzY2JmZDU4ZGM0Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiYnl3eGRoaXJxa2pqOHhhei52LjNkbnMudmlwIiwiaG9zdCI6ImJ5d3hkaGlycWtqajh4YXoudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MifQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-24T13:00:36.791Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.219.105:22222?encryption=none&security=none&type=tcp#(S104",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://bb3df091-daa3-4a7d-8394-8d7c115e8987@146.75.59.186:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=1&host=takidopower-point.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=www.firefox.com#%F0%9F%87%AE%F0%9F%87%B9%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-10-31T06:01:29.323Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@188.164.248.216:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=edge&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-10-31T06:01:29.323Z"
