@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-25T09:15:40.371Z",
-  "count": 2380,
+  "updated": "2026-11-25T09:31:39.700Z",
+  "count": 2385,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=dd0df5e39297d0a718a5f4b112214ee1fe",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-25T09:31:31.949Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=dd28c26f3066c238a56dfcaed62905047e",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-25T09:31:31.949Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=dd5def6d0704ad6633fbab3db1df4c86b2",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-25T09:31:31.949Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=ddb1a101aa59c30f2d97a63fbadf624383",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-25T09:31:31.949Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=dd9d945f7f32e8c1c42d3ec2fecd084937",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-25T09:31:31.949Z"
+    },
     {
       "url": "tg://proxy?server=iran-cinema-acctor.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add",
       "name": "proxy_badss",
