@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-25T15:15:35.052Z",
-  "count": 2403,
+  "updated": "2026-11-25T17:01:46.700Z",
+  "count": 2405,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=maman.ir.osahflahyev.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-25T17:01:41.997Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=baba.ir.osahflahyev.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-25T17:01:41.997Z"
+    },
     {
       "url": "https://t.me/proxy?server=138.201.184.94&port=8443&secret=EERighJJvXrFGRMCIMJdCQ%3D%3D",
       "name": "proxy_badss",
