@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T05:30:32.510Z",
+  "updated": "2026-11-25T06:16:34.748Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&host=akamaized.net&type=ws#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-25T06:16:29.726Z"
+    },
     {
       "url": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@5.129.253.99:443?sni=rookery.moltex.click&alpn=h2%2Chttp/1.1&type=grpc&serviceName=glush.de3.v1&fp=firefox&security=tls#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "hysteria2://6da2c981-8c77-4340-bda3-93399b7aea26@195.63.146.10:443/?sni=video.blog-forme.ru#%F0%9F%8E%8391@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-31T18:46:41.481Z"
-    },
-    {
-      "url": "vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?encryption=none&fp=firefox&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed&security=tls&sni=n.bitpulse.me&type=ws#%F0%9F%8E%8392@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-31T18:46:41.481Z"
