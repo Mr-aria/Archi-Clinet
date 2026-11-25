@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T14:31:39.220Z",
+  "updated": "2026-11-25T16:00:34.903Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.135.49.91:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-25T16:00:32.964Z"
+    },
     {
       "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@leviko-nl6763.shopingggg.ir:443#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://c05ec3c7-2784-da2b-aa98-a3c132860fcb@178.236.242.254:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZRTNgwFRP8viY4SQOgPTfWlLWJCwY3dr0aawA7vHwhU&security=reality&sid=a1b2c3d4e5f6a7b8&sni=xnod13x.artemida.live&type=tcp#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-01T01:45:33.597Z"
-    },
-    {
-      "url": "vless://338764e6-0e53-4d51-8057-80ce8d49a963@xray2-direct-mci1-fs-ce.freesocks.work:443?security=reality&encryption=none&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-01T01:45:33.597Z"
