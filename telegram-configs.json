@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-25T17:46:44.473Z",
+  "updated": "2026-11-25T18:00:33.336Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://1fb26927-5c8e-483f-a3f0-87d6bba962fd@185.179.152.53:8880?security=reality&encryption=none&pbk=OoyRbuS2Mv4p1rBozYUs3voPZMvJfXNEowysI7uthCc&headerType=none&fp=chrome&spx=%2F3655a6e68ae2e3e&type=tcp&sni=www.speedtest.net&sid=55cd8e77#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-25T18:00:32.900Z"
+    },
+    {
+      "url": "vless://1fb26927-5c8e-483f-a3f0-87d6bba962fd@185.179.152.53:2095?security=reality&encryption=none&pbk=_HYLOmGEhNC7OXjwWWA_4SbLfqZcZqc8vApRoD2fLF0&headerType=&fp=chrome&spx=%2F3655a6e68ae2e3e&type=tcp&sni=www.samsung.com&sid=6c0335ea#",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-25T18:00:32.900Z"
+    },
     {
       "url": "vless://7ce93cef-119d-4cba-9d9d-da0056ba979c@94.183.206.227:443?encryption=none&fp=&mode=auto&path=%2Fapi%2Fv2%2F7d94497a&pbk=EhKlZ3cHsJQRkNH7Qeya0ZeAy5jovCT-H4VNivwPyls&security=reality&sid=0bf13fb706784403&sni=nl3.green-tg.com&type=xhttp#%F0%9F%88%B861@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29989,18 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-01T06:15:32.377Z"
-    },
-    {
-      "url": "vless://2099158e-9d5d-4f10-918c-678f485647fa@213.182.201.96:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%E2%9A%A11@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-01T05:46:34.090Z"
-    },
-    {
-      "url": "vless://81c649ee-3cb1-4fd7-b856-a71a135a398b@213.182.201.162:3090?encryption=none&mode=multi&security=none&serviceName=vless&type=grpc#%E2%9A%A12@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-01T05:46:34.090Z"
     }
   ]
 }
