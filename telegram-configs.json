@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T11:30:32.076Z",
+  "updated": "2026-11-25T12:45:37.627Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.218.240:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-25T12:45:33.658Z"
+    },
     {
       "url": "vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.20:6443?mode=gun&security=reality&encryption=none&pbk=sadyaFeM276vgv_wdE1g6DDMgKZfKR_fr9DhTyCp9zM&fp=firefox&type=grpc&serviceName=%2Fapi%2Fv1%2Fupdate&sni=download.virtualbox.org&sid=885781b112c298a5#%40V2ray_Alpha%F0%9F%8C%8B%204",
       "name": "V2ray_Alpha",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "trojan://humanity@92.42.99.143:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-01T01:15:32.379Z"
-    },
-    {
-      "url": "trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-01T01:15:32.379Z"
