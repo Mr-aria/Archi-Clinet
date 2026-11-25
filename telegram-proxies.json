@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T04:46:37.179Z",
-  "count": 2341,
+  "updated": "2026-11-25T05:16:45.305Z",
+  "count": 2342,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=benze-benz.ir.osahflahyev.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-25T05:16:40.762Z"
+    },
     {
       "url": "https://t.me/proxy?server=gavi83.sorrelbay.xyz&port=443&secret=ee26b9ec16854635afb251cb286cd72618617669746f2e7275",
       "name": "ProxyMTProto",
