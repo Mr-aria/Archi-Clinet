@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T12:45:52.821Z",
-  "count": 2394,
+  "updated": "2026-11-25T13:45:35.947Z",
+  "count": 2395,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=cloudflare.com.samsung.com.co.uk.do_you.www.yahoo.com.google.com.again_to_fight.everyone.i_am.the_internet.4allbest.shop.&port=443&secret=FgMBAgABAAH8AwOG4kw63Q",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-25T13:45:32.307Z"
+    },
     {
       "url": "https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_you.msn.yahoo.google.com.again_to_fight.everyone.i_am.the_internet.cloadflare-dns.online.&port=443&secret=2I25nuNyHw_LQKT_Y7XNKA",
       "name": "MyPoroxy",
