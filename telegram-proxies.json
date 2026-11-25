@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T17:16:41.580Z",
-  "count": 2418,
+  "updated": "2026-11-25T19:01:47.425Z",
+  "count": 2419,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ir-landofgods.fourie.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-25T19:01:44.011Z"
+    },
     {
       "url": "https://t.me/proxy?server=138.201.223.114&port=8443&secret=dd104462821249bd7ac519130220c25d09",
       "name": "oneclickvpnkeys",
