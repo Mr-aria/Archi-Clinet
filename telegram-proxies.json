@@ -1,7 +1,151 @@
 {
-  "updated": "2026-11-25T07:46:42.181Z",
-  "count": 2356,
+  "updated": "2026-11-25T09:15:40.371Z",
+  "count": 2380,
   "proxies": [
+    {
+      "url": "tg://proxy?server=iran-cinema-acctor.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=gole-sorati.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=91.107.190.68&port=8443&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=rd.ionox.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=168.119.142.46&port=443&secret=dd79e7010200010007f0030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=pnj.ionox.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=breeze.logmanfi.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=ir-ir.gnutella2.info&port=8443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=you.pelastic.co.uk.&port=443&secret=ddc3b375786a3b9630e44cf87d2033a441",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=212.108.98.24.suser.ir&port=2020&secret=00000000000000000000000000000000",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=85.133.194.18&port=8443&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=zzzzzzz.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=shish.ionox.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=pintrest-cool.browncolor.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=194.60.228.232&port=2096&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=yek.anotelinopalk.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=ir.gnutella2.info&port=8443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=91.107.140.144&port=443&secret=dd79e7010200010007f0030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=dah.ionox.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=eyiran.suser.ir&port=2020&secret=00000000000000000000000000000000",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=0iiio6k1.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=masachoset.rah-toro-mikhanad.info&port=9988&secret=e8742282124f08d358551341ead76402",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=shopify.appnormoor.info&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
+    {
+      "url": "tg://proxy?server=91.234.147.35&port=2020&secret=00000000000000000000000000000000",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-25T09:15:33.328Z"
+    },
     {
       "url": "https://t.me/proxy?server=87.248.144.151&port=8880&secret=3RYDAQIAAQAB_AMDhuJMOt0",
       "name": "YamYamProxy",
