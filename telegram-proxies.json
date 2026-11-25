@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T06:46:33.349Z",
-  "count": 2344,
+  "updated": "2026-11-25T07:45:33.116Z",
+  "count": 2345,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=cloudflare.again_to_fight.everyone.i_am.the_internet.mazhol.info.&port=443&secret=2I25nuNyHw_LQKT_Y7XNKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-25T07:45:30.587Z"
+    },
     {
       "url": "https://t.me/proxy?server=forest.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94666f726573742e76656c76657477696e646f772e6363",
       "name": "ProxyMTProto",
