@@ -1,3 +1,8 @@
+https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=dd0df5e39297d0a718a5f4b112214ee1fe
+https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=dd28c26f3066c238a56dfcaed62905047e
+https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=dd5def6d0704ad6633fbab3db1df4c86b2
+https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=ddb1a101aa59c30f2d97a63fbadf624383
+https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=dd9d945f7f32e8c1c42d3ec2fecd084937
 tg://proxy?server=iran-cinema-acctor.davooti.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=gole-sorati.golabkashan.info&port=8443&secret=1603010200010001fc030386e24c3add
 tg://proxy?server=91.107.190.68&port=8443&secret=79e344818749bd7ac519130220c25d09
