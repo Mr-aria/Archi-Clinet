@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-25T13:45:35.947Z",
-  "count": 2395,
+  "updated": "2026-11-25T13:46:34.810Z",
+  "count": 2397,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=tondar.xeo.xeonxu.site&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-25T13:46:32.141Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=malavanann.xeonxu.site&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "mehrosaboran",
+      "source": "mehrosaboran",
+      "date": "2026-11-25T13:46:32.141Z"
+    },
     {
       "url": "https://t.me/proxy?server=cloudflare.com.samsung.com.co.uk.do_you.www.yahoo.com.google.com.again_to_fight.everyone.i_am.the_internet.4allbest.shop.&port=443&secret=FgMBAgABAAH8AwOG4kw63Q",
       "name": "MyPoroxy",
