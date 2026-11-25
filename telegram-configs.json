@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T18:15:32.283Z",
+  "updated": "2026-11-25T19:00:35.559Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.108.240:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-25T19:00:33.355Z"
+    },
     {
       "url": "vless://XpnTeam-17@199.232.78.170:443?encryption=none&security=tls&type=ws&host=Appxdn.global.ssl.fastly.net&path=%2F&sni=ssl.fastly.com&fp=chrome#",
       "name": "Farah_VPN",
@@ -29995,12 +30001,6 @@
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-11-01T07:45:32.498Z"
-    },
-    {
-      "url": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=hk010.zestapp778.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-01T07:45:32.235Z"
     }
   ]
 }
