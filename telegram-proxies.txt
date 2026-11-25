@@ -1,3 +1,5 @@
+https://t.me/proxy?server=altaria.proxy.rlwy.net&port=15374&secret=ee6dcd7b56b3f4e1d37d3cb70c69282a097777772e636c6f7564666c6172652e636f6d
+https://t.me/proxy?server=khob.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=2.28.34.247&port=28110&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQD
 https://t.me/proxy?server=ir-landofgods.fourie.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ
 https://t.me/proxy?server=138.201.223.114&port=8443&secret=dd104462821249bd7ac519130220c25d09
