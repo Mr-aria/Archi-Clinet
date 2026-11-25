@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-25T04:30:30.481Z",
+  "updated": "2026-11-25T05:00:35.445Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@47.254.167.157:443#%40Shh_Proxy-New%C2%B3",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-25T05:00:34.952Z"
+    },
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.119.13:443#%40Shh_Proxy-New%C2%B9%E2%81%B0",
+      "name": "shh_proxy",
+      "source": "shh_proxy",
+      "date": "2026-11-25T05:00:34.952Z"
+    },
+    {
+      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJhZGQiOiJwbGFuYi5tb2pjbi5jb20ubGludXhsaC54aW4iLCJwb3J0IjoxNjYyMiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiIwMDczNmYwYi04NzE1LTQ1YjctODg4Yi1jZWQ3YWFhNjM3YmYiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJob3N0IjoiNzE4NjNjZDQwOGUwYTFiNjYyNjAxMmQxNjhjMGI5NGUubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIn0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T05:00:33.823Z"
+    },
+    {
+      "url": "vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@94.183.167.172:443?sni=s8k4.scan-cdn.com&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T05:00:33.823Z"
+    },
+    {
+      "url": "trojan://d7563108-615c-4338-a7bd-77f359869a4a@ddrr1.tube-cat.com:28478?allowInsecure=1&sni=r.tw2.cat.bilibili.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T05:00:33.823Z"
+    },
+    {
+      "url": "vless://90711def-edd4-42da-ba1d-b2046b86b50a@free-server.techsonic.dev:443?sni=tech-sonic.webex.com&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T05:00:33.823Z"
+    },
+    {
+      "url": "vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?sni=185.200.199.122&flow=xtls-rprx-vision&fp=firefox&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T05:00:33.823Z"
+    },
+    {
+      "url": "vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@77.73.71.200:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=lagoon.gerqix.online&type=ws&headerType=none&host=lagoon.gerqix.online&path=%2Fapi%2Fde5%2Fstream#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T05:00:33.823Z"
+    },
     {
       "url": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@193.168.140.175:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#",
       "name": "Farah_VPN",
@@ -29953,54 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-10-31T18:46:41.481Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%8E%8397@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-31T18:46:41.481Z"
-    },
-    {
-      "url": "trojan://humanity@195.181.244.216:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%F0%9F%8E%8398@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-31T18:46:41.481Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?allowInsecure=1&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#%F0%9F%8E%83100@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-10-31T18:46:41.481Z"
-    },
-    {
-      "url": "vless://13bf9403-22d1-4221-939b-f6606c423139@138.16.140.168:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steamcommunity.com&fp=edge&pbk=HyVJj9KuPfDV5lOLEkMeVmYFZoFMQid6eiLC_6Yf1mQ&sid=5c56a4cfea5866c0#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-31T18:45:31.933Z"
-    },
-    {
-      "url": "vmess://eyJhZGQiOiJjZzFjMDIud2FpbWFvamQuY29tIiwiYWlkIjoiMCIsImhvc3QiOiJjZzFjMDIud2FpbWFvamQuY29tIiwiaWQiOiIzMzI3NzRlNS05MzcxLTQ4YmItYjUxOC0xZmU1NmM3MjY4ZGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dyYXBocWwiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-31T18:45:31.933Z"
-    },
-    {
-      "url": "vless://57197967-f14a-4b5b-8b75-a0c6d19db048@146.75.57.238:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=1&host=azadi-gk-nasim.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=1&sni=cdn.akamai.steamstatic.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-31T18:16:39.832Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-31T18:16:39.832Z"
-    },
-    {
-      "url": "vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-10-31T18:16:39.832Z"
     }
   ]
 }
