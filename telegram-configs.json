@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-25T08:30:36.304Z",
+  "updated": "2026-11-25T09:00:35.115Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiIxNTQuNDcuMTkuMjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ4bWZobHB5LmNvbSIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJAVjJyYXlfQWxwaGHwn6WmIDciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-25T09:00:33.523Z"
+    },
+    {
+      "url": "vless://04920673-035c-410d-94e4-5b1469d3fb6f@185.200.199.122:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision#%40V2ray_Alpha%F0%9F%A5%A6%206",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-25T09:00:33.523Z"
+    },
+    {
+      "url": "vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com#%40V2ray_Alpha%F0%9F%A5%A6%203",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-25T09:00:33.523Z"
+    },
     {
       "url": "vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@193.124.56.100:443?&security=tls&fp=firefox&sni=accessfooter.cleanfoodshop.org&type=ws&headerType=none&host=accessfooter.cleanfoodshop.org&path=%2Fmedia%2Fws%2F#",
       "name": "Farah_VPN",
@@ -29983,24 +30001,6 @@
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-10-31T20:30:37.252Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.132.84:22222?encryption=none&security=none&type=tcp#(S104",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-10-31T20:30:36.004Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-31T20:16:40.814Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-31T20:16:40.814Z"
     }
   ]
 }
