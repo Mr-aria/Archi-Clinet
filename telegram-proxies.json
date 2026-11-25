@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-25T10:45:37.200Z",
-  "count": 2391,
+  "updated": "2026-11-25T11:46:32.043Z",
+  "count": 2393,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=dev.vetka.rest&port=443&secret=eecdd6a7c79fc13f435c20a0874f0658da6465762e7665746b612e72657374",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-25T11:46:27.690Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=dev2.vetka.rest&port=443&secret=eedd01fa6c1ce39a3563d4d7a6be37faa17777772e626f6f6b696e672e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-25T11:46:27.690Z"
+    },
     {
       "url": "https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.bing.count_with_me.www.msn.com.sanjesh.org.enamad.again_to_fight.everyone.i_am.the_internet.cloadflare-dns.online.&port=443&secret=2I25nuNyHw_LQKT_Y7XNKA",
       "name": "MyPoroxy",
