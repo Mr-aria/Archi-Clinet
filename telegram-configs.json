@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T20:30:31.523Z",
+  "updated": "2026-11-25T20:45:34.196Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://9a600801-e889-4705-9adb-bf9aeb366fc7@ifdmbpb.kdns.fr:443?sni=ifdmbpb.kdns.fr&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T20:45:32.062Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.85.204:22222?encryption=none&security=none&type=tcp#(S104",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?security=tls&encryption=none&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AC",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-11-01T11:45:30.301Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.153.153:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AC",
       "name": "MARAMBASHI",
       "source": "MARAMBASHI",
       "date": "2026-11-01T11:45:30.301Z"
