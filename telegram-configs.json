@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-25T20:45:34.196Z",
+  "updated": "2026-11-25T23:15:32.527Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://076799f8-d922-4bf1-805d-e758e6eb925f@free.server.darknetlk.com:443?sni=aka.ms&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T23:15:31.213Z"
+    },
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M05Cc25CTGFuUGZHNmkzUzJHVEhpbmVzd3I2RWVTSlBiMFBDZU1Rb0dvQT0=@47.85.227.36:443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T23:15:31.213Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.25:443?security=tls&headerType=none&type=tcp&sni=cdn.searchnationwidecareerchangehelperandguidancetoday.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T23:15:31.213Z"
+    },
     {
       "url": "vless://9a600801-e889-4705-9adb-bf9aeb366fc7@ifdmbpb.kdns.fr:443?sni=ifdmbpb.kdns.fr&fp=chrome&security=tls#",
       "name": "Farah_VPN",
@@ -29983,24 +30001,6 @@
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-11-01T12:16:35.274Z"
-    },
-    {
-      "url": "trojan://humanity@162.159.228.224:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%225%22%2C%20%2294%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22109%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%22355%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-11-01T12:16:35.274Z"
-    },
-    {
-      "url": "trojan://%4D%69%54%69%56%50%4E@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2FTelegram-MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http%2F1.1&insecure=0&host=%6D%69%74%69%76%70%6E-%6D%69%74%69%76%70%6E-%6D%69%74%69%76%70%6E.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-11-01T12:00:32.713Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?security=tls&encryption=none&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel%40MARAMBASHI%20%F0%9F%87%B8%F0%9F%87%AC",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-11-01T11:45:30.301Z"
     }
   ]
 }
