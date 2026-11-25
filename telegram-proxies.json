@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-25T05:16:45.305Z",
-  "count": 2342,
+  "updated": "2026-11-25T06:46:33.349Z",
+  "count": 2344,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=forest.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94666f726573742e76656c76657477696e646f772e6363",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-25T06:46:29.800Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=forest.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94666f726573742e7061706572746561706f742e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-25T06:46:29.800Z"
+    },
     {
       "url": "https://t.me/proxy?server=benze-benz.ir.osahflahyev.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
       "name": "ProxyMTProto",
