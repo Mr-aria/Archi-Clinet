@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-25T19:16:39.185Z",
+  "updated": "2026-11-25T19:45:34.527Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@62.106.75.2:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&type=ws&allowInsecure=0&sni=jp3.yohototo.top#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-25T19:45:31.699Z"
+    },
+    {
+      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=yahoo.com%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-25T19:45:31.699Z"
+    },
+    {
+      "url": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.152.19:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-25T19:45:31.699Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Tel%40MARAMBASHI%20%F0%9F%87%AE%F0%9F%87%B9",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-25T19:45:31.699Z"
+    },
     {
       "url": "vless://67a31bdf-5846-409d-8b49-3d795e1a2a4f@45.150.238.201:20443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=xE2CNenfDgtu28WQ23Bq2KfdkEj3XN42P_ZVou1YRC4&security=reality&sid=f847646adc2b82fe&sni=dc.insidenet.ru&type=tcp#%F0%9F%88%B891@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "vless://6db6b948-655f-4f68-a9e7-865050e05b31@93.152.206.97:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=q3NQdiGg60myQYG6FekGE5g_a3q4g3WrD6eGayOWVwY&security=reality&sid=a2fcac&sni=remote.propaint.cl&type=tcp#%E2%9A%A139@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-01T10:16:47.608Z"
-    },
-    {
-      "url": "vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@91.107.180.176:465?encryption=none&fp=firefox&host=hw7.divarkhaghazi.com.&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=hw7.divarkhaghazi.com.&type=ws#%E2%9A%A140@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-01T10:16:47.608Z"
-    },
-    {
-      "url": "vless://3dbf58d7-53fc-4fad-8779-1c867e024fd0@185.125.103.62:8082?encryption=none&fp=firefox&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&type=ws#%E2%9A%A141@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-01T10:16:47.608Z"
-    },
-    {
-      "url": "vless://d0d3d49c-56e8-40e1-9e83-793d03f83d93@91.107.180.176:465?encryption=none&fp=firefox&host=hw7.divarkhaghazi.com.&path=%2F%3FTelegramV2ray_confiig&security=tls&sni=hw7.divarkhaghazi.com.&type=ws#%E2%9A%A142@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-01T10:16:47.608Z"
-    },
-    {
-      "url": "vless://72af1965-ec91-4376-82b1-75be51885506@185.125.103.62:8082?encryption=none&fp=firefox&host=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&type=ws#%E2%9A%A143@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-01T10:16:47.608Z"
