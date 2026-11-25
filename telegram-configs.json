@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-25T10:45:33.473Z",
+  "updated": "2026-11-25T11:00:33.916Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://9afdc92d-4e88-4787-8d75-c95f7685d294@free-server.techsonic.dev:443?sni=aka.ms&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T11:00:32.616Z"
+    },
+    {
+      "url": "vless://aff1b196-478c-425a-9403-7ea15d9aafdf@179.253.225.20:8443?&security=tls&fp=chrome&sni=hkg.kkp.us.ci&type=ws&headerType=none&host=hkg.kkp.us.ci&path=%2F487e07e6-2930-4e71-99b3-6792e5909f16#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T11:00:32.616Z"
+    },
+    {
+      "url": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@185.247.224.206:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=inlay.merlano.monster&type=ws&headerType=none&host=inlay.merlano.monster&path=%2Fapi%2Fde3%2Fstream#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T11:00:32.616Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.199.103:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-31T22:45:34.378Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-31T22:45:34.378Z"
-    },
-    {
-      "url": "trojan://5t6i121em5lkmsmk@us007.zestapp778.com:42314?sni=us007.zestapp778.com&security=tls&type=tcp&allowInsecure=1#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-10-31T22:45:34.378Z"
-    },
-    {
-      "url": "trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?type=tcp&security=tls&fp=chrome&sni=us001.zestapp778.com#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-31T22:45:34.378Z"
