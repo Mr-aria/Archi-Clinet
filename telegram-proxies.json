@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-25T09:31:39.700Z",
-  "count": 2385,
+  "updated": "2026-11-25T10:45:37.200Z",
+  "count": 2391,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.bing.count_with_me.www.msn.com.sanjesh.org.enamad.again_to_fight.everyone.i_am.the_internet.cloadflare-dns.online.&port=443&secret=2I25nuNyHw_LQKT_Y7XNKA",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-25T10:45:30.759Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=new.nikkhah.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-25T10:45:30.186Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=banoo.khooorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-25T10:45:30.186Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=87.248.144.92&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-25T10:45:30.186Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=tech.gooodrat.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-25T10:45:30.186Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=zendebad.damavand.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-25T10:45:30.186Z"
+    },
     {
       "url": "https://t.me/proxy?server=85-133-233-108.sslip.io&port=443&secret=dd0df5e39297d0a718a5f4b112214ee1fe",
       "name": "V2rayng_Fast",
