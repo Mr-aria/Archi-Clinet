@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-25T01:30:33.716Z",
+  "updated": "2026-11-25T02:00:37.245Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@193.124.56.100:443?&security=tls&fp=firefox&sni=parchment.merlano.monster&type=ws&headerType=none&host=parchment.merlano.monster&path=%2Fapi%2Fde7%2Fstream#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T02:00:35.479Z"
+    },
+    {
+      "url": "vless://2da03bdf-8af3-4207-96c7-d70e0dd22c36@195.110.15.216:31652?&type=tcp&headerType=none&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T02:00:35.479Z"
+    },
+    {
+      "url": "vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@185.247.224.206:443?&security=tls&fp=firefox&sni=accessfooter.cleanfoodshop.org&type=ws&headerType=none&host=accessfooter.cleanfoodshop.org&path=%2Fmedia%2Fws%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T02:00:35.479Z"
+    },
+    {
+      "url": "vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@mintleaf.moltex.click:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=mintleaf.moltex.click&type=ws&headerType=none&host=mintleaf.moltex.click&path=%2Fapi%2Fde4%2Fstream#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T02:00:35.479Z"
+    },
+    {
+      "url": "vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@81.49.182.202:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=lagoon.gerqix.online&type=ws&headerType=none&host=lagoon.gerqix.online&path=%2Fapi%2Fde5%2Fstream#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T02:00:35.479Z"
+    },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY1XHVkODNjXHVkZGYxIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZjEiLCJhZGQiOiI1NC4zNy4xMzEuMTI2IiwicG9ydCI6ODAsImlkIjoiMWU1NWJlY2EtM2M2OS00ZmE3LWZiMWYtMTVjMWI3Njc0MzVmIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmhlc2FuaWQ4LmlyLiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
       "name": "Farah_VPN",
@@ -29971,36 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-10-31T18:15:31.309Z"
-    },
-    {
-      "url": "vless://6da2c981-8c77-4340-bda3-93399b7aea26@91.84.115.36:443?mode=auto&path=%2Fv2%2Fsync%2Faf2c0c&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%221800-3000%22%2C%22hMaxReusableSecs%22%3A%2210800-14400%22%2C%22maxConcurrency%22%3A%2216-32%22%7D%7D&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&fp=firefox&type=xhttp&sni=lectures.blog-forme.ru&sid=fb3a5f2d4ca346ed#%40V2ray_Alpha%F0%9F%8D%91%207",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-31T17:45:30.756Z"
-    },
-    {
-      "url": "trojan://humanity@8.6.112.206:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.trusteeforward.com&fp=chrome&type=ws&allowInsecure=0&sni=www.trusteeforward.com#%40V2ray_Alpha%F0%9F%8D%91%206",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-31T17:45:30.756Z"
-    },
-    {
-      "url": "vless://a449b942-e70d-4124-96c1-a489e701d7ee@13.143.184.226:443?security=reality&encryption=none&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msc1.serverslocal.ru&sid=f7e66e308136e1a1#%40V2ray_Alpha%F0%9F%8D%91%205",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-31T17:45:30.756Z"
-    },
-    {
-      "url": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?mode=gun&security=reality&encryption=none&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=firefox&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#%40V2ray_Alpha%F0%9F%8D%91%204",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-31T17:45:30.756Z"
-    },
-    {
-      "url": "vless://6da2c981-8c77-4340-bda3-93399b7aea26@178.17.52.236:2083?mode=auto&path=%2Fv2%2Fsync%2F6e9367&security=reality&encryption=none&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&fp=edge&type=xhttp&sni=maps.blog-forme.ru&sid=3258252d44113e23#%40V2ray_Alpha%F0%9F%8D%91%201",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-10-31T17:45:30.756Z"
     }
   ]
 }
