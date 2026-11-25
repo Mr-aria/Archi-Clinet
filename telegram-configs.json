@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T17:00:34.048Z",
+  "updated": "2026-11-25T17:15:33.060Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://366449c5-ac1e-4314-8142-27a6b1c8c0fb@172.64.146.181:443?&security=tls&fp=chrome&sni=sg2-cdn.rip.lgbt&type=ws&headerType=none&host=sg2-cdn.rip.lgbt&path=%2Fyn-3ba202c6491c#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T17:15:31.686Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.128.91:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://409f4682-a458-4671-8805-40dfc6978336@grimness-backlogs.cdn-content.com:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=grimness-backlogs.cdn-content.com&type=ws&headerType=none&host=grimness-backlogs.cdn-content.com&path=%2Fws#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-01T05:45:30.573Z"
-    },
-    {
-      "url": "vless://e12bb1dc-d315-47e3-9184-cb655afe6421@adheres-scruple.quick-cdn.net:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=adheres-scruple.quick-cdn.net&type=ws&headerType=none&host=adheres-scruple.quick-cdn.net&path=%2Fws#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-01T05:45:30.573Z"
