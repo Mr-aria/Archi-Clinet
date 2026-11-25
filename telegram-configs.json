@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T07:31:44.461Z",
+  "updated": "2026-11-25T08:30:36.304Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@193.124.56.100:443?&security=tls&fp=firefox&sni=accessfooter.cleanfoodshop.org&type=ws&headerType=none&host=accessfooter.cleanfoodshop.org&path=%2Fmedia%2Fws%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-25T08:30:34.715Z"
+    },
     {
       "url": "vless://40992c2a-513e-4837-9594-23411fd42afd@207.154.222.113:443?encryption=none&headerType=http&host=store.steampowered.com&path=%2F&security=none&type=tcp#%F0%9F%88%B82@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-10-31T20:16:40.814Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-10-31T20:16:40.814Z"
