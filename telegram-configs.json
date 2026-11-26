@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-26T12:00:31.902Z",
+  "updated": "2026-11-26T12:16:50.658Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?security=reality&type=tcp&packetEncoding=xudp&sni=video.yandex.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T12:16:47.813Z"
+    },
+    {
+      "url": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.246.55.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime59.workers.dev&packetEncoding=xudp&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T12:16:47.813Z"
+    },
     {
       "url": "vless://3f3ac22b-5823-4d4b-b2fc-70ffdd2f961d@render.com:443?mode=stream-one&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=nethrlnd-orng-bye-god-xn--fhq0la447aac5504dea701axr1g.maniyadg7shard.ir#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-01T20:16:48.959Z"
-    },
-    {
-      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-01T20:16:48.959Z"
-    },
-    {
-      "url": "vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?security=reality&encryption=none&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&host=--v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=5b8a942318178e7b#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-11-01T20:16:48.959Z"
