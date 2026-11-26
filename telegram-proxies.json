@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T20:30:36.477Z",
-  "count": 2499,
+  "updated": "2026-11-26T20:45:37.590Z",
+  "count": 2500,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-26T20:45:30.833Z"
+    },
     {
       "url": "https://t.me/proxy?server=159.69.240.106&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQD",
       "name": "v2ryNG01",
