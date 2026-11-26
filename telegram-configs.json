@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T06:15:37.130Z",
+  "updated": "2026-11-26T06:45:37.015Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://b432a23a-acff-425c-bf69-70480cd6ed09@188.225.33.67:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=e2.cdnwh.icu&type=ws&headerType=none&host=e2.cdnwh.icu&path=%2Fstream%2Fsegment%2F3078a41dd7eb%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T06:45:34.469Z"
+    },
     {
       "url": "vless://8dbcaf09-aa30-4367-9d8e-2762e66141d1@SpeeDTeST.OrG:80?security=none&type=ws&headerType=&path=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@92.243.74.224:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&security=reality&sid=385cb18df0892069&sni=de8.vpngold.ru&type=tcp#%E2%9A%A165@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-01T15:16:37.941Z"
-    },
-    {
-      "url": "vless://a52fd54b-ba4d-4d11-8e00-301e2646cd66@de8.vpngold.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1H1DiBCBB7fpALV71pH1q66ePybBFlVOcxftdlQimQ8&security=reality&sid=385cb18df0892069&sni=de8.vpngold.ru&type=tcp#%E2%9A%A166@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-01T15:16:37.941Z"
