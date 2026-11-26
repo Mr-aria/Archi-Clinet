@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T20:45:34.139Z",
+  "updated": "2026-11-26T21:00:39.980Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://26843758-24de-4f76-b5d0-624038e353c4@71b840t.de7.h1clayd.click:443?&security=reality&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&fp=chrome&sni=71b840t.de7.h1clayd.click&type=tcp&headerType=none&host=71b840t.de7.h1clayd.click&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T21:00:37.532Z"
+    },
     {
       "url": "vless://4d8fa049-c5bd-42a8-ab9f-6bc8986689d9@trtnle2.sharecafe.ir:2072?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=4l4-oHmaKgUrC32gqmFUw0EjRsGx1cNwlOFMhLQIHAg&fp=ios&spx=%2F&type=xhttp&sni=aparat.com&sid=70#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
@@ -29995,12 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-02T11:16:33.159Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.109.69:22222?encryption=none&security=none&type=tcp#(S103",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-11-02T11:00:34.141Z"
     }
   ]
 }
