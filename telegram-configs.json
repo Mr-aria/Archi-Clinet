@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-26T15:45:33.724Z",
+  "updated": "2026-11-26T16:00:32.943Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.116.98:19999#%40V2ray_Alpha%F0%9F%8C%81%207",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-26T16:00:31.769Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxNTQuNDcuMTkuMjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvP1RFTEVHUkFNLS1CMkh1Yi1CMkh1Yi1CMkh1Yi1CMkh1Yi1CMkh1Yi1CMkh1Yi1CMkh1Yi1CMkh1Yi1CMkh1Yi1CMkh1Yi0tVEVMRUdSQU0iLCJwb3J0IjoiMTI3MCIsInBzIjoiQFYycmF5X0FscGhh8J+MgSAzIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-26T16:00:31.769Z"
+    },
     {
       "url": "vless://e0d0a99b-0c54-4e82-8ed4-5761e6f21b72@138.124.79.67:443?mode=auto&path=%2Fgermany-xhttp&security=reality&encryption=none&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D&pbk=ucleuGPWvBGG_8cIjDdymbz6IBpFb052qfITM9EXA3k&fp=chrome&type=xhttp&sni=ne2.zovpn.pro&sid=4be3b5e3#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
@@ -29989,18 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-01T20:45:30.583Z"
-    },
-    {
-      "url": "trojan://b17e9b52db9623bd6c16eea3d7adb5b3@ench-snet-app.w-ctrip.cn:15589?allowInsecure=1&sni=cm.g.doubleclick.net#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-01T20:45:30.583Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.145.255:22222?encryption=none&security=none&type=tcp#(S104",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-11-01T20:30:34.076Z"
     }
   ]
 }
