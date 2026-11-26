@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T17:31:38.838Z",
+  "updated": "2026-11-26T18:45:31.660Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.87.216:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-26T18:45:30.782Z"
+    },
     {
       "url": "vless://da14e323-6af7-406f-a5c2-1eb7975ada8b@mail1.besttotaldns.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mail1.besttotaldns.com#@ICV2RAY",
       "name": "icv2ray",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiIxMDkuNzAuNzQuMTEzIiwicG9ydCI6IjMwNTUzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjE4MDZmMmNmLWJhODktNGM1My05OTBmLTgxYWE3ZDg5Y2Y3OCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T05:15:31.222Z"
-    },
-    {
-      "url": "vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@91.185.83.44:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=nguyxejonb.rucdncomp.pro&type=ws&headerType=none&host=nguyxejonb.rucdncomp.pro&path=%2Fservice%2Ftelemetry%2F0294da469190%2F#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-02T05:15:31.222Z"
