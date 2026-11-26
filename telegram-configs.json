@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-26T20:30:33.040Z",
+  "updated": "2026-11-26T20:31:37.090Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com#%F0%9F%94%B791@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-26T20:31:35.564Z"
+    },
+    {
+      "url": "vmess://e7c302f3-90d6-42dd-9d7d-94a3683a3707@146.56.112.110:8888?encryption=auto&security=none&type=tcp#%F0%9F%94%B792@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-26T20:31:35.564Z"
+    },
+    {
+      "url": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.46.6:8080?encryption=none&host=free.nadun.store&path=%2F&security=none&type=ws#%F0%9F%94%B796@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-26T20:31:35.564Z"
+    },
+    {
+      "url": "vless://e084837e-c738-4ce5-b691-cf4637356cd6@172.236.145.200:119?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=whatsapp.net&type=tcp#%F0%9F%94%B797@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-26T20:31:35.564Z"
+    },
+    {
+      "url": "vless://990bf436-f1b9-4e7f-857d-14378acc4ae5@170.114.45.6:8080?encryption=none&host=free.nadun.store&path=%2F&security=none&type=ws#%F0%9F%94%B798@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-26T20:31:35.564Z"
+    },
+    {
+      "url": "vless://67952583-8572-42e1-943d-0602794f885b@103.106.229.177:21004?encryption=none&fp=&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=4e0418d648f86141&sni=www.cloudflare.com&type=tcp#%F0%9F%94%B7100@oneclickvpnkeys",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-26T20:31:35.564Z"
+    },
     {
       "url": "vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&fp=chrome&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#Tel%40MARAMBASHI%20%F0%9F%87%A7%F0%9F%87%B7",
       "name": "MARAMBASHI",
@@ -29965,42 +30001,6 @@
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-11-02T09:15:31.298Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T09:15:31.199Z"
-    },
-    {
-      "url": "vless://3d9d91c0-0%6190-471%61-%61518-%610ff66%611970%61@146.75.57.111:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_%61z_ch%61nn%65l_N%55F%69L%54ER_17%69.glob%61l.ssl.f%61stly.n%65t.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-11-02T09:01:31.058Z"
-    },
-    {
-      "url": "vless://3d9d91c0-0%6190-471%61-%61518-%610ff66%611970%61@146.75.57.111:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_%61z_ch%61nn%65l_N%55F%69L%54ER_7%69.glob%61l.ssl.f%61stly.n%65t.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-11-02T09:01:31.058Z"
-    },
-    {
-      "url": "vless://3d9d91c0-0%6190-471%61-%61518-%610ff66%611970%61@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_%61z_ch%61nn%65l_N%55F%69L%54ER_8%69.glob%61l.ssl.f%61stly.n%65t.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-11-02T09:01:31.058Z"
-    },
-    {
-      "url": "vless://%58pn%54%65%61m-77@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=%41pp%78dn.glob%61l.ssl.f%61stly.n%65t&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-11-02T09:01:31.058Z"
-    },
-    {
-      "url": "trojan://5t6i121em5lkmsmk@en001.zestapp778.com:29813?security=tls&sni=en001.zestapp778.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T08:45:32.114Z"
     }
   ]
 }
