@@ -1,7 +1,67 @@
 {
-  "updated": "2026-11-26T20:01:52.109Z",
+  "updated": "2026-11-26T20:15:34.845Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://db906786-8c49-4b17-9182-cea680ef954d@104.20.28.74:443?path=%2Fkw7x2mq9&security=tls&encryption=none&insecure=0&host=krc.80782636.xyz&type=ws&allowInsecure=0&sni=krc.80782636.xyz#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T20:15:34.429Z"
+    },
+    {
+      "url": "vless://db906786-8c49-4b17-9182-cea680ef954d@104.26.13.54:443?path=%2Fkw7x2mq9&security=tls&encryption=none&insecure=0&host=krc.80782636.xyz&fp=chrome&type=ws&allowInsecure=0&sni=krc.80782636.xyz#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T20:15:34.429Z"
+    },
+    {
+      "url": "vless://db906786-8c49-4b17-9182-cea680ef954d@162.159.160.73:443?path=%2Fkw7x2mq9&security=tls&encryption=none&insecure=0&host=krc.80782636.xyz&type=ws&allowInsecure=0&sni=krc.80782636.xyz#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T20:15:34.429Z"
+    },
+    {
+      "url": "vless://0173d52e-8e1b-4681-831e-11529677b72f@165.231.177.60:443?mode=auto&security=tls&encryption=none&insecure=0&fp=safari&type=xhttp&allowInsecure=0&sni=cab-6b07048f.ferrin.uk#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T20:15:34.429Z"
+    },
+    {
+      "url": "vless://e2f43a75-e683-4d09-96e8-3ad1f2e57100@98.98.132.110:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=2e7d5cf6a7e50c564bfddf62c87e02e1&allowInsecure=0&sni=a1116.afl7t8f.com#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T20:15:34.429Z"
+    },
+    {
+      "url": "vless://937bc631-4022-41d2-ae15-d8247ba5e32d@www.visa.com.hk:443?path=%2Fannouncement%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=it-mil.862400.xyz&fp=random&type=ws&allowInsecure=0&sni=it-mil.862400.xyz#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T20:15:34.429Z"
+    },
+    {
+      "url": "vless://937bc631-4022-41d2-ae15-d8247ba5e32d@ct.877774.xyz:443?path=%2Fannouncement%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=us-lax.862400.xyz&fp=random&type=ws&allowInsecure=0&sni=us-lax.862400.xyz#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T20:15:34.429Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiJVUzEyMjIwMS5zc2dyZWVuLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNWNmMjFkOS0wZWM5LTRjNjYtOWVmMy1lNDBmY2ZhMzExNWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2VzIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiVGVsZWdyYW0gQG10bXZwbiAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T20:15:34.429Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiJVUzEyMjIwNC5zc2dyZWVuLm9yZyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1NTE2Zjc0NS0wYzkzLTRjYzMtYWEzYS02OTM2OWJiOWRiZWYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd2VzIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiVGVsZWdyYW0gQG10bXZwbiAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T20:15:34.429Z"
+    },
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.53.9:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-26T20:15:33.367Z"
+    },
     {
       "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0FSSkxUbE1KT0ZWSXVR@20.166.121.63:443#",
       "name": "V2ray_official",
@@ -29941,66 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-02T09:15:31.199Z"
-    },
-    {
-      "url": "vless://3d9d91c0-0%6190-471%61-%61518-%610ff66%611970%61@146.75.57.111:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_%61z_ch%61nn%65l_N%55F%69L%54ER_17%69.glob%61l.ssl.f%61stly.n%65t.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-11-02T09:01:31.058Z"
-    },
-    {
-      "url": "vless://3d9d91c0-0%6190-471%61-%61518-%610ff66%611970%61@146.75.57.111:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_%61z_ch%61nn%65l_N%55F%69L%54ER_7%69.glob%61l.ssl.f%61stly.n%65t.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-11-02T09:01:31.058Z"
-    },
-    {
-      "url": "vless://3d9d91c0-0%6190-471%61-%61518-%610ff66%611970%61@199.232.78.159:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_%61z_ch%61nn%65l_N%55F%69L%54ER_8%69.glob%61l.ssl.f%61stly.n%65t.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-11-02T09:01:31.058Z"
-    },
-    {
-      "url": "vless://%58pn%54%65%61m-77@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=%41pp%78dn.glob%61l.ssl.f%61stly.n%65t&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-11-02T09:01:31.058Z"
-    },
-    {
-      "url": "trojan://5t6i121em5lkmsmk@en001.zestapp778.com:29813?security=tls&sni=en001.zestapp778.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T08:45:32.114Z"
-    },
-    {
-      "url": "trojan://5t6i121em5lkmsmk@us001.zestapp778.com:57277?allowInsecure=1&sni=us001.zestapp778.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T08:45:32.114Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.9:443?fp=chrome&sni=resources.indyourperfectremotetechjobfromthecomfortofhome.com#%E2%8F%B32@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-02T08:16:45.989Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.225:443?fp=chrome&sni=cdn.indyourperfectremotetechjobfromthecomfortofhome.com#%E2%8F%B33@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-02T08:16:45.989Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?sni=indyourperfectremotetechjobfromthecomfortofhome.com#%E2%8F%B34@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-02T08:16:45.989Z"
-    },
-    {
-      "url": "vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%E2%8F%B35@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-02T08:16:45.989Z"
     }
   ]
 }
