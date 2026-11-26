@@ -1,3 +1,4 @@
+https://t.me/proxy?server=178.105.104.17&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQD
 https://t.me/proxy?server=167.233.24.212&port=8080&secret=3XnjRIGHSb16xRkTAiDCXQk
 tg://socks?server=94.194.166.52&port=42000&user=userLRgK&pass=KsPAxZGn
 tg://socks?server=72.57.228.87&port=62000&user=UBXich0K&pass=VvUAFi2E
