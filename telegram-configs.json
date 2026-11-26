@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T07:15:30.921Z",
+  "updated": "2026-11-26T08:31:35.627Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&insecure=0&host=filasi554.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-26T08:31:30.445Z"
+    },
     {
       "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=ios&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#@NOFILTERING2",
       "name": "nofiltering2",
@@ -29995,12 +30001,6 @@
       "name": "PrivateVPNs",
       "source": "PrivateVPNs",
       "date": "2026-11-01T17:00:30.876Z"
-    },
-    {
-      "url": "vless://58037ab8-a8e2-4927-a8b1-f909f9fdb64c@89.105.218.106:2083?&security=tls&fp=ios&sni=speedtestmark.com&type=ws&headerType=none&path=%2Fvless-ws#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-01T16:45:32.579Z"
     }
   ]
 }
