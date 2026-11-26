@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T14:01:59.493Z",
+  "updated": "2026-11-26T15:30:35.605Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T15:30:33.668Z"
+    },
     {
       "url": "vless://9736c8d5-baac-4655-9886-f4d3661b43b4@velaroorts.ir:443?mode=stream-one&path=%2FDE-frank&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22sessionIDPlacement%22%3A%22header%22%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%223%22%2C%22hKeepAlivePeriod%22%3A19%7D%2C%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F125.0.0.0%20Safari%2F537.36%22%7D%7D&insecure=0&host=velaroorts.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=velaroorts.ir#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://c419edf5-45b0-44cb-94dd-c66f9b395260@79.141.164.81:443?security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=firefox&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-11-01T20:16:49.933Z"
-    },
-    {
-      "url": "vless://2c114179-04b4-4958-b260-7030d12887de@2.59.21.188:443?security=reality&encryption=none&pbk=_0N3gACBkKvGKTh0q5-dmt-XqSHB3xfEHSANRXu-U0I&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=tg-lovers-free.com&sid=f00f58383241c807#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-11-01T20:16:49.933Z"
