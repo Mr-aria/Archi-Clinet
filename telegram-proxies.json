@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T05:31:49.949Z",
-  "count": 2440,
+  "updated": "2026-11-26T06:45:43.027Z",
+  "count": 2441,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=178.105.249.190&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-26T06:45:32.140Z"
+    },
     {
       "url": "https://t.me/proxy?server=mizan.ricebr.ir&port=8443&secret=1603010200010001fc030386e24c3add",
       "name": "YamYamProxy",
