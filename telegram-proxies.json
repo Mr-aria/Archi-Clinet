@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-26T20:45:37.590Z",
-  "count": 2500,
+  "updated": "2026-11-26T21:15:36.163Z",
+  "count": 2504,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=backups.zangbezanbem.ir&port=8080&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T21:15:32.506Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=Tariff.zangbezanbem.ir&port=8080&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T21:15:32.506Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=Access.zangbezanbem.ir&port=8080&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T21:15:32.506Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=Control.zangbezanbem.ir&port=8080&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T21:15:32.506Z"
+    },
     {
       "url": "https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_",
       "name": "MyPoroxy",
