@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-26T11:00:40.669Z",
-  "count": 2483,
+  "updated": "2026-11-26T12:00:35.709Z",
+  "count": 2489,
   "proxies": [
+    {
+      "url": "tg://socks?server=94.194.166.52&port=42000&user=userLRgK&pass=KsPAxZGn",
+      "name": "BlueKnight_Net",
+      "source": "BlueKnight_Net",
+      "date": "2026-11-26T12:00:29.874Z"
+    },
+    {
+      "url": "tg://socks?server=72.57.228.87&port=62000&user=UBXich0K&pass=VvUAFi2E",
+      "name": "BlueKnight_Net",
+      "source": "BlueKnight_Net",
+      "date": "2026-11-26T12:00:29.874Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=pro.khoorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-26T12:00:29.153Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=round.fekr.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-26T12:00:29.153Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=plus.khorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-26T12:00:29.153Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=do.goodrat.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+      "name": "iRoProxy",
+      "source": "iRoProxy",
+      "date": "2026-11-26T12:00:29.153Z"
+    },
     {
       "url": "https://t.me/proxy?server=37.27.206.180&port=8443&secret=dd79e344818749bd7ac519130220c25d09",
       "name": "proxy_mtm",
