@@ -1,7 +1,139 @@
 {
-  "updated": "2026-11-26T08:16:34.120Z",
-  "count": 2457,
+  "updated": "2026-11-26T08:30:34.093Z",
+  "count": 2479,
   "proxies": [
+    {
+      "url": "tg://proxy?server=ir-ir.grumpyoldmen.info&port=8443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=my.fastprx.co.uk&port=2052&secret=aea1191522c9b281d2633610a34e730d",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=nfc.neo-duo.co.uk&port=8443&secret=104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=ir-ir.naganuma.info&port=8443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=ir-neverland.nowhearthis.co.uk&port=8443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=ir-ir-ir.grumpyoldmen.info&port=8443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=ir-mainland.steveharrop.co.uk&port=8443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=138.201.223.97&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=ir-ir.rebol.info&port=8443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=65.109.244.5&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=91.107.171.116&port=8443&secret=104462821249bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=benze-benz.ir.osahflahyev.info&port=7443&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=char.ionox.co.uk&port=8880&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=ir-immortals.sponsorafuture.co.uk&port=443&secret=104462821249bd7ac519130220c8dd09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=87.248.144.50&port=2083&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=91.234.147.28&port=2020&secret=00000000000000000000000000000000",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=haf.torob.ir.solzairanbad.ir&port=8880&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=85.133.200.47&port=8880&secret=dd1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=85.133.200.12&port=8880&secret=79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=87.248.144.158&port=8880&secret=dd79e344818749bd7ac519130220c25d09",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
+    {
+      "url": "tg://proxy?server=85.133.200.45&port=8880&secret=dd1603010200010001fc030386e24c3add",
+      "name": "proxy_badss",
+      "source": "proxy_badss",
+      "date": "2026-11-26T08:30:30.057Z"
+    },
     {
       "url": "https://t.me/proxy?server=o06d9opx.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
       "name": "IRAN_V2RAY1",
