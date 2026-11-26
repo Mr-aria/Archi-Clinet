@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T04:31:35.411Z",
-  "count": 2425,
+  "updated": "2026-11-26T05:01:44.547Z",
+  "count": 2426,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=tare.shambelile.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-26T05:01:39.432Z"
+    },
     {
       "url": "https://t.me/proxy?server=logapo72.kelpmoor.xyz&port=443&secret=ee2ad112aa3c927eb2ebec44fd1733cc496f7a6f6e2e7275",
       "name": "ProxyMTProto",
