@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-26T08:31:35.627Z",
+  "updated": "2026-11-26T08:45:33.011Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?type=ws&host=filasi554.global.ssl.fastly.net.&path=/TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER-TELEGRAM-@NUFiLTER&security=tls&sni=cdn.akamai.steamstatic.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8@NOFILTERING2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-26T08:45:32.197Z"
+    },
+    {
+      "url": "vless://e2f3ddd0-10f1-421f-b684-4c943986da65@45.86.61.133:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=deepl.com&pbk=GwjzHvbNB5Wn6Jj7E3WSc5pc32bjeJCvv9yf0ibDnRs&sid=15affa0af66dfc79#@NOFILTERING2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-26T08:45:32.197Z"
+    },
+    {
+      "url": "vmess://eyJzbmkiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJwcyI6IvCfh6nwn4eqQE5PRklMVEVSSU5HMiIsInRscyI6InRscyIsImlkIjoiZTcwYTViNzAtZjYzYy00NDUwLWFmOGItOTQ5OTBjZGY4MGMwIiwidiI6IjIiLCJmcCI6ImNocm9tZSIsInBvcnQiOiI0NDMiLCJuZXQiOiJ3cyIsInNjeSI6ImF1dG8iLCJob3N0Ijoid3d3LmdwdGNsb3VkYWkuY29tIiwiYWRkIjoiMTcyLjY3LjE1Ni4xMjEiLCJwYXRoIjoiXC90cnV0aCJ9",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-26T08:45:32.197Z"
+    },
+    {
+      "url": "vless://00c93313-37e9-4d96-8ab6-b4294170ef06@tr.subscriptionservice.ir:8443?flow=&type=tcp&headerType=http&host=play.googleapis.com&path=&security=none#%F0%9F%87%B9%F0%9F%87%B7@NOFILTERING2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-26T08:45:32.197Z"
+    },
+    {
+      "url": "vmess://eyJzY3kiOiJhdXRvIiwidiI6IjIiLCJwb3J0IjoiNDQzIiwidGxzIjoidGxzIiwibmV0Ijoid3MiLCJhZGQiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJzbmkiOiIiLCJmcCI6ImNocm9tZSIsInBzIjoi8J+HqfCfh6pATk9GSUxURVJJTkcyIiwiaWQiOiJlNzBhNWI3MC1mNjNjLTQ0NTAtYWY4Yi05NDk5MGNkZjgwYzAiLCJwYXRoIjoiXC90cnV0aCJ9",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-26T08:45:32.197Z"
+    },
+    {
+      "url": "trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?type=ws&host=fila…",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-26T08:45:32.197Z"
+    },
     {
       "url": "trojan://1sUm9iYpsjLCOC9THsL9cg@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2FTELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER-TELEGRAM-%40NUFiLTER&security=tls&insecure=0&host=filasi554.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
       "name": "freakconfig",
@@ -29965,42 +30001,6 @@
       "name": "outline_vpn",
       "source": "outline_vpn",
       "date": "2026-11-01T17:15:31.397Z"
-    },
-    {
-      "url": "vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.55.145:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.peregrine-sub.net&sid=7b6803a79bba5c52#YFZ%20234%20%40Outline_Vpn",
-      "name": "outline_vpn",
-      "source": "outline_vpn",
-      "date": "2026-11-01T17:15:31.397Z"
-    },
-    {
-      "url": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?security=reality&encryption=none&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zoom.us&sid=5a42dbd7e26a0415#YFZ%20235%20%40Outline_Vpn",
-      "name": "outline_vpn",
-      "source": "outline_vpn",
-      "date": "2026-11-01T17:15:31.397Z"
-    },
-    {
-      "url": "vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#YFZ%20236%20%40Outline_Vpn",
-      "name": "outline_vpn",
-      "source": "outline_vpn",
-      "date": "2026-11-01T17:15:31.397Z"
-    },
-    {
-      "url": "vless://f04cc810-aaf2-4a7b-8cad-356cdd30d394@tg1.cdnphotos.org:443?mode=auto&path=%2Fapi%2Fv1%2F%3Fed&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=tg1.cdnphotos.org#YFZ%20238%20%40Outline_Vpn",
-      "name": "outline_vpn",
-      "source": "outline_vpn",
-      "date": "2026-11-01T17:15:31.397Z"
-    },
-    {
-      "url": "vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#YFZ%20239%20%40Outline_Vpn",
-      "name": "outline_vpn",
-      "source": "outline_vpn",
-      "date": "2026-11-01T17:15:31.397Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.83.109:22222?encryption=none&security=none&type=tcp#(S102",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-11-01T17:00:30.876Z"
     }
   ]
 }
