@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T21:00:39.980Z",
+  "updated": "2026-11-26T21:15:32.860Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://Z-jckziI1rW4yrUMorrv0Q@146.75.59.186:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52%2D%54%45%4C%45%47%52%41%4D-%40%4E%55%46%69%4C%54%45%52&security=tls&insecure=0&host=looasaaaboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#Telegram%20%40mtmvpn%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-26T21:15:32.506Z"
+    },
     {
       "url": "vless://26843758-24de-4f76-b5d0-624038e353c4@71b840t.de7.h1clayd.click:443?&security=reality&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&fp=chrome&sni=71b840t.de7.h1clayd.click&type=tcp&headerType=none&host=71b840t.de7.h1clayd.click&path=%2F#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://32cf52f4-b8d2-4ed5-a37c-0d0a8e743309@206.206.76.75:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gSHylaTvEzWj19Bk-zLHXKYUINGWVmo_ybCiD2CRinE&security=reality&sid=a775360a48ef5cfb&sni=www.cloudflare.com&type=tcp#%E2%8F%B344@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-02T11:16:33.159Z"
-    },
-    {
-      "url": "vless://efd11a89-7506-44ce-95b6-6654859f155b@172.237.88.103:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=EeLAX-BAjzSdRes-zpUFzVOYsBedmP8lUOHhXXJFXyI&security=reality&sid=5a42dbd7e26a0415&sni=zoom.us&type=tcp#%E2%8F%B345@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-02T11:16:33.159Z"
