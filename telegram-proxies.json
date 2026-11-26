@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T17:46:34.355Z",
-  "count": 2496,
+  "updated": "2026-11-26T19:16:35.189Z",
+  "count": 2497,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=pspro9.co.uk&port=443&secret=dd104462821349bd7ac519130220c25d09",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-26T19:16:30.702Z"
+    },
     {
       "url": "https://t.me/proxy?server=94.184.39.151&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
       "name": "ProxyMTProto",
