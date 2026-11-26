@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T12:00:35.709Z",
-  "count": 2489,
+  "updated": "2026-11-26T13:46:55.532Z",
+  "count": 2490,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=167.233.24.212&port=8080&secret=3XnjRIGHSb16xRkTAiDCXQk",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-26T13:46:41.862Z"
+    },
     {
       "url": "tg://socks?server=94.194.166.52&port=42000&user=userLRgK&pass=KsPAxZGn",
       "name": "BlueKnight_Net",
