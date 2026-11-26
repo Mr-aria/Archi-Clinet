@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-26T00:45:35.138Z",
+  "updated": "2026-11-26T01:45:35.619Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T01:45:33.822Z"
+    },
+    {
+      "url": "vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8450?&security=tls&fp=firefox&sni=fonts.plumstatic.com&type=ws&headerType=none&path=%2Fws#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T01:45:33.822Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206NW1LalhBR3JsaUlBbFl3V0RlRnprQ0VNSWdRZEZRTGU@194.87.69.12:18443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T01:45:33.822Z"
+    },
+    {
+      "url": "vless://db906786-8c49-4b17-9182-cea680ef954d@krd.80782636.xyz:443?&security=tls&fp=chrome&sni=krd.80782636.xyz&type=ws&headerType=none&host=krd.80782636.xyz&path=%2Fkw7x2mq9#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T01:45:33.822Z"
+    },
     {
       "url": "vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?sni=turkey-ip1.mmdaqaorg.xyz&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#",
       "name": "Farah_VPN",
@@ -29974,30 +29998,6 @@
     },
     {
       "url": "trojan://humanity@104.27.201.80:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-11-01T12:16:35.274Z"
-    },
-    {
-      "url": "trojan://gHQP0D7D15@104.25.239.113:2053?path=%2F&security=tls&insecure=0&type=ws&allowInsecure=0&sni=marvdasht.phonecomparisonblog.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-11-01T12:16:35.274Z"
-    },
-    {
-      "url": "trojan://humanity@104.25.10.54:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-11-01T12:16:35.274Z"
-    },
-    {
-      "url": "trojan://humanity@8.47.69.60:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-11-01T12:16:35.274Z"
-    },
-    {
-      "url": "trojan://humanity@162.159.133.152:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-11-01T12:16:35.274Z"
