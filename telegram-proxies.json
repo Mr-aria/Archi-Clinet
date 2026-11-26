@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T14:16:37.837Z",
-  "count": 2491,
+  "updated": "2026-11-26T14:31:45.755Z",
+  "count": 2492,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=ocabe.kolombiaa.space.&port=443&secret=2I25nuNyHw_LQKT_Y7XNKA",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-26T14:31:42.011Z"
+    },
     {
       "url": "https://t.me/proxy?server=178.105.104.17&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQD",
       "name": "v2ryNG01",
