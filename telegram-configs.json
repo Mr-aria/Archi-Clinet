@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-26T11:00:35.930Z",
+  "updated": "2026-11-26T11:15:38.594Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?encryption=none&security=reality&sni=b3cd32g.es1.h1clayd.click&fp=firefox&pbk=7efBhLzPwoTtEC1GlukCdiTllobUfa2_XuAKNSLJx30&sid=e7cffac9f8cfb434&type=grpc#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T11:15:36.009Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.175:443?allowInsecure=1&security=tls&sni=blog.browseseniorrolesandenhanceyourcareertoday.com&type=tcp#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-26T11:15:36.009Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.82.181:22222?encryption=none&security=none&type=tcp#(S103",
       "name": "PrivateVPNs",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@chatgpt.com:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-01T19:46:30.691Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.153.153:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-01T19:46:30.691Z"
-    },
-    {
-      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-11-01T19:46:30.691Z"
