@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-26T19:16:35.189Z",
-  "count": 2497,
+  "updated": "2026-11-26T20:30:36.477Z",
+  "count": 2499,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=159.69.240.106&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQD",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-26T20:30:30.408Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=91.99.126.21&por…",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-26T20:30:30.408Z"
+    },
     {
       "url": "https://t.me/proxy?server=pspro9.co.uk&port=443&secret=dd104462821349bd7ac519130220c25d09",
       "name": "ProxyMTProto",
