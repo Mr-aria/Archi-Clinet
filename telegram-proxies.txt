@@ -1,3 +1,9 @@
+tg://socks?server=94.194.166.52&port=42000&user=userLRgK&pass=KsPAxZGn
+tg://socks?server=72.57.228.87&port=62000&user=UBXich0K&pass=VvUAFi2E
+https://t.me/proxy?server=pro.khoorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=round.fekr.co.uk&port=2083&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=plus.khorshid.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
+https://t.me/proxy?server=do.goodrat.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=37.27.206.180&port=8443&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=162.55.37.15&port=8443&secret=dd79e344818749bd7ac519130220c25d09
 https://t.me/proxy?server=nectar.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946e65637461722e7061706572746561706f742e636f6d
