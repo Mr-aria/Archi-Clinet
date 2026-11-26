@@ -1,3 +1,5 @@
+https://t.me/proxy?server=nectar.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946e65637461722e7061706572746561706f742e636f6d
+https://t.me/proxy?server=nectar.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c946e65637461722e76656c76657477696e646f772e6363
 tg://proxy?server=ir-ir.grumpyoldmen.info&port=8443&secret=104462821249bd7ac519130220c8dd09
 tg://proxy?server=my.fastprx.co.uk&port=2052&secret=aea1191522c9b281d2633610a34e730d
 tg://proxy?server=nfc.neo-duo.co.uk&port=8443&secret=104462821249bd7ac519130220c25d09
