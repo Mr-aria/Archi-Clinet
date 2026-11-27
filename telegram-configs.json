@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-27T05:30:35.000Z",
+  "updated": "2026-11-27T06:15:33.061Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@18.192.105.157:443#Telegram%20%40Proxy_mtm%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-27T06:15:32.723Z"
+    },
+    {
+      "url": "vless://6cd3dbe2-5bb8-4115-aad9-d50b238ce841@48.103.230.114:443?path=%2Faccess&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=api.cdn-mirror.net#Telegram%20%40Proxy_mtm%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-27T06:15:32.723Z"
+    },
+    {
+      "url": "vless://b0fd9db4-24b8-45d0-88e1-c709c97646e6@144.31.75.168:443?security=reality&encryption=none&pbk=_OxeyvQDpHcak4ou_pmWb5GmhWcG1j7A8LOIqYXghxg&headerType=none&fp=edge&type=tcp&sni=www.fortum.com&sid=2177a83232995047#Telegram%20%40Proxy_mtm%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-27T06:15:32.723Z"
+    },
+    {
+      "url": "vless://364fc00d-9960-4099-ba72-a6665cf40f4c@48.103.230.114:443?path=%2Faccess&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=api.cdn-mirror.net#Telegram%20%40Proxy_mtm%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-27T06:15:32.723Z"
+    },
+    {
+      "url": "vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@de.ggssstreaming.ru:443?mode=auto&path=%2Fee445bf63ce1%2F9a8d6ac6&security=reality&encryption=none&pbk=n5lmV54wCCknNYie638Ug2NDO-WCqtqVo3Yb7IJ_YkI&host=de.ggssstreaming.ru&fp=firefox&type=xhttp&sni=de.ggssstreaming.ru&sid=f49f0d53a52920da#Telegram%20%40Proxy_mtm%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-27T06:15:32.723Z"
+    },
+    {
+      "url": "vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@136.234.179.213:443?mode=auto&path=%2Fee445bf63ce1%2F9a8d6ac6&security=reality&encryption=none&pbk=n5lmV54wCCknNYie638Ug2NDO-WCqtqVo3Yb7IJ_YkI&host=de.ggssstreaming.ru&fp=firefox&type=xhttp&sni=de.ggssstreaming.ru&sid=f49f0d53a52920da#Telegram%20%40Proxy_mtm%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-27T06:15:32.723Z"
+    },
+    {
+      "url": "vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@81.94.148.30:443?security=reality&encryption=none&pbk=7Vxh4zGjWhTahJSLBItfK8ywBHKI_R1MULmNV7vn3DA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=m6.richhoodfoc.com&sid=21c48be99d7e13c8#Telegram%20%40Proxy_mtm%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-27T06:15:32.723Z"
+    },
+    {
+      "url": "vless://a47d9818-d2cc-4b03-a358-712b2f5fc21b@render.com:443?mode=stream-one&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=germ2-orng-bye-god-xn--fhq0la447aac5504dea701axr1g.maniyadg7shard.ir#Telegram%20%40Proxy_mtm%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-27T06:15:32.723Z"
+    },
+    {
+      "url": "vless://48818046-00b5-4576-bbe8-d2971fe0f844@217.19.123.45:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=river-3-369.rtbcdn.ru&sid=4b227777d4dd#Telegram%20%40Proxy_mtm%20",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-27T06:15:32.723Z"
+    },
     {
       "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#",
       "name": "Farah_VPN",
@@ -29947,60 +30001,6 @@
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-11-02T13:45:33.450Z"
-    },
-    {
-      "url": "vless://c1b0398a-a1a7-40ae-8d14-3f271c4b8f76@79.141.164.81:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=firefox&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#%40V2ray_Alpha%F0%9F%9A%8A%204",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-11-02T13:45:33.450Z"
-    },
-    {
-      "url": "vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.132:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#%40V2ray_Alpha%F0%9F%9A%8A%203",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-11-02T13:45:33.450Z"
-    },
-    {
-      "url": "vless://c18b978e-1c4e-415c-8bea-07942b563a64@45.77.185.184:443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T13:45:33.170Z"
-    },
-    {
-      "url": "trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?allowInsecure=1&sni=ph001.zestapp778.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T13:15:31.389Z"
-    },
-    {
-      "url": "vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network:20065?encryption=none&security=tls&type=tcp&sni=875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network&flow=xtls-rprx-vision#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T13:15:31.389Z"
-    },
-    {
-      "url": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@188.255.156.202:443?&security=tls&fp=chrome&sni=cf3.schzyc.cc.cd&type=ws&headerType=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T13:15:31.389Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.24.10:22222?encryption=none&security=none&type=tcp#(S104",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-11-02T13:00:31.929Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T12:45:33.604Z"
-    },
-    {
-      "url": "vless://4a140c2f-5b0c-4524-950c-026de74fcf69@5.149.249.94:443?security=reality&type=grpc&mode=gun&serviceName=neurex&packetEncoding=xudp&sni=nlb.kosmosapp.net&fp=firefox&sid=27350908de933e09&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T12:15:31.034Z"
     }
   ]
 }
