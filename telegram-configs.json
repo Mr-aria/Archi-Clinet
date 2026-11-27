@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-27T01:00:32.260Z",
+  "updated": "2026-11-27T02:00:37.750Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?sni=blog.unlockyourfuturefindyourperfectcareer.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T02:00:35.412Z"
+    },
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.211.56.98:443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T02:00:35.412Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206NW1LalhBR3JsaUlBbFl3V0RlRnprQ0VNSWdRZEZRTGU=@194.87.69.12:18443#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T02:00:35.412Z"
+    },
     {
       "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?allowInsecure=1&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com#",
       "name": "Farah_VPN",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?sni=api.browseseniorrolesandenhanceyourcareertoday.com#%E2%8F%B336@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-02T11:16:33.159Z"
-    },
-    {
-      "url": "vless://96ebc166-565c-474f-9712-7990b55c368a@67.209.184.133:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Tp015Ga5LodBwKs4z7Wz4hTvqeh8-4q1EQPZqvZfWR0&security=reality&sid=ad09494d431b2b92&sni=www.bing.com&type=tcp#%E2%8F%B337@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-02T11:16:33.159Z"
-    },
-    {
-      "url": "vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?encryption=none&host=95.174.68.188&path=%2Fvless&security=none&type=ws#%E2%8F%B338@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-02T11:16:33.159Z"
-    },
-    {
-      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#%E2%8F%B339@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-02T11:16:33.159Z"
