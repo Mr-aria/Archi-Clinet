@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-27T05:45:33.274Z",
-  "count": 2511,
+  "updated": "2026-11-27T05:46:34.381Z",
+  "count": 2513,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=azure.velvetwindow.cc&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94617a7572652e76656c76657477696e646f772e6363",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-27T05:46:29.166Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=azure.paperteapot.com&port=443&secret=eed09fb30e9ba945e3eb272875413c8c94617a7572652e7061706572746561706f742e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-27T05:46:29.166Z"
+    },
     {
       "url": "https://t.me/proxy?server=woyowoyo.ebdoradoq.info.&port=6600&secret=2I25nuNyHw_LQKT_Y7XNKA",
       "name": "MyPoroxy",
