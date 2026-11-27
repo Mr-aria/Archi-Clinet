@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-27T04:46:42.690Z",
-  "count": 2506,
+  "updated": "2026-11-27T05:16:35.243Z",
+  "count": 2510,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=phone.laniva.ir&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-27T05:16:30.970Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=yjcorg.mobovin.ir&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-27T05:16:30.970Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=originall-daemi.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-27T05:16:30.970Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=tondar.ricebr.ir&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "YamYamProxy",
+      "source": "YamYamProxy",
+      "date": "2026-11-27T05:16:30.970Z"
+    },
     {
       "url": "https://t.me/proxy?server=nyne50.sorrelbay.xyz&port=443&secret=ee302cabde68f0b8c57ca48b73072cd276786170692e6f7a6f6e2e7275",
       "name": "ProxyMTProto",
