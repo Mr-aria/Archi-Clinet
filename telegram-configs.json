@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-27T13:00:35.600Z",
+  "updated": "2026-11-27T13:02:08.521Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&encryption=none&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=150a627d15154cf2#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-27T13:02:06.053Z"
+    },
+    {
+      "url": "vless://639b131f-d0f3-460c-aa17-423047f8a5df@37.139.42.227:7443?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=multiqq.mcufa.pro#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-27T13:02:06.053Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@leviko-ch7340.shopingggg.ir:19999#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-27T13:02:06.053Z"
+    },
+    {
+      "url": "vless://c6b0a7f0-4a4e-47aa-975a-35988278ab85@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=fraboijji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-27T13:02:06.053Z"
+    },
+    {
+      "url": "vless://43948542-5c01-4fc3-bf42-e339e9ca3fbe@2.27.27.33:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=B4NK8UZflXK2SI7P6wvCbfSw0wspQRO0ElZM30gc_1E&host=pimg.mycdn.me&fp=random&type=xhttp&sni=pimg.mycdn.me#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-27T13:02:06.053Z"
+    },
+    {
+      "url": "vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@leviko-al2006.shopingggg.ir:443?path=%2Fmedia%2Fws%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=nl.lucheeebezlimitnoekino.stream#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-27T13:02:06.053Z"
+    },
+    {
+      "url": "vless://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.167:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=171.22.183.167#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-27T13:02:06.053Z"
+    },
+    {
+      "url": "vless://47921e53-9a38-4e2e-8a39-08b38512eff4@tpii.sublinkplas.ir:12190?security=reality&encryption=none&pbk=33hVTwP-1rQYG0F92oXJ-o1zPo4Cc8n2Uml_i9tv6XM&headerType=none&fp=safari&type=tcp&sni=delivery.mp.microsoft.com&sid=3e5cba1bd6eb6221#@ICV2RAY",
+      "name": "icv2ray",
+      "source": "icv2ray",
+      "date": "2026-11-27T13:02:06.053Z"
+    },
     {
       "url": "vless://7ff1e7e1-2b5a-4e53-ae77-1516f9eb7754@51.194.118.38:443?sni=a1259.ve8nzuk.com&type=grpc&serviceName=50a5f706c8ea4433838a207d435fbf031b008a9a&fp=chrome&security=tls#",
       "name": "Farah_VPN",
@@ -29953,54 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-02T22:46:54.850Z"
-    },
-    {
-      "url": "trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T20:46:36.797Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.3.217:22222?encryption=none&security=none&type=tcp#(S104",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-11-02T20:31:37.251Z"
-    },
-    {
-      "url": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@dns24.m3hrzd.ir:8044#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-02T20:30:31.691Z"
-    },
-    {
-      "url": "vless://ae5c34f0-98d1-41bf-99f4-012cf865154e@194.32.214.94:2096?security=reality&encryption=none&pbk=O0i8MT5R__tGAOnvqJjRk4ygGV4EF2Yq4VMKG4Cj4V0&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=2d5781f528d99a29#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-02T20:30:31.691Z"
-    },
-    {
-      "url": "vless://913dc759-8639-4890-9bfc-a9acdc5090cf@vvsvvs.soreanapanel.com:443?security=reality&encryption=none&pbk=YWhH3_lunQFxpqA29GF-Hq1K78hdSsy0h3E5dVbxImA&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2Fe2c1e556318833f&type=tcp&sni=graphs.4cdn.de&sid=371f6e#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-02T20:30:31.691Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-02T20:30:31.691Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-02T20:30:31.691Z"
-    },
-    {
-      "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-02T20:30:31.691Z"
     }
   ]
 }
