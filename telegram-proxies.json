@@ -1,7 +1,103 @@
 {
-  "updated": "2026-11-27T15:16:41.540Z",
-  "count": 2532,
+  "updated": "2026-11-27T18:31:43.799Z",
+  "count": 2548,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eee7995b4c3c0973002082a77098bed4177075622e756c7472612d666173742e6363",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=212.108.98.5&port=443&secret=dd1603010200010001fc030386e24c3add",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=169.58.220.25&port=443&secret=ee111111111111111111111111111111",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=194.146.12.253&port=8443&secret=ee4cdc677c2048afa846136f4a70c05e827777772e6461726b646570742e73746f7265",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=91.234.147.18&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=91.234.147.30&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=ziba.clinic-roya.ir&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=145.79.7.181&port=8443&secret=dd7fd89aa5690699c1375b20a11b6b75ba",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=157.90.57.61&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=89.34.219.173&port=8443&secret=95289ad6fde8e311b3b3e2747d083a9f",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=alfa-5-oktaz.azadaiu.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=api-endpoint.burgerking.fun&port=4443&secret=eef4070d44706a556df403944c7c8aa8236170692d656e64706f696e742e6275726765726b696e672e66756e",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=tomnail.ferdosisets.info&port=8443&secret=1603010200010001fc030386e24c3add",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=91.234.147.26&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=91.234.147.33&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=chat.appnormoor.online&port=443&secret=dd27729feca8dbcd8008c3fa4f12d92793",
+      "name": "oneclickvpnkeys",
+      "source": "oneclickvpnkeys",
+      "date": "2026-11-27T18:31:42.381Z"
+    },
     {
       "url": "https://t.me/proxy?server=persian.gulf.ir.olsjddhf.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
       "name": "ProxyMTProto",
