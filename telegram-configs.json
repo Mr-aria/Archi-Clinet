@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T23:30:34.163Z",
+  "updated": "2026-11-27T00:30:38.794Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?allowInsecure=1&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T00:30:36.094Z"
+    },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU3XHVkODNjXHVkZGZlIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZmUiLCJhZGQiOiJ3d3cudmlzYS5jb20iLCJwb3J0IjoyMDg2LCJpZCI6ImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@ww13.levikogjgfdd.ir:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%E2%8F%B340@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-02T11:16:33.159Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.85:443?sni=resources.browseseniorrolesandenhanceyourcareertoday.com#%E2%8F%B341@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-02T11:16:33.159Z"
