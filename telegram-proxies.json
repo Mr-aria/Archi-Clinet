@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T10:01:39.442Z",
-  "count": 2529,
+  "updated": "2026-11-27T12:45:37.051Z",
+  "count": 2530,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=radical.pushinero.info.&port=5500&secret=2I25nuNyHw_LQKT_Y7XNKA",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-27T12:45:30.291Z"
+    },
     {
       "url": "https://t.me/proxy?server=85.133.199.20&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
       "name": "IRAN_V2RAY1",
