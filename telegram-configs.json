@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-27T06:45:30.500Z",
+  "updated": "2026-11-27T07:00:34.776Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.207.172:443?security=reality&encryption=none&pbk=iZOSshApMLZQ_qeN8ra7h_y9ig2P5yHHiKcN_6kxNmU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=3a75d125d1a41392#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-27T07:00:32.151Z"
+    },
+    {
+      "url": "vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.207.167:443?security=reality&encryption=none&pbk=MZEux6K9MlKwN9dto2Mj2gGS6IJSEs229nFPh5aYwSQ&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=32e95dff907cc876#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-27T07:00:32.151Z"
+    },
+    {
+      "url": "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
+      "name": "MARAMBASHI",
+      "source": "MARAMBASHI",
+      "date": "2026-11-27T07:00:32.151Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.68.115:22222?encryption=none&security=none&type=tcp#(S101",
       "name": "PrivateVPNs",
@@ -29983,24 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-02T14:45:31.005Z"
-    },
-    {
-      "url": "vless://97532b08-357e-4140-a6f0-8e07f2ed3327@103.177.249.40:2083?&security=tls&fp=random&sni=yf.962456.xyz&type=ws&headerType=none&host=yf.962456.xyz&path=%2Fproxyip%3Dkr.william.us.ci#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T14:45:31.005Z"
-    },
-    {
-      "url": "vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ams2.shtil.io#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-11-02T14:01:35.229Z"
-    },
-    {
-      "url": "vless://a356fa77-7199-417a-80dd-0c0925789161@91.107.244.35:465?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=hw5.roghanmo.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig",
-      "name": "freakconfig",
-      "source": "freakconfig",
-      "date": "2026-11-02T14:01:35.229Z"
     }
   ]
 }
