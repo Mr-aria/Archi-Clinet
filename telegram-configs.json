@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T20:00:34.843Z",
+  "updated": "2026-11-27T20:15:33.921Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.23.25:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-27T20:15:32.545Z"
+    },
     {
       "url": "vless://04812b68-47ad-48ee-b96d-ab9127679634@147.45.61.144:443?security=reality&encryption=none&pbk=tmiOsPsVgiWU7usQWetCpVdEp3ZTWl9tPY-r399JdCs&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=s2.frenchymyrsep.click&sid=b725584749527b07#Tel%40MARAMBASHI%20%F0%9F%AB%80",
       "name": "MARAMBASHI",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?security=reality&type=tcp&packetEncoding=xudp&sni=rusbid.de&fp=chrome&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-03T10:16:31.513Z"
-    },
-    {
-      "url": "vless://39a390af-1f90-4c0e-89e4-4e2023732e4b@147.78.1.253:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=TefL2KtNcNLPmUY8TKlu5pA7ffipqgmbBN6gpyzyklk&encryption=none#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-03T10:16:31.513Z"
