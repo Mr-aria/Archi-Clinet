@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T20:16:48.970Z",
-  "count": 2551,
+  "updated": "2026-11-27T20:30:36.166Z",
+  "count": 2552,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=91.99.179.131&port=8443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-27T20:30:30.290Z"
+    },
     {
       "url": "https://t.me/proxy?server=sabz.comt.agency&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
       "name": "mehrosaboran",
