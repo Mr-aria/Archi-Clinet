@@ -1,3 +1,5 @@
+https://t.me/proxy?server=nyne50.sorrelbay.xyz&port=443&secret=ee302cabde68f0b8c57ca48b73072cd276786170692e6f7a6f6e2e7275
+https://t.me/proxy?server=gany40.ashwren.xyz&port=8443&secret=ee302cabde68f0b8c57ca48b73072cd27662726f777365722e79616e6465782e7275
 https://t.me/proxy?server=backups.zangbezanbem.ir&port=8080&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=Tariff.zangbezanbem.ir&port=8080&secret=EERighJJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=Access.zangbezanbem.ir&port=8080&secret=EERighJJvXrFGRMCIMJdCQ
