@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-27T07:00:38.832Z",
-  "count": 2518,
+  "updated": "2026-11-27T10:01:39.442Z",
+  "count": 2529,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=85.133.199.20&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.199.21&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=2y.kr.8v.lr.f.ir.75.44.38-82.ir.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=co.uk.ge.pd.nt.k.e.78.44-207-58.ir.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=48.mt.p6.fo.s.u.44-94-14-4.ir.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=85.133.199.22&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=you.mf.7f.li.6.5nb.ir.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=bos.bos.be.la.b.et.68-309-27-46.ir.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=sq.oy.8v.9m.f.f6.6ld.ir.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=ww.hu.or.ge.j.dl.4.4fk.ir.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=go.xi.yx.m.e4.88.387-44qavi.ir.&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+      "name": "IRAN_V2RAY1",
+      "source": "IRAN_V2RAY1",
+      "date": "2026-11-27T10:01:37.256Z"
+    },
     {
       "url": "https://t.me/proxy?server=5.222.20.63&port=8443&secret=dd104462821249bd7ac519130220c25d09",
       "name": "MTP_roto",
