@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-27T07:00:34.776Z",
+  "updated": "2026-11-27T07:30:32.329Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=e8daed2d&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&encryption=none#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T07:30:31.060Z"
+    },
+    {
+      "url": "vless://97514cec-cf70-42b1-9743-3f89122adc8e@104.16.244.34:2053?&security=tls&fp=chrome&sni=cffq.pages.dev&type=ws&headerType=none&host=cffq.pages.dev&path=%2F%3Fed%3D2560#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T07:30:31.060Z"
+    },
     {
       "url": "vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.207.172:443?security=reality&encryption=none&pbk=iZOSshApMLZQ_qeN8ra7h_y9ig2P5yHHiKcN_6kxNmU&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=3a75d125d1a41392#Tel%40MARAMBASHI%20%F0%9F%87%AC%F0%9F%87%A7",
       "name": "MARAMBASHI",
@@ -29989,18 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-02T15:15:31.571Z"
-    },
-    {
-      "url": "vless://ae5c34f0-98d1-41bf-99f4-012cf865154e@194.32.214.94:2096?security=reality&encryption=none&pbk=O0i8MT5R__tGAOnvqJjRk4ygGV4EF2Yq4VMKG4Cj4V0&host=sm.novexora.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=2d5781f528d99a29#",
-      "name": "proxy_mtm",
-      "source": "proxy_mtm",
-      "date": "2026-11-02T15:00:30.824Z"
-    },
-    {
-      "url": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:8080?security=none&type=ws&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T14:45:31.005Z"
     }
   ]
 }
