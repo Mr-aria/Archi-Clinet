@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T14:16:53.962Z",
-  "count": 2531,
+  "updated": "2026-11-27T15:16:41.540Z",
+  "count": 2532,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=persian.gulf.ir.olsjddhf.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-27T15:16:36.527Z"
+    },
     {
       "url": "https://t.me/proxy?server=5.222.29.195&port=443&secret=f0eeb0bd9adc4fd4a93994ee3b2a216b",
       "name": "ProxyMTProto",
