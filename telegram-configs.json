@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-27T15:30:31.065Z",
+  "updated": "2026-11-27T16:01:40.185Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=freeceshi6.frii.site&type=ws&sni=freeceshi6.frii.site#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-27T16:01:37.193Z"
+    },
+    {
+      "url": "vless://26843758-24de-4f76-b5d0-624038e353c4@195.206.235.72:443?security=reality&encryption=none&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&sni=71b840t.de7.h1clayd.click&sid=e572b6579ea525d4#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-27T16:01:37.193Z"
+    },
+    {
+      "url": "vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@fr-free.fastestrelay.com:443?path=%2F700gvl%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=fr-free.fastestrelay.com&fp=qq&type=ws&sni=fr-free.fastestrelay.com#",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-27T16:01:37.193Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi4pqhQFYycmF5X29mZmljaWFsIiwic2N5IjoiYXV0byIsInNuaSI6ImxlYXJuLmhlYWx0aGNhcmVqb2JzaHViZW5oYW5jZW1lZGljYWxwcm9mZXNzaW9uYWxza2lsbHN0b2RheS5jb20iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=",
+      "name": "V2ray_official",
+      "source": "V2ray_official",
+      "date": "2026-11-27T16:01:37.193Z"
+    },
     {
       "url": "vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:8443?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&fp=edge&type=xhttp&allowInsecure=0&sni=sinavm2.soft10.ir#%40V2ray_Alpha%F0%9F%90%84%2010",
       "name": "V2ray_Alpha",
@@ -29977,30 +30001,6 @@
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-03T06:00:34.819Z"
-    },
-    {
-      "url": "vless://40992c2a-513e-4837-9594-23411fd42afd@165.22.198.39:443?encryption=none&headerType=http&host=cloudfront.net&path=%2F&security=none&type=tcp#%F0%9F%8D%AA11@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-03T06:00:34.819Z"
-    },
-    {
-      "url": "hysteria2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@45.91.237.78:443/?sni=node.aweom.su#%F0%9F%8D%AA13@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-03T06:00:34.819Z"
-    },
-    {
-      "url": "vless://0760406c-3f19-47b1-b332-f59270adf431@79.141.164.83:443?encryption=none&fp=&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=nlb.kosmosapp.net&type=grpc#%F0%9F%8D%AA14@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-03T06:00:34.819Z"
-    },
-    {
-      "url": "vless://afed9510-8648-49c6-9fbd-c2d4d8bdd417@wwww.qarvian.ir:443?&security=tls&fp=chrome&sni=cdn.akamai.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&path=%2F#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-03T05:46:44.464Z"
     }
   ]
 }
