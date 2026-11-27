@@ -1,3 +1,5 @@
+vless://7ff1e7e1-2b5a-4e53-ae77-1516f9eb7754@51.194.118.38:443?sni=a1259.ve8nzuk.com&type=grpc&serviceName=50a5f706c8ea4433838a207d435fbf031b008a9a&fp=chrome&security=tls#
+vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?sni=api-6b04608f.adhil.uk&alpn=h2&flow=xtls-rprx-vision&fp=safari&security=tls#
 vless://16b6e5a8-1b90-42d2-9726-30945bd80f4b@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=looabnetheroijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 hysteria2://AIbXqmbagi8c_pPQF8UkyQRgAlGbk5aT@nemazu.grandserver8.ir:8445?security=tls&obfs=salamander&obfs-password=5wnhum8v8a5f8m9z&insecure=0&sni=donige.grandserver8.ir#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.127.1:22222?encryption=none&security=none&type=tcp#(S104
@@ -4996,5 +4998,3 @@ vless://913dc759-8639-4890-9bfc-a9acdc5090cf@vvsvvs.soreanapanel.com:443?securit
 vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#
 vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#
-vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#
-vless://d342d11e-d224-4463-b982-532309285094@104.18.41.190:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#
