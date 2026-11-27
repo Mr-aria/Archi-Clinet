@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T12:45:37.051Z",
-  "count": 2530,
+  "updated": "2026-11-27T14:16:53.962Z",
+  "count": 2531,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=5.222.29.195&port=443&secret=f0eeb0bd9adc4fd4a93994ee3b2a216b",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-27T14:16:47.354Z"
+    },
     {
       "url": "https://t.me/proxy?server=radical.pushinero.info.&port=5500&secret=2I25nuNyHw_LQKT_Y7XNKA",
       "name": "MyPoroxy",
