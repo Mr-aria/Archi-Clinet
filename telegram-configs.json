@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-27T12:46:34.932Z",
+  "updated": "2026-11-27T13:00:35.600Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://7ff1e7e1-2b5a-4e53-ae77-1516f9eb7754@51.194.118.38:443?sni=a1259.ve8nzuk.com&type=grpc&serviceName=50a5f706c8ea4433838a207d435fbf031b008a9a&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T13:00:33.774Z"
+    },
+    {
+      "url": "vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?sni=api-6b04608f.adhil.uk&alpn=h2&flow=xtls-rprx-vision&fp=safari&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T13:00:33.774Z"
+    },
     {
       "url": "vless://16b6e5a8-1b90-42d2-9726-30945bd80f4b@ipfast.kingmna.com:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&encryption=none&insecure=0&host=looabnetheroijji.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
       "name": "freakconfig",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.224:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-02T20:30:31.691Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#",
-      "name": "V2ray_official",
-      "source": "V2ray_official",
-      "date": "2026-11-02T20:30:31.691Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@104.18.41.190:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#",
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-11-02T20:30:31.691Z"
