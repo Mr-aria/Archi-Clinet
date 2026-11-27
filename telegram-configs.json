@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-27T06:15:33.061Z",
+  "updated": "2026-11-27T06:30:32.247Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?&security=tls&flow=xtls-rprx-vision&fp=safari&alpn=h2&sni=api-6b04608f.adhil.uk&type=tcp&headerType=none&host=one.alpheratzz.org&path=%2F#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T06:30:30.824Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIzNTA0MyIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwidmNuIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T06:30:30.824Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T06:30:30.824Z"
+    },
     {
       "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@18.192.105.157:443#Telegram%20%40Proxy_mtm%20",
       "name": "proxy_mtm",
@@ -29980,24 +29998,6 @@
     },
     {
       "url": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#%40V2ray_Alpha%F0%9F%9A%8A%2012",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-11-02T13:45:33.450Z"
-    },
-    {
-      "url": "vless://d3117332-c109-48ea-9125-954999131651@79.141.164.81:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=firefox&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#%40V2ray_Alpha%F0%9F%9A%8A%208",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-11-02T13:45:33.450Z"
-    },
-    {
-      "url": "vless://f101653b-7e1a-407c-b166-a7a40ab34a80@79.141.164.81:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=firefox&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#%40V2ray_Alpha%F0%9F%9A%8A%207",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-11-02T13:45:33.450Z"
-    },
-    {
-      "url": "vless://87b082bd-76c7-42e9-b66a-746899ac567e@79.141.164.81:443?mode=gun&security=reality&encryption=none&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&fp=firefox&type=grpc&serviceName=neurex&sni=nla.kosmosapp.net&sid=27350908de933e09#%40V2ray_Alpha%F0%9F%9A%8A%205",
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-11-02T13:45:33.450Z"
