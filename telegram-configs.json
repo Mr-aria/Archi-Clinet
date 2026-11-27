@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-27T08:45:39.446Z",
+  "updated": "2026-11-27T09:00:33.172Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?allowInsecure=1&fp=chrome&security=tls&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T09:00:31.840Z"
+    },
+    {
+      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com&type=tcp#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T09:00:31.840Z"
+    },
     {
       "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.190.196:22222?encryption=none&security=none&type=tcp#(S102",
       "name": "PrivateVPNs",
@@ -29989,18 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-02T16:46:31.777Z"
-    },
-    {
-      "url": "vless://6daa0b95-9210-4f29-be40-8c6db00bc5bb@32.199.151.91:80?&type=tcp&headerType=none&path=%2F#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T16:46:31.777Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.175.87.81:22222?encryption=none&security=none&type=tcp#(S101",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-11-02T16:02:02.878Z"
     }
   ]
 }
