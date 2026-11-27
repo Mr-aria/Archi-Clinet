@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T10:15:35.752Z",
+  "updated": "2026-11-27T10:45:33.170Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.166.253:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-27T10:45:32.034Z"
+    },
     {
       "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@3.127.215.115:443#Telegram%20%40mtmvpn%20",
       "name": "proxy_mtm",
@@ -29995,12 +30001,6 @@
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-11-02T17:30:33.114Z"
-    },
-    {
-      "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJkMi5hbm9uaXguY2xvdWQiLCJwb3J0IjoiODAxOCIsInR5cGUiOiJub25lIiwiaWQiOiJiODMxMzgxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiMzA4MTEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dlYnNvY2tldC90cmFuc2Zlci9nYXlwb3JuIiwiaG9zdCI6InNoaXQuNjcxMzM3NjcueHl6IiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T17:16:42.900Z"
     }
   ]
 }
