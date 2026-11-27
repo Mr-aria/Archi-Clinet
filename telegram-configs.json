@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-27T07:30:32.329Z",
+  "updated": "2026-11-27T08:30:36.182Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJOb25lIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T08:30:34.110Z"
+    },
+    {
+      "url": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-27T08:30:34.110Z"
+    },
     {
       "url": "vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=e8daed2d&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&encryption=none#",
       "name": "Farah_VPN",
@@ -29989,18 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-02T15:46:26.814Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---bored_vpn&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T15:15:31.571Z"
-    },
-    {
-      "url": "vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.97.6:8080?security=none&type=ws&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-02T15:15:31.571Z"
     }
   ]
 }
