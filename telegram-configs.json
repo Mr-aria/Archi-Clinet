@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T06:30:32.247Z",
+  "updated": "2026-11-27T06:45:30.500Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.133.68.115:22222?encryption=none&security=none&type=tcp#(S101",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-27T06:45:29.689Z"
+    },
     {
       "url": "vless://0173d52e-8e1b-4681-831e-11529677b72f@one.alpheratzz.org:8443?&security=tls&flow=xtls-rprx-vision&fp=safari&alpn=h2&sni=api-6b04608f.adhil.uk&type=tcp&headerType=none&host=one.alpheratzz.org&path=%2F#",
       "name": "Farah_VPN",
@@ -29995,12 +30001,6 @@
       "name": "freakconfig",
       "source": "freakconfig",
       "date": "2026-11-02T14:01:35.229Z"
-    },
-    {
-      "url": "vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#%40V2ray_Alpha%F0%9F%9A%8A%2012",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-11-02T13:45:33.450Z"
     }
   ]
 }
