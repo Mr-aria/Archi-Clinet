@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T12:31:46.941Z",
+  "updated": "2026-11-27T12:45:32.798Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.127.1:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-27T12:45:31.542Z"
+    },
     {
       "url": "vless://398d124d-ed77-498e-acb6-be4a2c5d182a@free-server.techsonic.dev:443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=android.googleapis.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B104%20%7C%20%E2%9A%A1Telegram%20%3D",
       "name": "Hope_Net",
@@ -29995,12 +30001,6 @@
       "name": "V2ray_official",
       "source": "V2ray_official",
       "date": "2026-11-02T20:30:31.691Z"
-    },
-    {
-      "url": "vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?security=reality&encryption=none&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=0990d22f#Tel%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA",
-      "name": "MARAMBASHI",
-      "source": "MARAMBASHI",
-      "date": "2026-11-02T20:16:50.200Z"
     }
   ]
 }
