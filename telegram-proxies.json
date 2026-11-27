@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T05:16:35.243Z",
-  "count": 2510,
+  "updated": "2026-11-27T05:45:33.274Z",
+  "count": 2511,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=woyowoyo.ebdoradoq.info.&port=6600&secret=2I25nuNyHw_LQKT_Y7XNKA",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-27T05:45:30.362Z"
+    },
     {
       "url": "https://t.me/proxy?server=phone.laniva.ir&port=8443&secret=1603010200010001fc030386e24c3add",
       "name": "YamYamProxy",
