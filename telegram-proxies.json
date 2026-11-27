@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-27T18:31:43.799Z",
-  "count": 2548,
+  "updated": "2026-11-27T20:00:39.005Z",
+  "count": 2549,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=178.105.77.165&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQD",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-27T20:00:30.874Z"
+    },
     {
       "url": "https://t.me/proxy?server=pub.ultra-fast.cc&port=443&secret=eee7995b4c3c0973002082a77098bed4177075622e756c7472612d666173742e6363",
       "name": "oneclickvpnkeys",
