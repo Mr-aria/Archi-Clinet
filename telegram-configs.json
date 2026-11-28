@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T18:31:39.633Z",
+  "updated": "2026-11-28T18:45:31.608Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.159.186:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-28T18:45:30.429Z"
+    },
     {
       "url": "vless://b58564f3-bcc4-4af9-8a47-7ad8039cba93@67.159.18.8:8443?encryption=none&fp=&host=www.novinky.cz&mode=auto&path=%2Fapi%2Fv6%2Fmedia%2F02b73b0f%2F&pbk=T1ox3NAq2XpBQWzzHfro5L1ltDC6bv7ouFOYceuPmWQ&security=reality&sid=27f8050c&sni=www.novinky.cz&type=xhttp#%F0%9F%9F%A261@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29995,12 +30001,6 @@
       "name": "proxy_badss",
       "source": "proxy_badss",
       "date": "2026-11-04T11:30:31.876Z"
-    },
-    {
-      "url": "vless://%58pnTeam-85@199.232.78.160:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=%2F&security=tls&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#%40mehrosaboran",
-      "name": "mehrosaboran",
-      "source": "mehrosaboran",
-      "date": "2026-11-04T11:01:35.205Z"
     }
   ]
 }
