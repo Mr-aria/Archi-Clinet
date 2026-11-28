@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-28T18:30:37.310Z",
-  "count": 2607,
+  "updated": "2026-11-28T19:00:32.897Z",
+  "count": 2610,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=hope.fastprx.co.uk&port=2082&secret=76a2652b198f51c549fc328176180bb6",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-28T19:00:30.612Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=A2.callofdutyc.com&port=2083&secret=df9cb1eb497ea0e49d3b1af2cb774e6d",
+      "name": "MTP_roto",
+      "source": "MTP_roto",
+      "date": "2026-11-28T19:00:30.612Z"
+    },
+    {
+      "url": "https://t.me/proxy?server=111.235.151.139&port=8043&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
+      "name": "v2ryNG01",
+      "source": "v2ryNG01",
+      "date": "2026-11-28T19:00:30.380Z"
+    },
     {
       "url": "https://t.me/proxy?server=64.49.12.100&port=8043&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA",
       "name": "v2ryNG01",
