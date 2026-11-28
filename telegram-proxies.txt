@@ -1,3 +1,9 @@
+https://t.me/proxy?server=manager.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=garry-miller.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=sync.ricebr.ir&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=am-pm.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=whatsyourname.laniva.ir&port=8443&secret=1603010200010001fc030386e24c3add
+https://t.me/proxy?server=baroz.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add
 https://t.me/proxy?server=159.69.240.106&po…
 https://t.me/proxy?server=lok1atomi.pr.deampro.pw&port=443&secret=ee85e36b1fea9add1b2b9de8996259df0f662d70312d733031352d3934356139666164653832312d3162623736356263333438612e6c6f6b3161746f6d692e70722e6465616d70726f2e7077
 tg://proxy?server=control.zangbezanbem.ir&port=8080&secret=104462821249bd7ac519130220c25d09
