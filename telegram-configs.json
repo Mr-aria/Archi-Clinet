@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-28T18:15:33.492Z",
+  "updated": "2026-11-28T18:30:32.462Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.190.88:443?security=reality&encryption=none&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&headerType=none&fp=safari&spx=%2Ff7c013fcb5d01da&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=065861068f65e954#%40V2ray_Alpha%F0%9F%8D%92%204",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-28T18:30:31.270Z"
+    },
+    {
+      "url": "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@188.114.99.0:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#%40V2ray_Alpha%F0%9F%8D%92%203",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-28T18:30:31.270Z"
+    },
+    {
+      "url": "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.150.28:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#%40V2ray_Alpha%F0%9F%8D%92%202",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-28T18:30:31.270Z"
+    },
+    {
+      "url": "vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@188.114.98.0:443?path=%2F%3F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=freeceshi6.frii.site&type=ws&allowInsecure=0&sni=freeceshi6.frii.site#%40V2ray_Alpha%F0%9F%8D%92%201",
+      "name": "V2ray_Alpha",
+      "source": "V2ray_Alpha",
+      "date": "2026-11-28T18:30:31.270Z"
+    },
     {
       "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@35.177.3.53:443#",
       "name": "proxy_mtm",
@@ -29977,30 +30001,6 @@
       "name": "proxy_mtm",
       "source": "proxy_mtm",
       "date": "2026-11-04T07:15:32.673Z"
-    },
-    {
-      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.55.176:22222?encryption=none&security=none&type=tcp#(S101",
-      "name": "PrivateVPNs",
-      "source": "PrivateVPNs",
-      "date": "2026-11-04T06:45:32.002Z"
-    },
-    {
-      "url": "vless://483079ae-79ba-48aa-9071-340b79117a22@45.148.117.151:38291?encryption=none&flow=xtls-rprx-vision&fp=&pbk=PNT2xM-R4OpFcV-bVO1Fgdb_C8tuB32bGIznjy2YYzc&security=reality&sid=55e00de72e977e65&sni=reality.airvpn.su&type=tcp#%F0%9F%A7%BF31@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-04T06:01:36.939Z"
-    },
-    {
-      "url": "vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@pah2.vethilis.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pah2.vethilis.ru&type=tcp#%F0%9F%A7%BF32@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-04T06:01:36.939Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?encryption=none&fp=chrome&host=ccc.010304.xyz&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%A7%BF33@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-04T06:01:36.939Z"
     }
   ]
 }
