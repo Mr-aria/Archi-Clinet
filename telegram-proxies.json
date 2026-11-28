@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T04:46:35.914Z",
-  "count": 2584,
+  "updated": "2026-11-28T05:45:32.636Z",
+  "count": 2585,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=mogokoko.mazhol.info.&port=6600&secret=2I25nuNyHw_LQKT_Y7XNKA",
+      "name": "MyPoroxy",
+      "source": "MyPoroxy",
+      "date": "2026-11-28T05:45:30.382Z"
+    },
     {
       "url": "https://t.me/proxy?server=manager.iaubpanel.info&port=8443&secret=1603010200010001fc030386e24c3add",
       "name": "YamYamProxy",
