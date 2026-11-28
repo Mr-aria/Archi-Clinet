@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T14:30:35.351Z",
+  "updated": "2026-11-28T15:16:34.603Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-28T15:16:29.101Z"
+    },
     {
       "url": "vless://749b1c56-e658-4bf5-94bd-5c3286a4aed1@sienna.merlano.monster:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=sienna.merlano.monster&type=ws&headerType=none&host=sienna.merlano.monster&path=%2Fapi%2Fde4%2Fstream#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?encryption=none&fp=edge&host=ccc.010304.xyz&path=%2F%3FTELEGRAM----ICV2RAY----%3Fed&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%A7%BF14@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-04T04:31:33.905Z"
-    },
-    {
-      "url": "vless://3b9189fd-9d29-465e-8c1f-5651af043fe4@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&type=tcp#%F0%9F%A7%BF15@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-04T04:31:33.905Z"
