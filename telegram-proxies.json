@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T05:45:32.636Z",
-  "count": 2585,
+  "updated": "2026-11-28T10:46:33.454Z",
+  "count": 2586,
   "proxies": [
+    {
+      "url": "https://t.me/proxy?server=79.137.196.223&port=6443&secret=eeee121e233e90f2720d1154f701937cc5b67777772e636c6f7564666c6172652e636f6d",
+      "name": "ProxyMTProto",
+      "source": "ProxyMTProto",
+      "date": "2026-11-28T10:46:29.671Z"
+    },
     {
       "url": "https://t.me/proxy?server=mogokoko.mazhol.info.&port=6600&secret=2I25nuNyHw_LQKT_Y7XNKA",
       "name": "MyPoroxy",
