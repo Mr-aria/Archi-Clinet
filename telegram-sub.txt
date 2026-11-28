@@ -1,3 +1,5 @@
+vless://a61ce788-6cfe-4bbe-9f81-155ea8fa8e16@82.152.18.32:443?sni=diyichongdi.us.ci&security=tls#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM2MmYwMC05NWE4LTRjMmUtYTg1ZC0zNmEyY2RjOTc3ZGE=@143.20.71.68:28014#
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.40.57.134:19999#
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?&security=tls&fp=firefox&sni=vps3.nemnogogo.com&type=grpc&serviceName=&mode=gun#
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEiLCJhZGQiOiJJci53YnpvLmlyIiwicG9ydCI6MjA4MCwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiYjdlM2U4YWYtZDFjYS00NWRhLWE5NWYtOGI5YWQ3NzM5OGIxIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
@@ -4996,5 +4998,3 @@ vless://5fb552a8-9c41-4031-86f5-ca10fc802da5@papad1.vethilis.ru:443?security=tls
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@snow.betust.net:443?security=reality&encryption=none&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api37.betust.net&sid=b7a5c406#@ICV2RAY
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@84.32.101.84:443?security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=chrome&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#@ICV2RAY
 vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=swdist.apple.com#@ICV2RAY
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@book.jarbook.net:443?mode=gun&security=reality&encryption=none&pbk=nUUSNvkc5Xy6LRCP4yeFvbI8wFMx7gdgruPMNBq7jzo&fp=chrome&spx=%2F&type=grpc&serviceName=BookCatalog&sni=reg.jarbook.net&sid=dceb4214#@ICV2RAY
-vless://dc413f44-7dce-4cc4-b2c7-878ef70ce464@dubai-cdn-keno.keno.su:443?security=reality&encryption=none&pbk=9MgNwdrftjPf18DG8qYo6iHJw7IG7uSnULScDQ0WDy4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dubai-cdn-keno.keno.su&sid=0123456789abcdef#
