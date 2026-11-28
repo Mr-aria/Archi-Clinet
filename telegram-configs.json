@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T12:30:32.321Z",
+  "updated": "2026-11-28T12:45:34.702Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.21.171:22222?encryption=none&security=none&type=tcp#(S104",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-28T12:45:33.313Z"
+    },
     {
       "url": "vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTciLCJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwicG9ydCI6MjEwNDEsImlkIjoiOTQ2NGNhNDAtZGQ3NS0zNzQyLWE2MjgtZDkzMWE5ZjQxM2IyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.130519.xyz:443?security=tls&type=ws&path=/cart/docs/www/proxyip=108.160.132.132&host=lucasjow.us.ci&packetEncoding=xudp&sni=lucasjow.us.ci&fp=qq#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-04T02:30:35.696Z"
-    },
-    {
-      "url": "vless://b15f187e-9b34-437c-8243-8651a8ada76c@188.114.97.62:443?path=%2Fstream%2FDEVCOP%2F8651a8ada76c%2Floc-1&security=tls&encryption=none&insecure=0&host=tepar-k4j9.jounet.workers.dev&type=ws&allowInsecure=0&sni=tepar-k4j9.jounet.workers.dev#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-04T02:30:35.696Z"
