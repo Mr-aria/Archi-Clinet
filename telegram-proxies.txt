@@ -1,3 +1,4 @@
+https://t.me/proxy?server=64.49.12.100&port=8043&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQA
 https://t.me/proxy?server=37.114.37.93&port=443&secret=ee100bf723c989ac93cf96a44e108fe87e6769746875622e636f6d
 https://t.me/proxy?server=154.36.144.181&port=443&secret=dd324a3ddbf7ab0169f193aeb9ca9ae671
 https://t.me/proxy?server=38.173.252.136&port=443&secret=ee287b474ca46299cf0dce2cff069564887777772e69626d2e636f6d
