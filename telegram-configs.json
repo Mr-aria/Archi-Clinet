@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T11:30:32.691Z",
+  "updated": "2026-11-28T12:00:32.237Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNuaSI6Ijg0LjE3LjQxLjIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-28T12:00:30.926Z"
+    },
     {
       "url": "vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?type=ws&host=95.128.71.79&path=/vless#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@207.148.115.152:443?security=tls&type=ws&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-04T01:30:33.310Z"
-    },
-    {
-      "url": "vless://afed9510-8648-49c6-9fbd-c2d4d8bdd417@146.75.59.186:443?&security=tls&fp=chrome&sni=community.fastly.steamstatic.com&type=ws&headerType=none&host=copy_az_channel_NUFiLTER_6i.global.ssl.fastly.net.&path=%2F#",
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-04T01:30:33.310Z"
