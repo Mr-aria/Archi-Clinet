@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T17:30:32.534Z",
+  "updated": "2026-11-28T17:31:35.161Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0%3D@8.209.115.219:443#%40V2rayng_Fast%20",
+      "name": "V2rayng_Fast",
+      "source": "V2rayng_Fast",
+      "date": "2026-11-28T17:31:33.183Z"
+    },
     {
       "url": "vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuYW1lIjoiSEsgXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIHwgQFJheWRpa2FseCB8IDA3RDIwQSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6MjEwMjAsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCJzY3kiOiJhdXRvIiwic25pIjpudWxsLCJ0bHMiOiJub25lIiwidHlwZSI6bnVsbCwidiI6bnVsbCwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?encryption=none&fp=ios&host=ccc.010304.xyz&path=%2Ffp&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%A7%BF34@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-04T06:01:36.939Z"
-    },
-    {
-      "url": "vless://457a984c-8012-4e91-a1b6-fa433a9594c2@164.37.224.227:443?encryption=none&fp=&pbk=zJ-MMC9HdJgBavkJnl_W5H4KCVcohAwUd6xlIllWOD8&security=reality&sid=96609495cd13a6bf&sni=08e117t.nl11.h1clayd.click&type=tcp#%F0%9F%A7%BF35@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-04T06:01:36.939Z"
