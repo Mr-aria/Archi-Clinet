@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-27T21:01:39.782Z",
+  "updated": "2026-11-28T01:00:39.699Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://97514cec-cf70-42b1-9743-3f89122adc8e@104.16.244.34:2053?sni=cffq.pages.dev&type=ws&host=cffq.pages.dev&path=/?ed=2560fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-28T01:00:38.421Z"
+    },
+    {
+      "url": "vless://7aa77858-f235-000c-9434-7ab060848b17@85.8.201.186:443?sni=cdn.mornismp.ru&flow=xtls-rprx-vision&fp=chrome&security=tls#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-28T01:00:38.421Z"
+    },
     {
       "url": "vless://b21a60ef-9042-42c8-bb13-160528ea19c6@172.233.139.212:443?encryption=none&fp=&host=itunes.apple.com&path=%2Fws&pbk=bRB-Z_UOQ_sk8UFczAjrpkgKIg6cVdTNGnsyC7vAoyg&security=reality&sid=7a87386b&sni=itunes.apple.com&type=ws#%23%EF%B8%8F%E2%83%A391@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29986,18 +29998,6 @@
     },
     {
       "url": "vless://d6eb8a46-e6a4-4891-b22e-dfaa609c6afd@153.76.190.31:2083?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=speedtestmark.com#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-11-03T17:31:41.080Z"
-    },
-    {
-      "url": "vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@103.82.101.94:443?security=reality&encryption=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.porsche.com&sid=1a2b3c4d#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-11-03T17:31:41.080Z"
-    },
-    {
-      "url": "vless://7040f78b-c724-4551-9e53-7c2c3badfbdf@116.203.51.137:21219?security=reality&encryption=none&pbk=gQgldNx-RpH-4XBqNqflJ0bgWQDRIgfrfJqqKlg_iXI&headerType=none&fp=chrome&spx=%2F14cf244c71042a2&type=tcp&sni=amp-api-edge.music.apple.com&sid=244280e0c0#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-11-03T17:31:41.080Z"
