@@ -26,8 +26,8 @@
     "shh_proxy": 10999,
     "TestDummyChannel": 3,
     "hamclasixii": 82525,
-    "Linuxor": 6318,
-    "MineProxy": 55657,
+    "Linuxor": 6319,
+    "MineProxy": 55658,
     "imArasTey": 274,
     "appxa": 15457,
     "V2ray_official": 10097,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 16827,
   "totalProxies": 2382,
-  "runCount": 7089
+  "runCount": 7090
 }
