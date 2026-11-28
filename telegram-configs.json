@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T17:31:35.161Z",
+  "updated": "2026-11-28T18:15:33.492Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q2cyRHc0T2hkQlpocWJlTzlaVEEzZy9Hay9BdnNyWVpHaEFKZUduUUl4ND0@35.177.3.53:443#",
+      "name": "proxy_mtm",
+      "source": "proxy_mtm",
+      "date": "2026-11-28T18:15:33.062Z"
+    },
     {
       "url": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0%3D@8.209.115.219:443#%40V2rayng_Fast%20",
       "name": "V2rayng_Fast",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?encryption=none&fp=chrome&host=ccc.010304.xyz&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%A7%BF33@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-04T06:01:36.939Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?encryption=none&fp=ios&host=ccc.010304.xyz&path=%2Ffp&security=tls&sni=ccc.010304.xyz&type=ws#%F0%9F%A7%BF34@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-04T06:01:36.939Z"
