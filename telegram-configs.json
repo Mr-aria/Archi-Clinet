@@ -1,7 +1,25 @@
 {
-  "updated": "2026-11-28T11:01:36.520Z",
+  "updated": "2026-11-28T11:30:32.691Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?type=ws&host=95.128.71.79&path=/vless#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-28T11:30:31.266Z"
+    },
+    {
+      "url": "vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNuaSI6ImJqMWFhMnp5anh5YW15dWsudi4zZG5zLnZpcCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-28T11:30:31.266Z"
+    },
+    {
+      "url": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@169.197.142.68:19999#",
+      "name": "Farah_VPN",
+      "source": "Farah_VPN",
+      "date": "2026-11-28T11:30:31.266Z"
+    },
     {
       "url": "vless://85432578-96fd-4613-a255-e235a81cc94b@185.16.110.62:2052?ed=2052&eh=Sec-WebSocket-Protocol&encryption=none&host=cd90.u8o.lol&path=%2F&security=none&type=ws#%F0%9F%9F%A231@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
@@ -29983,24 +30001,6 @@
       "name": "Farah_VPN",
       "source": "Farah_VPN",
       "date": "2026-11-04T01:30:33.310Z"
-    },
-    {
-      "url": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-04T01:00:31.474Z"
-    },
-    {
-      "url": "vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---JKVPN--JKVPN--JKVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-04T01:00:31.474Z"
-    },
-    {
-      "url": "vless://e7ee38d7-f8ad-4d14-a491-2d9e18011845@nl198391278291.izzzyvpn.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl198391278291.izzzyvpn.space&fp=firefox&pbk=ScuWSKQxJg4QKv3FUj39wy8ZsZlnu1WFPhMWxbpTFFk&sid=b996df2f36a9ae6b&type=tcp&headerType=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-04T01:00:31.474Z"
     }
   ]
 }
