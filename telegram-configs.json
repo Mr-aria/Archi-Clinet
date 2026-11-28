@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T10:31:49.098Z",
+  "updated": "2026-11-28T10:45:32.313Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.130.117:22222?encryption=none&security=none&type=tcp#(S103",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-28T10:45:31.194Z"
+    },
     {
       "url": "hy2://fb721937-6284-4892-9cbd-c3ba2cb66b4a@85.8.201.247:443/?insecure=1&sni=cdn.mornismp.ru#%F0%9F%87%AE%F0%9F%87%B728%40exclavevpn",
       "name": "oneclickvpnkeys",
@@ -29995,12 +30001,6 @@
       "name": "PrivateVPNs",
       "source": "PrivateVPNs",
       "date": "2026-11-03T20:15:32.239Z"
-    },
-    {
-      "url": "vless://12776e55-6230-48b9-b069-1bb8a04b4237@94.183.206.226:7443?encryption=none&fp=&pbk=unNROkbh95ZZNHzG2RIkgrFftOLldNH0ccmtW63CziE&security=reality&serviceName=ebl&sni=optim.tildacdn.pub&type=grpc#%F0%9F%8D%AA93@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-03T20:01:35.331Z"
     }
   ]
 }
