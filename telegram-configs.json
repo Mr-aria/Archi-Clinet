@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-28T07:00:35.431Z",
+  "updated": "2026-11-28T07:30:32.448Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#@NOFILTERING2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-28T07:30:31.598Z"
+    },
+    {
+      "url": "vless://7d1a74fd-8a38-4a29-863f-5da53a9e557e@api.ferrin.uk:443?flow=&type=xhttp&host=&path=/es/?@MARAMBASHI&mode=auto&security=tls&sni=&fp=chrome#@NOFILTERING2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-28T07:30:31.598Z"
+    },
+    {
+      "url": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#@NOFILTERING2",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-28T07:30:31.598Z"
+    },
+    {
+      "url": "vless://c53ea5e9-ed8b-4990-805d-7f1d6451426c@92.118.206.218:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=dur.sky…",
+      "name": "nofiltering2",
+      "source": "nofiltering2",
+      "date": "2026-11-28T07:30:31.598Z"
+    },
     {
       "url": "vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@23.227.38.171:443?&security=tls&sni=eeeccc.ttttlefjljl.xyz&type=ws&headerType=none&host=eeeccc.ttttlefjljl.xyz&path=%2Fimages#",
       "name": "Farah_VPN",
@@ -29977,30 +30001,6 @@
       "name": "V2ray_Alpha",
       "source": "V2ray_Alpha",
       "date": "2026-11-03T19:00:37.311Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.155.209:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40V2ray_Alpha%F0%9F%92%9E%208",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-11-03T19:00:37.311Z"
-    },
-    {
-      "url": "vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@132.243.207.154:443?security=reality&encryption=none&pbk=tVx2o1LD0BI7CCoXfFSv-Rr_etGde9XpQ-iNA9P3338&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=get-37.topp-con.xyz&sid=59d2296aa6320c76#%40V2ray_Alpha%F0%9F%92%9E%203",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-11-03T19:00:37.311Z"
-    },
-    {
-      "url": "vless://d342d11e-d224-4463-b982-532309285094@172.64.155.209:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%40V2ray_Alpha%F0%9F%92%9E%202",
-      "name": "V2ray_Alpha",
-      "source": "V2ray_Alpha",
-      "date": "2026-11-03T19:00:37.311Z"
-    },
-    {
-      "url": "vless://50a87e21-f0e2-4b53-a787-91adfe748f63@finlandlanzarotte.live:443?security=reality&type=tcp&packetEncoding=xudp&sni=finlandlanzarotte.live&fp=chrome&flow=xtls-rprx-vision&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&encryption=none#",
-      "name": "Farah_VPN",
-      "source": "Farah_VPN",
-      "date": "2026-11-03T19:00:36.811Z"
     }
   ]
 }
