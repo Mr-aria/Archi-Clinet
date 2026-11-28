@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T09:00:34.741Z",
+  "updated": "2026-11-28T09:15:38.060Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.197.3:22222?encryption=none&security=none&type=tcp#(S102",
+      "name": "PrivateVPNs",
+      "source": "PrivateVPNs",
+      "date": "2026-11-28T09:15:35.972Z"
+    },
     {
       "url": "vless://da14e323-6af7-406f-a5c2-1eb7975ada8b@mail1.besttotaldns.com:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mail1.besttotaldns.com#Tel%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%AE",
       "name": "MARAMBASHI",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vmess://9bcfd3b5-5f71-4938-b1d2-f8fdd895095d@172.86.108.79:42906?encryption=auto&host=www.bing.com&path=%2F9bcfd3b5-5f71-4938-b1d2-f8fdd895095d-vm&security=none&type=ws#%F0%9F%8D%AA97@oneclickvpnkeys",
-      "name": "oneclickvpnkeys",
-      "source": "oneclickvpnkeys",
-      "date": "2026-11-03T20:01:35.331Z"
-    },
-    {
-      "url": "vmess://5c040f1d-45db-43bd-8d46-e4950e433735@172.111.38.246:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#%F0%9F%8D%AA98@oneclickvpnkeys",
       "name": "oneclickvpnkeys",
       "source": "oneclickvpnkeys",
       "date": "2026-11-03T20:01:35.331Z"
