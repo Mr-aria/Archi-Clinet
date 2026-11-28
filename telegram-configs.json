@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-28T05:30:43.992Z",
+  "updated": "2026-11-28T05:46:49.679Z",
   "count": 5000,
   "configs": [
+    {
+      "url": "vless://9c69546a-e435-4037-bc63-f9e5829a8be3@185.141.34.93:443?security=reality&encryption=none&pbk=k_DjUz2cP6QGuDVwyvTrk3QTuJVntXCPjxJmO-UZchI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=static.lormit.digital&sid=9f07e56cfce2b9a3#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig",
+      "name": "freakconfig",
+      "source": "freakconfig",
+      "date": "2026-11-28T05:46:42.989Z"
+    },
     {
       "url": "vless://531d9e93-53be-4f05-a9c1-33490d4da2f3@jllp.cf.877774.xyz:443?&security=tls&sni=jp.bbusxxxh.top&type=ws&headerType=none&host=jp.bbusxxxh.top&path=%2Fimages#",
       "name": "Farah_VPN",
@@ -29992,12 +29998,6 @@
     },
     {
       "url": "vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&alpn=channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1%D0%A9%D2%96&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#@ICV2RAY",
-      "name": "icv2ray",
-      "source": "icv2ray",
-      "date": "2026-11-03T18:31:39.910Z"
-    },
-    {
-      "url": "vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#@ICV2RAY",
       "name": "icv2ray",
       "source": "icv2ray",
       "date": "2026-11-03T18:31:39.910Z"
