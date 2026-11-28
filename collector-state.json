@@ -19,7 +19,7 @@
     "ProxyNamava": 305,
     "MARAMBASHI": 41995,
     "free_netplus": 26525,
-    "Farah_VPN": 396901,
+    "Farah_VPN": 396902,
     "V2ray_Alpha": 10138,
     "iTV2RAY": 3146,
     "nofiltering2": 6252,
@@ -60,5 +60,5 @@
   },
   "totalCollected": 16763,
   "totalProxies": 2374,
-  "runCount": 7000
+  "runCount": 7001
 }
